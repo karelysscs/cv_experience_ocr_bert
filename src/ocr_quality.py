@@ -23,7 +23,8 @@ from src.utils import (METADATA_CSV, METRICS, OCR_DIR, REFERENCE_CSV, TABLES,
                        ensure_dirs, load_json, save_json)
 
 YEAR = re.compile(r"\b(?:19[5-9]\d|20[0-4]\d)\b")
-RANGE = re.compile(r"\b((?:19|20)\d{2})\s*-\s*((?:19|20)\d{2}|present|current|now)\b", re.I)
+# a job's date range, compared as written: "2018.08 - 2021.06" (PopResume's YYYY.MM format)
+RANGE = re.compile(r"\b((?:19|20)\d{2}(?:\.\d{1,2})?)\s*-\s*((?:19|20)\d{2}(?:\.\d{1,2})?|present|current|now)\b", re.I)
 
 
 def norm(s: str) -> str:
