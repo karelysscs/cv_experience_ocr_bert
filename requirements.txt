@@ -1,0 +1,31 @@
+# Python 3.10–3.13 (PaddlePaddle has no wheels for 3.14 yet).
+#
+# OCR engine. On a CUDA machine (Colab / Kaggle) install the GPU build instead,
+# from the PaddlePaddle index (see notebooks/01_ocr_gpu.ipynb):
+#   pip install paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+
+# Data
+datasets==5.1.0
+huggingface_hub
+pandas==3.0.5
+pillow
+pypdfium2==5.14.0
+
+# OCR quality
+jiwer==4.0.0
+
+# Models
+scikit-learn==1.9.0
+joblib==1.6.0
+torch==2.14.0
+transformers==5.20.2
+accelerate==1.15.0
+sentence-transformers==6.2.0
+
+# Visualisation / app
+matplotlib==3.11.1
+seaborn==0.13.2
+plotly==7.1.0
+streamlit==1.66.1

@@ -1,0 +1,34 @@
+# --- Large / regenerable artifacts (see README "Reproduce") ---
+data/raw/images/*
+!data/raw/images/.gitkeep
+data/raw/*.zip
+models/baselines/*
+!models/baselines/.gitkeep
+models/bert/*
+!models/bert/.gitkeep
+*.safetensors
+*.bin
+*.pt
+*.pdparams
+*.npy
+
+# Embedding / HF caches
+.cache/
+hf_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.token
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
