@@ -27,8 +27,10 @@ MON = r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.?"
 
 
 def _point(p: str) -> str:
-    """A date: optional month name or MM/ before a 4-digit year; groups <p>m, <p>n, <p>y."""
-    return rf"(?:(?P<{p}m>{MON})\s+|(?P<{p}n>\d{{1,2}})\s*/\s*)?(?P<{p}y>(?:19|20)\d{{2}})"
+    """A date: optional month name or MM/ before a 4-digit year, or YYYY.MM (PopResume's
+    format, e.g. 2018.08); groups <p>m, <p>n, <p>y, <p>d."""
+    return (rf"(?:(?P<{p}m>{MON})\s+|(?P<{p}n>\d{{1,2}})\s*/\s*)?(?P<{p}y>(?:19|20)\d{{2}})"
+            rf"(?:\.(?P<{p}d>\d{{1,2}}))?")
 
 
 END = rf"(?:{_point('e')}|(?P<present>present|current|now|today))"
@@ -66,11 +68,11 @@ def work_section(text: str) -> str:
 def intervals(text: str, present_year: int) -> list[tuple[float, float]]:
     out = []
     for m in RANGE.finditer(work_section(text)):
-        s = int(m["sy"]) + (_month(m["sm"], m["sn"], 1) - 1) / 12
+        s = int(m["sy"]) + (_month(m["sm"], m["sn"] or m["sd"], 1) - 1) / 12
         if m["present"]:
             e = present_year + 0.5
         else:
-            e = int(m["ey"]) + _month(m["em"], m["en"], 12) / 12
+            e = int(m["ey"]) + _month(m["em"], m["en"] or m["ed"], 12) / 12
         if 0 < e - s < 45:
             out.append((s, e))
     return out
