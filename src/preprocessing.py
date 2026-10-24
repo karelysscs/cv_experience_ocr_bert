@@ -128,6 +128,7 @@ PHONE = re.compile(r"(?:\+?1[\s.-]?)?\(?\b\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}\b")
 STREET = re.compile(r"\b\d{1,6}\s+(?:[A-Z][a-z]+\s){1,3}(?:St|Street|Ave|Avenue|Rd|Road|Blvd|"
                     r"Boulevard|Ln|Lane|Dr|Drive|Ct|Court|Way|Pl|Place|Pkwy|Hwy)\b\.?[^\n]*")
 CITY_STATE_ZIP = re.compile(r"\b[A-Z][a-zA-Z .]+,\s*[A-Z]{2}\s*\d{5}(?:-\d{4})?\b")
+STATE_COUNTRY = re.compile(r"\b[A-Z]{2},\s*USA\b")  # PopResume header: "AL, USA"
 NAME_LINE = re.compile(r"^(?:[A-Z][a-zA-Z'.-]+\s){1,3}[A-Z][a-zA-Z'.-]+$")
 
 
@@ -140,7 +141,8 @@ def remove_pii(lines: list[str]) -> list[str]:
                 out.append("[NAME]")
                 continue
         for pat, tok in [(EMAIL, "[EMAIL]"), (URL, "[URL]"), (PHONE, "[PHONE]"),
-                         (STREET, "[ADDRESS]"), (CITY_STATE_ZIP, "[ADDRESS]")]:
+                         (STREET, "[ADDRESS]"), (CITY_STATE_ZIP, "[ADDRESS]"),
+                         (STATE_COUNTRY, "[LOCATION]")]:
             line = pat.sub(tok, line)
         out.append(line)
     return out

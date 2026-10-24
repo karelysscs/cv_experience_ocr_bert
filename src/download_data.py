@@ -49,6 +49,12 @@ def list_shards() -> dict[str, list[str]]:
     return shards
 
 
+def cv_key(r: dict) -> str:
+    """PopResume ids restart in every occupation (00018 exists for several jobs),
+    so a CV is identified by job + id, e.g. 'registered_nurses_00020'."""
+    return f"{r['job']}_{r['id']}"
+
+
 def to_pil(img) -> Image.Image:
     if isinstance(img, Image.Image):
         return img
@@ -63,11 +69,11 @@ def sample_occupation(occ: str, files: list[str], n: int, seed: int) -> list[dic
     ds = ds.filter(lambda r: not r["has_photo"]).shuffle(seed=seed, buffer_size=5000)
     rows = []
     for r in tqdm(ds.take(n), total=n, desc=occ):
-        cv_id = str(r["id"])
+        cv_id = cv_key(r)
         path = IMAGES / f"{cv_id}.png"
         if not path.exists():
             to_pil(r["image"]).convert("RGB").save(path)
-        rows.append({"id": cv_id, "occupation": occ, "exp_year": r["exp_year"],
+        rows.append({"id": cv_id, "occupation": occ, "exp_year": float(r["exp_year"]),
                      **{k: r.get(k) for k in KEEP_META}})
     return rows
 
@@ -78,8 +84,9 @@ def fetch_reference_text(ids: set[str]) -> pd.DataFrame:
     ds = load_dataset(REPO, "text", split="train", streaming=True)
     out = []
     for r in tqdm(ds, desc="reference text"):
-        if str(r["id"]) in ids:
-            out.append({"id": str(r["id"]), "text": r["text"]})
+        key = cv_key(r)
+        if key in ids:
+            out.append({"id": key, "text": r["text"]})
             if len(out) == len(ids):
                 break
     return pd.DataFrame(out)
