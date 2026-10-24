@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_56116",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "LOVINA DUNN",
+      "score": 0.9902,
+      "box": [
+        114,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-432-569-5924|lovina.dunn@example.com",
+      "score": 0.9951,
+      "box": [
+        114,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.06–2023.01",
+      "score": 0.9698,
+      "box": [
+        114,
+        288,
+        643,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9895,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9751,
+      "box": [
+        127,
+        340,
+        500,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2017.11–2020.06",
+      "score": 0.981,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9926,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9849,
+      "box": [
+        125,
+        430,
+        471,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2013.03–2015.10",
+      "score": 0.9774,
+      "box": [
+        114,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.9866,
+      "box": [
+        124,
+        496,
+        406,
+        521
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9719,
+      "box": [
+        125,
+        520,
+        371,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2009.12–2012.07",
+      "score": 0.9829,
+      "box": [
+        114,
+        563,
+        625,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9895,
+      "box": [
+        125,
+        589,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9566,
+      "box": [
+        126,
+        614,
+        416,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Goldenwood University, 2009",
+      "score": 0.9731,
+      "box": [
+        116,
+        726,
+        479,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Prairie Ridge University, 2007",
+      "score": 0.9771,
+      "box": [
+        114,
+        747,
+        502,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9953,
+      "box": [
+        134,
+        774,
+        553,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9693,
+      "box": [
+        133,
+        799,
+        631,
+        822
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_50333",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.893,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "TYLON XIONG",
+      "score": 0.9641,
+      "box": [
+        114,
+        88,
+        349,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-649-906-7465|tylon.xiong@example.com",
+      "score": 0.9782,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Labs, 2020.07–2023.01",
+      "score": 0.9698,
+      "box": [
+        116,
+        289,
+        620,
+        312
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9624,
+      "box": [
+        125,
+        312,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9901,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2018.01–2020.07",
+      "score": 0.9764,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9762,
+      "box": [
+        125,
+        406,
+        464,
+        432
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9782,
+      "box": [
+        126,
+        431,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2015.07–2018.01",
+      "score": 0.986,
+      "box": [
+        116,
+        472,
+        644,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9913,
+      "box": [
+        127,
+        498,
+        419,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9839,
+      "box": [
+        126,
+        521,
+        421,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Skycrest University, 2014",
+      "score": 0.9851,
+      "box": [
+        115,
+        632,
+        462,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.9908,
+      "box": [
+        133,
+        658,
+        626,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9922,
+      "box": [
+        135,
+        682,
+        564,
+        705
+      ]
+    }
+  ]
+}

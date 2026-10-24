@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_03364",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "NEIL REED",
+      "score": 0.9808,
+      "box": [
+        115,
+        88,
+        298,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-848-681-4634 |neil.reed@example.com",
+      "score": 0.9736,
+      "box": [
+        116,
+        150,
+        622,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2020.01–2023.01",
+      "score": 0.9914,
+      "box": [
+        115,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9834,
+      "box": [
+        126,
+        315,
+        444,
+        338
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9897,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2017.01–2020.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        381,
+        624,
+        406
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9838,
+      "box": [
+        125,
+        405,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9636,
+      "box": [
+        126,
+        430,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Cedar Valley University, 2016",
+      "score": 0.9642,
+      "box": [
+        115,
+        541,
+        482,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookridge University, 2014",
+      "score": 0.9673,
+      "box": [
+        115,
+        566,
+        483,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.9585,
+      "box": [
+        132,
+        590,
+        626,
+        616
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9841,
+      "box": [
+        133,
+        615,
+        606,
+        640
+      ]
+    }
+  ]
+}

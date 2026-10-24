@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_00817",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "JONNA OSBORNE",
+      "score": 0.9758,
+      "box": [
+        114,
+        87,
+        415,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA|+1-396-364-8696 |jonna.osborne@example.com",
+      "score": 0.9776,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2020.05–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9844,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2017.09–2020.05",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        838,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9861,
+      "box": [
+        125,
+        406,
+        412,
+        431
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9963,
+      "box": [
+        126,
+        431,
+        518,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Bright Ridge University, 2023",
+      "score": 0.9819,
+      "box": [
+        115,
+        541,
+        619,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Plainview University, 021",
+      "score": 0.9751,
+      "box": [
+        114,
+        565,
+        683,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9927,
+      "box": [
+        133,
+        590,
+        647,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9902,
+      "box": [
+        134,
+        616,
+        564,
+        639
+      ]
+    }
+  ]
+}

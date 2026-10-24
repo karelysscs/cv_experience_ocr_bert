@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_24520",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.858,
+  "mean_conf": 0.9851,
+  "lines": [
+    {
+      "text": "ANDREAHO",
+      "score": 0.9984,
+      "box": [
+        115,
+        88,
+        322,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA| +1-250-432-7775 |andrea.ho@example.com",
+      "score": 0.9737,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2020.05–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9781,
+      "box": [
+        125,
+        314,
+        477,
+        337
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9776,
+      "box": [
+        127,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2015.12–2018.09",
+      "score": 0.9867,
+      "box": [
+        114,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9782,
+      "box": [
+        125,
+        406,
+        436,
+        431
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9821,
+      "box": [
+        125,
+        431,
+        550,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Auditing, Riverstone Ridge University, 2008",
+      "score": 0.9891,
+      "box": [
+        114,
+        539,
+        759,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Pinehaven University, 2006",
+      "score": 0.986,
+      "box": [
+        114,
+        564,
+        656,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.993,
+      "box": [
+        135,
+        591,
+        558,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9751,
+      "box": [
+        135,
+        616,
+        636,
+        639
+      ]
+    }
+  ]
+}

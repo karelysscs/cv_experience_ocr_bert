@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_21537",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.834,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JADE BANKS",
+      "score": 0.984,
+      "box": [
+        115,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-959-480-1078 |jade.banks@example.com",
+      "score": 0.9765,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2020.11–2023.01",
+      "score": 0.9811,
+      "box": [
+        116,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9598,
+      "box": [
+        126,
+        313,
+        411,
+        339
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Clearview University, 2023",
+      "score": 0.9714,
+      "box": [
+        114,
+        447,
+        672,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9878,
+      "box": [
+        133,
+        474,
+        650,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom learning outcomes",
+      "score": 0.9898,
+      "box": [
+        133,
+        497,
+        614,
+        523
+      ]
+    }
+  ]
+}

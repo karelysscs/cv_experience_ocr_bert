@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_12993",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.854,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "TREVOR WEAVER",
+      "score": 0.9706,
+      "box": [
+        115,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-255-518-8820 |trevor.weaver@example.com",
+      "score": 0.9838,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2021.06–2021.07",
+      "score": 0.9878,
+      "box": [
+        116,
+        290,
+        740,
+        310
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9888,
+      "box": [
+        125,
+        313,
+        442,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9934,
+      "box": [
+        126,
+        339,
+        426,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Coordination, Meadowridge Valley University, 2006",
+      "score": 0.9824,
+      "box": [
+        116,
+        449,
+        899,
+        471
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction drawing interpretation",
+      "score": 0.9773,
+      "box": [
+        133,
+        474,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9858,
+      "box": [
+        133,
+        497,
+        498,
+        522
+      ]
+    }
+  ]
+}

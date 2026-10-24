@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21286",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.954,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "TAWANDA MACDONALD",
+      "score": 0.9828,
+      "box": [
+        115,
+        90,
+        518,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-481-885-6474 |tawanda.macdonald@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        719,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2019.10–2023.01",
+      "score": 0.983,
+      "box": [
+        116,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9822,
+      "box": [
+        125,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9873,
+      "box": [
+        128,
+        340,
+        474,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2016.07–2019.10",
+      "score": 0.9859,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9678,
+      "box": [
+        127,
+        407,
+        482,
+        430
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9809,
+      "box": [
+        126,
+        431,
+        470,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2013.04–2016.07",
+      "score": 0.9854,
+      "box": [
+        116,
+        473,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9887,
+      "box": [
+        125,
+        496,
+        546,
+        522
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9773,
+      "box": [
+        126,
+        521,
+        447,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2009.12–2013.04",
+      "score": 0.9939,
+      "box": [
+        116,
+        565,
+        737,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9791,
+      "box": [
+        125,
+        589,
+        435,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9837,
+      "box": [
+        126,
+        614,
+        398,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing, Ridgeway University, 2007",
+      "score": 0.9891,
+      "box": [
+        116,
+        725,
+        635,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in pathophysiology",
+      "score": 0.9666,
+      "box": [
+        132,
+        747,
+        540,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9683,
+      "box": [
+        133,
+        772,
+        488,
+        797
+      ]
+    }
+  ]
+}

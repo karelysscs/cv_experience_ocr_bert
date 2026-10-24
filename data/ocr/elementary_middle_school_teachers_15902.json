@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_15902",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.921,
+  "mean_conf": 0.9865,
+  "lines": [
+    {
+      "text": "MARIACOBB",
+      "score": 0.9982,
+      "box": [
+        115,
+        88,
+        336,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-551-389-6825|maria.cobb@example.com",
+      "score": 0.9829,
+      "box": [
+        116,
+        151,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2021.05–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        289,
+        847,
+        312
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9863,
+      "box": [
+        126,
+        315,
+        473,
+        339
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2019.08–2021.05",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        862,
+        406
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9852,
+      "box": [
+        126,
+        407,
+        561,
+        430
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9695,
+      "box": [
+        126,
+        432,
+        428,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Lakeview University, 2023",
+      "score": 0.9924,
+      "box": [
+        114,
+        539,
+        725,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9852,
+      "box": [
+        133,
+        566,
+        529,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9785,
+      "box": [
+        134,
+        591,
+        685,
+        614
+      ]
+    }
+  ]
+}

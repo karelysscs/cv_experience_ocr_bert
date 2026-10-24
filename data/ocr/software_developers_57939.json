@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_57939",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.852,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "TERRANCE CHEN",
+      "score": 0.9817,
+      "box": [
+        115,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-220-306-7399|terrance.chen@example.com",
+      "score": 0.9843,
+      "box": [
+        114,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9896,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2019.11–2023.01",
+      "score": 0.9808,
+      "box": [
+        114,
+        288,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9691,
+      "box": [
+        125,
+        313,
+        352,
+        338
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9815,
+      "box": [
+        126,
+        338,
+        361,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2016.09–2019.11",
+      "score": 0.9881,
+      "box": [
+        115,
+        381,
+        625,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9761,
+      "box": [
+        126,
+        406,
+        390,
+        431
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9768,
+      "box": [
+        127,
+        432,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2013.07–2016.09",
+      "score": 0.9844,
+      "box": [
+        116,
+        472,
+        630,
+        496
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.991,
+      "box": [
+        128,
+        499,
+        374,
+        521
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9695,
+      "box": [
+        125,
+        520,
+        341,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverdale University, 2014",
+      "score": 0.9673,
+      "box": [
+        115,
+        632,
+        470,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of search algorithms",
+      "score": 0.9732,
+      "box": [
+        132,
+        656,
+        544,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of algorithm complexity",
+      "score": 0.9641,
+      "box": [
+        135,
+        683,
+        532,
+        707
+      ]
+    }
+  ]
+}

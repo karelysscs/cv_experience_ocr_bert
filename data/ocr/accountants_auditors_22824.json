@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_22824",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "AARON HAIL",
+      "score": 0.9561,
+      "box": [
+        115,
+        88,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-930-577-4744 |aaron.hail@example.com",
+      "score": 0.9839,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2020.06–2023.01",
+      "score": 0.9928,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9919,
+      "box": [
+        126,
+        315,
+        437,
+        338
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.988,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precision Ledger, 2017.10–2020.06",
+      "score": 0.9745,
+      "box": [
+        115,
+        382,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9768,
+      "box": [
+        125,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9798,
+      "box": [
+        125,
+        430,
+        368,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2015.02–2017.10",
+      "score": 0.9655,
+      "box": [
+        115,
+        472,
+        722,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained supporting documentation",
+      "score": 0.977,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9937,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Meadowridge Valley University, 2021",
+      "score": 0.9824,
+      "box": [
+        115,
+        631,
+        747,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9928,
+      "box": [
+        133,
+        656,
+        691,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9847,
+      "box": [
+        134,
+        681,
+        563,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_55791",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "SCOTT LAM",
+      "score": 0.9438,
+      "box": [
+        115,
+        90,
+        313,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-964-948-6133|scott.lam@example.com",
+      "score": 0.9762,
+      "box": [
+        116,
+        150,
+        622,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2021.02–201.03",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        681,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9817,
+      "box": [
+        126,
+        315,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9795,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Lakeview University, 2012",
+      "score": 0.9968,
+      "box": [
+        115,
+        449,
+        450,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Vista University, 2010",
+      "score": 0.981,
+      "box": [
+        115,
+        473,
+        429,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.9805,
+      "box": [
+        133,
+        499,
+        593,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9918,
+      "box": [
+        134,
+        524,
+        567,
+        547
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_32122",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.901,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "NOLEN SOLOMON",
+      "score": 0.9717,
+      "box": [
+        116,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-928-366-3919|nolen.solomon@example.com",
+      "score": 0.992,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2018.09–2021.03",
+      "score": 0.9726,
+      "box": [
+        114,
+        289,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9825,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.969,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2015.07–2018.02",
+      "score": 0.9761,
+      "box": [
+        115,
+        381,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9874,
+      "box": [
+        125,
+        406,
+        541,
+        431
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9896,
+      "box": [
+        125,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Blue Ridge High School, 2007",
+      "score": 0.9961,
+      "box": [
+        116,
+        541,
+        871,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9745,
+      "box": [
+        133,
+        565,
+        623,
+        588
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_00381",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.947,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "DANTEBLANCHARD",
+      "score": 0.9993,
+      "box": [
+        116,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-302-809-3043|dante.blanchard@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        151,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2020.04–2023.01",
+      "score": 0.9706,
+      "box": [
+        116,
+        290,
+        839,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9711,
+      "box": [
+        127,
+        315,
+        497,
+        338
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9941,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2017.07–2020.04",
+      "score": 0.9829,
+      "box": [
+        116,
+        382,
+        856,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9929,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9974,
+      "box": [
+        127,
+        431,
+        402,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2014.09–2017.07",
+      "score": 0.9795,
+      "box": [
+        116,
+        472,
+        836,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        645,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9791,
+      "box": [
+        126,
+        521,
+        496,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Windcrest University, 2020",
+      "score": 0.9888,
+      "box": [
+        115,
+        632,
+        653,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9878,
+      "box": [
+        134,
+        658,
+        556,
+        678
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9822,
+      "box": [
+        135,
+        683,
+        540,
+        703
+      ]
+    }
+  ]
+}

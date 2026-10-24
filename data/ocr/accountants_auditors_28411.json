@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_28411",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.803,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "THOMAS WAGNER",
+      "score": 0.9721,
+      "box": [
+        115,
+        90,
+        424,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-283-811-2482|thomas.wagner@example.com",
+      "score": 0.9878,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9721,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2021.12–2023.01",
+      "score": 0.9934,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed credit memos",
+      "score": 0.9813,
+      "box": [
+        125,
+        313,
+        366,
+        338
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        450,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Elm Valley University, 2020",
+      "score": 0.974,
+      "box": [
+        114,
+        448,
+        675,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9828,
+      "box": [
+        132,
+        472,
+        646,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9881,
+      "box": [
+        134,
+        498,
+        681,
+        523
+      ]
+    }
+  ]
+}

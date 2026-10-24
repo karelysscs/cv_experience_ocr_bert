@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_05305",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.933,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "NICOLE SCHULTZ",
+      "score": 0.9748,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-214-376-6176 |nicole.schultz@example.com",
+      "score": 0.9913,
+      "box": [
+        117,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9772,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2019.04–2021.03",
+      "score": 0.9922,
+      "box": [
+        116,
+        290,
+        840,
+        314
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2016.07–2018.06",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        852,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9784,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9837,
+      "box": [
+        126,
+        431,
+        716,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Academic Support Studies, Seabreeze University, 2016",
+      "score": 0.9861,
+      "box": [
+        114,
+        539,
+        828,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Amber Hills University, 2012",
+      "score": 0.965,
+      "box": [
+        115,
+        566,
+        636,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9868,
+      "box": [
+        133,
+        591,
+        529,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9764,
+      "box": [
+        133,
+        615,
+        528,
+        639
+      ]
+    }
+  ]
+}

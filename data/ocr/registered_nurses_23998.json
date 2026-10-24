@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_23998",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.796,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "TERESA FOX",
+      "score": 0.9814,
+      "box": [
+        115,
+        90,
+        332,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-427-820-1482|teresa.fox@example.com",
+      "score": 0.9934,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2020.04–2023.01",
+      "score": 0.9613,
+      "box": [
+        115,
+        289,
+        647,
+        314
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9792,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9826,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2017.07–2020.04",
+      "score": 0.9849,
+      "box": [
+        115,
+        381,
+        661,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9845,
+      "box": [
+        126,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9885,
+      "box": [
+        126,
+        430,
+        531,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2011.11–2014.9",
+      "score": 0.9895,
+      "box": [
+        116,
+        472,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9909,
+      "box": [
+        125,
+        496,
+        494,
+        522
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9791,
+      "box": [
+        126,
+        521,
+        416,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Summit Ridge University, 2011",
+      "score": 0.971,
+      "box": [
+        115,
+        632,
+        748,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of infection prevention",
+      "score": 0.9922,
+      "box": [
+        133,
+        656,
+        523,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical skills practice",
+      "score": 0.9741,
+      "box": [
+        135,
+        683,
+        582,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "median": {
+    "train_s": 0.0010030399998868234,
+    "infer_s_per_cv": 1.5966666069289204e-08,
+    "params": {
+      "median": 5.516047369494939
+    }
+  },
+  "tfidf": {
+    "train_s": 3.0652023120001104,
+    "infer_s_per_cv": 0.0009834121566670243,
+    "val_mae": 0.8168266896220234,
+    "params": {
+      "alpha": 0.1,
+      "char_ngrams": true,
+      "keep_digits": true,
+      "train_text": "ocr_clean"
+    }
+  },
+  "rules": {
+    "train_s": 6.19304556499992,
+    "infer_s_per_cv": 0.00021587917000033487,
+    "val_mae": 0.2683275550928707,
+    "params": {
+      "present_year": 2015,
+      "fallback_median": 5.516047369494939,
+      "test_coverage": 0.9916666666666667
+    }
+  },
+  "embeddings": {
+    "train_s": 34.104635067000345,
+    "infer_s_per_cv": 0.0027976457333321984,
+    "val_mae": 1.2145746867305642,
+    "params": {
+      "encoder": "BAAI/bge-small-en-v1.5",
+      "alpha": 0.1,
+      "long_text": "chunks of max_seq_length tokens, stride 64, mean-pooled",
+      "train_text": "ocr_clean"
+    }
+  },
+  "bert": {
+    "train_s": 88.09839233899947,
+    "infer_s_per_cv": 0.001997995513332474,
+    "val_mae": 0.3402421700500115,
+    "hardware": "x86_64 | 2 CPU threads | GPU: Tesla T4",
+    "epochs_run": 5.0,
+    "best_checkpoint": "/content/cv_experience_ocr_bert/models/bert/bert/checkpoints/checkpoint-525",
+    "date_survival": {
+      "share_years_kept": 1.0,
+      "share_cvs_all_years_kept": 1.0,
+      "tokens_median": 109,
+      "tokens_p90": 149,
+      "share_cvs_over_limit": 0.0
+    },
+    "params": {
+      "model": "distilbert-base-uncased",
+      "strategy": "head",
+      "loss": "mse",
+      "train_text": "ocr_clean",
+      "max_length": 512,
+      "lr": 5e-05,
+      "batch_size": 16,
+      "epochs": 10,
+      "patience": 2,
+      "seed": 42
+    }
+  },
+  "tfidf_nodigits": {
+    "train_s": 2.3234942159997445,
+    "infer_s_per_cv": 0.0008420190616667848,
+    "val_mae": 1.6148340768466773,
+    "params": {
+      "alpha": 3.0,
+      "char_ngrams": true,
+      "keep_digits": false,
+      "train_text": "ocr_clean"
+    }
+  },
+  "tfidf@ocr_raw": {
+    "train_s": 3.2909552740002255,
+    "infer_s_per_cv": 0.0009532275100006397,
+    "val_mae": 0.8811907131440093,
+    "params": {
+      "alpha": 0.3,
+      "char_ngrams": true,
+      "keep_digits": true,
+      "train_text": "ocr_raw"
+    }
+  },
+  "rules@ocr_raw": {
+    "train_s": 5.980847236000045,
+    "infer_s_per_cv": 0.00012982586000058897,
+    "val_mae": 0.2683275550928707,
+    "params": {
+      "present_year": 2015,
+      "fallback_median": 5.516047369494939,
+      "test_coverage": 0.9916666666666667
+    }
+  },
+  "embeddings@ocr_raw": {
+    "train_s": 19.4042757899997,
+    "infer_s_per_cv": 0.0030878362100005084,
+    "val_mae": 1.545074307352809,
+    "params": {
+      "encoder": "BAAI/bge-small-en-v1.5",
+      "alpha": 0.01,
+      "long_text": "chunks of max_seq_length tokens, stride 64, mean-pooled",
+      "train_text": "ocr_raw"
+    }
+  },
+  "bert@ocr_raw": {
+    "train_s": 96.48550276200058,
+    "infer_s_per_cv": 0.002069277461666085,
+    "val_mae": 0.4145752824552945,
+    "hardware": "x86_64 | 2 CPU threads | GPU: Tesla T4",
+    "epochs_run": 5.0,
+    "best_checkpoint": "/content/cv_experience_ocr_bert/models/bert/bert__ocr_raw/checkpoints/checkpoint-525",
+    "date_survival": {
+      "share_years_kept": 1.0,
+      "share_cvs_all_years_kept": 1.0,
+      "tokens_median": 120,
+      "tokens_p90": 160,
+      "share_cvs_over_limit": 0.0
+    },
+    "params": {
+      "model": "distilbert-base-uncased",
+      "strategy": "head",
+      "loss": "mse",
+      "train_text": "ocr_raw",
+      "max_length": 512,
+      "lr": 5e-05,
+      "batch_size": 16,
+      "epochs": 10,
+      "patience": 2,
+      "seed": 42
+    }
+  }
+}

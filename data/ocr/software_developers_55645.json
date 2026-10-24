@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_55645",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.9772,
+  "lines": [
+    {
+      "text": "SHAWN FRANCIS",
+      "score": 0.985,
+      "box": [
+        115,
+        88,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-256-437-7940 |shawn.francis@example.com",
+      "score": 0.9809,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2019.03–2023.01",
+      "score": 0.9829,
+      "box": [
+        114,
+        288,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9469,
+      "box": [
+        125,
+        313,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9822,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2015.05–2019.03",
+      "score": 0.986,
+      "box": [
+        115,
+        381,
+        692,
+        406
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9841,
+      "box": [
+        127,
+        407,
+        454,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9689,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2011.07–2015.05",
+      "score": 0.9842,
+      "box": [
+        114,
+        471,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9803,
+      "box": [
+        126,
+        498,
+        449,
+        521
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9714,
+      "box": [
+        125,
+        520,
+        371,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2007.08–2011.07",
+      "score": 0.9746,
+      "box": [
+        114,
+        562,
+        666,
+        590
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9477,
+      "box": [
+        126,
+        590,
+        446,
+        614
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9861,
+      "box": [
+        126,
+        615,
+        381,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairmont University, 2011",
+      "score": 0.9483,
+      "box": [
+        114,
+        723,
+        462,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.99,
+      "box": [
+        132,
+        747,
+        520,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9802,
+      "box": [
+        133,
+        772,
+        659,
+        798
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_11036",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.901,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "BAILEYCOHEN",
+      "score": 0.9984,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA |+1-242-676-2316 | bailey.cohen@example.com",
+      "score": 0.9788,
+      "box": [
+        117,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2021.06–2023.01",
+      "score": 0.9816,
+      "box": [
+        116,
+        290,
+        879,
+        313
+      ]
+    },
+    {
+      "text": "-Directed instructional planning processes",
+      "score": 0.9872,
+      "box": [
+        125,
+        314,
+        523,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9758,
+      "box": [
+        126,
+        339,
+        560,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Harbor School, 2019.11–2021.06",
+      "score": 0.9661,
+      "box": [
+        116,
+        382,
+        821,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9646,
+      "box": [
+        125,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.974,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Maple Ridge University, 2021",
+      "score": 0.9883,
+      "box": [
+        115,
+        541,
+        732,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.983,
+      "box": [
+        133,
+        566,
+        530,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.9929,
+      "box": [
+        132,
+        590,
+        693,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_55046",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.826,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "DRAKE WEEKS",
+      "score": 0.9543,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-890-956-5092 |drake.weeks@example.com",
+      "score": 0.9771,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2021.04–2023.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9831,
+      "box": [
+        125,
+        313,
+        419,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9661,
+      "box": [
+        126,
+        340,
+        366,
+        360
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Workflow, Pebble Creek University, 2023",
+      "score": 0.9913,
+      "box": [
+        115,
+        447,
+        870,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9846,
+      "box": [
+        131,
+        472,
+        541,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9973,
+      "box": [
+        134,
+        499,
+        508,
+        522
+      ]
+    }
+  ]
+}

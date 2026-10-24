@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_28407",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "PHILLIP PHELPS",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-855-465-8753 |phillip.phelps@example.com",
+      "score": 0.9802,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9941,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2020.04–2023.01",
+      "score": 0.99,
+      "box": [
+        115,
+        290,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9713,
+      "box": [
+        125,
+        313,
+        488,
+        337
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        371,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPath Construction, 2014.12–2017.10",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        724,
+        405
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9665,
+      "box": [
+        126,
+        407,
+        391,
+        429
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9771,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Planning, Elmwood University, 2007",
+      "score": 0.9871,
+      "box": [
+        115,
+        541,
+        762,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9921,
+      "box": [
+        133,
+        566,
+        537,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of construction documentation",
+      "score": 0.9833,
+      "box": [
+        133,
+        591,
+        597,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_54875",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.935,
+  "mean_conf": 0.9748,
+  "lines": [
+    {
+      "text": "JODY VO",
+      "score": 0.9519,
+      "box": [
+        114,
+        88,
+        269,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-634-703-3506 |jody.vo@example.com",
+      "score": 0.9685,
+      "box": [
+        115,
+        150,
+        605,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2019.08–2023.01",
+      "score": 0.9954,
+      "box": [
+        116,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9928,
+      "box": [
+        126,
+        313,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2016.03–2019.08",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9865,
+      "box": [
+        126,
+        406,
+        443,
+        431
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9847,
+      "box": [
+        126,
+        431,
+        538,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codehaven Labs, 2012.10–2016.03",
+      "score": 0.9888,
+      "box": [
+        115,
+        471,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.9325,
+      "box": [
+        125,
+        496,
+        371,
+        522
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9436,
+      "box": [
+        125,
+        521,
+        355,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2006.12–2010.06",
+      "score": 0.9656,
+      "box": [
+        114,
+        562,
+        654,
+        590
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.972,
+      "box": [
+        126,
+        589,
+        604,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9693,
+      "box": [
+        127,
+        615,
+        423,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Pebble Creek University, 2006",
+      "score": 0.9728,
+      "box": [
+        115,
+        725,
+        490,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2004",
+      "score": 0.9626,
+      "box": [
+        115,
+        749,
+        469,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9702,
+      "box": [
+        132,
+        772,
+        557,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9785,
+      "box": [
+        133,
+        799,
+        473,
+        823
+      ]
+    }
+  ]
+}

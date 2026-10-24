@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_59329",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.845,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "MATTHEW LI",
+      "score": 0.9786,
+      "box": [
+        116,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-599-358-6263|matthew.li@example.com",
+      "score": 0.9754,
+      "box": [
+        114,
+        150,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2020.07–2023.01",
+      "score": 0.9827,
+      "box": [
+        115,
+        289,
+        637,
+        314
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9631,
+      "box": [
+        127,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9798,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2017.12–2020.07",
+      "score": 0.9774,
+      "box": [
+        115,
+        381,
+        625,
+        406
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9713,
+      "box": [
+        127,
+        408,
+        354,
+        429
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9665,
+      "box": [
+        126,
+        430,
+        416,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2015.05–2017.12",
+      "score": 0.9737,
+      "box": [
+        116,
+        472,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9716,
+      "box": [
+        125,
+        498,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9831,
+      "box": [
+        126,
+        521,
+        436,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Woodview University, 2016",
+      "score": 0.9946,
+      "box": [
+        115,
+        632,
+        460,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2014",
+      "score": 0.9843,
+      "box": [
+        114,
+        656,
+        470,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.9784,
+      "box": [
+        132,
+        681,
+        471,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of cybersecurity",
+      "score": 0.9631,
+      "box": [
+        132,
+        706,
+        501,
+        732
+      ]
+    }
+  ]
+}

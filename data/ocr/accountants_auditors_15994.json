@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_15994",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.007,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "JAMES PECK",
+      "score": 0.97,
+      "box": [
+        114,
+        88,
+        337,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-554-219-4594 |james.peck@example.com",
+      "score": 0.9738,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2020.03–2023.01",
+      "score": 0.984,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9675,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2017.05–2020.03",
+      "score": 0.9947,
+      "box": [
+        115,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9754,
+      "box": [
+        126,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.982,
+      "box": [
+        126,
+        430,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2014.07–2017.05",
+      "score": 0.9911,
+      "box": [
+        114,
+        471,
+        743,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9778,
+      "box": [
+        126,
+        499,
+        438,
+        519
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2011.09–2014.07",
+      "score": 0.972,
+      "box": [
+        115,
+        564,
+        699,
+        587
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9946,
+      "box": [
+        127,
+        591,
+        357,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9932,
+      "box": [
+        125,
+        613,
+        420,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, Cedar Ridge University, 2019",
+      "score": 0.9729,
+      "box": [
+        115,
+        725,
+        670,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Fairfield University, 2017",
+      "score": 0.9778,
+      "box": [
+        114,
+        747,
+        638,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonprofit financial management",
+      "score": 0.9861,
+      "box": [
+        133,
+        772,
+        681,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in payroll accounting",
+      "score": 0.9807,
+      "box": [
+        133,
+        798,
+        557,
+        823
+      ]
+    }
+  ]
+}

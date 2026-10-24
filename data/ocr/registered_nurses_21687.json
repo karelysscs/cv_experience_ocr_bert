@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21687",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.972,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "TAMIKA LAMB",
+      "score": 0.9739,
+      "box": [
+        114,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-984-657-8588|tamika.lamb@example.com",
+      "score": 0.9923,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2019.06–2023.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        289,
+        701,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9822,
+      "box": [
+        126,
+        314,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2015.11–2019.06",
+      "score": 0.9899,
+      "box": [
+        116,
+        383,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9779,
+      "box": [
+        126,
+        406,
+        481,
+        432
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9903,
+      "box": [
+        126,
+        431,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2011.05–2014.12",
+      "score": 0.9747,
+      "box": [
+        116,
+        473,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9803,
+      "box": [
+        125,
+        496,
+        497,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9749,
+      "box": [
+        127,
+        523,
+        522,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2006.06–2010.01",
+      "score": 0.972,
+      "box": [
+        116,
+        565,
+        629,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9839,
+      "box": [
+        125,
+        589,
+        514,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9746,
+      "box": [
+        127,
+        615,
+        410,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Northcrest University, 2004",
+      "score": 0.9857,
+      "box": [
+        115,
+        724,
+        624,
+        746
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9813,
+      "box": [
+        132,
+        747,
+        554,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.994,
+      "box": [
+        133,
+        772,
+        661,
+        796
+      ]
+    }
+  ]
+}

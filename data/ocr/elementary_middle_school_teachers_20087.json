@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_20087",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.952,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "JESSICA LAMB",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-890-317-3423 |jessica.lamb@example.com",
+      "score": 0.9839,
+      "box": [
+        117,
+        152,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2020.12–2023.01",
+      "score": 0.981,
+      "box": [
+        116,
+        290,
+        817,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9748,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9931,
+      "box": [
+        126,
+        339,
+        539,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2016.12–2019.01",
+      "score": 0.9939,
+      "box": [
+        115,
+        381,
+        828,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9846,
+      "box": [
+        126,
+        406,
+        516,
+        432
+      ]
+    },
+    {
+      "text": "- Aligned instruction with benchmarks",
+      "score": 0.9924,
+      "box": [
+        126,
+        431,
+        475,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2014.01–2016.02",
+      "score": 0.9886,
+      "box": [
+        116,
+        472,
+        843,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.967,
+      "box": [
+        125,
+        496,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9678,
+      "box": [
+        127,
+        523,
+        518,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Oakway University, 2012",
+      "score": 0.9931,
+      "box": [
+        115,
+        632,
+        685,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9761,
+      "box": [
+        135,
+        659,
+        664,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9859,
+      "box": [
+        134,
+        681,
+        658,
+        706
+      ]
+    }
+  ]
+}

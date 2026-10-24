@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_02445",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "RAIZY BUSH",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        323,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-914-784-8212 |raizy.bush@example.com",
+      "score": 0.977,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2020.10–2023.01",
+      "score": 0.9913,
+      "box": [
+        116,
+        290,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.978,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9561,
+      "box": [
+        127,
+        340,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Health Group, 2018.07–2020.10",
+      "score": 0.958,
+      "box": [
+        115,
+        381,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9787,
+      "box": [
+        125,
+        406,
+        500,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9912,
+      "box": [
+        126,
+        431,
+        508,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2016.03–2018.07",
+      "score": 0.9781,
+      "box": [
+        116,
+        472,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9931,
+      "box": [
+        126,
+        498,
+        494,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9727,
+      "box": [
+        126,
+        521,
+        514,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Forestfield University, 2016",
+      "score": 0.9928,
+      "box": [
+        114,
+        631,
+        789,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9635,
+      "box": [
+        135,
+        659,
+        581,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9968,
+      "box": [
+        134,
+        681,
+        625,
+        706
+      ]
+    }
+  ]
+}

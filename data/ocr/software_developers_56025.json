@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_56025",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "RYAN AVERY",
+      "score": 0.9571,
+      "box": [
+        116,
+        90,
+        338,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-398-625-3528|ryan.avery@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        637,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2019.11–2023.01",
+      "score": 0.9928,
+      "box": [
+        116,
+        290,
+        638,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9905,
+      "box": [
+        126,
+        314,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9825,
+      "box": [
+        128,
+        341,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2016.09–2019.11",
+      "score": 0.9806,
+      "box": [
+        116,
+        382,
+        621,
+        406
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9837,
+      "box": [
+        126,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9657,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2011.04–2014.06",
+      "score": 0.9824,
+      "box": [
+        115,
+        471,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9669,
+      "box": [
+        127,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.972,
+      "box": [
+        126,
+        521,
+        621,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2007",
+      "score": 0.9812,
+      "box": [
+        115,
+        631,
+        453,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9893,
+      "box": [
+        134,
+        658,
+        736,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9853,
+      "box": [
+        135,
+        683,
+        607,
+        706
+      ]
+    }
+  ]
+}

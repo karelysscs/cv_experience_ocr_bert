@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_34194",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.906,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "JESSICA CANTU",
+      "score": 0.9763,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-491-246-9697 |jessica.cantu@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.12–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        290,
+        664,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9699,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9794,
+      "box": [
+        127,
+        340,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2018.10–2020.12",
+      "score": 0.9734,
+      "box": [
+        114,
+        381,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9847,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9896,
+      "box": [
+        126,
+        430,
+        421,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2016.08–2018.10",
+      "score": 0.9782,
+      "box": [
+        114,
+        471,
+        759,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9753,
+      "box": [
+        125,
+        496,
+        402,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9257,
+      "box": [
+        126,
+        521,
+        357,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Riverside University, 2014",
+      "score": 0.9921,
+      "box": [
+        115,
+        631,
+        742,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9798,
+      "box": [
+        133,
+        657,
+        558,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9909,
+      "box": [
+        135,
+        681,
+        696,
+        706
+      ]
+    }
+  ]
+}

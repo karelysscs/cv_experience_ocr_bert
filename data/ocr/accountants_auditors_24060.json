@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_24060",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.95,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "JESSICA HODGES",
+      "score": 0.9909,
+      "box": [
+        115,
+        88,
+        416,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA| +1-865-594-9732 |jessica.hodges@example.com",
+      "score": 0.9767,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2020.04–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        290,
+        697,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9745,
+      "box": [
+        126,
+        313,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2017.06–2020.04",
+      "score": 0.9886,
+      "box": [
+        116,
+        382,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9806,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9893,
+      "box": [
+        126,
+        430,
+        428,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2014.08–2017.06",
+      "score": 0.9797,
+      "box": [
+        114,
+        471,
+        721,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9736,
+      "box": [
+        126,
+        498,
+        511,
+        521
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.988,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2008.11–2011.09",
+      "score": 0.9752,
+      "box": [
+        115,
+        565,
+        694,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9693,
+      "box": [
+        125,
+        589,
+        439,
+        614
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9792,
+      "box": [
+        126,
+        613,
+        415,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Business Analytics, Woodcrest University, 2004",
+      "score": 0.9871,
+      "box": [
+        115,
+        725,
+        746,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.981,
+      "box": [
+        133,
+        749,
+        633,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9867,
+      "box": [
+        134,
+        773,
+        526,
+        795
+      ]
+    }
+  ]
+}

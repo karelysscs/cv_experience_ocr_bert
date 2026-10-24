@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_48725",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.942,
+  "mean_conf": 0.9862,
+  "lines": [
+    {
+      "text": "DEVYN FRAZIER",
+      "score": 0.9736,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-256-449-2731 |devyn.frazier@example.com",
+      "score": 0.9745,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2021.04–2023.01",
+      "score": 0.982,
+      "box": [
+        114,
+        289,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9925,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2019.07–2021.04",
+      "score": 0.9929,
+      "box": [
+        116,
+        382,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9817,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9868,
+      "box": [
+        126,
+        431,
+        435,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Canyon View High School, 2017",
+      "score": 0.9915,
+      "box": [
+        116,
+        541,
+        876,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural alignment",
+      "score": 0.991,
+      "box": [
+        132,
+        564,
+        563,
+        589
+      ]
+    }
+  ]
+}

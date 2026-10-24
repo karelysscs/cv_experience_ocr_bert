@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_19396",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.804,
+  "mean_conf": 0.9777,
+  "lines": [
+    {
+      "text": "JONATHAN HEATH",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-601-396-5896 |jonathan.heath@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2022.01–2023.01",
+      "score": 0.981,
+      "box": [
+        116,
+        291,
+        717,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9835,
+      "box": [
+        125,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9272,
+      "box": [
+        126,
+        338,
+        332,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Management, Clearview University, 223",
+      "score": 0.9847,
+      "box": [
+        115,
+        447,
+        807,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building maintenance basics",
+      "score": 0.9742,
+      "box": [
+        132,
+        474,
+        651,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9877,
+      "box": [
+        133,
+        498,
+        592,
+        523
+      ]
+    }
+  ]
+}

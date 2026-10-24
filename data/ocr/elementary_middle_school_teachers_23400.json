@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_23400",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.039,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "SHERYL MCLEAN",
+      "score": 0.9742,
+      "box": [
+        116,
+        90,
+        406,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA |+1-354-391-8995 | sheryl.mclean@example.com",
+      "score": 0.9776,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2018.12–2023.01",
+      "score": 0.9844,
+      "box": [
+        116,
+        290,
+        824,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9898,
+      "box": [
+        126,
+        314,
+        578,
+        338
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9793,
+      "box": [
+        127,
+        340,
+        685,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Meadow Academy, 2014.11–218.12",
+      "score": 0.9933,
+      "box": [
+        115,
+        381,
+        876,
+        406
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9837,
+      "box": [
+        126,
+        406,
+        530,
+        430
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9811,
+      "box": [
+        126,
+        430,
+        525,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2010.09–2014.11",
+      "score": 0.9783,
+      "box": [
+        115,
+        472,
+        839,
+        496
+      ]
+    },
+    {
+      "text": "- Designed student support plans",
+      "score": 0.9646,
+      "box": [
+        126,
+        498,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9674,
+      "box": [
+        126,
+        521,
+        422,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2004.11–2009.01",
+      "score": 0.9856,
+      "box": [
+        116,
+        564,
+        847,
+        587
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9841,
+      "box": [
+        126,
+        591,
+        339,
+        612
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9845,
+      "box": [
+        126,
+        613,
+        667,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Skycrest University, 2003",
+      "score": 0.9637,
+      "box": [
+        114,
+        723,
+        674,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.975,
+      "box": [
+        132,
+        747,
+        599,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9895,
+      "box": [
+        134,
+        772,
+        604,
+        797
+      ]
+    }
+  ]
+}

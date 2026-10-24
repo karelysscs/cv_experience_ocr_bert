@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_54573",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "JOHN ZHANG",
+      "score": 0.9671,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-580-596-8149|john.zhang@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        641,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9886,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2020.03–2023.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9821,
+      "box": [
+        127,
+        315,
+        469,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2017.05–2020.03",
+      "score": 0.9802,
+      "box": [
+        115,
+        381,
+        626,
+        406
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9746,
+      "box": [
+        125,
+        406,
+        361,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9647,
+      "box": [
+        126,
+        430,
+        416,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2014.07–2017.05",
+      "score": 0.9829,
+      "box": [
+        115,
+        471,
+        629,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.982,
+      "box": [
+        125,
+        496,
+        351,
+        521
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9635,
+      "box": [
+        125,
+        521,
+        389,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Seabreeze University, 2017",
+      "score": 0.9803,
+      "box": [
+        115,
+        632,
+        464,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Willow Creek University, 2015",
+      "score": 0.9714,
+      "box": [
+        114,
+        656,
+        503,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.976,
+      "box": [
+        132,
+        681,
+        501,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9888,
+      "box": [
+        132,
+        706,
+        502,
+        731
+      ]
+    }
+  ]
+}

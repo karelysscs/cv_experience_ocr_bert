@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_56651",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "STEVEN PARSONS",
+      "score": 0.9678,
+      "box": [
+        116,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-845-300-5349 |steven.parsons@example.com",
+      "score": 0.9884,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.993,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2020.08–2022.04",
+      "score": 0.9785,
+      "box": [
+        115,
+        290,
+        649,
+        313
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9932,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9912,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Software, 2018.05–2020.02",
+      "score": 0.9921,
+      "box": [
+        116,
+        382,
+        678,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9912,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9636,
+      "box": [
+        126,
+        429,
+        318,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookway University, 2011",
+      "score": 0.9668,
+      "box": [
+        115,
+        541,
+        471,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9923,
+      "box": [
+        133,
+        566,
+        501,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9913,
+      "box": [
+        133,
+        590,
+        625,
+        615
+      ]
+    }
+  ]
+}

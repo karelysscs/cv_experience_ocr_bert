@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_01186",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.791,
+  "mean_conf": 0.985,
+  "lines": [
+    {
+      "text": "HEIDIBRIGGS",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-252-847-3473|heidi.briggs@example.com",
+      "score": 0.9853,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2020.06–2022.06",
+      "score": 0.9825,
+      "box": [
+        116,
+        290,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9784,
+      "box": [
+        126,
+        315,
+        431,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        387,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Golden Hills University, 2004",
+      "score": 0.9779,
+      "box": [
+        114,
+        447,
+        623,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.9914,
+      "box": [
+        132,
+        472,
+        556,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9816,
+      "box": [
+        133,
+        497,
+        643,
+        523
+      ]
+    }
+  ]
+}

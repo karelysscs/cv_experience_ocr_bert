@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_48940",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.831,
+  "mean_conf": 0.9851,
+  "lines": [
+    {
+      "text": "CAMERON RILEY",
+      "score": 0.9821,
+      "box": [
+        116,
+        88,
+        400,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-361-457-2225|cameron.riley@example.com",
+      "score": 0.9906,
+      "box": [
+        115,
+        150,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2020.03–2021.12",
+      "score": 0.9809,
+      "box": [
+        115,
+        290,
+        674,
+        313
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9741,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2017.01–2018.11",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9846,
+      "box": [
+        126,
+        408,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9778,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedarfield University, 2011",
+      "score": 0.9899,
+      "box": [
+        115,
+        541,
+        474,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9821,
+      "box": [
+        132,
+        565,
+        559,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9906,
+      "box": [
+        133,
+        590,
+        530,
+        615
+      ]
+    }
+  ]
+}

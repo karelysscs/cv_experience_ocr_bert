@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_21903",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.832,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "JAIMIE SIMON",
+      "score": 0.9774,
+      "box": [
+        114,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "KS, USA|+1-655-231-9806 |jaimie.simon@example.com",
+      "score": 0.9863,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2021.04–2023.01",
+      "score": 0.9823,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9793,
+      "box": [
+        126,
+        314,
+        409,
+        337
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9725,
+      "box": [
+        126,
+        339,
+        645,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Clearwood University, 220",
+      "score": 0.9635,
+      "box": [
+        114,
+        447,
+        688,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9838,
+      "box": [
+        134,
+        475,
+        583,
+        495
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9887,
+      "box": [
+        133,
+        497,
+        536,
+        522
+      ]
+    }
+  ]
+}

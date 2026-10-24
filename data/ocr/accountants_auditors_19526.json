@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_19526",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.79,
+  "mean_conf": 0.9748,
+  "lines": [
+    {
+      "text": "KAITLYN HENRY",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        390,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-984-398-6541 |kaitlyn.henry@example.com",
+      "score": 0.9624,
+      "box": [
+        116,
+        152,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2019.08–2021.12",
+      "score": 0.993,
+      "box": [
+        115,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9711,
+      "box": [
+        126,
+        314,
+        436,
+        339
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9666,
+      "box": [
+        126,
+        339,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, General Business, Pebble Creek University, 2012",
+      "score": 0.9954,
+      "box": [
+        116,
+        449,
+        763,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9441,
+      "box": [
+        132,
+        473,
+        625,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9679,
+      "box": [
+        133,
+        497,
+        552,
+        523
+      ]
+    }
+  ]
+}

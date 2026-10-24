@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_24881",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.98,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "SAMANTHA QUINN",
+      "score": 0.9734,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-246-375-3592| samantha.quinn@example.com",
+      "score": 0.9775,
+      "box": [
+        115,
+        150,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2019.02–2023.01",
+      "score": 0.9856,
+      "box": [
+        115,
+        290,
+        718,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9582,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        458,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precision Ledger, 2015.03–2019.02",
+      "score": 0.9767,
+      "box": [
+        115,
+        382,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.976,
+      "box": [
+        127,
+        407,
+        553,
+        430
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9907,
+      "box": [
+        125,
+        431,
+        513,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2011.04–2015.03",
+      "score": 0.9677,
+      "box": [
+        114,
+        471,
+        694,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.985,
+      "box": [
+        126,
+        497,
+        459,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9567,
+      "box": [
+        126,
+        521,
+        350,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2007.04–2011.04",
+      "score": 0.994,
+      "box": [
+        115,
+        565,
+        680,
+        588
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9545,
+      "box": [
+        128,
+        591,
+        371,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9938,
+      "box": [
+        127,
+        616,
+        404,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Clearway University, 2009",
+      "score": 0.9614,
+      "box": [
+        114,
+        723,
+        564,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.9903,
+      "box": [
+        133,
+        749,
+        574,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in payroll accounting",
+      "score": 0.9913,
+      "box": [
+        133,
+        772,
+        557,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_23611",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "JAREN WEEKS",
+      "score": 0.9704,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-987-326-3919 |jaren.weeks@example.com",
+      "score": 0.987,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2019.12–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        290,
+        674,
+        312
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9847,
+      "box": [
+        127,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2016.11–2019.12",
+      "score": 0.9909,
+      "box": [
+        116,
+        381,
+        707,
+        405
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9835,
+      "box": [
+        125,
+        406,
+        379,
+        431
+      ]
+    },
+    {
+      "text": "-Installed concrete reinforcements",
+      "score": 0.9891,
+      "box": [
+        126,
+        432,
+        448,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2013.10–2016.11",
+      "score": 0.9879,
+      "box": [
+        116,
+        472,
+        671,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        489,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9683,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Electrical Technology, Prairie Ridge University, 2013",
+      "score": 0.9561,
+      "box": [
+        116,
+        632,
+        855,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9919,
+      "box": [
+        133,
+        657,
+        630,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffold safety",
+      "score": 0.9765,
+      "box": [
+        133,
+        681,
+        512,
+        706
+      ]
+    }
+  ]
+}

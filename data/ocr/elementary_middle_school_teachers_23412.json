@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_23412",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.02,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "KATARZYNAWAGNER",
+      "score": 0.9996,
+      "box": [
+        116,
+        90,
+        486,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA |+1-972-313-2074 |katarzyna.wagner@example.com",
+      "score": 0.9848,
+      "box": [
+        116,
+        152,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Meadow Academy, 2019.11–2023.01",
+      "score": 0.9703,
+      "box": [
+        116,
+        290,
+        874,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.983,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9946,
+      "box": [
+        126,
+        339,
+        509,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightWay School, 2016.08–2019.11",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        802,
+        406
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9908,
+      "box": [
+        127,
+        407,
+        535,
+        430
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9693,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2013.05–216.08",
+      "score": 0.9772,
+      "box": [
+        113,
+        470,
+        844,
+        498
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9639,
+      "box": [
+        127,
+        498,
+        481,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        546,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Litle Steps Academy, 2008.06–2011.09",
+      "score": 0.9799,
+      "box": [
+        116,
+        565,
+        834,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9634,
+      "box": [
+        125,
+        589,
+        493,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9641,
+      "box": [
+        127,
+        615,
+        645,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Windermere University, 2004",
+      "score": 0.9878,
+      "box": [
+        115,
+        725,
+        697,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.9913,
+      "box": [
+        132,
+        747,
+        530,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of inclusive education",
+      "score": 0.9941,
+      "box": [
+        135,
+        775,
+        517,
+        795
+      ]
+    }
+  ]
+}

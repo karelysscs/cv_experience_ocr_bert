@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_10955",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.992,
+  "mean_conf": 0.985,
+  "lines": [
+    {
+      "text": "KIRSTI KRAMER",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        383,
+        120
+      ]
+    },
+    {
+      "text": "CT, USA|+1-585-581-3595|kirsti.kramer@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Learning School, 2020.05–22.01",
+      "score": 0.9799,
+      "box": [
+        115,
+        289,
+        847,
+        314
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.981,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9734,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2017.09–2020.05",
+      "score": 0.9894,
+      "box": [
+        115,
+        381,
+        856,
+        406
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9845,
+      "box": [
+        127,
+        407,
+        517,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9934,
+      "box": [
+        127,
+        431,
+        426,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2015.01–2017.09",
+      "score": 0.9811,
+      "box": [
+        115,
+        471,
+        843,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9925,
+      "box": [
+        125,
+        496,
+        460,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9845,
+      "box": [
+        126,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Youth Development, Oakridge University, 2018",
+      "score": 0.9906,
+      "box": [
+        114,
+        631,
+        642,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Greenfield University, 2016",
+      "score": 0.9801,
+      "box": [
+        115,
+        658,
+        720,
+        681
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.982,
+      "box": [
+        133,
+        681,
+        525,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9903,
+      "box": [
+        133,
+        706,
+        656,
+        733
+      ]
+    }
+  ]
+}

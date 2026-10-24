@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_22877",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.893,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "AARON GILL",
+      "score": 0.9506,
+      "box": [
+        116,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-541-347-8412|aaron.gill@example.com",
+      "score": 0.9734,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2020.12–2023.01",
+      "score": 0.9922,
+      "box": [
+        115,
+        289,
+        813,
+        314
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9767,
+      "box": [
+        126,
+        315,
+        536,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9817,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures School, 2018.10–2020.12",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        838,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9734,
+      "box": [
+        126,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9913,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Master's, Child Development, Northwood University, 2017",
+      "score": 0.9617,
+      "box": [
+        115,
+        541,
+        651,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Northway University, 2015",
+      "score": 0.9834,
+      "box": [
+        115,
+        566,
+        688,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of learner motivation",
+      "score": 0.9919,
+      "box": [
+        133,
+        591,
+        508,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9903,
+      "box": [
+        134,
+        616,
+        564,
+        639
+      ]
+    }
+  ]
+}

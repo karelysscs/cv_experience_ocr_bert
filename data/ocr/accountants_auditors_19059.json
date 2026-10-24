@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_19059",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "ANTHONYCOLE",
+      "score": 0.9989,
+      "box": [
+        115,
+        88,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-239-737-8695 | anthony.cole@example.com",
+      "score": 0.9697,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2020.05–2023.01",
+      "score": 0.9873,
+      "box": [
+        115,
+        290,
+        698,
+        312
+      ]
+    },
+    {
+      "text": "-Directed accounting operations planning",
+      "score": 0.9824,
+      "box": [
+        125,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        505,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Accounting, 2017.08–2020.05",
+      "score": 0.9751,
+      "box": [
+        114,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9887,
+      "box": [
+        125,
+        405,
+        420,
+        432
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9855,
+      "box": [
+        126,
+        432,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Lakeview University, 2018",
+      "score": 0.9695,
+      "box": [
+        114,
+        539,
+        647,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9911,
+      "box": [
+        132,
+        565,
+        507,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting and forecasting",
+      "score": 0.9865,
+      "box": [
+        133,
+        590,
+        628,
+        615
+      ]
+    }
+  ]
+}

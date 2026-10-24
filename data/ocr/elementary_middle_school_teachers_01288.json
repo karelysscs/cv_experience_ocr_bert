@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_01288",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.929,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "JADEN PARKER",
+      "score": 0.9626,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-781-942-9893 |jaden.parker@example.com",
+      "score": 0.986,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9755,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2020.11–2023.01",
+      "score": 0.9869,
+      "box": [
+        116,
+        290,
+        871,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9873,
+      "box": [
+        127,
+        315,
+        550,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9864,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2018.08–2020.11",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        884,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9641,
+      "box": [
+        127,
+        407,
+        565,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9698,
+      "box": [
+        126,
+        431,
+        645,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9977,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Windcrest University, 2023",
+      "score": 0.993,
+      "box": [
+        115,
+        541,
+        710,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9845,
+      "box": [
+        133,
+        565,
+        708,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concept-based instruction",
+      "score": 0.9915,
+      "box": [
+        134,
+        591,
+        617,
+        614
+      ]
+    }
+  ]
+}

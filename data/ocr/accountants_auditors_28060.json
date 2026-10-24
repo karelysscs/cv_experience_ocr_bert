@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_28060",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "KATHLEEN DAY",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-246-468-4670 |kathleen.day@example.com",
+      "score": 0.9865,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2020.04–2023.01",
+      "score": 0.9941,
+      "box": [
+        115,
+        290,
+        735,
+        312
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9906,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9505,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2017.07–2020.04",
+      "score": 0.9868,
+      "box": [
+        114,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9895,
+      "box": [
+        125,
+        405,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9729,
+      "box": [
+        126,
+        430,
+        375,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2014.09–2017.07",
+      "score": 0.99,
+      "box": [
+        115,
+        472,
+        691,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9664,
+      "box": [
+        125,
+        496,
+        422,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9911,
+      "box": [
+        126,
+        521,
+        381,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Cedarview University, 2012",
+      "score": 0.9713,
+      "box": [
+        115,
+        632,
+        568,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9874,
+      "box": [
+        132,
+        656,
+        554,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9792,
+      "box": [
+        134,
+        681,
+        506,
+        707
+      ]
+    }
+  ]
+}

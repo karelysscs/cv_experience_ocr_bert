@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_24950",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.796,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "BRADY BUTLER",
+      "score": 0.9579,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-300-462-3070 |brady.butler@example.com",
+      "score": 0.9762,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2021.04–2023.1",
+      "score": 0.9921,
+      "box": [
+        115,
+        290,
+        735,
+        313
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9652,
+      "box": [
+        125,
+        313,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.994,
+      "box": [
+        126,
+        339,
+        405,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Pinehaven High School, 2022",
+      "score": 0.9699,
+      "box": [
+        116,
+        449,
+        835,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9828,
+      "box": [
+        132,
+        472,
+        607,
+        498
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_29200",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.038,
+  "mean_conf": 0.9762,
+  "lines": [
+    {
+      "text": "DANIEL HESTER",
+      "score": 0.9871,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA| +1-982-423-2158 |daniel.hester@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2020.06–2023.01",
+      "score": 0.9713,
+      "box": [
+        114,
+        289,
+        752,
+        314
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9623,
+      "box": [
+        127,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9537,
+      "box": [
+        127,
+        340,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2017.11–2020.06",
+      "score": 0.9852,
+      "box": [
+        115,
+        381,
+        783,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.976,
+      "box": [
+        127,
+        407,
+        553,
+        430
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9823,
+      "box": [
+        126,
+        431,
+        505,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2015.04–2017.11",
+      "score": 0.9732,
+      "box": [
+        115,
+        472,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9652,
+      "box": [
+        125,
+        497,
+        433,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9783,
+      "box": [
+        126,
+        522,
+        427,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2009.10–2012.06",
+      "score": 0.981,
+      "box": [
+        115,
+        565,
+        701,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9587,
+      "box": [
+        126,
+        589,
+        356,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9936,
+      "box": [
+        126,
+        614,
+        423,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Business Law, Silver Creek University, 2006",
+      "score": 0.9789,
+      "box": [
+        116,
+        724,
+        713,
+        746
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9702,
+      "box": [
+        132,
+        748,
+        586,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9711,
+      "box": [
+        134,
+        774,
+        532,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22722",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.677,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "SOFIE BOONE",
+      "score": 0.9727,
+      "box": [
+        115,
+        90,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-396-746-7731 |sofie.boone@example.com",
+      "score": 0.9739,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2020.12–2023.01",
+      "score": 0.991,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9883,
+      "box": [
+        127,
+        315,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9624,
+      "box": [
+        126,
+        339,
+        409,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Patient Care, Northfield University, 2023",
+      "score": 0.9779,
+      "box": [
+        114,
+        447,
+        677,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9901,
+      "box": [
+        132,
+        472,
+        493,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9767,
+      "box": [
+        133,
+        499,
+        494,
+        523
+      ]
+    }
+  ]
+}

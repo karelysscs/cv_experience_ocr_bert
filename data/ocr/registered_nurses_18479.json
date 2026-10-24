@@ -1,0 +1,183 @@
+{
+  "id": "registered_nurses_18479",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.973,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "SHALONDA AHMED",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-974-216-1030 |shalonda.ahmed@example.com",
+      "score": 0.9842,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2020.09–2023.01",
+      "score": 0.9747,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9829,
+      "box": [
+        126,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2018.04–2020.09",
+      "score": 0.9829,
+      "box": [
+        115,
+        381,
+        730,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9755,
+      "box": [
+        126,
+        407,
+        477,
+        430
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9907,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2013.08–2016.01",
+      "score": 0.973,
+      "box": [
+        116,
+        472,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9929,
+      "box": [
+        125,
+        496,
+        474,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9703,
+      "box": [
+        126,
+        520,
+        478,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Health Education, Evergreen University, 2005",
+      "score": 0.9776,
+      "box": [
+        114,
+        631,
+        629,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Elmwood University, 2003",
+      "score": 0.9863,
+      "box": [
+        115,
+        658,
+        677,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in critical care basics",
+      "score": 0.9913,
+      "box": [
+        135,
+        684,
+        559,
+        704
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9858,
+      "box": [
+        132,
+        706,
+        499,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_13737",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.97,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "MATTHEW BLACKWELL",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        509,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-458-810-9101 |matthew.blackwell@example.com",
+      "score": 0.9893,
+      "box": [
+        116,
+        152,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2019.08–2023.01",
+      "score": 0.982,
+      "box": [
+        114,
+        289,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9815,
+      "box": [
+        127,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9729,
+      "box": [
+        126,
+        339,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2016.03–2019.08",
+      "score": 0.9914,
+      "box": [
+        115,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9868,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9832,
+      "box": [
+        126,
+        430,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2012.10–2016.03",
+      "score": 0.9874,
+      "box": [
+        114,
+        471,
+        711,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9722,
+      "box": [
+        126,
+        497,
+        387,
+        519
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9685,
+      "box": [
+        126,
+        522,
+        493,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2009.05–2012.10",
+      "score": 0.976,
+      "box": [
+        115,
+        565,
+        694,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9869,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.984,
+      "box": [
+        125,
+        613,
+        420,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Forest Ridge University, 2008",
+      "score": 0.9882,
+      "box": [
+        115,
+        725,
+        700,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Oakwood University, 2006",
+      "score": 0.9804,
+      "box": [
+        114,
+        747,
+        648,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.9919,
+      "box": [
+        132,
+        772,
+        480,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9771,
+      "box": [
+        134,
+        800,
+        566,
+        820
+      ]
+    }
+  ]
+}

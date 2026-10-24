@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_44554",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.887,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "ANDYPIERCE",
+      "score": 0.997,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-838-532-9271 | andy.pierce@example.com",
+      "score": 0.974,
+      "box": [
+        116,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2020.05–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        287,
+        660,
+        315
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9814,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9643,
+      "box": [
+        127,
+        340,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2017.09–2020.05",
+      "score": 0.9753,
+      "box": [
+        114,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9891,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.991,
+      "box": [
+        126,
+        430,
+        380,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2015.01–2017.09",
+      "score": 0.9885,
+      "box": [
+        115,
+        472,
+        624,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9672,
+      "box": [
+        124,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9797,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillcrest University, 2014",
+      "score": 0.9734,
+      "box": [
+        115,
+        632,
+        456,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9938,
+      "box": [
+        132,
+        656,
+        631,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9778,
+      "box": [
+        133,
+        681,
+        525,
+        706
+      ]
+    }
+  ]
+}

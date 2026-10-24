@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_16260",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.912,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "ROSA WHITEHEAD",
+      "score": 0.9686,
+      "box": [
+        116,
+        90,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-774-284-7137|rosa.whitehead@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2020.11–2023.01",
+      "score": 0.9842,
+      "box": [
+        115,
+        289,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9581,
+      "box": [
+        126,
+        313,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9676,
+      "box": [
+        127,
+        340,
+        524,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2018.08–2020.11",
+      "score": 0.983,
+      "box": [
+        114,
+        381,
+        752,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9684,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.991,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Services, 2016.05–2018.08",
+      "score": 0.9931,
+      "box": [
+        115,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.985,
+      "box": [
+        125,
+        496,
+        420,
+        522
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9796,
+      "box": [
+        126,
+        522,
+        378,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Risk Management, Fairway University, 2020",
+      "score": 0.9751,
+      "box": [
+        114,
+        631,
+        616,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Woodview University, 2018",
+      "score": 0.9841,
+      "box": [
+        115,
+        658,
+        700,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of professional responsibility",
+      "score": 0.9937,
+      "box": [
+        133,
+        681,
+        580,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9817,
+      "box": [
+        132,
+        706,
+        542,
+        731
+      ]
+    }
+  ]
+}

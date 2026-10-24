@@ -1,0 +1,123 @@
+{
+  "id": "registered_nurses_16212",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.837,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "JOHN BROCK",
+      "score": 0.9705,
+      "box": [
+        115,
+        88,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-965-249-6571 |john.brock@example.com",
+      "score": 0.9774,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleNest Health, 2017.08–2020.08",
+      "score": 0.982,
+      "box": [
+        116,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.985,
+      "box": [
+        126,
+        315,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "– Maintained infection control protocols",
+      "score": 0.9673,
+      "box": [
+        127,
+        340,
+        487,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Health Management, Willowhaven University, 2012",
+      "score": 0.984,
+      "box": [
+        114,
+        447,
+        680,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Fairview Ridge University, 2010",
+      "score": 0.9706,
+      "box": [
+        114,
+        472,
+        684,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9966,
+      "box": [
+        134,
+        497,
+        538,
+        521
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9875,
+      "box": [
+        135,
+        524,
+        598,
+        547
+      ]
+    }
+  ]
+}

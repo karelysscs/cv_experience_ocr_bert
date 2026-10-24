@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_52193",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.829,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "ZACHARY MAXWELL",
+      "score": 0.9731,
+      "box": [
+        115,
+        90,
+        459,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-659-393-8952|zachary.maxwell@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2021.06–2023.01",
+      "score": 0.9905,
+      "box": [
+        115,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9717,
+      "box": [
+        127,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9717,
+      "box": [
+        127,
+        340,
+        499,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2019.10–2021.06",
+      "score": 0.9978,
+      "box": [
+        116,
+        382,
+        632,
+        405
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.99,
+      "box": [
+        126,
+        406,
+        390,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9621,
+      "box": [
+        126,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowfield University, 2022",
+      "score": 0.9886,
+      "box": [
+        116,
+        542,
+        498,
+        562
+      ]
+    },
+    {
+      "text": "• Completed coursework in inversion of control",
+      "score": 0.9888,
+      "box": [
+        134,
+        566,
+        566,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9928,
+      "box": [
+        135,
+        592,
+        584,
+        612
+      ]
+    }
+  ]
+}

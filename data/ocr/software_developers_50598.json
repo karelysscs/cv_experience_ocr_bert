@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_50598",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "NATHAN POTTS",
+      "score": 0.9881,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-480-992-1611|nathan.potts@example.com",
+      "score": 0.9802,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2020.03–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.987,
+      "box": [
+        126,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9799,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2017.04–2020.03",
+      "score": 0.9887,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9694,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9652,
+      "box": [
+        126,
+        430,
+        355,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2013.05–201.04",
+      "score": 0.979,
+      "box": [
+        115,
+        472,
+        641,
+        495
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9849,
+      "box": [
+        126,
+        498,
+        340,
+        522
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9892,
+      "box": [
+        126,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Meadowview University, 2004",
+      "score": 0.9739,
+      "box": [
+        115,
+        631,
+        483,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyview University, 2002",
+      "score": 0.9919,
+      "box": [
+        115,
+        657,
+        459,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of discrete mathematics",
+      "score": 0.9839,
+      "box": [
+        133,
+        682,
+        577,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9678,
+      "box": [
+        132,
+        706,
+        658,
+        731
+      ]
+    }
+  ]
+}

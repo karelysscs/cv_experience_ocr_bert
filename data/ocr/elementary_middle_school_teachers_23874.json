@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_23874",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.015,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "CHASSIDY WEST",
+      "score": 0.9865,
+      "box": [
+        117,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-397-804-7083 |chassidy.west@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2020.09–2023.01",
+      "score": 0.957,
+      "box": [
+        116,
+        290,
+        801,
+        314
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9862,
+      "box": [
+        125,
+        314,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9733,
+      "box": [
+        127,
+        340,
+        536,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2017.03–2019.07",
+      "score": 0.9795,
+      "box": [
+        115,
+        381,
+        806,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared unit assessments",
+      "score": 0.9756,
+      "box": [
+        127,
+        406,
+        395,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9895,
+      "box": [
+        126,
+        431,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2013.10–2016.03",
+      "score": 0.9754,
+      "box": [
+        116,
+        472,
+        890,
+        496
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9923,
+      "box": [
+        126,
+        497,
+        529,
+        519
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9662,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Plainview University, 2012",
+      "score": 0.9654,
+      "box": [
+        114,
+        631,
+        658,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Forest Hill University, 2010",
+      "score": 0.9583,
+      "box": [
+        114,
+        656,
+        593,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of learner motivation",
+      "score": 0.9908,
+      "box": [
+        133,
+        682,
+        508,
+        705
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9792,
+      "box": [
+        132,
+        706,
+        528,
+        731
+      ]
+    }
+  ]
+}

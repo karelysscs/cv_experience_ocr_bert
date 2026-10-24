@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_08748",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "REBECKAYANG",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-724-305-9775 |rebecka.yang@example.com",
+      "score": 0.9848,
+      "box": [
+        117,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2019.12–2021.07",
+      "score": 0.9797,
+      "box": [
+        115,
+        290,
+        677,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.991,
+      "box": [
+        126,
+        314,
+        500,
+        337
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2017.03–2018.10",
+      "score": 0.9721,
+      "box": [
+        114,
+        381,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9743,
+      "box": [
+        126,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9933,
+      "box": [
+        125,
+        431,
+        507,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Accounting Practice, Elm Valley University, 2015",
+      "score": 0.9793,
+      "box": [
+        115,
+        541,
+        657,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Stonehill University, 2013",
+      "score": 0.9765,
+      "box": [
+        114,
+        564,
+        607,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9771,
+      "box": [
+        133,
+        590,
+        625,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9887,
+      "box": [
+        133,
+        615,
+        636,
+        640
+      ]
+    }
+  ]
+}

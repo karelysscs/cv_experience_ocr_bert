@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_13123",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.94,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "VICTOR HUTCHINSON",
+      "score": 0.9955,
+      "box": [
+        116,
+        90,
+        476,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-811-358-6158|victor.hutchinson@example.com",
+      "score": 0.9938,
+      "box": [
+        116,
+        152,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2019.11–2023.01",
+      "score": 0.9867,
+      "box": [
+        114,
+        289,
+        712,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9777,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.951,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2014.12–2018.02",
+      "score": 0.9871,
+      "box": [
+        114,
+        381,
+        739,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9761,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9946,
+      "box": [
+        126,
+        432,
+        380,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2010.10–2013.12",
+      "score": 0.9755,
+      "box": [
+        114,
+        471,
+        721,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9829,
+      "box": [
+        125,
+        496,
+        511,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9691,
+      "box": [
+        126,
+        520,
+        362,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Financial Management, Shady Grove University, 2005",
+      "score": 0.9894,
+      "box": [
+        114,
+        631,
+        707,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Granite Hill University, 2003",
+      "score": 0.9688,
+      "box": [
+        114,
+        656,
+        670,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9719,
+      "box": [
+        133,
+        681,
+        554,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9897,
+      "box": [
+        133,
+        706,
+        534,
+        732
+      ]
+    }
+  ]
+}

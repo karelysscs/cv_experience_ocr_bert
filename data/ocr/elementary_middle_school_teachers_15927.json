@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_15927",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9772,
+  "lines": [
+    {
+      "text": "BLAKE WIGGINS",
+      "score": 0.9683,
+      "box": [
+        115,
+        88,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-411-783-3346|blake.wiggins@example.com",
+      "score": 0.9791,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.977,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2020.05–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        289,
+        818,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        498,
+        339
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9796,
+      "box": [
+        126,
+        339,
+        522,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2017.09–2020.05",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        819,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.949,
+      "box": [
+        127,
+        407,
+        565,
+        430
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9767,
+      "box": [
+        126,
+        431,
+        571,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Forestfield University, 2019",
+      "score": 0.9442,
+      "box": [
+        115,
+        540,
+        657,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9947,
+      "box": [
+        133,
+        566,
+        546,
+        589
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9806,
+      "box": [
+        132,
+        590,
+        592,
+        615
+      ]
+    }
+  ]
+}

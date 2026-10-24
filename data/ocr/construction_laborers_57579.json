@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_57579",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9875,
+  "lines": [
+    {
+      "text": "COLINCOLLINS",
+      "score": 0.9973,
+      "box": [
+        115,
+        88,
+        378,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-544-557-7573|colin.collins@example.com",
+      "score": 0.9902,
+      "box": [
+        114,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2021.07–2022.6",
+      "score": 0.9884,
+      "box": [
+        116,
+        290,
+        712,
+        310
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.986,
+      "box": [
+        126,
+        313,
+        424,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9787,
+      "box": [
+        127,
+        340,
+        583,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Timberline High School, 2015",
+      "score": 0.988,
+      "box": [
+        116,
+        449,
+        893,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction cost basics",
+      "score": 0.9826,
+      "box": [
+        134,
+        475,
+        611,
+        495
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "software_developers_01151",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.948,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "JOHN SHARP",
+      "score": 0.9763,
+      "box": [
+        114,
+        87,
+        338,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-360-218-4326| john.sharp@example.com",
+      "score": 0.985,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2020.02–2023.01",
+      "score": 0.986,
+      "box": [
+        115,
+        288,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9489,
+      "box": [
+        125,
+        314,
+        407,
+        337
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2017.03–2020.02",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9918,
+      "box": [
+        126,
+        406,
+        538,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9825,
+      "box": [
+        126,
+        431,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2014.03–2017.03",
+      "score": 0.9862,
+      "box": [
+        115,
+        471,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9837,
+      "box": [
+        126,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.98,
+      "box": [
+        126,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2011.03–2014.03",
+      "score": 0.9649,
+      "box": [
+        115,
+        563,
+        627,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9892,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9704,
+      "box": [
+        126,
+        613,
+        332,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Doctorate, Elm Ridge University, 2012",
+      "score": 0.9889,
+      "box": [
+        116,
+        725,
+        472,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Horizon University, 2007",
+      "score": 0.9474,
+      "box": [
+        115,
+        748,
+        454,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9714,
+      "box": [
+        133,
+        773,
+        502,
+        795
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9829,
+      "box": [
+        132,
+        797,
+        567,
+        824
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9816,
+      "box": [
+        133,
+        824,
+        548,
+        848
+      ]
+    }
+  ]
+}

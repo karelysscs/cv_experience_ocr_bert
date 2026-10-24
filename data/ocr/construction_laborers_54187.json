@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_54187",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "JACK VENTURA",
+      "score": 0.9608,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-546-803-7297|jack.ventura@example.com",
+      "score": 0.9868,
+      "box": [
+        114,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2020.07–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9863,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9817,
+      "box": [
+        126,
+        339,
+        399,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2017.12–2020.07",
+      "score": 0.9844,
+      "box": [
+        115,
+        382,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9834,
+      "box": [
+        127,
+        408,
+        450,
+        428
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9758,
+      "box": [
+        125,
+        430,
+        390,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterWorks Construction, 2014.03–2016.10",
+      "score": 0.9873,
+      "box": [
+        115,
+        472,
+        755,
+        495
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9651,
+      "box": [
+        125,
+        497,
+        391,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9587,
+      "box": [
+        126,
+        521,
+        555,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        585,
+        268,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Meadowridge High School, 2012",
+      "score": 0.9824,
+      "box": [
+        116,
+        632,
+        1038,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9855,
+      "box": [
+        131,
+        655,
+        541,
+        681
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_14307",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.969,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "BRIAN FARLEY",
+      "score": 0.9601,
+      "box": [
+        116,
+        90,
+        368,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-997-713-5939 |brian.farley@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2017.07–2023.01",
+      "score": 0.9758,
+      "box": [
+        114,
+        289,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9846,
+      "box": [
+        126,
+        314,
+        480,
+        339
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9941,
+      "box": [
+        126,
+        338,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2012.01–2017.07",
+      "score": 0.9649,
+      "box": [
+        115,
+        381,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.983,
+      "box": [
+        125,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9924,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2006.07–2012.01",
+      "score": 0.985,
+      "box": [
+        115,
+        472,
+        694,
+        496
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9693,
+      "box": [
+        125,
+        496,
+        347,
+        521
+      ]
+    },
+    {
+      "text": "-Maintained equipment logs",
+      "score": 0.9796,
+      "box": [
+        125,
+        521,
+        392,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2000.12–2006.07",
+      "score": 0.9756,
+      "box": [
+        114,
+        563,
+        698,
+        588
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9488,
+      "box": [
+        126,
+        590,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.989,
+      "box": [
+        125,
+        613,
+        405,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Stoneview High School, 1998",
+      "score": 0.9839,
+      "box": [
+        116,
+        725,
+        850,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9732,
+      "box": [
+        132,
+        747,
+        508,
+        772
+      ]
+    }
+  ]
+}

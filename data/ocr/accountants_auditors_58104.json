@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_58104",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "RYAN PRUITT",
+      "score": 0.9623,
+      "box": [
+        116,
+        90,
+        343,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-217-775-2521|ryan.pruitt@example.com",
+      "score": 0.9685,
+      "box": [
+        115,
+        150,
+        638,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2021.01–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        289,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9692,
+      "box": [
+        126,
+        314,
+        477,
+        337
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9649,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2019.01–2021.01",
+      "score": 0.9836,
+      "box": [
+        114,
+        381,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9569,
+      "box": [
+        125,
+        406,
+        421,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9967,
+      "box": [
+        127,
+        431,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2017.01–2019.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        472,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.985,
+      "box": [
+        126,
+        497,
+        404,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9559,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Horizon University, 2018",
+      "score": 0.9725,
+      "box": [
+        115,
+        632,
+        549,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9932,
+      "box": [
+        133,
+        658,
+        621,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9985,
+      "box": [
+        134,
+        681,
+        648,
+        706
+      ]
+    }
+  ]
+}

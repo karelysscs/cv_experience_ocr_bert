@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_28938",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.809,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "MATT CAMERON",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-399-842-8840 |matt.cameron@example.com",
+      "score": 0.9856,
+      "box": [
+        116,
+        152,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2021.03–2023.01",
+      "score": 0.9937,
+      "box": [
+        115,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.969,
+      "box": [
+        125,
+        314,
+        489,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Brightfield University, 2023",
+      "score": 0.9905,
+      "box": [
+        116,
+        449,
+        816,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.988,
+      "box": [
+        133,
+        473,
+        498,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.9813,
+      "box": [
+        134,
+        500,
+        582,
+        520
+      ]
+    }
+  ]
+}

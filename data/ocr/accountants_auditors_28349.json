@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_28349",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.926,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "SARAH SHAW",
+      "score": 0.9505,
+      "box": [
+        114,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-242-460-6737 |sarah.shaw@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2020.09–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9912,
+      "box": [
+        126,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9823,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2018.04–2020.09",
+      "score": 0.9743,
+      "box": [
+        114,
+        381,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9817,
+      "box": [
+        125,
+        406,
+        382,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9791,
+      "box": [
+        126,
+        431,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Risk Management, Clearstone University, 2018",
+      "score": 0.9787,
+      "box": [
+        116,
+        540,
+        804,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in compliance testing",
+      "score": 0.9779,
+      "box": [
+        132,
+        565,
+        562,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.9834,
+      "box": [
+        133,
+        590,
+        502,
+        613
+      ]
+    }
+  ]
+}

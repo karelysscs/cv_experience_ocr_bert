@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_44640",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.774,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "JOSEPH WHITEHEAD",
+      "score": 0.981,
+      "box": [
+        116,
+        90,
+        464,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-263-222-4472|joseph.whitehead@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2021.09–2023.01",
+      "score": 0.9838,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9672,
+      "box": [
+        127,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9938,
+      "box": [
+        126,
+        339,
+        425,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Westfield High School, 2022",
+      "score": 0.9828,
+      "box": [
+        116,
+        449,
+        822,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of workplace safety",
+      "score": 0.9812,
+      "box": [
+        133,
+        474,
+        497,
+        498
+      ]
+    }
+  ]
+}

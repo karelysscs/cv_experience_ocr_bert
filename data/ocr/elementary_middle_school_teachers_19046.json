@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_19046",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.138,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "SAMANTHA HEBERT",
+      "score": 0.9732,
+      "box": [
+        116,
+        90,
+        456,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-604-657-1275 |samantha.hebert@example.com",
+      "score": 0.9907,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2020.07–2023.01",
+      "score": 0.9713,
+      "box": [
+        116,
+        290,
+        850,
+        313
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9659,
+      "box": [
+        125,
+        313,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9785,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2018.01–2020.07",
+      "score": 0.9874,
+      "box": [
+        115,
+        381,
+        829,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9667,
+      "box": [
+        126,
+        406,
+        578,
+        431
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9814,
+      "box": [
+        126,
+        431,
+        685,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2014.04–2016.11",
+      "score": 0.9793,
+      "box": [
+        115,
+        472,
+        829,
+        495
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.989,
+      "box": [
+        126,
+        498,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9839,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2010.08–2013.03",
+      "score": 0.9875,
+      "box": [
+        116,
+        565,
+        859,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9956,
+      "box": [
+        125,
+        589,
+        460,
+        614
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9921,
+      "box": [
+        127,
+        615,
+        509,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Rockland University, 2006",
+      "score": 0.9582,
+      "box": [
+        114,
+        723,
+        711,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9932,
+      "box": [
+        131,
+        747,
+        602,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9904,
+      "box": [
+        133,
+        772,
+        551,
+        797
+      ]
+    }
+  ]
+}

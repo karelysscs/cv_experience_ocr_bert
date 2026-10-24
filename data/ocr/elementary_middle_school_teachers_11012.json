@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_11012",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.978,
+  "lines": [
+    {
+      "text": "NANCY MARSH",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-355-837-7880 |nancy.marsh@example.com",
+      "score": 0.9761,
+      "box": [
+        116,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hands School, 2020.08–2023.01",
+      "score": 0.9932,
+      "box": [
+        115,
+        289,
+        833,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9693,
+      "box": [
+        125,
+        313,
+        490,
+        339
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9638,
+      "box": [
+        126,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2016.05–2018.10",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        829,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9741,
+      "box": [
+        125,
+        406,
+        399,
+        431
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9644,
+      "box": [
+        126,
+        432,
+        428,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Educational Assistance, Rolling Hills University, 2009",
+      "score": 0.9874,
+      "box": [
+        114,
+        539,
+        699,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Fairway University, 2007",
+      "score": 0.9768,
+      "box": [
+        115,
+        566,
+        673,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9781,
+      "box": [
+        133,
+        590,
+        538,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9686,
+      "box": [
+        134,
+        616,
+        536,
+        639
+      ]
+    }
+  ]
+}

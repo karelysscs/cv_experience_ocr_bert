@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_46844",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "EMMIT NASH",
+      "score": 0.979,
+      "box": [
+        115,
+        88,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-270-416-9837 |emmit.nash@example.com",
+      "score": 0.9878,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Builders, 2020.12–2023.01",
+      "score": 0.9818,
+      "box": [
+        115,
+        290,
+        690,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9735,
+      "box": [
+        125,
+        314,
+        531,
+        337
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9732,
+      "box": [
+        127,
+        340,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2018.11–2020.12",
+      "score": 0.9907,
+      "box": [
+        115,
+        382,
+        699,
+        405
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.956,
+      "box": [
+        125,
+        406,
+        391,
+        431
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9792,
+      "box": [
+        126,
+        430,
+        415,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2014.11–2017.01",
+      "score": 0.9908,
+      "box": [
+        115,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9618,
+      "box": [
+        125,
+        496,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9639,
+      "box": [
+        126,
+        521,
+        361,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Infrastructure, Silverlake University, 205",
+      "score": 0.9767,
+      "box": [
+        114,
+        631,
+        808,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in building maintenance basics",
+      "score": 0.9821,
+      "box": [
+        133,
+        657,
+        652,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9724,
+      "box": [
+        134,
+        682,
+        485,
+        706
+      ]
+    }
+  ]
+}

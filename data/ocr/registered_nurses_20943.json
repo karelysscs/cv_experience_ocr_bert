@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_20943",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.833,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "TANEQUA ROSS",
+      "score": 0.9905,
+      "box": [
+        114,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-653-206-5893|tanequa.ross@example.com",
+      "score": 0.9893,
+      "box": [
+        116,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2020.07–2023.01",
+      "score": 0.9828,
+      "box": [
+        116,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9786,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9605,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2018.01–2020.07",
+      "score": 0.9778,
+      "box": [
+        116,
+        383,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.978,
+      "box": [
+        125,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9953,
+      "box": [
+        126,
+        430,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Health Group, 2015.07–2018.01",
+      "score": 0.9913,
+      "box": [
+        116,
+        473,
+        706,
+        496
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9778,
+      "box": [
+        125,
+        498,
+        452,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9724,
+      "box": [
+        126,
+        521,
+        466,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Support Services, Brookfield University, 2013",
+      "score": 0.9846,
+      "box": [
+        114,
+        631,
+        790,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of blood transfusion basics",
+      "score": 0.9841,
+      "box": [
+        133,
+        657,
+        566,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9664,
+      "box": [
+        136,
+        683,
+        551,
+        706
+      ]
+    }
+  ]
+}

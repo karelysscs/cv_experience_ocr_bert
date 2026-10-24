@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_22708",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.835,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "HALEY WILKERSON",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-461-330-8109 |haley.wilkerson@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2020.04–2023.01",
+      "score": 0.9641,
+      "box": [
+        114,
+        289,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9829,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9949,
+      "box": [
+        127,
+        340,
+        402,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Elm Ridge University, 2021",
+      "score": 0.9696,
+      "box": [
+        115,
+        449,
+        563,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.9883,
+      "box": [
+        133,
+        474,
+        503,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in public sector accounting",
+      "score": 0.98,
+      "box": [
+        133,
+        498,
+        613,
+        523
+      ]
+    }
+  ]
+}

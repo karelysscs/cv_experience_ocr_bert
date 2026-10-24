@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_02077",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "ROBERT VANCE",
+      "score": 0.9645,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-477-625-5839|robert.vance@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2019.01–2023.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.986,
+      "box": [
+        126,
+        313,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9566,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2015.01–2019.01",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9923,
+      "box": [
+        126,
+        406,
+        567,
+        431
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9866,
+      "box": [
+        126,
+        431,
+        572,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2011.01–2015.01",
+      "score": 0.9872,
+      "box": [
+        116,
+        473,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9866,
+      "box": [
+        126,
+        498,
+        461,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9913,
+      "box": [
+        126,
+        521,
+        504,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Nursing Services, 2006.12–2011.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        565,
+        732,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9816,
+      "box": [
+        125,
+        589,
+        486,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9576,
+      "box": [
+        126,
+        613,
+        409,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Fairmont University, 2007",
+      "score": 0.985,
+      "box": [
+        115,
+        725,
+        663,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9736,
+      "box": [
+        132,
+        747,
+        663,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9916,
+      "box": [
+        134,
+        774,
+        450,
+        797
+      ]
+    }
+  ]
+}

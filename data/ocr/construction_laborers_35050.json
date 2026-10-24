@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_35050",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.024,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "RUDOLFO HAMILTON",
+      "score": 0.9753,
+      "box": [
+        116,
+        90,
+        467,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-661-763-7957|rudolfo.hamilton@example.com",
+      "score": 0.9745,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2019.10–2023.01",
+      "score": 0.9532,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.982,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9957,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2016.06–2019.10",
+      "score": 0.9766,
+      "box": [
+        115,
+        381,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9835,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9856,
+      "box": [
+        126,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2012.06–2015.10",
+      "score": 0.9848,
+      "box": [
+        115,
+        472,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "-Performed masonry work",
+      "score": 0.9845,
+      "box": [
+        124,
+        496,
+        377,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9611,
+      "box": [
+        126,
+        521,
+        444,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2008.03–2011.07",
+      "score": 0.976,
+      "box": [
+        116,
+        565,
+        746,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9714,
+      "box": [
+        126,
+        590,
+        489,
+        613
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9832,
+      "box": [
+        126,
+        613,
+        532,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Silverton High School, 1997",
+      "score": 0.9848,
+      "box": [
+        116,
+        724,
+        981,
+        746
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9905,
+      "box": [
+        132,
+        747,
+        465,
+        772
+      ]
+    }
+  ]
+}

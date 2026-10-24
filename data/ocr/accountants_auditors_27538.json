@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_27538",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.866,
+  "mean_conf": 0.9857,
+  "lines": [
+    {
+      "text": "VALERIE GILLESPIE",
+      "score": 0.9836,
+      "box": [
+        115,
+        90,
+        446,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-624-653-8480 |valerie.gillespie@example.com",
+      "score": 0.9743,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2021.01–2023.01",
+      "score": 0.9782,
+      "box": [
+        115,
+        290,
+        739,
+        312
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9888,
+      "box": [
+        126,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2017.01–2019.01",
+      "score": 0.9872,
+      "box": [
+        114,
+        381,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9907,
+      "box": [
+        126,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9903,
+      "box": [
+        126,
+        431,
+        481,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Hillside University, 2009",
+      "score": 0.976,
+      "box": [
+        115,
+        541,
+        625,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement analysis",
+      "score": 0.9899,
+      "box": [
+        132,
+        565,
+        598,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9904,
+      "box": [
+        133,
+        591,
+        526,
+        614
+      ]
+    }
+  ]
+}

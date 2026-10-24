@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_01544",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.998,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "MICHELE CRANE",
+      "score": 0.9713,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-377-606-3272|michele.crane@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2019.07–2023.01",
+      "score": 0.9807,
+      "box": [
+        114,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9668,
+      "box": [
+        127,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9712,
+      "box": [
+        126,
+        339,
+        494,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2015.12–2019.07",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        719,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9899,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9848,
+      "box": [
+        126,
+        430,
+        527,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2012.05–2015.12",
+      "score": 0.9789,
+      "box": [
+        114,
+        471,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9917,
+      "box": [
+        127,
+        498,
+        433,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9704,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2008.10–2012.05",
+      "score": 0.9849,
+      "box": [
+        116,
+        564,
+        677,
+        587
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9914,
+      "box": [
+        126,
+        590,
+        402,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9863,
+      "box": [
+        126,
+        614,
+        473,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Stonegate University, 2011",
+      "score": 0.9733,
+      "box": [
+        114,
+        723,
+        677,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9942,
+      "box": [
+        134,
+        748,
+        647,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9855,
+      "box": [
+        134,
+        772,
+        647,
+        797
+      ]
+    }
+  ]
+}

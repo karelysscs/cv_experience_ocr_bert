@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_47447",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.862,
+  "mean_conf": 0.9869,
+  "lines": [
+    {
+      "text": "MICHEAL MATTHEWS",
+      "score": 0.9752,
+      "box": [
+        117,
+        90,
+        472,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-767-739-4338 |micheal.matthews@example.com",
+      "score": 0.9788,
+      "box": [
+        116,
+        152,
+        708,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2020.03–2023.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9827,
+      "box": [
+        125,
+        314,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9801,
+      "box": [
+        127,
+        340,
+        373,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2017.05–2020.03",
+      "score": 0.9823,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9913,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9846,
+      "box": [
+        126,
+        431,
+        620,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearfield University, 2016",
+      "score": 0.9946,
+      "box": [
+        115,
+        541,
+        470,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9961,
+      "box": [
+        132,
+        564,
+        531,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9936,
+      "box": [
+        134,
+        591,
+        490,
+        614
+      ]
+    }
+  ]
+}

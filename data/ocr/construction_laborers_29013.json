@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_29013",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.953,
+  "mean_conf": 0.9781,
+  "lines": [
+    {
+      "text": "OMAR DYER",
+      "score": 0.9625,
+      "box": [
+        116,
+        90,
+        322,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-505-785-1651 |omar.dyer@example.com",
+      "score": 0.98,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2021.01–2023.01",
+      "score": 0.9873,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9545,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2019.01–2021.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9624,
+      "box": [
+        126,
+        406,
+        338,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9711,
+      "box": [
+        126,
+        430,
+        408,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2017.01–2019.01",
+      "score": 0.9882,
+      "box": [
+        116,
+        472,
+        703,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9771,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9841,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Coordination, Forest Hill University, 2020",
+      "score": 0.96,
+      "box": [
+        115,
+        631,
+        871,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9866,
+      "box": [
+        132,
+        656,
+        614,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9848,
+      "box": [
+        134,
+        681,
+        530,
+        706
+      ]
+    }
+  ]
+}

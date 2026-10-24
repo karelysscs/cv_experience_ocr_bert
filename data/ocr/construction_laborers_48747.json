@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_48747",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.764,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "ARMONICAREY",
+      "score": 0.9987,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-951-971-6168|armoni.carey@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2019.08–2021.11",
+      "score": 0.9775,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.957,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9684,
+      "box": [
+        126,
+        339,
+        555,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Fairhill High School, 2015",
+      "score": 0.972,
+      "box": [
+        115,
+        448,
+        815,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9689,
+      "box": [
+        132,
+        472,
+        541,
+        497
+      ]
+    }
+  ]
+}

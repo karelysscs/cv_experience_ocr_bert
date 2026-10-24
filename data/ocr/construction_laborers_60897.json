@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_60897",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9776,
+  "lines": [
+    {
+      "text": "SAMIR MURPHY",
+      "score": 0.9686,
+      "box": [
+        113,
+        86,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "WI,USA|+1-444-369-1238|samir.murphy@example.com",
+      "score": 0.9859,
+      "box": [
+        114,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2021.01–2023.01",
+      "score": 0.9928,
+      "box": [
+        114,
+        289,
+        746,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9674,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "– Managed workforce allocation",
+      "score": 0.9573,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2018.04–2020.05",
+      "score": 0.9838,
+      "box": [
+        115,
+        382,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9816,
+      "box": [
+        125,
+        407,
+        519,
+        430
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9781,
+      "box": [
+        126,
+        431,
+        414,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2015.09–2017.10",
+      "score": 0.9975,
+      "box": [
+        116,
+        472,
+        649,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9845,
+      "box": [
+        125,
+        496,
+        492,
+        521
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9756,
+      "box": [
+        126,
+        521,
+        503,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Materials, Sunfield University, 2012",
+      "score": 0.9672,
+      "box": [
+        115,
+        631,
+        819,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic carpentry",
+      "score": 0.9459,
+      "box": [
+        132,
+        656,
+        531,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9721,
+      "box": [
+        133,
+        681,
+        539,
+        706
+      ]
+    }
+  ]
+}

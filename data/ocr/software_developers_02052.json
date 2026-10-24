@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_02052",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.882,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "MADYSON FRANCIS",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-897-968-8676|madyson.francis@example.com",
+      "score": 0.9937,
+      "box": [
+        116,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2020.12–2023.01",
+      "score": 0.992,
+      "box": [
+        116,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.986,
+      "box": [
+        125,
+        313,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9655,
+      "box": [
+        126,
+        339,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2018.10–2020.12",
+      "score": 0.9761,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        501,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9792,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Stonebrook University, 2019",
+      "score": 0.9709,
+      "box": [
+        115,
+        541,
+        470,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone University, 2017",
+      "score": 0.9947,
+      "box": [
+        115,
+        566,
+        482,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.9666,
+      "box": [
+        132,
+        590,
+        501,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9701,
+      "box": [
+        133,
+        615,
+        605,
+        640
+      ]
+    }
+  ]
+}

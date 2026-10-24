@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_55112",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.909,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "JACOB LEACH",
+      "score": 0.9586,
+      "box": [
+        115,
+        88,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-902-584-8422 |jacob.leach@example.com",
+      "score": 0.9915,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2020.09–2023.01",
+      "score": 0.9826,
+      "box": [
+        115,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9808,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        515,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2018.05–2020.09",
+      "score": 0.9832,
+      "box": [
+        116,
+        382,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9639,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9768,
+      "box": [
+        127,
+        432,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2013.07–2015.11",
+      "score": 0.9881,
+      "box": [
+        116,
+        472,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9827,
+      "box": [
+        125,
+        497,
+        378,
+        522
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9857,
+      "box": [
+        126,
+        521,
+        500,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Maple Ridge University, 2007",
+      "score": 0.9698,
+      "box": [
+        116,
+        632,
+        641,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9898,
+      "box": [
+        131,
+        656,
+        599,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9635,
+      "box": [
+        134,
+        681,
+        469,
+        706
+      ]
+    }
+  ]
+}

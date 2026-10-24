@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_02447",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.776,
+  "mean_conf": 0.9868,
+  "lines": [
+    {
+      "text": "SHEILA MARKS",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-344-493-4761 |sheila.marks@example.com",
+      "score": 0.9922,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2018.06–2021.06",
+      "score": 0.9832,
+      "box": [
+        115,
+        289,
+        633,
+        314
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9824,
+      "box": [
+        125,
+        314,
+        398,
+        338
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        441,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Woodland University, 2009",
+      "score": 0.9864,
+      "box": [
+        115,
+        449,
+        610,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in acute care nursing",
+      "score": 0.9924,
+      "box": [
+        133,
+        473,
+        561,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9969,
+      "box": [
+        134,
+        499,
+        629,
+        522
+      ]
+    }
+  ]
+}

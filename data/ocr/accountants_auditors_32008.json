@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_32008",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.837,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "SERINAYODER",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-219-779-1189|serina.yoder@example.com",
+      "score": 0.9957,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2020.12–2023.01",
+      "score": 0.9802,
+      "box": [
+        115,
+        289,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9813,
+      "box": [
+        127,
+        315,
+        432,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9944,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, International Business, Silver Ridge University, 2021",
+      "score": 0.9663,
+      "box": [
+        115,
+        448,
+        690,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Greenfield University, 2019",
+      "score": 0.9695,
+      "box": [
+        114,
+        472,
+        668,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9915,
+      "box": [
+        134,
+        499,
+        642,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.971,
+      "box": [
+        133,
+        522,
+        645,
+        548
+      ]
+    }
+  ]
+}

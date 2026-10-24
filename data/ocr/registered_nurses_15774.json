@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_15774",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.895,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "SANDRA SHORT",
+      "score": 0.9645,
+      "box": [
+        115,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-639-992-7480|sandra.short@example.com",
+      "score": 0.978,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2019.11–2023.01",
+      "score": 0.9933,
+      "box": [
+        115,
+        289,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9834,
+      "box": [
+        127,
+        315,
+        568,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9807,
+      "box": [
+        127,
+        340,
+        455,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2016.03–2019.05",
+      "score": 0.9869,
+      "box": [
+        116,
+        382,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9846,
+      "box": [
+        125,
+        405,
+        531,
+        431
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9652,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2012.03–2015.06",
+      "score": 0.9897,
+      "box": [
+        116,
+        472,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9808,
+      "box": [
+        124,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9782,
+      "box": [
+        126,
+        521,
+        438,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Golden Hills University, 2006",
+      "score": 0.9478,
+      "box": [
+        115,
+        632,
+        578,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.969,
+      "box": [
+        132,
+        656,
+        634,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9738,
+      "box": [
+        133,
+        681,
+        488,
+        706
+      ]
+    }
+  ]
+}

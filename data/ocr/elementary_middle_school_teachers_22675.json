@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_22675",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.951,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "STACEYWARD",
+      "score": 0.9982,
+      "box": [
+        115,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-553-286-5431 |stacey.ward@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2020.05–2023.01",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        827,
+        314
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9889,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9681,
+      "box": [
+        126,
+        339,
+        488,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Field School, 2015.07–2018.04",
+      "score": 0.9815,
+      "box": [
+        116,
+        382,
+        850,
+        406
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9926,
+      "box": [
+        126,
+        406,
+        457,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9909,
+      "box": [
+        127,
+        433,
+        415,
+        452
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2012.03–2014.12",
+      "score": 0.9897,
+      "box": [
+        116,
+        472,
+        878,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9575,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9822,
+      "box": [
+        127,
+        522,
+        529,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Sunfield University, 2003",
+      "score": 0.9752,
+      "box": [
+        115,
+        632,
+        714,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9727,
+      "box": [
+        133,
+        657,
+        564,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.9963,
+      "box": [
+        135,
+        683,
+        667,
+        706
+      ]
+    }
+  ]
+}

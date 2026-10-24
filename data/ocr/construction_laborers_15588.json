@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_15588",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "JOSEPH WEBB",
+      "score": 0.9699,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-828-917-5526|joseph.webb@example.com",
+      "score": 0.9884,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2020.08–2023.01",
+      "score": 0.9779,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9727,
+      "box": [
+        126,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        552,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2018.02–2020.8",
+      "score": 0.9897,
+      "box": [
+        116,
+        381,
+        647,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9691,
+      "box": [
+        126,
+        407,
+        512,
+        430
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.964,
+      "box": [
+        126,
+        432,
+        474,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Amber Hills High School, 2017",
+      "score": 0.9761,
+      "box": [
+        116,
+        541,
+        876,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.996,
+      "box": [
+        134,
+        566,
+        612,
+        589
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_23872",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.902,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "SAMANTHA MATHEWS",
+      "score": 0.9748,
+      "box": [
+        116,
+        90,
+        490,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-274-850-2689|samantha.mathews@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        726,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2021.02–2023.01",
+      "score": 0.9929,
+      "box": [
+        115,
+        290,
+        791,
+        313
+      ]
+    },
+    {
+      "text": "-Led instructional technology integration",
+      "score": 0.9493,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9852,
+      "box": [
+        126,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2019.03–2021.02",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        826,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9925,
+      "box": [
+        127,
+        407,
+        434,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9639,
+      "box": [
+        126,
+        432,
+        388,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Aspen Grove University, 2017",
+      "score": 0.9805,
+      "box": [
+        114,
+        539,
+        728,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9941,
+      "box": [
+        132,
+        564,
+        541,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9863,
+      "box": [
+        133,
+        589,
+        585,
+        614
+      ]
+    }
+  ]
+}

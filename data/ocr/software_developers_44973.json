@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_44973",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.91,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "CONRAD BOYD",
+      "score": 0.9716,
+      "box": [
+        116,
+        88,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-859-582-1630 |conrad.boyd@example.com",
+      "score": 0.9793,
+      "box": [
+        115,
+        150,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2019.11–2023.01",
+      "score": 0.9684,
+      "box": [
+        115,
+        289,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9846,
+      "box": [
+        125,
+        313,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9847,
+      "box": [
+        127,
+        340,
+        396,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2016.09–2019.11",
+      "score": 0.9651,
+      "box": [
+        114,
+        379,
+        677,
+        407
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9832,
+      "box": [
+        125,
+        407,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9848,
+      "box": [
+        126,
+        432,
+        374,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2013.07–2016.09",
+      "score": 0.9861,
+      "box": [
+        115,
+        472,
+        644,
+        496
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9924,
+      "box": [
+        126,
+        498,
+        458,
+        521
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9717,
+      "box": [
+        125,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2010.05–2013.07",
+      "score": 0.9918,
+      "box": [
+        114,
+        563,
+        646,
+        588
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9793,
+      "box": [
+        126,
+        590,
+        374,
+        613
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9811,
+      "box": [
+        125,
+        613,
+        400,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Rivercrest University, 2013",
+      "score": 0.9969,
+      "box": [
+        115,
+        723,
+        456,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Morningstar University, 2011",
+      "score": 0.9541,
+      "box": [
+        115,
+        748,
+        489,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9817,
+      "box": [
+        132,
+        773,
+        531,
+        796
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.9959,
+      "box": [
+        133,
+        798,
+        486,
+        820
+      ]
+    }
+  ]
+}

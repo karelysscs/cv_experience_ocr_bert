@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_23645",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "KRISTEN SHERMAN",
+      "score": 0.9816,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "ME, USA|+1-485-916-7349 |kristen.sherman@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassionate Path Medical, 2020.05–2023.01",
+      "score": 0.9794,
+      "box": [
+        116,
+        290,
+        746,
+        313
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9458,
+      "box": [
+        125,
+        314,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        397,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2014.12–2017.09",
+      "score": 0.9807,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9789,
+      "box": [
+        125,
+        406,
+        487,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9714,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Administration, Autumn Ridge University, 2005",
+      "score": 0.9941,
+      "box": [
+        114,
+        540,
+        802,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9913,
+      "box": [
+        133,
+        566,
+        602,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.991,
+      "box": [
+        133,
+        591,
+        500,
+        614
+      ]
+    }
+  ]
+}

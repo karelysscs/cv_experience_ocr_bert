@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_52660",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.79,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "LUIS KAUR",
+      "score": 0.9741,
+      "box": [
+        116,
+        90,
+        299,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-656-458-6008|luis.kaur@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        617,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2021.08–2023.01",
+      "score": 0.9965,
+      "box": [
+        116,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9728,
+      "box": [
+        126,
+        314,
+        604,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9576,
+      "box": [
+        126,
+        339,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Blue Ridge University, 2022",
+      "score": 0.9806,
+      "box": [
+        116,
+        449,
+        484,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9766,
+      "box": [
+        132,
+        472,
+        555,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9904,
+      "box": [
+        133,
+        498,
+        593,
+        523
+      ]
+    }
+  ]
+}

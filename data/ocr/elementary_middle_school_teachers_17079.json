@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_17079",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.975,
+  "mean_conf": 0.9763,
+  "lines": [
+    {
+      "text": "ANGELA PARSONS",
+      "score": 0.9694,
+      "box": [
+        116,
+        88,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA|+1-325-978-5435|angela.parsons@example.com",
+      "score": 0.979,
+      "box": [
+        117,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9782,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kindlewood School, 2020.11–2023.01",
+      "score": 0.9709,
+      "box": [
+        116,
+        290,
+        814,
+        313
+      ]
+    },
+    {
+      "text": "-Directed instructional planning processes",
+      "score": 0.9917,
+      "box": [
+        125,
+        313,
+        522,
+        340
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9651,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Litle Start School, 2018.09–2020.11",
+      "score": 0.9682,
+      "box": [
+        116,
+        382,
+        800,
+        406
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9694,
+      "box": [
+        128,
+        409,
+        544,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9776,
+      "box": [
+        126,
+        431,
+        548,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2015.03–2017.06",
+      "score": 0.9879,
+      "box": [
+        115,
+        471,
+        887,
+        496
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.983,
+      "box": [
+        125,
+        496,
+        530,
+        521
+      ]
+    },
+    {
+      "text": "– Monitored independent work sessions",
+      "score": 0.9842,
+      "box": [
+        127,
+        523,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Learning Skills, Oakridge Valley University, 2005",
+      "score": 0.9502,
+      "box": [
+        115,
+        631,
+        755,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.976,
+      "box": [
+        132,
+        656,
+        549,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9707,
+      "box": [
+        135,
+        682,
+        602,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+occupation,n,cer_mean,cer_median,wer_mean,wer_median,years_ref,years_hit,ranges_ref,ranges_hit,mean_conf,share_years_correct,share_ranges_correct
+accountants_auditors,800,0.0038,0.0036,0.0266,0.0246,5278,5173,2104,2054,0.9817,0.9801,0.9762
+construction_laborers,800,0.0032,0.0028,0.0223,0.0182,4433,4371,1806,1725,0.9815,0.986,0.9551
+elementary_middle_school_teachers,800,0.0039,0.0034,0.0269,0.0235,5103,4948,1964,1876,0.9818,0.9696,0.9552
+registered_nurses,800,0.0042,0.0038,0.0281,0.0253,4771,4693,1938,1897,0.9823,0.9837,0.9788
+software_developers,800,0.0048,0.0043,0.0325,0.0291,4890,4790,1902,1852,0.9821,0.9796,0.9737

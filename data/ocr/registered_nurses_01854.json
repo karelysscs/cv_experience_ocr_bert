@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_01854",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "ASHLEY LI",
+      "score": 0.959,
+      "box": [
+        116,
+        90,
+        294,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-586-419-7606|ashley.li@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        614,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2018.04–2021.02",
+      "score": 0.9948,
+      "box": [
+        116,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9854,
+      "box": [
+        126,
+        315,
+        420,
+        338
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9701,
+      "box": [
+        126,
+        339,
+        419,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Ridgeway University, 2008",
+      "score": 0.9683,
+      "box": [
+        115,
+        449,
+        663,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of health records management",
+      "score": 0.9883,
+      "box": [
+        132,
+        472,
+        604,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9855,
+      "box": [
+        132,
+        497,
+        619,
+        523
+      ]
+    }
+  ]
+}

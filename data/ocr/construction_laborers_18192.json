@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_18192",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "JOSHUA DANIELS",
+      "score": 0.9791,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-671-445-5316 |joshua.daniels@example.com",
+      "score": 0.9851,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2021.01–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        743,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9834,
+      "box": [
+        125,
+        314,
+        477,
+        339
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2019.01–2021.01",
+      "score": 0.9902,
+      "box": [
+        116,
+        382,
+        717,
+        405
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9822,
+      "box": [
+        125,
+        404,
+        361,
+        433
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9826,
+      "box": [
+        125,
+        430,
+        406,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Fundamentals, Silverview University, 2019",
+      "score": 0.9881,
+      "box": [
+        115,
+        539,
+        820,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9719,
+      "box": [
+        133,
+        566,
+        466,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9603,
+      "box": [
+        133,
+        591,
+        483,
+        615
+      ]
+    }
+  ]
+}

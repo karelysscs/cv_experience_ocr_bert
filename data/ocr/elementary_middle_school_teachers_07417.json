@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_07417",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.112,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "DELILAH MCDONALD",
+      "score": 0.9854,
+      "box": [
+        117,
+        90,
+        466,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-644-517-8427 |delilah.mcdonald@example.com",
+      "score": 0.9818,
+      "box": [
+        117,
+        151,
+        697,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2018.10–2023.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        289,
+        879,
+        314
+      ]
+    },
+    {
+      "text": "-Directed cross-grade curriculum alignment",
+      "score": 0.9956,
+      "box": [
+        125,
+        314,
+        536,
+        338
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9895,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2014.07–2018.10",
+      "score": 0.9904,
+      "box": [
+        115,
+        381,
+        830,
+        406
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9841,
+      "box": [
+        126,
+        406,
+        562,
+        431
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9949,
+      "box": [
+        126,
+        431,
+        562,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2010.03–2014.07",
+      "score": 0.9832,
+      "box": [
+        115,
+        472,
+        807,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9909,
+      "box": [
+        126,
+        497,
+        422,
+        519
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9719,
+      "box": [
+        127,
+        523,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2005.11–2010.03",
+      "score": 0.9755,
+      "box": [
+        116,
+        565,
+        843,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9919,
+      "box": [
+        125,
+        589,
+        458,
+        614
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9865,
+      "box": [
+        126,
+        613,
+        667,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Teaching Foundations, Ridgeway University, 2005",
+      "score": 0.9769,
+      "box": [
+        115,
+        725,
+        672,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Rockland University, 23",
+      "score": 0.9816,
+      "box": [
+        114,
+        747,
+        688,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9773,
+      "box": [
+        132,
+        772,
+        529,
+        796
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal setting",
+      "score": 0.981,
+      "box": [
+        132,
+        797,
+        603,
+        822
+      ]
+    }
+  ]
+}

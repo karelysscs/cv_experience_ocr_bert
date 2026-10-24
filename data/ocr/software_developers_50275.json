@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_50275",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.949,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "KENNETH NGUYEN",
+      "score": 0.9852,
+      "box": [
+        116,
+        90,
+        432,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-446-554-4080|kenneth.nguyen@example.com",
+      "score": 0.9773,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2020.04–2023.01",
+      "score": 0.9831,
+      "box": [
+        115,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9798,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9808,
+      "box": [
+        127,
+        339,
+        373,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2017.07–2020.04",
+      "score": 0.9949,
+      "box": [
+        116,
+        382,
+        690,
+        405
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9942,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.99,
+      "box": [
+        126,
+        431,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2014.10–2017.07",
+      "score": 0.9839,
+      "box": [
+        116,
+        472,
+        620,
+        496
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.987,
+      "box": [
+        125,
+        496,
+        374,
+        523
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9541,
+      "box": [
+        125,
+        521,
+        361,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Digital, 2009.11–2012.09",
+      "score": 0.9816,
+      "box": [
+        114,
+        563,
+        659,
+        589
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9841,
+      "box": [
+        125,
+        589,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.986,
+      "box": [
+        127,
+        615,
+        415,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Greenfield University, 2007",
+      "score": 0.9849,
+      "box": [
+        115,
+        723,
+        458,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 205",
+      "score": 0.9711,
+      "box": [
+        114,
+        747,
+        493,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.9937,
+      "box": [
+        133,
+        774,
+        472,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9804,
+      "box": [
+        134,
+        800,
+        583,
+        820
+      ]
+    }
+  ]
+}

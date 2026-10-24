@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_01785",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.869,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "JUAN FLOWERS",
+      "score": 0.9915,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-265-258-4497 |juan.flowers@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2020.04–2023.01",
+      "score": 0.9821,
+      "box": [
+        115,
+        289,
+        729,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9812,
+      "box": [
+        126,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9596,
+      "box": [
+        126,
+        338,
+        323,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial Group, 2017.06–2020.04",
+      "score": 0.9924,
+      "box": [
+        114,
+        381,
+        769,
+        406
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9869,
+      "box": [
+        127,
+        407,
+        546,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9737,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Forensic Accounting, Silver Creek University, 2018",
+      "score": 0.9943,
+      "box": [
+        115,
+        541,
+        677,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Bright Ridge University, 2016",
+      "score": 0.975,
+      "box": [
+        114,
+        564,
+        668,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9844,
+      "box": [
+        134,
+        592,
+        548,
+        612
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.9855,
+      "box": [
+        134,
+        616,
+        574,
+        639
+      ]
+    }
+  ]
+}

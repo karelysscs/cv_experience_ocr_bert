@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_27438",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.985,
+  "lines": [
+    {
+      "text": "LUCAS HICKMAN",
+      "score": 0.9901,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-477-891-3880|lucas.hickman@example.com",
+      "score": 0.9906,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9782,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2021.02–2023.01",
+      "score": 0.9718,
+      "box": [
+        114,
+        289,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9837,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9795,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2019.03–2021.02",
+      "score": 0.9922,
+      "box": [
+        115,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9749,
+      "box": [
+        125,
+        406,
+        362,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9966,
+      "box": [
+        127,
+        432,
+        452,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Horizon University, 2020",
+      "score": 0.9742,
+      "box": [
+        114,
+        539,
+        657,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9932,
+      "box": [
+        134,
+        566,
+        641,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9821,
+      "box": [
+        134,
+        590,
+        639,
+        613
+      ]
+    }
+  ]
+}

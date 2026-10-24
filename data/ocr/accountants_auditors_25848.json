@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_25848",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "JENNIFER DONOVAN",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        463,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-716-875-4373 |jennifer.donovan@example.com",
+      "score": 0.9876,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2020.05–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "– Managed consolidation processes",
+      "score": 0.963,
+      "box": [
+        125,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9741,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2017.09–2020.05",
+      "score": 0.983,
+      "box": [
+        114,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9787,
+      "box": [
+        127,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "-Managed accounts receivable cycles",
+      "score": 0.9847,
+      "box": [
+        125,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2012.02–2014.10",
+      "score": 0.9859,
+      "box": [
+        114,
+        471,
+        803,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9828,
+      "box": [
+        125,
+        496,
+        511,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9855,
+      "box": [
+        126,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Northview University, 2007",
+      "score": 0.9899,
+      "box": [
+        114,
+        631,
+        660,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9909,
+      "box": [
+        132,
+        656,
+        526,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of governmental auditing",
+      "score": 0.9968,
+      "box": [
+        134,
+        682,
+        584,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22587",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.773,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "SHELBY WELLS",
+      "score": 0.9685,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-479-709-1517 |shelby.wells@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Care, 2020.06–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9725,
+      "box": [
+        126,
+        314,
+        465,
+        337
+      ]
+    },
+    {
+      "text": "– Monitored patient skin condition",
+      "score": 0.9776,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Rolling Hills University, 2022",
+      "score": 0.9547,
+      "box": [
+        115,
+        449,
+        654,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in critical care basics",
+      "score": 0.9934,
+      "box": [
+        133,
+        474,
+        561,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9864,
+      "box": [
+        134,
+        499,
+        549,
+        523
+      ]
+    }
+  ]
+}

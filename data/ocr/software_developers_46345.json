@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_46345",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "PATRICKMCCARTY",
+      "score": 0.9991,
+      "box": [
+        115,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-957-215-7635|patrick.mccarty@example.com",
+      "score": 0.9865,
+      "box": [
+        115,
+        150,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2020.05–2023.01",
+      "score": 0.9707,
+      "box": [
+        115,
+        288,
+        658,
+        314
+      ]
+    },
+    {
+      "text": "-Built core libraries",
+      "score": 0.9823,
+      "box": [
+        125,
+        313,
+        309,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2017.09–2020.05",
+      "score": 0.9811,
+      "box": [
+        115,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.984,
+      "box": [
+        126,
+        405,
+        396,
+        430
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9892,
+      "box": [
+        126,
+        430,
+        401,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Software, 2014.12–2017.09",
+      "score": 0.9813,
+      "box": [
+        115,
+        471,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9674,
+      "box": [
+        126,
+        497,
+        377,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9701,
+      "box": [
+        126,
+        521,
+        604,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Granite Hill University, 2013",
+      "score": 0.9784,
+      "box": [
+        115,
+        632,
+        485,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9817,
+      "box": [
+        132,
+        656,
+        559,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9977,
+      "box": [
+        134,
+        682,
+        637,
+        707
+      ]
+    }
+  ]
+}

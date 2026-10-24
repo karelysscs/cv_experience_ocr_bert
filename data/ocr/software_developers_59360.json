@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_59360",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.861,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "JAMES CHOI",
+      "score": 0.9851,
+      "box": [
+        115,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-836-549-2684 |james.choi@example.com",
+      "score": 0.9756,
+      "box": [
+        114,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2020.12–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9703,
+      "box": [
+        127,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2018.11–2020.12",
+      "score": 0.9951,
+      "box": [
+        116,
+        382,
+        646,
+        405
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.953,
+      "box": [
+        126,
+        406,
+        388,
+        432
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9604,
+      "box": [
+        125,
+        430,
+        385,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2016.10–2018.11",
+      "score": 0.9829,
+      "box": [
+        116,
+        472,
+        630,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9909,
+      "box": [
+        125,
+        496,
+        478,
+        521
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9844,
+      "box": [
+        126,
+        521,
+        500,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Bright Ridge University, 2018",
+      "score": 0.9851,
+      "box": [
+        115,
+        632,
+        497,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9843,
+      "box": [
+        132,
+        656,
+        578,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9987,
+      "box": [
+        135,
+        683,
+        583,
+        706
+      ]
+    }
+  ]
+}

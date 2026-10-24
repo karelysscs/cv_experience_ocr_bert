@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_20149",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.938,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "MAX WHITNEY",
+      "score": 0.9786,
+      "box": [
+        116,
+        90,
+        357,
+        120
+      ]
+    },
+    {
+      "text": "IN, USA|+1-984-392-6113 |max.whitney@example.com",
+      "score": 0.9835,
+      "box": [
+        116,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2019.07–2021.08",
+      "score": 0.9827,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9799,
+      "box": [
+        125,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9793,
+      "box": [
+        126,
+        339,
+        452,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2016.02–2018.04",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9927,
+      "box": [
+        126,
+        407,
+        424,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9708,
+      "box": [
+        127,
+        432,
+        565,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Clearfield Ridge High School, 2010",
+      "score": 0.985,
+      "box": [
+        116,
+        541,
+        988,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in framing layout",
+      "score": 0.9798,
+      "box": [
+        134,
+        566,
+        522,
+        589
+      ]
+    }
+  ]
+}

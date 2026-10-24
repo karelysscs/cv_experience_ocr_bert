@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_48330",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.801,
+  "mean_conf": 0.9788,
+  "lines": [
+    {
+      "text": "JAYDEN COX",
+      "score": 0.9584,
+      "box": [
+        115,
+        88,
+        337,
+        122
+      ]
+    },
+    {
+      "text": "SD, USA|+1-417-208-9893 |jayden.cox@example.com",
+      "score": 0.9744,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2022.11–2023.01",
+      "score": 0.9783,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9721,
+      "box": [
+        125,
+        314,
+        419,
+        339
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9814,
+      "box": [
+        126,
+        339,
+        492,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Woodland High School, 2023",
+      "score": 0.981,
+      "box": [
+        116,
+        449,
+        867,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffolding assembly",
+      "score": 0.9834,
+      "box": [
+        132,
+        472,
+        573,
+        497
+      ]
+    }
+  ]
+}

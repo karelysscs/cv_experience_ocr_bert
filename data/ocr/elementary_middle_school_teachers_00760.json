@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_00760",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.987,
+  "mean_conf": 0.9778,
+  "lines": [
+    {
+      "text": "RUTH DAWSON",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-587-648-1259|ruth.dawson@example.com",
+      "score": 0.984,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2020.10–2023.01",
+      "score": 0.9778,
+      "box": [
+        116,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9796,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9679,
+      "box": [
+        126,
+        339,
+        601,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2018.06–2020.10",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        836,
+        406
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9626,
+      "box": [
+        128,
+        409,
+        544,
+        429
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9978,
+      "box": [
+        127,
+        431,
+        383,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2016.02–2018.06",
+      "score": 0.9843,
+      "box": [
+        114,
+        471,
+        856,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9604,
+      "box": [
+        126,
+        497,
+        411,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.974,
+      "box": [
+        126,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Educational Practice, Crestview University, 2016",
+      "score": 0.956,
+      "box": [
+        115,
+        632,
+        657,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Fieldview University, 2014",
+      "score": 0.9634,
+      "box": [
+        114,
+        656,
+        705,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of academic scaffolding",
+      "score": 0.9903,
+      "box": [
+        132,
+        681,
+        536,
+        706
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.976,
+      "box": [
+        132,
+        706,
+        525,
+        732
+      ]
+    }
+  ]
+}

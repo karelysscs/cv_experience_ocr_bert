@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_01339",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.838,
+  "mean_conf": 0.9857,
+  "lines": [
+    {
+      "text": "ROSALIE MCDONALD",
+      "score": 0.9908,
+      "box": [
+        116,
+        90,
+        470,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-594-281-4363|rosalie.mcdonald@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        151,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2021.10–2023.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        290,
+        855,
+        313
+      ]
+    },
+    {
+      "text": "-Collected permission forms",
+      "score": 0.9882,
+      "box": [
+        126,
+        314,
+        395,
+        339
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Clearview University, 2021",
+      "score": 0.9895,
+      "box": [
+        115,
+        449,
+        745,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9801,
+      "box": [
+        134,
+        475,
+        693,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal seting",
+      "score": 0.9717,
+      "box": [
+        133,
+        497,
+        603,
+        522
+      ]
+    }
+  ]
+}

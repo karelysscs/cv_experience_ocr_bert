@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_22408",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.895,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "NICOLE GIBBS",
+      "score": 0.9756,
+      "box": [
+        115,
+        88,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-338-838-3803 |nicole.gibbs@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2019.05–2022.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        289,
+        857,
+        314
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9688,
+      "box": [
+        126,
+        339,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2015.09–2018.06",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        856,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9619,
+      "box": [
+        126,
+        407,
+        387,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9906,
+      "box": [
+        126,
+        431,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Redfield University, 2007",
+      "score": 0.9721,
+      "box": [
+        115,
+        541,
+        612,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Brightfield University, 2005",
+      "score": 0.9882,
+      "box": [
+        114,
+        565,
+        658,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9828,
+      "box": [
+        135,
+        593,
+        641,
+        613
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9872,
+      "box": [
+        133,
+        615,
+        559,
+        639
+      ]
+    }
+  ]
+}

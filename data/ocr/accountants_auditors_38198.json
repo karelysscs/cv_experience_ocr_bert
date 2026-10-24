@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_38198",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.964,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "TAYLOR OCONNOR",
+      "score": 0.9812,
+      "box": [
+        115,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-672-620-6880|taylor.oconnor@example.com",
+      "score": 0.9907,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2020.04–2023.01",
+      "score": 0.9868,
+      "box": [
+        114,
+        288,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9733,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9812,
+      "box": [
+        127,
+        340,
+        520,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2017.06–2020.04",
+      "score": 0.9785,
+      "box": [
+        114,
+        381,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9773,
+      "box": [
+        127,
+        407,
+        553,
+        430
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9909,
+      "box": [
+        125,
+        430,
+        530,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2014.08–2017.06",
+      "score": 0.9562,
+      "box": [
+        114,
+        471,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9835,
+      "box": [
+        125,
+        496,
+        488,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9674,
+      "box": [
+        126,
+        522,
+        387,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2011.10–2014.08",
+      "score": 0.9922,
+      "box": [
+        115,
+        565,
+        757,
+        588
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9896,
+      "box": [
+        125,
+        588,
+        550,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9752,
+      "box": [
+        126,
+        613,
+        446,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Silverview University, 2011",
+      "score": 0.9762,
+      "box": [
+        115,
+        725,
+        634,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9902,
+      "box": [
+        133,
+        749,
+        600,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.9956,
+      "box": [
+        134,
+        774,
+        583,
+        797
+      ]
+    }
+  ]
+}

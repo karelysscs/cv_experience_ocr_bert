@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_21741",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.043,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "DANIELLE STEPHENS",
+      "score": 0.9855,
+      "box": [
+        117,
+        90,
+        474,
+        120
+      ]
+    },
+    {
+      "text": "KS, USA|+1-476-515-5465 |danielle.stephens@example.com",
+      "score": 0.9865,
+      "box": [
+        115,
+        150,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9763,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2020.06–2023.01",
+      "score": 0.9778,
+      "box": [
+        116,
+        290,
+        872,
+        313
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9787,
+      "box": [
+        126,
+        315,
+        686,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2017.11–2020.06",
+      "score": 0.9735,
+      "box": [
+        116,
+        382,
+        837,
+        405
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9515,
+      "box": [
+        127,
+        408,
+        396,
+        431
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9946,
+      "box": [
+        127,
+        432,
+        384,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2015.04–2017.11",
+      "score": 0.985,
+      "box": [
+        116,
+        472,
+        876,
+        496
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9664,
+      "box": [
+        127,
+        498,
+        571,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9886,
+      "box": [
+        126,
+        521,
+        564,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Educational Support, Evergreen University, 2018",
+      "score": 0.9828,
+      "box": [
+        115,
+        632,
+        658,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Windfield University, 2016",
+      "score": 0.9898,
+      "box": [
+        114,
+        656,
+        725,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9841,
+      "box": [
+        135,
+        684,
+        669,
+        704
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9921,
+      "box": [
+        132,
+        706,
+        597,
+        731
+      ]
+    }
+  ]
+}

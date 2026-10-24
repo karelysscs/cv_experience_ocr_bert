@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_10684",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.985,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "SHELBY HINTON",
+      "score": 0.9877,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA |+1-319-489-9900 |shelby.hinton@example.com",
+      "score": 0.959,
+      "box": [
+        117,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2019.11–202.01",
+      "score": 0.9884,
+      "box": [
+        114,
+        289,
+        772,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9873,
+      "box": [
+        126,
+        313,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9705,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2016.09–2019.11",
+      "score": 0.9725,
+      "box": [
+        115,
+        382,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9784,
+      "box": [
+        126,
+        407,
+        405,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9394,
+      "box": [
+        126,
+        430,
+        374,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2013.07–2016.9",
+      "score": 0.9835,
+      "box": [
+        114,
+        471,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9712,
+      "box": [
+        125,
+        496,
+        518,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9766,
+      "box": [
+        126,
+        521,
+        446,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Northfield University, 2015",
+      "score": 0.993,
+      "box": [
+        115,
+        632,
+        636,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Clear Ridge University, 2013",
+      "score": 0.9629,
+      "box": [
+        114,
+        656,
+        727,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial planning",
+      "score": 0.9884,
+      "box": [
+        132,
+        681,
+        502,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9805,
+      "box": [
+        131,
+        706,
+        452,
+        732
+      ]
+    }
+  ]
+}

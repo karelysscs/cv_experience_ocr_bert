@@ -1,0 +1,21 @@
+Model,band,n,MAE,Mean error
+Median,0-2,111,4.1313,4.1313
+Median,11-20,110,8.871,-8.871
+Median,3-5,188,1.4699,1.4699
+Median,6-10,191,2.0503,-2.0502
+TF-IDF + Ridge,0-2,111,0.6771,0.0191
+TF-IDF + Ridge,11-20,110,1.2901,-0.8176
+TF-IDF + Ridge,3-5,188,0.6963,0.1849
+TF-IDF + Ridge,6-10,191,0.7472,0.0284
+Embeddings + Ridge,0-2,111,1.2273,0.6343
+Embeddings + Ridge,11-20,110,1.9146,-1.5257
+Embeddings + Ridge,3-5,188,1.0447,0.1237
+Embeddings + Ridge,6-10,191,0.9422,0.1843
+Rule-based dates (bonus),0-2,111,0.2087,0.2087
+Rule-based dates (bonus),11-20,110,0.2653,-0.0212
+Rule-based dates (bonus),3-5,188,0.2272,0.0528
+Rule-based dates (bonus),6-10,191,0.3221,-0.0514
+Fine-tuned BERT,0-2,111,0.3254,-0.1506
+Fine-tuned BERT,11-20,110,0.4572,-0.2495
+Fine-tuned BERT,3-5,188,0.3456,-0.0462
+Fine-tuned BERT,6-10,191,0.3077,0.0136

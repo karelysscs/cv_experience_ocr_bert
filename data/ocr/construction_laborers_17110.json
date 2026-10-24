@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_17110",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.003,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "DESMON CANNON",
+      "score": 0.9796,
+      "box": [
+        117,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-808-345-3071 |desmon.cannon@example.com",
+      "score": 0.9723,
+      "box": [
+        117,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2019.11–2023.01",
+      "score": 0.988,
+      "box": [
+        115,
+        289,
+        675,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9785,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2016.09–2019.11",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        676,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9757,
+      "box": [
+        125,
+        406,
+        488,
+        430
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9658,
+      "box": [
+        126,
+        431,
+        477,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2013.07–2016.09",
+      "score": 0.9814,
+      "box": [
+        114,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9639,
+      "box": [
+        125,
+        496,
+        392,
+        521
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9845,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueRise Builders, 2008.12–2012.02",
+      "score": 0.984,
+      "box": [
+        114,
+        563,
+        675,
+        588
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.991,
+      "box": [
+        125,
+        589,
+        440,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9585,
+      "box": [
+        127,
+        615,
+        440,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Fairhill High School, 2003",
+      "score": 0.9735,
+      "box": [
+        116,
+        725,
+        822,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9837,
+      "box": [
+        132,
+        747,
+        607,
+        773
+      ]
+    }
+  ]
+}

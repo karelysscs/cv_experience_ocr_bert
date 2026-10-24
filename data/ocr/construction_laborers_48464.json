@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_48464",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.926,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "ORLANDO ROSS",
+      "score": 0.9878,
+      "box": [
+        116,
+        88,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA|+1-211-215-4449 |orlando.ross@example.com",
+      "score": 0.977,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2020.10–2023.01",
+      "score": 0.966,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "-Managed subcontractor coordination",
+      "score": 0.9682,
+      "box": [
+        125,
+        314,
+        480,
+        337
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9838,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2018.07–2020.10",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        732,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.974,
+      "box": [
+        125,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.99,
+      "box": [
+        125,
+        430,
+        397,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2014.02–2016.06",
+      "score": 0.989,
+      "box": [
+        115,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9917,
+      "box": [
+        126,
+        497,
+        424,
+        519
+      ]
+    },
+    {
+      "text": "-Marked measurements on materials",
+      "score": 0.9821,
+      "box": [
+        126,
+        522,
+        474,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Southridge High School, 2008",
+      "score": 0.9771,
+      "box": [
+        115,
+        631,
+        896,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9653,
+      "box": [
+        132,
+        656,
+        624,
+        681
+      ]
+    }
+  ]
+}

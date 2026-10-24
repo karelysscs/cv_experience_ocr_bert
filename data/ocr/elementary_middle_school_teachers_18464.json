@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_18464",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "AMBER HARDING",
+      "score": 0.9639,
+      "box": [
+        116,
+        88,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-905-705-9074 |amber.harding@example.com",
+      "score": 0.9749,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2019.06–2021.06",
+      "score": 0.9917,
+      "box": [
+        115,
+        289,
+        856,
+        314
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9691,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9802,
+      "box": [
+        126,
+        339,
+        438,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2016.03–2018.04",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        815,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9908,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9827,
+      "box": [
+        126,
+        432,
+        399,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Highland University, 2015",
+      "score": 0.9772,
+      "box": [
+        115,
+        541,
+        619,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Elm Valley University, 2013",
+      "score": 0.982,
+      "box": [
+        114,
+        564,
+        738,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in student motivation concepts",
+      "score": 0.9866,
+      "box": [
+        134,
+        590,
+        648,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9968,
+      "box": [
+        135,
+        616,
+        693,
+        639
+      ]
+    }
+  ]
+}

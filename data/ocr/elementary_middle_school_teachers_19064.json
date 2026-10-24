@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_19064",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.839,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "JASMINE COFFEY",
+      "score": 0.9648,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-971-425-8445 |jasmine.coffey@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9715,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2021.05–2023.01",
+      "score": 0.9794,
+      "box": [
+        116,
+        290,
+        816,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9861,
+      "box": [
+        126,
+        314,
+        656,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        412,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Education Preparation, Briar Ridge University, 2022",
+      "score": 0.9759,
+      "box": [
+        116,
+        449,
+        783,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9712,
+      "box": [
+        133,
+        474,
+        551,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9781,
+      "box": [
+        135,
+        500,
+        692,
+        520
+      ]
+    }
+  ]
+}

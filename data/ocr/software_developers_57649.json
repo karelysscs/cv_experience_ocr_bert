@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_57649",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "JONATHAN LIN",
+      "score": 0.9669,
+      "box": [
+        114,
+        87,
+        368,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-684-232-1080 |jonathan.lin@example.com",
+      "score": 0.9913,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2020.06–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        288,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9792,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9802,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2017.04–2019.12",
+      "score": 0.99,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9912,
+      "box": [
+        126,
+        406,
+        469,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9866,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2013.10–2016.06",
+      "score": 0.9901,
+      "box": [
+        115,
+        471,
+        632,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9942,
+      "box": [
+        125,
+        496,
+        509,
+        521
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9781,
+      "box": [
+        126,
+        520,
+        332,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9797,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Oakway University, 2004",
+      "score": 0.9689,
+      "box": [
+        115,
+        632,
+        439,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Valley View University, 2002",
+      "score": 0.9725,
+      "box": [
+        115,
+        658,
+        489,
+        681
+      ]
+    },
+    {
+      "text": "•Completed coursework in parallel computing",
+      "score": 0.9731,
+      "box": [
+        132,
+        681,
+        558,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.9785,
+      "box": [
+        132,
+        706,
+        505,
+        732
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_35432",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "ROBIN HERMAN",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-935-763-6499|robin.herman@example.com",
+      "score": 0.9952,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2020.08–2023.01",
+      "score": 0.9787,
+      "box": [
+        114,
+        289,
+        702,
+        314
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9675,
+      "box": [
+        127,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9783,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2018.03–2020.8",
+      "score": 0.9742,
+      "box": [
+        114,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9791,
+      "box": [
+        125,
+        406,
+        446,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9936,
+      "box": [
+        127,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2015.09–2018.03",
+      "score": 0.9706,
+      "box": [
+        114,
+        471,
+        757,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9749,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9876,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Stonewood University, 2016",
+      "score": 0.9815,
+      "box": [
+        114,
+        631,
+        649,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9811,
+      "box": [
+        132,
+        656,
+        493,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of revenue recognition",
+      "score": 0.9407,
+      "box": [
+        134,
+        681,
+        524,
+        706
+      ]
+    }
+  ]
+}

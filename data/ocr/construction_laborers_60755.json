@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_60755",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.798,
+  "mean_conf": 0.9872,
+  "lines": [
+    {
+      "text": "ZACHERY BISHOP",
+      "score": 0.9865,
+      "box": [
+        115,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA |+1-648-397-6532|zachery.bishop@example.com",
+      "score": 0.9786,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2022.05–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9798,
+      "box": [
+        126,
+        315,
+        475,
+        338
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9926,
+      "box": [
+        126,
+        339,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Riverstone High School, 2023",
+      "score": 0.9899,
+      "box": [
+        116,
+        449,
+        919,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.991,
+      "box": [
+        133,
+        474,
+        618,
+        497
+      ]
+    }
+  ]
+}

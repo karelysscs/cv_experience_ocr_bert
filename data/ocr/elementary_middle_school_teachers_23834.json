@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_23834",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.047,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "LEE POWELL",
+      "score": 0.9932,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-495-901-2935|lee.powell@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2019.07–2023.01",
+      "score": 0.9852,
+      "box": [
+        116,
+        290,
+        847,
+        314
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9865,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9821,
+      "box": [
+        127,
+        340,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Grove School, 2015.12–2019.07",
+      "score": 0.9862,
+      "box": [
+        116,
+        382,
+        843,
+        406
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9646,
+      "box": [
+        126,
+        407,
+        509,
+        429
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.98,
+      "box": [
+        126,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2012.05–2015.12",
+      "score": 0.9817,
+      "box": [
+        115,
+        472,
+        878,
+        496
+      ]
+    },
+    {
+      "text": "- Developed behavior management plans",
+      "score": 0.9796,
+      "box": [
+        125,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9883,
+      "box": [
+        126,
+        522,
+        509,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightWay School, 2008.10–2012.05",
+      "score": 0.9726,
+      "box": [
+        116,
+        565,
+        803,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9904,
+      "box": [
+        125,
+        589,
+        458,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9936,
+      "box": [
+        128,
+        616,
+        453,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, General Education, Sagewood University, 2008",
+      "score": 0.9689,
+      "box": [
+        115,
+        725,
+        645,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Maple Ridge University, 2006",
+      "score": 0.9708,
+      "box": [
+        114,
+        747,
+        723,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concept-based instruction",
+      "score": 0.9954,
+      "box": [
+        133,
+        773,
+        616,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.992,
+      "box": [
+        134,
+        799,
+        604,
+        822
+      ]
+    }
+  ]
+}

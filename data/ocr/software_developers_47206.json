@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_47206",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.771,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "LOGAN LONG",
+      "score": 0.9694,
+      "box": [
+        115,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "SC,USA|+1-434-992-3760|logan.long@example.com",
+      "score": 0.979,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2021.12–2023.01",
+      "score": 0.9966,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.989,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9721,
+      "box": [
+        126,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Seabreeze University, 2023",
+      "score": 0.968,
+      "box": [
+        115,
+        447,
+        626,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in distributed databases",
+      "score": 0.9725,
+      "box": [
+        133,
+        474,
+        588,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9987,
+      "box": [
+        134,
+        499,
+        548,
+        522
+      ]
+    }
+  ]
+}

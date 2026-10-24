@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18703",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.986,
+  "lines": [
+    {
+      "text": "JENNIFER BURNS",
+      "score": 0.9875,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-292-556-9925 |jennifer.burns@example.com",
+      "score": 0.9934,
+      "box": [
+        116,
+        152,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9916,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2020.08–2023.01",
+      "score": 0.9873,
+      "box": [
+        116,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9725,
+      "box": [
+        126,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9649,
+      "box": [
+        126,
+        338,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2018.03–2020.08",
+      "score": 0.9916,
+      "box": [
+        116,
+        382,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9924,
+      "box": [
+        125,
+        407,
+        373,
+        430
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9807,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2014.04–2016.09",
+      "score": 0.9893,
+      "box": [
+        115,
+        471,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9869,
+      "box": [
+        125,
+        496,
+        386,
+        522
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9929,
+      "box": [
+        125,
+        520,
+        353,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Cedarfield University, 2008",
+      "score": 0.9668,
+      "box": [
+        114,
+        631,
+        661,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9861,
+      "box": [
+        134,
+        658,
+        557,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9935,
+      "box": [
+        134,
+        681,
+        621,
+        706
+      ]
+    }
+  ]
+}

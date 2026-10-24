@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_59278",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.77,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JOSHUA HICKS",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-320-241-3341 |joshua.hicks@example.com",
+      "score": 0.9692,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2020.10–2023.01",
+      "score": 0.9863,
+      "box": [
+        116,
+        290,
+        615,
+        313
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9711,
+      "box": [
+        126,
+        314,
+        375,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Meadowcrest University, 2023",
+      "score": 0.9792,
+      "box": [
+        115,
+        448,
+        584,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9777,
+      "box": [
+        132,
+        472,
+        525,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.9752,
+      "box": [
+        134,
+        499,
+        527,
+        522
+      ]
+    }
+  ]
+}

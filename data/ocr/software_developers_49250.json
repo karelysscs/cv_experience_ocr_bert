@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_49250",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9773,
+  "lines": [
+    {
+      "text": "SARAH REED",
+      "score": 0.96,
+      "box": [
+        115,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-963-683-4500 |sarah.reed@example.com",
+      "score": 0.9658,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Solutions, 2020.09–2023.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9916,
+      "box": [
+        126,
+        314,
+        558,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9586,
+      "box": [
+        127,
+        340,
+        515,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2018.05–2020.09",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.9521,
+      "box": [
+        125,
+        406,
+        371,
+        431
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9619,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2013.06–2015.10",
+      "score": 0.9548,
+      "box": [
+        116,
+        472,
+        620,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9798,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9727,
+      "box": [
+        126,
+        521,
+        562,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2012",
+      "score": 0.9906,
+      "box": [
+        115,
+        632,
+        478,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9954,
+      "box": [
+        133,
+        658,
+        642,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9915,
+      "box": [
+        134,
+        681,
+        520,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_08899",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "CAELEY LEE",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-735-817-1017 |caeley.lee@example.com",
+      "score": 0.9839,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Litle Harbor School, 2020.09–2023.01",
+      "score": 0.9785,
+      "box": [
+        116,
+        290,
+        819,
+        313
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.974,
+      "box": [
+        125,
+        314,
+        534,
+        337
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9781,
+      "box": [
+        127,
+        340,
+        490,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2018.05–2020.09",
+      "score": 0.9849,
+      "box": [
+        115,
+        381,
+        855,
+        406
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9917,
+      "box": [
+        126,
+        407,
+        529,
+        429
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9707,
+      "box": [
+        125,
+        432,
+        409,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Clear Spring University, 2021",
+      "score": 0.9697,
+      "box": [
+        115,
+        541,
+        720,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.9826,
+      "box": [
+        133,
+        566,
+        530,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9686,
+      "box": [
+        133,
+        591,
+        590,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_17126",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "ISAAC MATHEWS",
+      "score": 0.9928,
+      "box": [
+        114,
+        88,
+        405,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA|+1-728-373-4258|isaac.mathews@example.com",
+      "score": 0.9942,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2019.11–2022.06",
+      "score": 0.9832,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9681,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2016.10–2019.5",
+      "score": 0.9836,
+      "box": [
+        115,
+        381,
+        728,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9878,
+      "box": [
+        125,
+        406,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9669,
+      "box": [
+        126,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Pinecrest High School, 2006",
+      "score": 0.9892,
+      "box": [
+        116,
+        541,
+        870,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9906,
+      "box": [
+        134,
+        566,
+        577,
+        589
+      ]
+    }
+  ]
+}

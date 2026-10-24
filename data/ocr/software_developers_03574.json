@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_03574",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "XAVIER KIM",
+      "score": 0.9897,
+      "box": [
+        113,
+        88,
+        314,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-476-335-2893|xavier.kim@example.com",
+      "score": 0.9831,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9903,
+      "box": [
+        116,
+        243,
+        316,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2020.03–2023.01",
+      "score": 0.9832,
+      "box": [
+        114,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9762,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2017.05–2020.03",
+      "score": 0.9898,
+      "box": [
+        115,
+        380,
+        646,
+        406
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.9877,
+      "box": [
+        125,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9762,
+      "box": [
+        126,
+        430,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2014.06–2017.05",
+      "score": 0.9914,
+      "box": [
+        115,
+        471,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.98,
+      "box": [
+        125,
+        496,
+        448,
+        521
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9631,
+      "box": [
+        127,
+        523,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Highland University, 2012",
+      "score": 0.9822,
+      "box": [
+        115,
+        632,
+        464,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9681,
+      "box": [
+        133,
+        657,
+        613,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.987,
+      "box": [
+        134,
+        681,
+        594,
+        706
+      ]
+    }
+  ]
+}

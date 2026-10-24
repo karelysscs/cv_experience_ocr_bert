@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_04729",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.86,
+  "mean_conf": 0.9773,
+  "lines": [
+    {
+      "text": "JACQUELINE SHAH",
+      "score": 0.9749,
+      "box": [
+        116,
+        90,
+        437,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-344-913-6291 |jacqueline.shah@example.com",
+      "score": 0.98,
+      "box": [
+        117,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2021.06–2023.01",
+      "score": 0.9666,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9574,
+      "box": [
+        126,
+        315,
+        395,
+        338
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9826,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Horizon University, 2023",
+      "score": 0.9749,
+      "box": [
+        115,
+        449,
+        681,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Pinehaven University, 2021",
+      "score": 0.9852,
+      "box": [
+        114,
+        472,
+        666,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9749,
+      "box": [
+        135,
+        500,
+        608,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9748,
+      "box": [
+        133,
+        522,
+        602,
+        547
+      ]
+    }
+  ]
+}

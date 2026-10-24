@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_28997",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "MATTHEW KRAMER",
+      "score": 0.9843,
+      "box": [
+        116,
+        90,
+        444,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-610-281-1631 |matthew.kramer@example.com",
+      "score": 0.9577,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2019.10–2023.01",
+      "score": 0.981,
+      "box": [
+        114,
+        289,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "-Directed site optimization initiatives",
+      "score": 0.9845,
+      "box": [
+        125,
+        313,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.985,
+      "box": [
+        126,
+        339,
+        464,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2016.07–2019.10",
+      "score": 0.9824,
+      "box": [
+        115,
+        382,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9915,
+      "box": [
+        125,
+        406,
+        404,
+        431
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.984,
+      "box": [
+        125,
+        429,
+        368,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Co., 2010.11–2014.02",
+      "score": 0.9861,
+      "box": [
+        115,
+        472,
+        664,
+        495
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9706,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9934,
+      "box": [
+        125,
+        521,
+        425,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Hawthorne High School, 2001",
+      "score": 0.9874,
+      "box": [
+        116,
+        632,
+        895,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9669,
+      "box": [
+        132,
+        657,
+        630,
+        680
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_29450",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.877,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "EDISON MAY",
+      "score": 0.9767,
+      "box": [
+        115,
+        88,
+        332,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA|+1-403-716-1547|edison.may@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2021.02–2023.01",
+      "score": 0.9771,
+      "box": [
+        115,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9717,
+      "box": [
+        125,
+        313,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9883,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2019.02–201.02",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        728,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.97,
+      "box": [
+        126,
+        407,
+        484,
+        429
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9814,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Supervision, Heritage University, 2023",
+      "score": 0.9956,
+      "box": [
+        115,
+        539,
+        782,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site leveling",
+      "score": 0.9921,
+      "box": [
+        133,
+        566,
+        488,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9815,
+      "box": [
+        135,
+        591,
+        612,
+        614
+      ]
+    }
+  ]
+}

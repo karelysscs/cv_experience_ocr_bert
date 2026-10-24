@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_10914",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.015,
+  "mean_conf": 0.9774,
+  "lines": [
+    {
+      "text": "WILLIAM CORDOVA",
+      "score": 0.9888,
+      "box": [
+        116,
+        90,
+        442,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-526-374-8098 |william.cordova@example.com",
+      "score": 0.9805,
+      "box": [
+        116,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2020.02–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        290,
+        790,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.983,
+      "box": [
+        126,
+        315,
+        513,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9595,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2017.03–2020.02",
+      "score": 0.9866,
+      "box": [
+        115,
+        382,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9769,
+      "box": [
+        125,
+        406,
+        520,
+        431
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9715,
+      "box": [
+        126,
+        429,
+        391,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2014.04–2017.03",
+      "score": 0.9804,
+      "box": [
+        115,
+        472,
+        774,
+        496
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9713,
+      "box": [
+        124,
+        496,
+        399,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.978,
+      "box": [
+        126,
+        522,
+        426,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2011.05–2014.04",
+      "score": 0.9729,
+      "box": [
+        115,
+        564,
+        721,
+        587
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9495,
+      "box": [
+        126,
+        590,
+        367,
+        611
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.966,
+      "box": [
+        127,
+        615,
+        436,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Investment Management, Meadowridge Valley University, 2010",
+      "score": 0.9733,
+      "box": [
+        115,
+        725,
+        792,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Fieldview University, 2008",
+      "score": 0.972,
+      "box": [
+        114,
+        747,
+        704,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9835,
+      "box": [
+        132,
+        772,
+        646,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9929,
+      "box": [
+        135,
+        800,
+        595,
+        820
+      ]
+    }
+  ]
+}

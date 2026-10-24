@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_47660",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.881,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "SHAUNGREENE",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-606-838-6383 |shaun.greene@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2021.01–2023.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9835,
+      "box": [
+        125,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9789,
+      "box": [
+        125,
+        338,
+        308,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2019.01–2021.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        382,
+        659,
+        405
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9895,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9841,
+      "box": [
+        126,
+        430,
+        373,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2016.12–2019.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9751,
+      "box": [
+        124,
+        496,
+        436,
+        522
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9699,
+      "box": [
+        125,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Harvest University, 2014",
+      "score": 0.9761,
+      "box": [
+        115,
+        632,
+        436,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowridge University, 2012",
+      "score": 0.9888,
+      "box": [
+        114,
+        656,
+        507,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9777,
+      "box": [
+        132,
+        680,
+        584,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of search algorithms",
+      "score": 0.9866,
+      "box": [
+        132,
+        706,
+        544,
+        731
+      ]
+    }
+  ]
+}

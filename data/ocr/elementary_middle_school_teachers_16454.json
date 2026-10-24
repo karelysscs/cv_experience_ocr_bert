@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_16454",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.937,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "STACYCARROLL",
+      "score": 0.9975,
+      "box": [
+        115,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-274-583-4014| stacy.carroll@example.com",
+      "score": 0.9767,
+      "box": [
+        116,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2019.09–2023.01",
+      "score": 0.9801,
+      "box": [
+        116,
+        289,
+        841,
+        312
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9651,
+      "box": [
+        126,
+        315,
+        562,
+        338
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.96,
+      "box": [
+        127,
+        340,
+        511,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Meadow Academy, 2016.05–2019.09",
+      "score": 0.9936,
+      "box": [
+        116,
+        382,
+        882,
+        406
+      ]
+    },
+    {
+      "text": "- Managed instructional timelines",
+      "score": 0.9781,
+      "box": [
+        126,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9723,
+      "box": [
+        126,
+        431,
+        418,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2013.01–2016.05",
+      "score": 0.9892,
+      "box": [
+        116,
+        472,
+        891,
+        496
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9794,
+      "box": [
+        125,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9926,
+      "box": [
+        128,
+        523,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, General Studies, Riverbend University, 2012",
+      "score": 0.9787,
+      "box": [
+        115,
+        632,
+        717,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9886,
+      "box": [
+        133,
+        656,
+        658,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9883,
+      "box": [
+        135,
+        682,
+        689,
+        705
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_02635",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "GILBERT QUINN",
+      "score": 0.9711,
+      "box": [
+        117,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-570-988-4499 |gilbert.quinn@example.com",
+      "score": 0.979,
+      "box": [
+        117,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2020.03–2023.01",
+      "score": 0.9872,
+      "box": [
+        116,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "-Created test data sets",
+      "score": 0.9921,
+      "box": [
+        125,
+        313,
+        347,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9585,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Goldenridge University, 2023",
+      "score": 0.9675,
+      "box": [
+        116,
+        449,
+        637,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9861,
+      "box": [
+        133,
+        474,
+        618,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.9826,
+      "box": [
+        133,
+        497,
+        645,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_14465",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.9783,
+  "lines": [
+    {
+      "text": "LEAH HORTON",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-397-792-7050|leah.horton@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIHands Health Group, 2020.11–2023.01",
+      "score": 0.9906,
+      "box": [
+        116,
+        290,
+        705,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9795,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2018.09–2020.11",
+      "score": 0.9805,
+      "box": [
+        116,
+        382,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9469,
+      "box": [
+        125,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.9548,
+      "box": [
+        126,
+        430,
+        467,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2013.08–2015.11",
+      "score": 0.993,
+      "box": [
+        116,
+        472,
+        729,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9585,
+      "box": [
+        125,
+        496,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9653,
+      "box": [
+        126,
+        522,
+        409,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Assisting, Forestview University, 2006",
+      "score": 0.9676,
+      "box": [
+        115,
+        632,
+        734,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9891,
+      "box": [
+        131,
+        655,
+        597,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9829,
+      "box": [
+        133,
+        681,
+        601,
+        706
+      ]
+    }
+  ]
+}

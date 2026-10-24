@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_36192",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "DANA HOLT",
+      "score": 0.9637,
+      "box": [
+        116,
+        90,
+        316,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-967-607-2173|dana.holt@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2020.10–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        289,
+        691,
+        312
+      ]
+    },
+    {
+      "text": "-Developed accounting innovation plans",
+      "score": 0.9702,
+      "box": [
+        125,
+        314,
+        506,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9675,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2018.07–2020.10",
+      "score": 0.9905,
+      "box": [
+        114,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9715,
+      "box": [
+        126,
+        406,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9907,
+      "box": [
+        127,
+        432,
+        459,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2014.07–2016.11",
+      "score": 0.9921,
+      "box": [
+        114,
+        471,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9721,
+      "box": [
+        125,
+        496,
+        573,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9835,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Driftwood University, 2009",
+      "score": 0.9781,
+      "box": [
+        114,
+        630,
+        670,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9854,
+      "box": [
+        133,
+        657,
+        522,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9709,
+      "box": [
+        134,
+        681,
+        503,
+        707
+      ]
+    }
+  ]
+}

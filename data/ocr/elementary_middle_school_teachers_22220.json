@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_22220",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.073,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "HEIDI HANSON",
+      "score": 0.967,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-803-795-7282 |heidi.hanson@example.com",
+      "score": 0.9717,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2020.05–2023.01",
+      "score": 0.9769,
+      "box": [
+        116,
+        290,
+        824,
+        313
+      ]
+    },
+    {
+      "text": "-Directed instructional planning processes",
+      "score": 0.9812,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9941,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2017.09–2020.05",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        874,
+        406
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9817,
+      "box": [
+        126,
+        406,
+        522,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9915,
+      "box": [
+        126,
+        431,
+        577,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2013.08–2016.05",
+      "score": 0.983,
+      "box": [
+        114,
+        471,
+        817,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9888,
+      "box": [
+        125,
+        498,
+        471,
+        521
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9893,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2010.02–2012.11",
+      "score": 0.9761,
+      "box": [
+        116,
+        565,
+        819,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9947,
+      "box": [
+        126,
+        590,
+        412,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9858,
+      "box": [
+        127,
+        614,
+        459,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Silverwood University, 2007",
+      "score": 0.986,
+      "box": [
+        115,
+        725,
+        683,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in social-emotional learning basics",
+      "score": 0.9838,
+      "box": [
+        133,
+        749,
+        685,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.9871,
+      "box": [
+        134,
+        773,
+        586,
+        796
+      ]
+    }
+  ]
+}

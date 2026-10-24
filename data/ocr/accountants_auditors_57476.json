@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_57476",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.902,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "MICHELLE VANG",
+      "score": 0.9735,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-691-880-7906|michelle.vang@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2021.05–2023.01",
+      "score": 0.9784,
+      "box": [
+        114,
+        289,
+        719,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9745,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9643,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2017.08–2019.05",
+      "score": 0.9851,
+      "box": [
+        115,
+        382,
+        701,
+        405
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9783,
+      "box": [
+        125,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9748,
+      "box": [
+        125,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Auditing, Willow Ridge University, 2009",
+      "score": 0.9399,
+      "box": [
+        116,
+        541,
+        667,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9885,
+      "box": [
+        131,
+        564,
+        539,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial management",
+      "score": 0.9919,
+      "box": [
+        132,
+        590,
+        585,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18145",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "DESIRAE POPE",
+      "score": 0.9739,
+      "box": [
+        115,
+        87,
+        370,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA|+1-608-563-4245|desirae.pope@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2020.02–2023.01",
+      "score": 0.9856,
+      "box": [
+        116,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9896,
+      "box": [
+        126,
+        314,
+        397,
+        339
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9748,
+      "box": [
+        127,
+        340,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2017.02–2020.02",
+      "score": 0.9768,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9758,
+      "box": [
+        125,
+        405,
+        470,
+        432
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.992,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2011.04–2014.04",
+      "score": 0.9859,
+      "box": [
+        116,
+        473,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9733,
+      "box": [
+        126,
+        521,
+        409,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Clearwood University, 207",
+      "score": 0.9711,
+      "box": [
+        114,
+        631,
+        681,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient discharge planning",
+      "score": 0.9888,
+      "box": [
+        133,
+        658,
+        632,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9955,
+      "box": [
+        135,
+        683,
+        582,
+        706
+      ]
+    }
+  ]
+}

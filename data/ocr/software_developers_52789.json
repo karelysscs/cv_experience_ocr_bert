@@ -1,0 +1,163 @@
+{
+  "id": "software_developers_52789",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "MARQUIS MURRAY",
+      "score": 0.9847,
+      "box": [
+        116,
+        90,
+        433,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-228-901-8325|marquis.murray@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2020.07–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        288,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "-Built fault-tolerant systems",
+      "score": 0.9862,
+      "box": [
+        125,
+        313,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2016.07–2019.02",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9904,
+      "box": [
+        126,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9735,
+      "box": [
+        126,
+        432,
+        478,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Woodview University, 2010",
+      "score": 0.9795,
+      "box": [
+        115,
+        541,
+        472,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, EIm Ridge University, 2005",
+      "score": 0.9701,
+      "box": [
+        115,
+        566,
+        478,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9827,
+      "box": [
+        132,
+        590,
+        559,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9819,
+      "box": [
+        132,
+        614,
+        600,
+        640
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9889,
+      "box": [
+        133,
+        641,
+        566,
+        664
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_51060",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.765,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "KYLE WELLS",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-286-675-3128|kyle.wells@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        627,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2020.06–2023.01",
+      "score": 0.9903,
+      "box": [
+        116,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9874,
+      "box": [
+        126,
+        314,
+        462,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9751,
+      "box": [
+        126,
+        339,
+        628,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield University, 2023",
+      "score": 0.9841,
+      "box": [
+        115,
+        449,
+        477,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9765,
+      "box": [
+        133,
+        474,
+        616,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9918,
+      "box": [
+        133,
+        497,
+        484,
+        523
+      ]
+    }
+  ]
+}

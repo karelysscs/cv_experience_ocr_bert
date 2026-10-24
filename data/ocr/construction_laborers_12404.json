@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_12404",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "JOSE HINES",
+      "score": 0.9529,
+      "box": [
+        115,
+        88,
+        320,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-459-528-8410 |jose.hines@example.com",
+      "score": 0.9786,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2021.01–2023.01",
+      "score": 0.9833,
+      "box": [
+        114,
+        289,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9561,
+      "box": [
+        126,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.977,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2018.12–2021.01",
+      "score": 0.9943,
+      "box": [
+        115,
+        382,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9966,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9768,
+      "box": [
+        125,
+        429,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2014.04–2016.05",
+      "score": 0.989,
+      "box": [
+        115,
+        472,
+        727,
+        495
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9757,
+      "box": [
+        125,
+        496,
+        532,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9834,
+      "box": [
+        126,
+        521,
+        489,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Clearhaven High School, 2012",
+      "score": 0.9973,
+      "box": [
+        116,
+        632,
+        860,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9906,
+      "box": [
+        133,
+        657,
+        631,
+        680
+      ]
+    }
+  ]
+}

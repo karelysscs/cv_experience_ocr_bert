@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_52020",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.843,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "TEMPEST PARK",
+      "score": 0.9765,
+      "box": [
+        115,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-726-347-8220|tempest.park@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2020.01–2023.01",
+      "score": 0.9858,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9781,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9588,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2017.01–2020.01",
+      "score": 0.9937,
+      "box": [
+        115,
+        381,
+        636,
+        406
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9766,
+      "box": [
+        127,
+        408,
+        601,
+        431
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9807,
+      "box": [
+        125,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Maple Ridge University, 2015",
+      "score": 0.9801,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowridge University, 2013",
+      "score": 0.9872,
+      "box": [
+        115,
+        566,
+        507,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.992,
+      "box": [
+        133,
+        590,
+        583,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in scripting languages",
+      "score": 0.9896,
+      "box": [
+        133,
+        615,
+        570,
+        641
+      ]
+    }
+  ]
+}

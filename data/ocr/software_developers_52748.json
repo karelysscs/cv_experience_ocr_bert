@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_52748",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.85,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "JEREMY COLEMAN",
+      "score": 0.9706,
+      "box": [
+        116,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-230-816-7132 |jeremy.coleman@example.com",
+      "score": 0.9779,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2020.10–2023.01",
+      "score": 0.9805,
+      "box": [
+        115,
+        289,
+        657,
+        314
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9808,
+      "box": [
+        127,
+        315,
+        469,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2017.04–2019.08",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9925,
+      "box": [
+        126,
+        406,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9801,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2010",
+      "score": 0.9799,
+      "box": [
+        115,
+        541,
+        474,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9819,
+      "box": [
+        134,
+        566,
+        600,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9782,
+      "box": [
+        132,
+        590,
+        558,
+        615
+      ]
+    }
+  ]
+}

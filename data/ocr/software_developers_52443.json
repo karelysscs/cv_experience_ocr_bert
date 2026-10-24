@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_52443",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.762,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "TYRONE ZHANG",
+      "score": 0.9808,
+      "box": [
+        115,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-729-549-2514|tyrone.zhang@example.com",
+      "score": 0.9959,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.976,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Digital, 2022.06–2022.07",
+      "score": 0.9802,
+      "box": [
+        116,
+        290,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9637,
+      "box": [
+        126,
+        314,
+        604,
+        339
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9715,
+      "box": [
+        127,
+        341,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2010",
+      "score": 0.9592,
+      "box": [
+        115,
+        449,
+        470,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9866,
+      "box": [
+        132,
+        472,
+        531,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in probability and statistics",
+      "score": 0.9878,
+      "box": [
+        134,
+        499,
+        611,
+        522
+      ]
+    }
+  ]
+}

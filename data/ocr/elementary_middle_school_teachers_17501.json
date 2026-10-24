@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_17501",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.901,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "THERESA BUTLER",
+      "score": 0.9797,
+      "box": [
+        115,
+        90,
+        422,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-483-560-5863 |theresa.butler@example.com",
+      "score": 0.9757,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2021.07–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        290,
+        841,
+        313
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9939,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9598,
+      "box": [
+        126,
+        339,
+        522,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2020.01–221.07",
+      "score": 0.9596,
+      "box": [
+        115,
+        381,
+        814,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9843,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9856,
+      "box": [
+        126,
+        431,
+        339,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Rockland University, 2022",
+      "score": 0.9695,
+      "box": [
+        114,
+        539,
+        742,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9716,
+      "box": [
+        133,
+        566,
+        630,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9922,
+      "box": [
+        133,
+        590,
+        678,
+        615
+      ]
+    }
+  ]
+}

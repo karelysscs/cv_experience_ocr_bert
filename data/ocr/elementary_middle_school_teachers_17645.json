@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_17645",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.902,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "TIMOTHY OWEN",
+      "score": 0.9704,
+      "box": [
+        115,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-571-359-1989 |timothy.owen@example.com",
+      "score": 0.9844,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9766,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2020.11–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        289,
+        834,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9805,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9966,
+      "box": [
+        127,
+        340,
+        509,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2018.08–2020.11",
+      "score": 0.9808,
+      "box": [
+        115,
+        381,
+        812,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9692,
+      "box": [
+        126,
+        407,
+        486,
+        429
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9777,
+      "box": [
+        125,
+        430,
+        667,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Education Basics, Northfield University, 220",
+      "score": 0.9616,
+      "box": [
+        115,
+        541,
+        623,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Pine Valley University, 2018",
+      "score": 0.9887,
+      "box": [
+        115,
+        566,
+        670,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in social-emotional learning basics",
+      "score": 0.9931,
+      "box": [
+        134,
+        590,
+        685,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9871,
+      "box": [
+        133,
+        615,
+        531,
+        640
+      ]
+    }
+  ]
+}

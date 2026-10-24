@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_24974",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.856,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "CHASE MAYO",
+      "score": 0.9941,
+      "box": [
+        116,
+        88,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA| +1-662-872-4905|chase.mayo@example.com",
+      "score": 0.9839,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2020.12–2023.01",
+      "score": 0.9924,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9724,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9722,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2018.10–2020.12",
+      "score": 0.9827,
+      "box": [
+        115,
+        382,
+        765,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.982,
+      "box": [
+        125,
+        405,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9525,
+      "box": [
+        125,
+        430,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Information Systems, Rockland University, 2023",
+      "score": 0.9612,
+      "box": [
+        115,
+        541,
+        651,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Meadowview University, 2022",
+      "score": 0.9939,
+      "box": [
+        114,
+        565,
+        681,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9883,
+      "box": [
+        133,
+        590,
+        647,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of reconciliation procedures",
+      "score": 0.9825,
+      "box": [
+        134,
+        616,
+        574,
+        639
+      ]
+    }
+  ]
+}

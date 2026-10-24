@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_50378",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "JOSE LU",
+      "score": 0.9817,
+      "box": [
+        114,
+        88,
+        263,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-279-559-4686 |jose.lu@example.com",
+      "score": 0.9703,
+      "box": [
+        115,
+        150,
+        600,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2020.10–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        289,
+        642,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.979,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9812,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2018.07–2020.10",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9918,
+      "box": [
+        126,
+        407,
+        400,
+        430
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9607,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Tech, 2016.03–2018.07",
+      "score": 0.9895,
+      "box": [
+        116,
+        472,
+        643,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9889,
+      "box": [
+        125,
+        496,
+        390,
+        522
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9869,
+      "box": [
+        126,
+        521,
+        530,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Oakridge University, 2018",
+      "score": 0.9903,
+      "box": [
+        115,
+        632,
+        447,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverlake University, 2016",
+      "score": 0.9851,
+      "box": [
+        114,
+        656,
+        472,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9804,
+      "box": [
+        134,
+        683,
+        690,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.985,
+      "box": [
+        133,
+        706,
+        618,
+        731
+      ]
+    }
+  ]
+}

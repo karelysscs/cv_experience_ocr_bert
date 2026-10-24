@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_22955",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "RACHELLE RIVERS",
+      "score": 0.987,
+      "box": [
+        115,
+        88,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "LA, USA|+1-747-542-7528|rachelle.rivers@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2019.07–2021.06",
+      "score": 0.9755,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "-Managed clinical resource planning",
+      "score": 0.9841,
+      "box": [
+        125,
+        314,
+        468,
+        339
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.987,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2017.01–2019.01",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9925,
+      "box": [
+        126,
+        407,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9829,
+      "box": [
+        126,
+        430,
+        417,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Blue Ridge University, 2010",
+      "score": 0.9847,
+      "box": [
+        114,
+        539,
+        720,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic communication",
+      "score": 0.979,
+      "box": [
+        134,
+        566,
+        638,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.9917,
+      "box": [
+        134,
+        590,
+        557,
+        615
+      ]
+    }
+  ]
+}

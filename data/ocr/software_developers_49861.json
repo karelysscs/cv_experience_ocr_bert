@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_49861",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.783,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "IAN SNOW",
+      "score": 0.9786,
+      "box": [
+        114,
+        88,
+        291,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-537-216-2665 |ian.snow@example.com",
+      "score": 0.9661,
+      "box": [
+        115,
+        151,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2020.08–2023.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "– Maintained code repositories",
+      "score": 0.9619,
+      "box": [
+        127,
+        315,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9823,
+      "box": [
+        126,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Westview University, 2023",
+      "score": 0.9699,
+      "box": [
+        116,
+        449,
+        549,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9775,
+      "box": [
+        132,
+        473,
+        659,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of system design",
+      "score": 0.9913,
+      "box": [
+        133,
+        497,
+        475,
+        523
+      ]
+    }
+  ]
+}

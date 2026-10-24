@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_52987",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.968,
+  "mean_conf": 0.9858,
+  "lines": [
+    {
+      "text": "WILLIAM ZHANG",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-653-773-7175|william.zhang@example.com",
+      "score": 0.981,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2019.11–2023.01",
+      "score": 0.9859,
+      "box": [
+        115,
+        288,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9783,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9921,
+      "box": [
+        126,
+        338,
+        451,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2016.09–219.11",
+      "score": 0.9805,
+      "box": [
+        115,
+        381,
+        683,
+        406
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9813,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9876,
+      "box": [
+        126,
+        431,
+        478,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2013.07–2016.09",
+      "score": 0.9853,
+      "box": [
+        114,
+        470,
+        654,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9948,
+      "box": [
+        125,
+        498,
+        419,
+        521
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9668,
+      "box": [
+        125,
+        521,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2007.06–2010.08",
+      "score": 0.984,
+      "box": [
+        114,
+        563,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.983,
+      "box": [
+        126,
+        590,
+        374,
+        613
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9883,
+      "box": [
+        125,
+        613,
+        444,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Summit Ridge University, 205",
+      "score": 0.9821,
+      "box": [
+        115,
+        725,
+        494,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearbrook University, 2003",
+      "score": 0.993,
+      "box": [
+        114,
+        747,
+        483,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9915,
+      "box": [
+        131,
+        773,
+        503,
+        796
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9885,
+      "box": [
+        133,
+        799,
+        507,
+        822
+      ]
+    }
+  ]
+}

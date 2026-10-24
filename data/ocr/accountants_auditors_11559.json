@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_11559",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.933,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "ALEJANDRO OWENS",
+      "score": 0.9809,
+      "box": [
+        117,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "DE,USA|+1-507-952-1613 |alejandro.owens@example.com",
+      "score": 0.9772,
+      "box": [
+        116,
+        151,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2020.07–2023.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9766,
+      "box": [
+        126,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9814,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2018.01–2020.07",
+      "score": 0.9707,
+      "box": [
+        114,
+        381,
+        741,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9846,
+      "box": [
+        125,
+        406,
+        427,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9885,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2015.06–2018.01",
+      "score": 0.9842,
+      "box": [
+        115,
+        472,
+        693,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9907,
+      "box": [
+        125,
+        496,
+        555,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9635,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Cost Accounting, Bayside University, 2020",
+      "score": 0.9879,
+      "box": [
+        115,
+        632,
+        601,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Fairview Ridge University, 2018",
+      "score": 0.9833,
+      "box": [
+        114,
+        656,
+        730,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence evaluation",
+      "score": 0.9805,
+      "box": [
+        132,
+        681,
+        615,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9774,
+      "box": [
+        133,
+        706,
+        625,
+        731
+      ]
+    }
+  ]
+}

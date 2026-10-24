@@ -1,0 +1,223 @@
+{
+  "id": "software_developers_03625",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.026,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "CRAIG MOODY",
+      "score": 0.986,
+      "box": [
+        116,
+        88,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-225-576-6060 |craig.moody@example.com",
+      "score": 0.9775,
+      "box": [
+        116,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2019.02–2023.01",
+      "score": 0.9775,
+      "box": [
+        116,
+        290,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9776,
+      "box": [
+        126,
+        314,
+        561,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2015.03–2019.02",
+      "score": 0.9744,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9921,
+      "box": [
+        126,
+        406,
+        449,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9735,
+      "box": [
+        127,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2011.03–2015.03",
+      "score": 0.9774,
+      "box": [
+        115,
+        471,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9873,
+      "box": [
+        126,
+        498,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9739,
+      "box": [
+        126,
+        521,
+        419,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2007.03–2011.3",
+      "score": 0.9805,
+      "box": [
+        115,
+        563,
+        674,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9941,
+      "box": [
+        125,
+        588,
+        502,
+        614
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9705,
+      "box": [
+        125,
+        613,
+        364,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Doctorate, Woodland University, 2009",
+      "score": 0.9689,
+      "box": [
+        115,
+        724,
+        469,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookway University, 204",
+      "score": 0.938,
+      "box": [
+        115,
+        748,
+        473,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of agile methodologies",
+      "score": 0.9922,
+      "box": [
+        132,
+        771,
+        564,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.9864,
+      "box": [
+        134,
+        800,
+        486,
+        820
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.979,
+      "box": [
+        133,
+        822,
+        659,
+        848
+      ]
+    }
+  ]
+}

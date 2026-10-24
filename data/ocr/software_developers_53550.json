@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_53550",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.767,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "IAN SCHMIDT",
+      "score": 0.9874,
+      "box": [
+        115,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-711-690-9252|ian.schmidt@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2022.07–2023.01",
+      "score": 0.9852,
+      "box": [
+        116,
+        290,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9952,
+      "box": [
+        126,
+        314,
+        389,
+        338
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9942,
+      "box": [
+        126,
+        339,
+        340,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, North Ridge University, 2022",
+      "score": 0.9835,
+      "box": [
+        115,
+        449,
+        492,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.9686,
+      "box": [
+        132,
+        472,
+        623,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9786,
+      "box": [
+        132,
+        498,
+        498,
+        523
+      ]
+    }
+  ]
+}

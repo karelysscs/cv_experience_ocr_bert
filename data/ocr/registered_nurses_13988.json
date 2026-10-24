@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_13988",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.0,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "RODERICK MAY",
+      "score": 0.9805,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-666-590-9811 |roderick.may@example.com",
+      "score": 0.9897,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2019.09–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9686,
+      "box": [
+        126,
+        314,
+        468,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9534,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2016.05–2019.09",
+      "score": 0.9748,
+      "box": [
+        115,
+        381,
+        627,
+        406
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9918,
+      "box": [
+        126,
+        406,
+        459,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9811,
+      "box": [
+        126,
+        431,
+        470,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2012.12–2016.05",
+      "score": 0.9916,
+      "box": [
+        116,
+        473,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9907,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9678,
+      "box": [
+        125,
+        520,
+        497,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Spring Nursing, 2009.07–2012.12",
+      "score": 0.9832,
+      "box": [
+        116,
+        565,
+        691,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9505,
+      "box": [
+        124,
+        586,
+        385,
+        617
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9635,
+      "box": [
+        127,
+        615,
+        435,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Plainview University, 2012",
+      "score": 0.9616,
+      "box": [
+        114,
+        723,
+        672,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9926,
+      "box": [
+        133,
+        748,
+        558,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9981,
+      "box": [
+        134,
+        772,
+        680,
+        798
+      ]
+    }
+  ]
+}

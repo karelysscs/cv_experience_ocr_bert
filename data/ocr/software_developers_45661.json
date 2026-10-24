@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_45661",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.858,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "BRIAN REYNOLDS",
+      "score": 0.971,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-980-712-1466 |brian.reynolds@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital, 2019.10–2021.10",
+      "score": 0.975,
+      "box": [
+        114,
+        289,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9796,
+      "box": [
+        127,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9885,
+      "box": [
+        127,
+        340,
+        542,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2016.05–2018.06",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.99,
+      "box": [
+        126,
+        406,
+        390,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9846,
+      "box": [
+        126,
+        431,
+        620,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Edgewood University, 2006",
+      "score": 0.9929,
+      "box": [
+        114,
+        539,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9883,
+      "box": [
+        133,
+        565,
+        617,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9811,
+      "box": [
+        135,
+        591,
+        658,
+        614
+      ]
+    }
+  ]
+}

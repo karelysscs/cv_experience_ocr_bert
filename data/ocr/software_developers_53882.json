@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_53882",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.863,
+  "mean_conf": 0.9858,
+  "lines": [
+    {
+      "text": "ROBERT KRAMER",
+      "score": 0.9816,
+      "box": [
+        116,
+        90,
+        415,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-530-674-8401|robert.kramer@example.com",
+      "score": 0.9817,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2020.04–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9813,
+      "box": [
+        126,
+        314,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9895,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2017.07–2020.04",
+      "score": 0.995,
+      "box": [
+        116,
+        382,
+        668,
+        405
+      ]
+    },
+    {
+      "text": "- Improved APl performance",
+      "score": 0.9769,
+      "box": [
+        126,
+        406,
+        393,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9808,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2014.09–2017.07",
+      "score": 0.9928,
+      "box": [
+        115,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.98,
+      "box": [
+        127,
+        498,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9907,
+      "box": [
+        126,
+        521,
+        502,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, High Meadow University, 2012",
+      "score": 0.9839,
+      "box": [
+        114,
+        631,
+        589,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9825,
+      "box": [
+        132,
+        656,
+        593,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9821,
+      "box": [
+        134,
+        681,
+        559,
+        707
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_19328",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.771,
+  "mean_conf": 0.9748,
+  "lines": [
+    {
+      "text": "TAYLOR WARE",
+      "score": 0.9588,
+      "box": [
+        114,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-865-532-7687 |taylor.ware@example.com",
+      "score": 0.9762,
+      "box": [
+        116,
+        152,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Health Group, 2022.06–2023.01",
+      "score": 0.9713,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9876,
+      "box": [
+        125,
+        314,
+        528,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Meadowfield University, 2023",
+      "score": 0.9503,
+      "box": [
+        114,
+        447,
+        641,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9855,
+      "box": [
+        133,
+        474,
+        518,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of interdisciplinary care",
+      "score": 0.9645,
+      "box": [
+        133,
+        497,
+        570,
+        523
+      ]
+    }
+  ]
+}

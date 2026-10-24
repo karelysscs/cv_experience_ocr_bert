@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_03372",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.962,
+  "mean_conf": 0.9862,
+  "lines": [
+    {
+      "text": "BABYGIRLWANG",
+      "score": 0.999,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-425-993-6327 |babygirl.wang@example.com",
+      "score": 0.9928,
+      "box": [
+        117,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2020.05–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9908,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9798,
+      "box": [
+        126,
+        339,
+        468,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2017.09–2020.05",
+      "score": 0.9821,
+      "box": [
+        116,
+        383,
+        669,
+        406
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9886,
+      "box": [
+        125,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9889,
+      "box": [
+        126,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing, 2015.01–2017.09",
+      "score": 0.9916,
+      "box": [
+        116,
+        473,
+        647,
+        497
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9869,
+      "box": [
+        126,
+        498,
+        461,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.987,
+      "box": [
+        127,
+        523,
+        482,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2012.05–2015.01",
+      "score": 0.9931,
+      "box": [
+        116,
+        565,
+        714,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9691,
+      "box": [
+        125,
+        589,
+        384,
+        615
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9833,
+      "box": [
+        127,
+        615,
+        484,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Elmwood Ridge University, 2014",
+      "score": 0.9704,
+      "box": [
+        114,
+        723,
+        764,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9953,
+      "box": [
+        133,
+        749,
+        554,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9777,
+      "box": [
+        135,
+        775,
+        596,
+        795
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_47493",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "JOHN GARRISON",
+      "score": 0.9865,
+      "box": [
+        115,
+        88,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA|+1-852-923-3260 |john.garrison@example.com",
+      "score": 0.9698,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueRise Builders, 2020.03–2023.01",
+      "score": 0.9821,
+      "box": [
+        114,
+        288,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9566,
+      "box": [
+        126,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9736,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2017.05–2020.03",
+      "score": 0.9872,
+      "box": [
+        114,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9695,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9747,
+      "box": [
+        126,
+        430,
+        409,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2013.05–2016.04",
+      "score": 0.9821,
+      "box": [
+        115,
+        472,
+        676,
+        495
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9921,
+      "box": [
+        126,
+        497,
+        406,
+        520
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9959,
+      "box": [
+        126,
+        521,
+        583,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, North Ridge University, 204",
+      "score": 0.9615,
+      "box": [
+        115,
+        631,
+        793,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction terminology",
+      "score": 0.9804,
+      "box": [
+        132,
+        656,
+        615,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of site inspection checklists",
+      "score": 0.981,
+      "box": [
+        134,
+        681,
+        570,
+        706
+      ]
+    }
+  ]
+}

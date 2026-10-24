@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_06655",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.863,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "AL BLAKE",
+      "score": 0.9427,
+      "box": [
+        115,
+        88,
+        289,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-672-527-3032 |al.blake@example.com",
+      "score": 0.9778,
+      "box": [
+        116,
+        151,
+        614,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2020.06–2022.04",
+      "score": 0.9856,
+      "box": [
+        115,
+        289,
+        689,
+        313
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.989,
+      "box": [
+        126,
+        314,
+        477,
+        337
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9882,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2017.12–219.10",
+      "score": 0.9794,
+      "box": [
+        114,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9808,
+      "box": [
+        127,
+        408,
+        436,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9784,
+      "box": [
+        127,
+        432,
+        365,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Willowbrook University, 2005",
+      "score": 0.9647,
+      "box": [
+        114,
+        539,
+        717,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9805,
+      "box": [
+        133,
+        566,
+        511,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional judgment",
+      "score": 0.994,
+      "box": [
+        132,
+        590,
+        584,
+        615
+      ]
+    }
+  ]
+}

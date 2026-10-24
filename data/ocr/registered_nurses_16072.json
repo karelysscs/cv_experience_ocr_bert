@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_16072",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.791,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "BRYANNA RICE",
+      "score": 0.9663,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-825-335-5021 | bryanna.rice@example.com",
+      "score": 0.9739,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2022.05–2023.01",
+      "score": 0.9916,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9855,
+      "box": [
+        125,
+        313,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9815,
+      "box": [
+        127,
+        340,
+        484,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Shoreline University, 221",
+      "score": 0.988,
+      "box": [
+        116,
+        449,
+        669,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9908,
+      "box": [
+        133,
+        474,
+        602,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordiation",
+      "score": 0.9838,
+      "box": [
+        134,
+        498,
+        539,
+        520
+      ]
+    }
+  ]
+}

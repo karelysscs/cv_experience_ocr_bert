@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_55916",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.999,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "DEVINWILEY",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        335,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-957-609-3501 |devin.wiley@example.com",
+      "score": 0.9688,
+      "box": [
+        115,
+        150,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2020.06–2023.01",
+      "score": 0.985,
+      "box": [
+        114,
+        288,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9688,
+      "box": [
+        127,
+        315,
+        422,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9932,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2017.11–2020.06",
+      "score": 0.9768,
+      "box": [
+        116,
+        382,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9955,
+      "box": [
+        126,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9926,
+      "box": [
+        126,
+        431,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2015.04–2017.11",
+      "score": 0.9871,
+      "box": [
+        115,
+        472,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9957,
+      "box": [
+        127,
+        499,
+        337,
+        520
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9664,
+      "box": [
+        125,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2010.09–2013.04",
+      "score": 0.994,
+      "box": [
+        114,
+        563,
+        750,
+        588
+      ]
+    },
+    {
+      "text": "-Sorted building materials",
+      "score": 0.9677,
+      "box": [
+        126,
+        590,
+        370,
+        611
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9668,
+      "box": [
+        126,
+        615,
+        440,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Logistics, Seabreeze University, 2009",
+      "score": 0.9799,
+      "box": [
+        115,
+        723,
+        841,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9793,
+      "box": [
+        132,
+        748,
+        525,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9457,
+      "box": [
+        135,
+        775,
+        601,
+        795
+      ]
+    }
+  ]
+}

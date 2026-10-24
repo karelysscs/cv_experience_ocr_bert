@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_44313",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "RONALD NOLAN",
+      "score": 0.9819,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-413-268-8881 |ronald.nolan@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildLine Co., 2020.08–2023.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        288,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9747,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "– Managed workforce allocation",
+      "score": 0.9445,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2018.03–2020.08",
+      "score": 0.9855,
+      "box": [
+        115,
+        382,
+        718,
+        405
+      ]
+    },
+    {
+      "text": "-Prepared construction schedules",
+      "score": 0.9949,
+      "box": [
+        125,
+        407,
+        445,
+        430
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9959,
+      "box": [
+        126,
+        430,
+        396,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2014.04–2016.10",
+      "score": 0.9872,
+      "box": [
+        115,
+        472,
+        697,
+        495
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9892,
+      "box": [
+        125,
+        496,
+        360,
+        521
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9435,
+      "box": [
+        127,
+        522,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        584,
+        269,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Hawthorne High School, 2001",
+      "score": 0.9967,
+      "box": [
+        116,
+        632,
+        906,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of equipment calibration",
+      "score": 0.979,
+      "box": [
+        132,
+        657,
+        540,
+        680
+      ]
+    }
+  ]
+}

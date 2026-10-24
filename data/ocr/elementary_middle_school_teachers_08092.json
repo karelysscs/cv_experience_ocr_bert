@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_08092",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.991,
+  "mean_conf": 0.9778,
+  "lines": [
+    {
+      "text": "DAVID MCCARTY",
+      "score": 0.9696,
+      "box": [
+        114,
+        87,
+        400,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-513-472-5638 |david.mccarty@example.com",
+      "score": 0.9798,
+      "box": [
+        117,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2020.06–2023.01",
+      "score": 0.9625,
+      "box": [
+        116,
+        290,
+        832,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9813,
+      "box": [
+        126,
+        314,
+        578,
+        339
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9796,
+      "box": [
+        126,
+        339,
+        474,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2017.10–2020.06",
+      "score": 0.9849,
+      "box": [
+        115,
+        381,
+        830,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9692,
+      "box": [
+        127,
+        407,
+        548,
+        430
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9833,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2012.04–2014.12",
+      "score": 0.982,
+      "box": [
+        115,
+        471,
+        874,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9703,
+      "box": [
+        126,
+        498,
+        466,
+        521
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Valley View University, 2007",
+      "score": 0.956,
+      "box": [
+        114,
+        631,
+        717,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Greenwood University, 2005",
+      "score": 0.9773,
+      "box": [
+        114,
+        656,
+        689,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.977,
+      "box": [
+        132,
+        681,
+        488,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9933,
+      "box": [
+        133,
+        706,
+        642,
+        730
+      ]
+    }
+  ]
+}

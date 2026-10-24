@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_51570",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.782,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "JAXON VILLANUEVA",
+      "score": 0.9877,
+      "box": [
+        116,
+        90,
+        455,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-758-631-8765|jaxon.villanueva@example.com",
+      "score": 0.9809,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2020.06–2023.01",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9662,
+      "box": [
+        125,
+        313,
+        318,
+        340
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9782,
+      "box": [
+        126,
+        338,
+        352,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Driftwood University, 2023",
+      "score": 0.9878,
+      "box": [
+        115,
+        449,
+        469,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9802,
+      "box": [
+        132,
+        472,
+        503,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in memory management",
+      "score": 0.9849,
+      "box": [
+        133,
+        498,
+        594,
+        523
+      ]
+    }
+  ]
+}

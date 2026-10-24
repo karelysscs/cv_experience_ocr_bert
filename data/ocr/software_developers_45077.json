@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_45077",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.763,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "MIGUEL REED",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-347-698-8049|miguel.reed@example.com",
+      "score": 0.9733,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2022.04–2022.06",
+      "score": 0.9827,
+      "box": [
+        116,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9919,
+      "box": [
+        125,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.987,
+      "box": [
+        127,
+        340,
+        377,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookridge University, 2016",
+      "score": 0.9573,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of system design",
+      "score": 0.9896,
+      "box": [
+        132,
+        472,
+        475,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of programming languages",
+      "score": 0.9779,
+      "box": [
+        132,
+        498,
+        567,
+        523
+      ]
+    }
+  ]
+}

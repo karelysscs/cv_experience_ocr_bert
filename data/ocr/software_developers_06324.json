@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_06324",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.824,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "ARIANA LEE",
+      "score": 0.9549,
+      "box": [
+        116,
+        90,
+        323,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-580-517-4765 | ariana.lee@example.com",
+      "score": 0.9678,
+      "box": [
+        116,
+        151,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2021.04–2023.01",
+      "score": 0.9837,
+      "box": [
+        114,
+        288,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9774,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9778,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2019.06–2021.04",
+      "score": 0.9966,
+      "box": [
+        116,
+        382,
+        644,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9931,
+      "box": [
+        126,
+        406,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9839,
+      "box": [
+        126,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Highland University, 2019",
+      "score": 0.9651,
+      "box": [
+        115,
+        541,
+        464,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in system programming",
+      "score": 0.9694,
+      "box": [
+        132,
+        565,
+        584,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9937,
+      "box": [
+        132,
+        590,
+        502,
+        615
+      ]
+    }
+  ]
+}

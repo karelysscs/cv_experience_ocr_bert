@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_28894",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.912,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "LILIA ESTES",
+      "score": 0.9904,
+      "box": [
+        116,
+        90,
+        321,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-299-237-7906|lilia.estes@example.com",
+      "score": 0.9833,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2019.01–2021.04",
+      "score": 0.9885,
+      "box": [
+        115,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9662,
+      "box": [
+        127,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2015.09–2017.12",
+      "score": 0.9951,
+      "box": [
+        115,
+        382,
+        666,
+        405
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9749,
+      "box": [
+        125,
+        406,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9895,
+      "box": [
+        126,
+        430,
+        417,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Risk Management, North Ridge University, 2005",
+      "score": 0.9819,
+      "box": [
+        116,
+        541,
+        815,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9827,
+      "box": [
+        133,
+        566,
+        686,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9908,
+      "box": [
+        134,
+        591,
+        702,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_21347",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.793,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "KYLE MARTIN",
+      "score": 0.9717,
+      "box": [
+        116,
+        90,
+        347,
+        120
+      ]
+    },
+    {
+      "text": "IA, USA|+1-589-771-9928 |kyle.martin@example.com",
+      "score": 0.975,
+      "box": [
+        116,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2020.12–2022.05",
+      "score": 0.9772,
+      "box": [
+        115,
+        289,
+        792,
+        312
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9791,
+      "box": [
+        127,
+        316,
+        546,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9725,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Crossfield University, 2006",
+      "score": 0.9832,
+      "box": [
+        115,
+        449,
+        803,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9809,
+      "box": [
+        132,
+        472,
+        512,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of revenue recognition",
+      "score": 0.9842,
+      "box": [
+        133,
+        499,
+        525,
+        522
+      ]
+    }
+  ]
+}

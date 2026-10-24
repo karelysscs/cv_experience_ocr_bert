@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_09100",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.887,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "TASHA LIN",
+      "score": 0.9591,
+      "box": [
+        113,
+        88,
+        298,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-694-841-1890 |tasha.lin@example.com",
+      "score": 0.9864,
+      "box": [
+        116,
+        151,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2018.12–2020.12",
+      "score": 0.9787,
+      "box": [
+        115,
+        289,
+        730,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9817,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9823,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2016.06–2018.06",
+      "score": 0.9936,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9923,
+      "box": [
+        126,
+        407,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9274,
+      "box": [
+        126,
+        432,
+        531,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Pine Valley University, 2011",
+      "score": 0.9767,
+      "box": [
+        114,
+        539,
+        640,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9816,
+      "box": [
+        133,
+        565,
+        557,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9836,
+      "box": [
+        134,
+        590,
+        590,
+        615
+      ]
+    }
+  ]
+}

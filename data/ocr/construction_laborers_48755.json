@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_48755",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.823,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "ALEJANDRO MILLS",
+      "score": 0.9773,
+      "box": [
+        117,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-223-569-5793 |alejandro.mills@example.com",
+      "score": 0.959,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2021.06–2023.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        740,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9923,
+      "box": [
+        127,
+        316,
+        367,
+        336
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9748,
+      "box": [
+        127,
+        340,
+        435,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Westbrook High School, 2019",
+      "score": 0.9784,
+      "box": [
+        116,
+        449,
+        864,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9831,
+      "box": [
+        134,
+        475,
+        630,
+        495
+      ]
+    }
+  ]
+}

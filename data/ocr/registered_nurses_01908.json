@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_01908",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.77,
+  "mean_conf": 0.9754,
+  "lines": [
+    {
+      "text": "LISA SHAH",
+      "score": 0.9741,
+      "box": [
+        116,
+        90,
+        298,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-772-896-6095|lisa.shah@example.com",
+      "score": 0.9839,
+      "box": [
+        116,
+        150,
+        620,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2020.11–201.09",
+      "score": 0.9746,
+      "box": [
+        116,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9497,
+      "box": [
+        127,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9565,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Pioneer University, 2006",
+      "score": 0.9856,
+      "box": [
+        115,
+        449,
+        577,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.9601,
+      "box": [
+        132,
+        472,
+        536,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.9859,
+      "box": [
+        132,
+        497,
+        466,
+        523
+      ]
+    }
+  ]
+}

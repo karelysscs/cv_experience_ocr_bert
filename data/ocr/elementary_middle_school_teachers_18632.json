@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18632",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.825,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "MADELINE MADDOX",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-671-801-3827 |madeline.maddox@example.com",
+      "score": 0.9912,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2021.05–2023.01",
+      "score": 0.9843,
+      "box": [
+        115,
+        290,
+        857,
+        313
+      ]
+    },
+    {
+      "text": "-Collected student assignments",
+      "score": 0.9977,
+      "box": [
+        125,
+        313,
+        428,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.983,
+      "box": [
+        127,
+        340,
+        459,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Hillcrest University, 2021",
+      "score": 0.9838,
+      "box": [
+        114,
+        447,
+        685,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9782,
+      "box": [
+        132,
+        472,
+        579,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9577,
+      "box": [
+        132,
+        497,
+        598,
+        523
+      ]
+    }
+  ]
+}

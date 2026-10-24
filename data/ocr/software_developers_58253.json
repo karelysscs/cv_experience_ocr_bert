@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58253",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.768,
+  "mean_conf": 0.9873,
+  "lines": [
+    {
+      "text": "NEIL MCCULLOUGH",
+      "score": 0.9921,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-384-246-1442|neil.mccullough@example.com",
+      "score": 0.9855,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2021.02–2021.07",
+      "score": 0.9919,
+      "box": [
+        116,
+        290,
+        674,
+        313
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9659,
+      "box": [
+        126,
+        313,
+        365,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Morningstar University, 2014",
+      "score": 0.9938,
+      "box": [
+        115,
+        449,
+        491,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.9818,
+      "box": [
+        132,
+        472,
+        572,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9879,
+      "box": [
+        134,
+        499,
+        605,
+        522
+      ]
+    }
+  ]
+}

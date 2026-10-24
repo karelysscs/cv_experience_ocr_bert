@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_27990",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "JORDAN BECK",
+      "score": 0.9849,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-492-602-1417 |jordan.beck@example.com",
+      "score": 0.983,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2020.08–2022.02",
+      "score": 0.9931,
+      "box": [
+        115,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "-Filed financial documents",
+      "score": 0.9956,
+      "box": [
+        125,
+        313,
+        379,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        402,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Fairview Ridge University, 2017",
+      "score": 0.9797,
+      "box": [
+        114,
+        448,
+        719,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Larkspur University, 2015",
+      "score": 0.977,
+      "box": [
+        115,
+        474,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of social responsibility reporting",
+      "score": 0.9915,
+      "box": [
+        133,
+        498,
+        610,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance measurement",
+      "score": 0.9716,
+      "box": [
+        134,
+        523,
+        639,
+        546
+      ]
+    }
+  ]
+}

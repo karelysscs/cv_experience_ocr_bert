@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_20784",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.784,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "SINEAD HINES",
+      "score": 0.9807,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-933-690-4109 |sinead.hines@example.com",
+      "score": 0.9869,
+      "box": [
+        116,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2021.02–2023.01",
+      "score": 0.9915,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9795,
+      "box": [
+        126,
+        315,
+        420,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9686,
+      "box": [
+        126,
+        338,
+        372,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Bright Ridge University, 2023",
+      "score": 0.9776,
+      "box": [
+        114,
+        447,
+        699,
+        472
+      ]
+    },
+    {
+      "text": "•Completed coursework in continence management",
+      "score": 0.9843,
+      "box": [
+        132,
+        473,
+        620,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of diet therapy basics",
+      "score": 0.9829,
+      "box": [
+        133,
+        497,
+        553,
+        522
+      ]
+    }
+  ]
+}

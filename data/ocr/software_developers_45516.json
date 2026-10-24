@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_45516",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "EARL FRANK",
+      "score": 0.9767,
+      "box": [
+        114,
+        87,
+        337,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA|+1-551-293-6868|earl.frank@example.com",
+      "score": 0.9889,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2019.04–2023.01",
+      "score": 0.99,
+      "box": [
+        116,
+        290,
+        613,
+        313
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9916,
+      "box": [
+        126,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9915,
+      "box": [
+        126,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2015.06–2019.04",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9808,
+      "box": [
+        126,
+        407,
+        460,
+        430
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9788,
+      "box": [
+        127,
+        432,
+        407,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2011.08–2015.06",
+      "score": 0.9764,
+      "box": [
+        113,
+        470,
+        698,
+        498
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9855,
+      "box": [
+        126,
+        498,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        457,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2007.10–2011.08",
+      "score": 0.9864,
+      "box": [
+        114,
+        563,
+        621,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9733,
+      "box": [
+        126,
+        590,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9819,
+      "box": [
+        126,
+        613,
+        399,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone University, 2007",
+      "score": 0.9863,
+      "box": [
+        115,
+        724,
+        481,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9481,
+      "box": [
+        132,
+        748,
+        557,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9978,
+      "box": [
+        134,
+        774,
+        713,
+        797
+      ]
+    }
+  ]
+}

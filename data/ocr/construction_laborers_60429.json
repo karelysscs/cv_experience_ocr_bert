@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_60429",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.916,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "JOSUE HUTCHINSON",
+      "score": 0.9938,
+      "box": [
+        115,
+        88,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA|+1-321-889-2717 |josue.hutchinson@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2020.12–2023.01",
+      "score": 0.9786,
+      "box": [
+        115,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9788,
+      "box": [
+        125,
+        313,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9526,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueRise Builders, 2018.11–2020.12",
+      "score": 0.987,
+      "box": [
+        115,
+        381,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9945,
+      "box": [
+        125,
+        406,
+        425,
+        432
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.969,
+      "box": [
+        126,
+        432,
+        475,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Northcrest High School, 2018",
+      "score": 0.9958,
+      "box": [
+        116,
+        541,
+        870,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.982,
+      "box": [
+        133,
+        565,
+        666,
+        590
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "software_developers_00290",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.942,
+  "mean_conf": 0.9857,
+  "lines": [
+    {
+      "text": "JOSEPH DICKERSON",
+      "score": 0.9918,
+      "box": [
+        116,
+        90,
+        463,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-248-714-3116 |joseph.dickerson@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2020.02–2023.01",
+      "score": 0.9735,
+      "box": [
+        115,
+        288,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.965,
+      "box": [
+        126,
+        314,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9899,
+      "box": [
+        126,
+        338,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2017.03–2020.02",
+      "score": 0.993,
+      "box": [
+        114,
+        380,
+        710,
+        408
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9773,
+      "box": [
+        127,
+        407,
+        408,
+        430
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9847,
+      "box": [
+        126,
+        431,
+        538,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2013.08–2016.07",
+      "score": 0.9893,
+      "box": [
+        115,
+        471,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9877,
+      "box": [
+        126,
+        498,
+        421,
+        521
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9877,
+      "box": [
+        126,
+        521,
+        380,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Tech, 2010.03–2013.02",
+      "score": 0.9935,
+      "box": [
+        115,
+        563,
+        644,
+        588
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9872,
+      "box": [
+        125,
+        589,
+        562,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9831,
+      "box": [
+        126,
+        614,
+        628,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Lakeside High School, 2008",
+      "score": 0.9884,
+      "box": [
+        116,
+        725,
+        637,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9844,
+      "box": [
+        133,
+        747,
+        503,
+        771
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_21674",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.911,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "NICHOLAS ROJAS",
+      "score": 0.9762,
+      "box": [
+        114,
+        87,
+        418,
+        123
+      ]
+    },
+    {
+      "text": "KS, USA|+1-705-380-4885 |nicholas.rojas@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2020.08–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        522,
+        338
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9738,
+      "box": [
+        126,
+        339,
+        451,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2015.09–2018.02",
+      "score": 0.9964,
+      "box": [
+        116,
+        382,
+        726,
+        404
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9879,
+      "box": [
+        125,
+        406,
+        360,
+        431
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.979,
+      "box": [
+        126,
+        431,
+        540,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Practices, Cedar Ridge University, 2015",
+      "score": 0.9765,
+      "box": [
+        116,
+        541,
+        862,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.9942,
+      "box": [
+        133,
+        566,
+        504,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.977,
+      "box": [
+        134,
+        592,
+        582,
+        612
+      ]
+    }
+  ]
+}

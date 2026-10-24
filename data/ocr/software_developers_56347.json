@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_56347",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.9778,
+  "lines": [
+    {
+      "text": "NICHOLAS KHAN",
+      "score": 0.9773,
+      "box": [
+        114,
+        87,
+        400,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-375-390-9343 |nicholas.khan@example.com",
+      "score": 0.9885,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2020.11–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9604,
+      "box": [
+        125,
+        314,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9623,
+      "box": [
+        126,
+        339,
+        513,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2018.09–2020.11",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9647,
+      "box": [
+        126,
+        406,
+        604,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed APl documentation",
+      "score": 0.9615,
+      "box": [
+        126,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Hawthorne University, 2021",
+      "score": 0.9657,
+      "box": [
+        115,
+        541,
+        462,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Westbrook University, 2019",
+      "score": 0.9924,
+      "box": [
+        115,
+        566,
+        482,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9821,
+      "box": [
+        132,
+        590,
+        506,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9818,
+      "box": [
+        133,
+        615,
+        547,
+        640
+      ]
+    }
+  ]
+}

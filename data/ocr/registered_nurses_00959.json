@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_00959",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "MELODY INGRAM",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "AK, USA|+1-766-953-9251 |melody.ingram@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2019.12–2023.01",
+      "score": 0.995,
+      "box": [
+        116,
+        289,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9878,
+      "box": [
+        127,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2016.10–2019.12",
+      "score": 0.9831,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9667,
+      "box": [
+        125,
+        406,
+        425,
+        431
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9701,
+      "box": [
+        126,
+        430,
+        370,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2013.08–2016.10",
+      "score": 0.9861,
+      "box": [
+        116,
+        472,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Collected laboratory spcimens",
+      "score": 0.9833,
+      "box": [
+        124,
+        496,
+        434,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9621,
+      "box": [
+        126,
+        521,
+        384,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Greenway University, 2011",
+      "score": 0.9917,
+      "box": [
+        115,
+        631,
+        628,
+        654
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.9666,
+      "box": [
+        132,
+        656,
+        549,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9912,
+      "box": [
+        134,
+        682,
+        539,
+        705
+      ]
+    }
+  ]
+}

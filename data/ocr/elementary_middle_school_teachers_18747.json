@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_18747",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.864,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "TERRI WHITNEY",
+      "score": 0.9619,
+      "box": [
+        115,
+        90,
+        382,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-456-801-8337 |terri.whitney@example.com",
+      "score": 0.9781,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2020.05–2023.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9755,
+      "box": [
+        126,
+        315,
+        395,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9885,
+      "box": [
+        127,
+        340,
+        434,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Harvest University, 2019",
+      "score": 0.9707,
+      "box": [
+        115,
+        449,
+        577,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Goldenfield University, 2017",
+      "score": 0.9683,
+      "box": [
+        114,
+        472,
+        705,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9966,
+      "box": [
+        134,
+        499,
+        572,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9911,
+      "box": [
+        134,
+        523,
+        660,
+        548
+      ]
+    }
+  ]
+}

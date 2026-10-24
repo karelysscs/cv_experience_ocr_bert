@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_36263",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.018,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "BRIANTURNER",
+      "score": 0.9972,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-991-670-9271|brian.turner@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2017.12–2023.01",
+      "score": 0.9802,
+      "box": [
+        114,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9745,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.976,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Financial, 2012.11–2017.12",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9807,
+      "box": [
+        126,
+        405,
+        514,
+        432
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9767,
+      "box": [
+        126,
+        431,
+        512,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2007.10–2012.11",
+      "score": 0.9868,
+      "box": [
+        114,
+        471,
+        791,
+        496
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9709,
+      "box": [
+        126,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9672,
+      "box": [
+        126,
+        521,
+        459,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2002.09–2007.10",
+      "score": 0.9725,
+      "box": [
+        115,
+        564,
+        700,
+        587
+      ]
+    },
+    {
+      "text": "- Prepared account reconcilliations",
+      "score": 0.9697,
+      "box": [
+        125,
+        589,
+        444,
+        612
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9886,
+      "box": [
+        125,
+        613,
+        550,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Autumn Ridge University, 2004",
+      "score": 0.9811,
+      "box": [
+        115,
+        725,
+        635,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Redwood University, 2002",
+      "score": 0.9649,
+      "box": [
+        114,
+        747,
+        705,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.9945,
+      "box": [
+        135,
+        775,
+        546,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.979,
+      "box": [
+        134,
+        799,
+        690,
+        822
+      ]
+    }
+  ]
+}

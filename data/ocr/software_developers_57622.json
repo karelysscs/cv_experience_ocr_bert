@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_57622",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.773,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "JAKOB WEBB",
+      "score": 0.9645,
+      "box": [
+        116,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-706-780-7211 |jakob.webb@example.com",
+      "score": 0.9697,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2022.03–2023.01",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9822,
+      "box": [
+        126,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Valley View University, 2023",
+      "score": 0.9762,
+      "box": [
+        115,
+        449,
+        489,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9851,
+      "box": [
+        133,
+        474,
+        540,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9895,
+      "box": [
+        133,
+        498,
+        575,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_01816",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.849,
+  "mean_conf": 0.9875,
+  "lines": [
+    {
+      "text": "JAMES CAMPBELL",
+      "score": 0.9827,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-960-346-2227|james.campbell@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        151,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2020.07–2023.01",
+      "score": 0.9906,
+      "box": [
+        116,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9816,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9887,
+      "box": [
+        127,
+        340,
+        542,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2017.07–2020.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9743,
+      "box": [
+        126,
+        407,
+        360,
+        431
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9789,
+      "box": [
+        126,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2014.07–2017.01",
+      "score": 0.987,
+      "box": [
+        116,
+        472,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9935,
+      "box": [
+        128,
+        523,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenway University, 2011",
+      "score": 0.99,
+      "box": [
+        115,
+        632,
+        474,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9908,
+      "box": [
+        132,
+        656,
+        511,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9944,
+      "box": [
+        133,
+        681,
+        605,
+        707
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_23021",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.984,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "KATIE SHELTON",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-857-280-1681 | katie.shelton@example.com",
+      "score": 0.975,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2020.10–2023.01",
+      "score": 0.9865,
+      "box": [
+        116,
+        290,
+        873,
+        314
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9826,
+      "box": [
+        127,
+        315,
+        535,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        553,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2018.07–2020.10",
+      "score": 0.9867,
+      "box": [
+        116,
+        382,
+        829,
+        406
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9877,
+      "box": [
+        126,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9909,
+      "box": [
+        126,
+        430,
+        411,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2016.03–2018.07",
+      "score": 0.9859,
+      "box": [
+        116,
+        472,
+        874,
+        495
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9802,
+      "box": [
+        125,
+        498,
+        433,
+        521
+      ]
+    },
+    {
+      "text": "– Monitored independent work sessions",
+      "score": 0.9723,
+      "box": [
+        127,
+        523,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Maple Ridge University, 2016",
+      "score": 0.9857,
+      "box": [
+        114,
+        631,
+        737,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Westbrook University, 2014",
+      "score": 0.9843,
+      "box": [
+        115,
+        658,
+        628,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9808,
+      "box": [
+        132,
+        681,
+        559,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.9784,
+      "box": [
+        133,
+        706,
+        582,
+        731
+      ]
+    }
+  ]
+}

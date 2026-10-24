@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18097",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.911,
+  "mean_conf": 0.9796,
+  "lines": [
+    {
+      "text": "MELISSA AYERS",
+      "score": 0.9868,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-643-701-8310 |melissa.ayers@example.com",
+      "score": 0.9855,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2020.09–2023.01",
+      "score": 0.9615,
+      "box": [
+        115,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9695,
+      "box": [
+        127,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Care Group, 2018.04–2020.09",
+      "score": 0.9735,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9855,
+      "box": [
+        126,
+        407,
+        477,
+        429
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9901,
+      "box": [
+        127,
+        432,
+        458,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2014.09–2017.02",
+      "score": 0.9832,
+      "box": [
+        116,
+        472,
+        723,
+        496
+      ]
+    },
+    {
+      "text": "-Monitored oxygen therapy",
+      "score": 0.9768,
+      "box": [
+        125,
+        496,
+        384,
+        523
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9635,
+      "box": [
+        127,
+        523,
+        527,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Cedar Ridge University, 2012",
+      "score": 0.9712,
+      "box": [
+        114,
+        631,
+        701,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9819,
+      "box": [
+        134,
+        658,
+        551,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of pharmacology",
+      "score": 0.9752,
+      "box": [
+        134,
+        681,
+        471,
+        707
+      ]
+    }
+  ]
+}

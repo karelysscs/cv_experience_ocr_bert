@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_01471",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.951,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "MEGAN BOOTH",
+      "score": 0.9577,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-221-563-4099|megan.booth@example.com",
+      "score": 0.97,
+      "box": [
+        115,
+        150,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2018.09–2023.01",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9778,
+      "box": [
+        126,
+        314,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2014.04–2018.09",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.987,
+      "box": [
+        125,
+        406,
+        481,
+        432
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9917,
+      "box": [
+        126,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2009.11–2014.04",
+      "score": 0.994,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9721,
+      "box": [
+        124,
+        496,
+        452,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9658,
+      "box": [
+        126,
+        521,
+        415,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2005.06–2009.11",
+      "score": 0.9883,
+      "box": [
+        116,
+        565,
+        725,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9776,
+      "box": [
+        124,
+        588,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9919,
+      "box": [
+        126,
+        613,
+        476,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Goldenbrook University, 2011",
+      "score": 0.9547,
+      "box": [
+        114,
+        723,
+        728,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9933,
+      "box": [
+        133,
+        749,
+        625,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9894,
+      "box": [
+        136,
+        775,
+        588,
+        795
+      ]
+    }
+  ]
+}

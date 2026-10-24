@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_00074",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.838,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "DIANEVU",
+      "score": 0.998,
+      "box": [
+        115,
+        88,
+        279,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-312-522-1739 |diane.vu@example.com",
+      "score": 0.9741,
+      "box": [
+        116,
+        150,
+        616,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2018.11–2021.01",
+      "score": 0.9635,
+      "box": [
+        114,
+        289,
+        726,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.98,
+      "box": [
+        125,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9851,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Accounting, Sunnyside University, 2006",
+      "score": 0.976,
+      "box": [
+        115,
+        449,
+        575,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Blue Ridge University, 2004",
+      "score": 0.9785,
+      "box": [
+        114,
+        472,
+        655,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of operations management",
+      "score": 0.9866,
+      "box": [
+        133,
+        498,
+        606,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9685,
+      "box": [
+        135,
+        523,
+        684,
+        546
+      ]
+    }
+  ]
+}

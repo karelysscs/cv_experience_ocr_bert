@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_57597",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "JORDAN TRUONG",
+      "score": 0.9923,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-344-287-1700 |jordan.truong@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2020.07–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.98,
+      "box": [
+        125,
+        313,
+        409,
+        339
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9631,
+      "box": [
+        125,
+        338,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2017.12–2020.07",
+      "score": 0.9918,
+      "box": [
+        115,
+        380,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9837,
+      "box": [
+        125,
+        405,
+        400,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.979,
+      "box": [
+        127,
+        432,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Riverstone Digital, 2015.05–2017.12",
+      "score": 0.9765,
+      "box": [
+        115,
+        471,
+        660,
+        496
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9939,
+      "box": [
+        125,
+        498,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.981,
+      "box": [
+        126,
+        521,
+        562,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Pinehaven University, 2016",
+      "score": 0.992,
+      "box": [
+        115,
+        632,
+        462,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Pineview University, 2014",
+      "score": 0.9707,
+      "box": [
+        115,
+        657,
+        465,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9833,
+      "box": [
+        132,
+        681,
+        558,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9757,
+      "box": [
+        132,
+        706,
+        539,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "registered_nurses_21828",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.968,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "FELISHIA WU",
+      "score": 0.9646,
+      "box": [
+        114,
+        88,
+        336,
+        122
+      ]
+    },
+    {
+      "text": "KS, USA|+1-352-540-8847 |felishia.wu@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2019.10–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9825,
+      "box": [
+        127,
+        315,
+        457,
+        338
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2015.11–2019.03",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9907,
+      "box": [
+        126,
+        406,
+        532,
+        431
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9935,
+      "box": [
+        126,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2011.01–2014.05",
+      "score": 0.995,
+      "box": [
+        116,
+        473,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9771,
+      "box": [
+        126,
+        497,
+        352,
+        520
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9921,
+      "box": [
+        126,
+        521,
+        438,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, Medical Sciences, Stonehill University, 2009",
+      "score": 0.9749,
+      "box": [
+        115,
+        631,
+        628,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Briarwood University, 2004",
+      "score": 0.9762,
+      "box": [
+        114,
+        656,
+        660,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9976,
+      "box": [
+        134,
+        683,
+        610,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.987,
+      "box": [
+        133,
+        707,
+        500,
+        730
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9853,
+      "box": [
+        134,
+        731,
+        607,
+        753
+      ]
+    }
+  ]
+}

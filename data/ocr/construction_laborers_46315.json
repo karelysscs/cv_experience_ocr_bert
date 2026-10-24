@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_46315",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "JEFFREY LARSON",
+      "score": 0.9812,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-849-211-7203|jeffrey.larson@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2020.07–2023.01",
+      "score": 0.9838,
+      "box": [
+        114,
+        289,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9745,
+      "box": [
+        127,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9809,
+      "box": [
+        126,
+        339,
+        423,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2017.06–2019.12",
+      "score": 0.9858,
+      "box": [
+        116,
+        382,
+        689,
+        405
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9862,
+      "box": [
+        125,
+        405,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.968,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2013.11–2016.06",
+      "score": 0.9736,
+      "box": [
+        116,
+        472,
+        685,
+        495
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.981,
+      "box": [
+        127,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.984,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Brookside High School, 2012",
+      "score": 0.9868,
+      "box": [
+        115,
+        631,
+        945,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials handling",
+      "score": 0.9658,
+      "box": [
+        132,
+        656,
+        676,
+        681
+      ]
+    }
+  ]
+}

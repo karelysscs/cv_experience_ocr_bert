@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_38098",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.968,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "KYLE SULLIVAN",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-407-700-3900|kyle.sullivan@example.com",
+      "score": 0.989,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2020.10–2023.01",
+      "score": 0.9777,
+      "box": [
+        114,
+        289,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9903,
+      "box": [
+        126,
+        314,
+        476,
+        337
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9683,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Cornerstone Works, 2018.01–2020.04",
+      "score": 0.9956,
+      "box": [
+        116,
+        382,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9643,
+      "box": [
+        125,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "-Assembled structural frameworks",
+      "score": 0.9889,
+      "box": [
+        126,
+        432,
+        449,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Co., 2015.01–2017.05",
+      "score": 0.9955,
+      "box": [
+        116,
+        472,
+        657,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9617,
+      "box": [
+        125,
+        496,
+        417,
+        522
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.99,
+      "box": [
+        126,
+        521,
+        492,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Golden Meadow High School, 1998",
+      "score": 0.9905,
+      "box": [
+        116,
+        632,
+        949,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in equipment maintenance basics",
+      "score": 0.9911,
+      "box": [
+        134,
+        659,
+        676,
+        679
+      ]
+    }
+  ]
+}

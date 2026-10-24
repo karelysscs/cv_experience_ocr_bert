@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_41203",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.789,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "ADAM BARRETT",
+      "score": 0.9711,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-686-968-5725 |adam.barrett@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2021.04–2021.12",
+      "score": 0.9894,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9574,
+      "box": [
+        126,
+        314,
+        361,
+        340
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Driftwood High School, 2014",
+      "score": 0.9898,
+      "box": [
+        116,
+        449,
+        840,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9792,
+      "box": [
+        133,
+        474,
+        612,
+        497
+      ]
+    }
+  ]
+}

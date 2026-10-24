@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_16355",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.84,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "JULIA MCDONALD",
+      "score": 0.9832,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-596-374-4701 |julia.mcdonald@example.com",
+      "score": 0.9705,
+      "box": [
+        116,
+        151,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2019.12–2020.09",
+      "score": 0.9665,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9775,
+      "box": [
+        126,
+        313,
+        409,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Liberal Arts, Fairmont University, 205",
+      "score": 0.9638,
+      "box": [
+        116,
+        449,
+        660,
+        472
+      ]
+    },
+    {
+      "text": "• Studied foundational learning strategies",
+      "score": 0.9736,
+      "box": [
+        132,
+        472,
+        515,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning reinforcement",
+      "score": 0.987,
+      "box": [
+        133,
+        497,
+        588,
+        522
+      ]
+    }
+  ]
+}

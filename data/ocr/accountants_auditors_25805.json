@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_25805",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "POOJA ESPINOSA",
+      "score": 0.973,
+      "box": [
+        114,
+        88,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-427-628-3101 |pooja.espinosa@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2021.03–2023.01",
+      "score": 0.9888,
+      "box": [
+        114,
+        289,
+        674,
+        314
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9861,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9626,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2019.04–2021.03",
+      "score": 0.9704,
+      "box": [
+        114,
+        381,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9858,
+      "box": [
+        126,
+        407,
+        404,
+        429
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9698,
+      "box": [
+        125,
+        430,
+        572,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Pinewood University, 2019",
+      "score": 0.9704,
+      "box": [
+        115,
+        541,
+        683,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9864,
+      "box": [
+        133,
+        565,
+        692,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9736,
+      "box": [
+        133,
+        590,
+        529,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_23450",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.029,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "KATHRYN UNDERWOOD",
+      "score": 0.9712,
+      "box": [
+        116,
+        90,
+        516,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-629-682-8659 |kathryn.underwood@example.com",
+      "score": 0.9848,
+      "box": [
+        116,
+        152,
+        715,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2019.06–2023.01",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        873,
+        313
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9786,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2015.11–2019.06",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        874,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9889,
+      "box": [
+        127,
+        408,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9886,
+      "box": [
+        126,
+        431,
+        526,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Meadow School, 2012.04–2015.11",
+      "score": 0.9845,
+      "box": [
+        115,
+        472,
+        835,
+        495
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9866,
+      "box": [
+        125,
+        498,
+        455,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9682,
+      "box": [
+        126,
+        521,
+        421,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2008.08–2012.04",
+      "score": 0.9728,
+      "box": [
+        116,
+        565,
+        835,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9798,
+      "box": [
+        127,
+        591,
+        496,
+        614
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9878,
+      "box": [
+        126,
+        613,
+        428,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Brighton University, 2011",
+      "score": 0.9883,
+      "box": [
+        115,
+        725,
+        715,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic differentiation basics",
+      "score": 0.9843,
+      "box": [
+        134,
+        750,
+        673,
+        770
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9811,
+      "box": [
+        134,
+        773,
+        508,
+        795
+      ]
+    }
+  ]
+}

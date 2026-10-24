@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_14055",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "NICOLE GLENN",
+      "score": 0.96,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-710-335-7444 |nicole.glenn@example.com",
+      "score": 0.9705,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2021.05–202.01",
+      "score": 0.9717,
+      "box": [
+        114,
+        289,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9671,
+      "box": [
+        125,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9649,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2019.08–2021.05",
+      "score": 0.9838,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.986,
+      "box": [
+        126,
+        407,
+        518,
+        430
+      ]
+    },
+    {
+      "text": "-Filed financial documents",
+      "score": 0.9958,
+      "box": [
+        126,
+        431,
+        377,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Economics, Crestview University, 2020",
+      "score": 0.9738,
+      "box": [
+        115,
+        541,
+        568,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Brookhaven University, 2018",
+      "score": 0.9879,
+      "box": [
+        114,
+        565,
+        695,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of corporate finance",
+      "score": 0.9815,
+      "box": [
+        132,
+        590,
+        503,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9864,
+      "box": [
+        133,
+        615,
+        476,
+        640
+      ]
+    }
+  ]
+}

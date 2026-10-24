@@ -1,0 +1,213 @@
+{
+  "id": "registered_nurses_01774",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.965,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "KARENA ANDERSEN",
+      "score": 0.9858,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-913-381-3613|karena.andersen@example.com",
+      "score": 0.9892,
+      "box": [
+        116,
+        152,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2019.08–2023.01",
+      "score": 0.987,
+      "box": [
+        116,
+        290,
+        626,
+        313
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9772,
+      "box": [
+        125,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9857,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2016.03–2019.08",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9789,
+      "box": [
+        125,
+        405,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9852,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2012.10–2016.03",
+      "score": 0.9914,
+      "box": [
+        116,
+        473,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9837,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9871,
+      "box": [
+        126,
+        522,
+        439,
+        544
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2009.04–2012.10",
+      "score": 0.9683,
+      "box": [
+        116,
+        565,
+        722,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9658,
+      "box": [
+        125,
+        589,
+        435,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9675,
+      "box": [
+        126,
+        614,
+        435,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Nursing Foundations, Pineview Ridge University, 007",
+      "score": 0.9801,
+      "box": [
+        115,
+        725,
+        710,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Willowcrest University, 2005",
+      "score": 0.9637,
+      "box": [
+        114,
+        747,
+        723,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9894,
+      "box": [
+        133,
+        773,
+        539,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9951,
+      "box": [
+        134,
+        799,
+        541,
+        822
+      ]
+    }
+  ]
+}

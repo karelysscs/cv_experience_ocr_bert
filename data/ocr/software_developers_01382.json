@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_01382",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.994,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "MATTHEW GRIMES",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-514-390-9554|matthew.grimes@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2020.04–2023.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9785,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2017.07–2020.04",
+      "score": 0.9915,
+      "box": [
+        115,
+        381,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9872,
+      "box": [
+        126,
+        407,
+        374,
+        430
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9905,
+      "box": [
+        126,
+        430,
+        566,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2014.10–2017.07",
+      "score": 0.9708,
+      "box": [
+        115,
+        471,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9775,
+      "box": [
+        126,
+        498,
+        449,
+        521
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9661,
+      "box": [
+        126,
+        521,
+        463,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2012.01–2014.10",
+      "score": 0.9905,
+      "box": [
+        115,
+        563,
+        647,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9973,
+      "box": [
+        126,
+        590,
+        423,
+        613
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9705,
+      "box": [
+        126,
+        613,
+        332,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Riverstone Ridge University, 2012",
+      "score": 0.9841,
+      "box": [
+        115,
+        723,
+        685,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9532,
+      "box": [
+        132,
+        747,
+        585,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9787,
+      "box": [
+        134,
+        773,
+        594,
+        798
+      ]
+    }
+  ]
+}

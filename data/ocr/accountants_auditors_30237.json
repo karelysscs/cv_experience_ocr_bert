@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_30237",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.849,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "JOSHUA SHERMAN",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-676-224-2415 |joshua.sherman@example.com",
+      "score": 0.9755,
+      "box": [
+        116,
+        151,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2021.04–2023.01",
+      "score": 0.9894,
+      "box": [
+        115,
+        290,
+        698,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9883,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2019.06–2021.04",
+      "score": 0.9839,
+      "box": [
+        116,
+        382,
+        667,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9785,
+      "box": [
+        126,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9933,
+      "box": [
+        127,
+        432,
+        451,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Bright Ridge University, 221",
+      "score": 0.9834,
+      "box": [
+        115,
+        540,
+        580,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9872,
+      "box": [
+        132,
+        565,
+        533,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial management",
+      "score": 0.9917,
+      "box": [
+        132,
+        590,
+        584,
+        615
+      ]
+    }
+  ]
+}

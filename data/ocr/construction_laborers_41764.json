@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_41764",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.91,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "KELAN AVILA",
+      "score": 0.9914,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-620-809-9405 |kelan.avila@example.com",
+      "score": 0.9808,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2020.11–2023.01",
+      "score": 0.9767,
+      "box": [
+        114,
+        288,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9608,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9907,
+      "box": [
+        126,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TruePoint Construction, 2018.09–2020.11",
+      "score": 0.9851,
+      "box": [
+        115,
+        382,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9726,
+      "box": [
+        125,
+        405,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.951,
+      "box": [
+        125,
+        429,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2016.07–2018.09",
+      "score": 0.9867,
+      "box": [
+        115,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9829,
+      "box": [
+        125,
+        496,
+        404,
+        520
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9723,
+      "box": [
+        127,
+        522,
+        372,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9969,
+      "box": [
+        114,
+        584,
+        269,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Fairmont High School, 2014",
+      "score": 0.9855,
+      "box": [
+        116,
+        632,
+        879,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of site safety protocols",
+      "score": 0.9804,
+      "box": [
+        131,
+        656,
+        526,
+        681
+      ]
+    }
+  ]
+}

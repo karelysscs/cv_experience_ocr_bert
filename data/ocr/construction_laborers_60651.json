@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_60651",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.766,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "JACOB BARNETT",
+      "score": 0.9666,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "WI,USA|+1-633-852-6175|jacob.barnett@example.com",
+      "score": 0.9848,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Services, 2020.08–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        290,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9784,
+      "box": [
+        126,
+        313,
+        405,
+        337
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9879,
+      "box": [
+        126,
+        338,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Pinehaven High School, 2021",
+      "score": 0.9805,
+      "box": [
+        116,
+        449,
+        862,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9731,
+      "box": [
+        132,
+        472,
+        541,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_13823",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.935,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "REYNA ANTHONY",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-668-297-5861 |reyna.anthony@example.com",
+      "score": 0.9722,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2020.06–2023.01",
+      "score": 0.9852,
+      "box": [
+        116,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9763,
+      "box": [
+        126,
+        315,
+        464,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.954,
+      "box": [
+        127,
+        340,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2017.10–2020.06",
+      "score": 0.9844,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9852,
+      "box": [
+        125,
+        405,
+        572,
+        432
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.988,
+      "box": [
+        126,
+        430,
+        397,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2015.02–2017.10",
+      "score": 0.988,
+      "box": [
+        116,
+        472,
+        733,
+        496
+      ]
+    },
+    {
+      "text": "-Monitored cardiac telemetry",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        401,
+        522
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9737,
+      "box": [
+        126,
+        521,
+        453,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2010.03–2012.11",
+      "score": 0.9895,
+      "box": [
+        116,
+        565,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9869,
+      "box": [
+        125,
+        589,
+        479,
+        614
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9935,
+      "box": [
+        126,
+        613,
+        476,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Hawthorne University, 2003",
+      "score": 0.9658,
+      "box": [
+        114,
+        723,
+        652,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.9924,
+      "box": [
+        132,
+        747,
+        556,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9975,
+      "box": [
+        134,
+        772,
+        518,
+        797
+      ]
+    }
+  ]
+}

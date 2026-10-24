@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_20093",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.974,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "JOLENE KING",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-997-966-1163 |jolene.king@example.com",
+      "score": 0.9878,
+      "box": [
+        116,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2020.07–2023.01",
+      "score": 0.9899,
+      "box": [
+        115,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9901,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2016.08–2019.02",
+      "score": 0.9899,
+      "box": [
+        115,
+        381,
+        839,
+        406
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9677,
+      "box": [
+        125,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9806,
+      "box": [
+        126,
+        431,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Brookridge University, 2009",
+      "score": 0.9819,
+      "box": [
+        115,
+        541,
+        705,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Harvest University, 2007",
+      "score": 0.9579,
+      "box": [
+        115,
+        565,
+        623,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9806,
+      "box": [
+        134,
+        591,
+        591,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9924,
+      "box": [
+        133,
+        615,
+        533,
+        640
+      ]
+    }
+  ]
+}

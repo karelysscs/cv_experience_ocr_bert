@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_06251",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.863,
+  "mean_conf": 0.9781,
+  "lines": [
+    {
+      "text": "GREGORY SLOAN",
+      "score": 0.988,
+      "box": [
+        116,
+        88,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-464-302-4715 |gregory.sloan@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital 2020.01–2022.07",
+      "score": 0.9734,
+      "box": [
+        115,
+        290,
+        630,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.98,
+      "box": [
+        125,
+        314,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9629,
+      "box": [
+        127,
+        340,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2016.06–2018.12",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9812,
+      "box": [
+        125,
+        406,
+        621,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9549,
+      "box": [
+        125,
+        429,
+        355,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Summit University, 2005",
+      "score": 0.9733,
+      "box": [
+        116,
+        541,
+        596,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9575,
+      "box": [
+        132,
+        565,
+        606,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9934,
+      "box": [
+        133,
+        590,
+        498,
+        615
+      ]
+    }
+  ]
+}

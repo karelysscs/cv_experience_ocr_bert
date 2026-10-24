@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_14306",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.91,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "TAMARA RAY",
+      "score": 0.9697,
+      "box": [
+        114,
+        90,
+        344,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-333-318-9135|tamara.ray@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2020.04–2023.01",
+      "score": 0.9711,
+      "box": [
+        115,
+        289,
+        823,
+        314
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9843,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9738,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2017.06–2020.04",
+      "score": 0.9643,
+      "box": [
+        116,
+        382,
+        800,
+        405
+      ]
+    },
+    {
+      "text": "- Designed student support plans",
+      "score": 0.9844,
+      "box": [
+        126,
+        406,
+        436,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9883,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures Academy, 2013.01–2015.11",
+      "score": 0.9906,
+      "box": [
+        115,
+        471,
+        886,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9703,
+      "box": [
+        125,
+        496,
+        399,
+        521
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9748,
+      "box": [
+        127,
+        523,
+        395,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Brookridge University, 202",
+      "score": 0.9679,
+      "box": [
+        114,
+        631,
+        744,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational data basics",
+      "score": 0.9779,
+      "box": [
+        134,
+        659,
+        607,
+        679
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9833,
+      "box": [
+        135,
+        682,
+        564,
+        705
+      ]
+    }
+  ]
+}

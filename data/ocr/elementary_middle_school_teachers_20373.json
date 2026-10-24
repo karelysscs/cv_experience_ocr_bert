@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_20373",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.98,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "SHIVANI WONG",
+      "score": 0.9834,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-733-694-7262 |shivani.wong@example.com",
+      "score": 0.9834,
+      "box": [
+        116,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2020.08–2023.01",
+      "score": 0.9831,
+      "box": [
+        115,
+        289,
+        816,
+        314
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9848,
+      "box": [
+        125,
+        314,
+        535,
+        339
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge School, 2018.03–2020.08",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        854,
+        406
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9749,
+      "box": [
+        127,
+        408,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9759,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2015.10–2018.03",
+      "score": 0.9814,
+      "box": [
+        115,
+        471,
+        827,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9685,
+      "box": [
+        125,
+        496,
+        442,
+        522
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9835,
+      "box": [
+        127,
+        522,
+        450,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Pebble Creek University, 2014",
+      "score": 0.9713,
+      "box": [
+        114,
+        631,
+        747,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Silverview University, 2012",
+      "score": 0.9761,
+      "box": [
+        114,
+        656,
+        712,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9757,
+      "box": [
+        135,
+        684,
+        602,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom discipline strategies",
+      "score": 0.9829,
+      "box": [
+        133,
+        706,
+        672,
+        732
+      ]
+    }
+  ]
+}

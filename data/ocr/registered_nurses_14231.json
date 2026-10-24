@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_14231",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.95,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "NEYSA HUMPHREY",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        434,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-276-403-5099 |neysa.humphrey@example.com",
+      "score": 0.9847,
+      "box": [
+        116,
+        152,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2020.01–2023.01",
+      "score": 0.9817,
+      "box": [
+        115,
+        289,
+        719,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9786,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9786,
+      "box": [
+        126,
+        339,
+        468,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2016.12–2020.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9902,
+      "box": [
+        126,
+        406,
+        531,
+        431
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9865,
+      "box": [
+        126,
+        430,
+        466,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Care, 2012.02–2015.03",
+      "score": 0.9856,
+      "box": [
+        116,
+        473,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9847,
+      "box": [
+        125,
+        496,
+        486,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.952,
+      "box": [
+        127,
+        523,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Elm Ridge University, 2010",
+      "score": 0.9785,
+      "box": [
+        114,
+        631,
+        651,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9874,
+      "box": [
+        134,
+        658,
+        625,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.9846,
+      "box": [
+        135,
+        683,
+        614,
+        706
+      ]
+    }
+  ]
+}

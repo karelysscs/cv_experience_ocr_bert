@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_30992",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "JASON HART",
+      "score": 0.979,
+      "box": [
+        114,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA |+1-639-251-8133 |jason.hart@example.com",
+      "score": 0.9816,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2019.09–2022.05",
+      "score": 0.9879,
+      "box": [
+        115,
+        290,
+        696,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9814,
+      "box": [
+        126,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9735,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2016.03–218.12",
+      "score": 0.9814,
+      "box": [
+        114,
+        381,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9577,
+      "box": [
+        126,
+        407,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9715,
+      "box": [
+        126,
+        431,
+        389,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Management Information Systems, Stonehaven University, 2011",
+      "score": 0.993,
+      "box": [
+        115,
+        541,
+        801,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Westbrook University, 2009",
+      "score": 0.9777,
+      "box": [
+        114,
+        564,
+        666,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9858,
+      "box": [
+        134,
+        590,
+        647,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9908,
+      "box": [
+        133,
+        614,
+        452,
+        640
+      ]
+    }
+  ]
+}

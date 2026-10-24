@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_60258",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.881,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "ANTHONY BENDER",
+      "score": 0.9864,
+      "box": [
+        117,
+        90,
+        433,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-931-583-8901 |anthony.bender@example.com",
+      "score": 0.9586,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardStone Builders, 2018.06–2021.01",
+      "score": 0.987,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9855,
+      "box": [
+        126,
+        314,
+        479,
+        337
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9682,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2015.01–2017.09",
+      "score": 0.9682,
+      "box": [
+        115,
+        381,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9883,
+      "box": [
+        126,
+        407,
+        405,
+        429
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9774,
+      "box": [
+        126,
+        430,
+        540,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Windermere High School, 201",
+      "score": 0.9864,
+      "box": [
+        116,
+        541,
+        864,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.968,
+      "box": [
+        132,
+        564,
+        556,
+        589
+      ]
+    }
+  ]
+}

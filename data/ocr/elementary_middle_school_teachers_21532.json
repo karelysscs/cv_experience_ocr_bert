@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_21532",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "AMANDAOLSON",
+      "score": 0.9989,
+      "box": [
+        116,
+        88,
+        395,
+        122
+      ]
+    },
+    {
+      "text": "KS, USA|+1-790-512-8982 |amanda.olson@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2018.11–2021.10",
+      "score": 0.9664,
+      "box": [
+        114,
+        289,
+        816,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9811,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9912,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2014.09–217.09",
+      "score": 0.9832,
+      "box": [
+        115,
+        381,
+        825,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9852,
+      "box": [
+        125,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9869,
+      "box": [
+        125,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Lakewood University, 2012",
+      "score": 0.9735,
+      "box": [
+        114,
+        539,
+        700,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in phonics instruction",
+      "score": 0.9849,
+      "box": [
+        133,
+        565,
+        562,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational measurement",
+      "score": 0.9837,
+      "box": [
+        134,
+        591,
+        630,
+        614
+      ]
+    }
+  ]
+}

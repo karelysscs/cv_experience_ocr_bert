@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_23303",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9773,
+  "lines": [
+    {
+      "text": "HALEY YU",
+      "score": 0.9408,
+      "box": [
+        114,
+        88,
+        288,
+        122
+      ]
+    },
+    {
+      "text": "LA, USA|+1-700-909-4096|haley.yu@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        151,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9779,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Steps School, 2020.12–2023.01",
+      "score": 0.9856,
+      "box": [
+        115,
+        289,
+        839,
+        314
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9773,
+      "box": [
+        125,
+        313,
+        543,
+        338
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9587,
+      "box": [
+        126,
+        339,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Learning School, 2018.10–202.12",
+      "score": 0.9735,
+      "box": [
+        115,
+        381,
+        849,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9806,
+      "box": [
+        126,
+        406,
+        496,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9952,
+      "box": [
+        126,
+        431,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Bright Ridge University, 2023",
+      "score": 0.9648,
+      "box": [
+        114,
+        539,
+        686,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.9841,
+      "box": [
+        132,
+        564,
+        550,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of inclusive education",
+      "score": 0.984,
+      "box": [
+        132,
+        590,
+        517,
+        613
+      ]
+    }
+  ]
+}

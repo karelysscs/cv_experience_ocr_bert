@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_26727",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.822,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "JUDAH NORRIS",
+      "score": 0.9926,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-87-876-1383 |judah.norris@example.com",
+      "score": 0.9695,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2022.04–2023.01",
+      "score": 0.9857,
+      "box": [
+        115,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9816,
+      "box": [
+        128,
+        341,
+        367,
+        361
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Technology, Meadowway University, 2023",
+      "score": 0.973,
+      "box": [
+        115,
+        447,
+        849,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic paving techniques",
+      "score": 0.9574,
+      "box": [
+        132,
+        473,
+        612,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9981,
+      "box": [
+        134,
+        499,
+        544,
+        522
+      ]
+    }
+  ]
+}

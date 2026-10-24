@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_20981",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.901,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "ELIZABETH BARKER",
+      "score": 0.9889,
+      "box": [
+        117,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "IA, USA |+1-940-414-6713|elizabeth.barker@example.com",
+      "score": 0.9876,
+      "box": [
+        117,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2020.08–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        289,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9777,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9713,
+      "box": [
+        126,
+        338,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2018.03–2020.08",
+      "score": 0.9645,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9762,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9962,
+      "box": [
+        127,
+        432,
+        439,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2013.01–2015.06",
+      "score": 0.9935,
+      "box": [
+        116,
+        473,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9789,
+      "box": [
+        126,
+        498,
+        432,
+        521
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9913,
+      "box": [
+        126,
+        521,
+        444,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Community Health, Clearwood University, 2009",
+      "score": 0.9854,
+      "box": [
+        114,
+        631,
+        743,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9917,
+      "box": [
+        133,
+        656,
+        626,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9729,
+      "box": [
+        133,
+        681,
+        573,
+        706
+      ]
+    }
+  ]
+}

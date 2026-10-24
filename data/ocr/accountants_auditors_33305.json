@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_33305",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.802,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "JAMES BECK",
+      "score": 0.9762,
+      "box": [
+        115,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-355-438-7139 |james.beck@example.com",
+      "score": 0.9685,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2020.03–2022.07",
+      "score": 0.9735,
+      "box": [
+        114,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedurs",
+      "score": 0.9883,
+      "box": [
+        125,
+        314,
+        507,
+        339
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9674,
+      "box": [
+        126,
+        338,
+        415,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Rockland University, 2013",
+      "score": 0.9762,
+      "box": [
+        114,
+        447,
+        649,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.99,
+      "box": [
+        132,
+        472,
+        558,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.987,
+      "box": [
+        133,
+        497,
+        647,
+        523
+      ]
+    }
+  ]
+}

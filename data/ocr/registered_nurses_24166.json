@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_24166",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.996,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "DANE BELL",
+      "score": 0.9755,
+      "box": [
+        116,
+        90,
+        309,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-586-972-1291 |dane.bell@example.com",
+      "score": 0.9772,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2019.02–2023.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9889,
+      "box": [
+        126,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9872,
+      "box": [
+        127,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Medical Group, 2015.02–2019.02",
+      "score": 0.9669,
+      "box": [
+        115,
+        381,
+        718,
+        406
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9676,
+      "box": [
+        126,
+        406,
+        397,
+        432
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9796,
+      "box": [
+        126,
+        431,
+        554,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2011.02–2015.02",
+      "score": 0.9796,
+      "box": [
+        116,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9783,
+      "box": [
+        125,
+        496,
+        472,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9881,
+      "box": [
+        126,
+        521,
+        497,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2007.02–2011.02",
+      "score": 0.9811,
+      "box": [
+        116,
+        565,
+        676,
+        589
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9857,
+      "box": [
+        125,
+        589,
+        471,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9734,
+      "box": [
+        127,
+        615,
+        474,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Mental Health Studies, Havenwood University, 2010",
+      "score": 0.985,
+      "box": [
+        114,
+        723,
+        786,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.969,
+      "box": [
+        132,
+        748,
+        598,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in health policy basics",
+      "score": 0.9978,
+      "box": [
+        135,
+        774,
+        570,
+        797
+      ]
+    }
+  ]
+}

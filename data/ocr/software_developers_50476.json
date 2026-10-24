@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_50476",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.816,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "ISAAC FISHER",
+      "score": 0.9907,
+      "box": [
+        115,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-218-408-3036 |isaac.fisher@example.com",
+      "score": 0.9711,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2020.10–2023.01",
+      "score": 0.971,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.981,
+      "box": [
+        125,
+        314,
+        396,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9834,
+      "box": [
+        126,
+        340,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2018.07–2020.10",
+      "score": 0.9899,
+      "box": [
+        115,
+        381,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9451,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9789,
+      "box": [
+        127,
+        432,
+        414,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Goldenfield University, 2017",
+      "score": 0.9626,
+      "box": [
+        115,
+        540,
+        468,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Springdale University, 2015",
+      "score": 0.9943,
+      "box": [
+        115,
+        566,
+        482,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9899,
+      "box": [
+        133,
+        591,
+        458,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9937,
+      "box": [
+        133,
+        615,
+        533,
+        641
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+id,occupation,y_true,y_pred,abs_err,text_ocr_clean,mean_conf,cer,years_ref,years_hit,n_tokens_approx,cause
+registered_nurses_18392,registered_nurses,2.9688956490463765,1.431884765625,1.5370108834213765,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Registered Nurses, NewSpring Health Services, 2018.09-2021.09
+- Performed basic life support procedures
+- Monitored patient pain levels
+EDUCATION
+Bachelor's, Health Care, Willowcrest University, 2005
+• Studied fundamentals of medication reconciliation
+• Studied fundamentals of patient care",0.9827,0.0051413881748071,3,3,41,
+software_developers_02983,software_developers,16.781070951056652,15.33203125,1.4490397010566518,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Software Developers, Clearstack Labs, 2018.11-2023.01
+- Built core libraries
+- Designed scalable services
+Software Developers, Datastream Solutions, 2014.09-2018.11
+- Led performance tuning initiatives
+- Developed system monitoring strategies
+Software Developers, Netline Technologies, 2010.07-2014.09
+- Improved memory usage
+- Implemented backend services
+Software Developers, Brightsoft Solutions, 2006.04-2010.07
+- Participated in code reviews
+- Created test data sets
+EDUCATION
+Bachelor's, Greenwood University, 205
+• Studied fundamentals of object-oriented programming
+• Studied principles of software documentation",0.9869,0.0040595399188092,9,8,78,
+registered_nurses_08945,registered_nurses,3.0600307886507725,4.49951171875,1.4394809300992275,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Registered Nurses, OpenPath Care Services, 2019.05-2020.11
+- Developed care quality benchmarks
+- Designed clinical documentation standards
+Registered Nurses, KindLife Care Center, 2017.01-2018.08
+- Collected laboratory specimens
+- Recorded shift handoff notes
+EDUCATION
+Bachelor's, Health Support Services, Willow Ridge University, 2016
+• Studied fundamentals of wound assessment
+• Studied fundamentals of patient education",0.9827,0.0038610038610038,5,5,57,
+accountants_auditors_18227,accountants_auditors,2.6246262690332767,1.1962890625,1.4283372065332767,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Accountants Auditors, OpenBooks Financial, 2019.05-2021.12
+- Maintained accounting software records
+- Prepared trial balances
+EDUCATION
+Bachelor's, Organizational Management, Ridgeway University, 2015
+• Studied fundamentals of audit documentation
+• Studied fundamentals of portfolio management",0.9838,0.0051020408163265,3,3,38,
+construction_laborers_13926,construction_laborers,20.0,18.57421875,1.42578125,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Construction Laborers, Allied Structures, 2017.11-2023.01
+- Directed site optimization initiatives
+- Developed construction workflows
+Construction Laborers, Precision Build Group, 2012.09-2017.11
+- Reviewed and approved project plans
+- Coordinated large-scale material logistics
+Construction Laborers, Reliable Works, 2006.12-2012.02
+- Reviewed construction drawings
+- Laid flooring materials
+Construction Laborers, ClearLine Builders, 2001.01-2006.03
+- Followed blueprint instructions
+- Helped position heavy materials
+EDUCATION
+High school graduate/GED, Building Systems, Lakewood High School, 1998
+• Completed coursework in construction site security",0.976,0.0013227513227513,9,9,80,
+construction_laborers_28514,construction_laborers,2.8936452193459976,1.4794921875,1.4141530318459976,"[NAME]
+[LOCATION]|[PHONE]|[EMAIL]
+WORK HISTORY
+Construction Laborers, ClearPath Construction, 2018.08-2021.07
+- Assisted with equipment maintenance
+- Assisted with drywall installation
+EDUCATION
+High school graduate/GED, Drafting Technology, Havenwood High School, 2005
+• Completed coursework in basic window installation",0.984,0.0027247956403269,3,3,36,
+elementary_middle_school_teachers_19984,elementary_middle_school_teachers,2.562161869710696,1.2060546875,1.356107182210696,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Elementary Middle School Teachers, Harmony Hills Academy, 2019.04-2021.11
+- Implemented classroom seating plans
+- Reviewed learning standards
+EDUCATION
+Bachelor's, Student Learning Studies, Brightwater University, 2002
+• Completed coursework in lesson effectiveness analysis
+• Studied principles of student support systems",0.9839,0.0048426150121065,3,3,44,
+software_developers_58778,software_developers,16.911327243375386,15.60546875,1.3058584933753856,"SEANCLINE
+[LOCATION]|[PHONE]|[EMAIL]
+[NAME]
+Software Developers, Softgrid Tech, 2018.11-2023.01
+- Defined engineering best practices
+- Defined API standards
+Software Developers, Datacrest Software, 2014.08-2018.11
+- Designed high-availability systems
+- Implemented core frameworks
+Software Developers, Flowcrest Tech, 2010.05-2014.08
+- Developed CI/CD scripts
+- Designed documentation templates
+Software Developers, Flowpoint Tech, 2006.02-2010.05
+- Optimized simple queries
+- Updated database schemas
+EDUCATION
+Master's, Driftwood University, 2004
+Bachelor's, Northview University, 202
+• Completed coursework in real-time systems
+• Completed coursework in SQL and data querying",0.9781,0.0053981106612685,10,9,79,
+construction_laborers_31425,construction_laborers,2.0281710884466566,0.7476806640625,1.2804904243841566,"[NAME]
+[LOCATION]|[PHONE]|[EMAIL]
+WORK HISTORY
+Construction Laborers, PrimeStone Contractors, 2019.12-2021.12
+- Set up workstations for crews
+- Mixed concrete and mortar
+EDUCATION
+High school graduate/GED, Structural Technology, Meadowcrest High School, 2016
+• Studied principles of building envelope basics",0.9831,0.0028328611898017,3,3,37,
+accountants_auditors_07696,accountants_auditors,17.168199341813168,15.888671875,1.2795274668131675,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Accountants Auditors, CoreCount Services, 2018.10-2023.01
+- Directed accounting training programs
+- Developed financial risk models
+Accountants Auditors, EverBalance Group, 2014.07-2018.10
+- Directed financial reporting processes
+- Established financial data governance
+Accountants Auditors, Precise Ledger Advisors, 2010.03-2014.07
+- Conducted risk assessments
+- Implemented accounting procedures
+Accountants Auditors, OpenPath Accounting, 2005.11-2010.03
+- Maintained supporting documentation
+- Prepared basic financial reports
+EDUCATION
+Master's, Accounting, Pinewood University, 2006
+Bachelor's, Taxation, Valley View University, 2004
+• Studied fundamentals of portfolio management
+• Studied principles of corporate finance",0.9803,0.0023952095808383,10,10,87,

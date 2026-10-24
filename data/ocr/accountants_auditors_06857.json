@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_06857",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "MEGHAN CARROLL",
+      "score": 0.9924,
+      "box": [
+        117,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-535-845-6896 |meghan.carroll@example.com",
+      "score": 0.9739,
+      "box": [
+        117,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBook Accounting, 2020.10–2023.01",
+      "score": 0.9649,
+      "box": [
+        114,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.992,
+      "box": [
+        126,
+        315,
+        437,
+        338
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9681,
+      "box": [
+        127,
+        340,
+        521,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2018.06–2020.10",
+      "score": 0.9873,
+      "box": [
+        114,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9735,
+      "box": [
+        126,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9546,
+      "box": [
+        125,
+        430,
+        421,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2016.02–2018.06",
+      "score": 0.9781,
+      "box": [
+        115,
+        472,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9831,
+      "box": [
+        125,
+        496,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9804,
+      "box": [
+        127,
+        523,
+        546,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, General Business, Fairmont University, 2014",
+      "score": 0.9783,
+      "box": [
+        115,
+        632,
+        621,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Northcrest University, 2012",
+      "score": 0.9838,
+      "box": [
+        114,
+        656,
+        741,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.9904,
+      "box": [
+        133,
+        682,
+        610,
+        705
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9824,
+      "box": [
+        132,
+        706,
+        645,
+        732
+      ]
+    }
+  ]
+}

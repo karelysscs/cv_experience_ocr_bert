@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_30598",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.966,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "DANIELLE BERNARD",
+      "score": 0.9765,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-741-261-6822|danielle.bernard@example.com",
+      "score": 0.9927,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2019.11–2023.01",
+      "score": 0.9941,
+      "box": [
+        115,
+        289,
+        679,
+        312
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9759,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.967,
+      "box": [
+        126,
+        339,
+        429,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2016.09–2019.11",
+      "score": 0.984,
+      "box": [
+        114,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9897,
+      "box": [
+        125,
+        405,
+        436,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9652,
+      "box": [
+        126,
+        430,
+        333,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2013.06–2016.09",
+      "score": 0.9861,
+      "box": [
+        114,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.951,
+      "box": [
+        126,
+        498,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9763,
+      "box": [
+        127,
+        522,
+        404,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Management Information Systems, Rivercrest University, 2011",
+      "score": 0.9855,
+      "box": [
+        114,
+        631,
+        785,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Seabreeze University, 2009",
+      "score": 0.9856,
+      "box": [
+        114,
+        656,
+        706,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.977,
+      "box": [
+        133,
+        681,
+        583,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.979,
+      "box": [
+        133,
+        707,
+        513,
+        729
+      ]
+    }
+  ]
+}

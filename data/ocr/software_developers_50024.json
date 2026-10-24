@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_50024",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.921,
+  "mean_conf": 0.975,
+  "lines": [
+    {
+      "text": "ERIC PHAN",
+      "score": 0.9774,
+      "box": [
+        115,
+        88,
+        303,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-522-491-1976 |eric.phan@example.com",
+      "score": 0.9828,
+      "box": [
+        115,
+        150,
+        626,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9885,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2020.01–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        290,
+        625,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9883,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9839,
+      "box": [
+        126,
+        339,
+        374,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openridge Technologies, 2017.01–2020.01",
+      "score": 0.9937,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9684,
+      "box": [
+        125,
+        405,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9781,
+      "box": [
+        127,
+        432,
+        407,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2013.12–2017.01",
+      "score": 0.9817,
+      "box": [
+        115,
+        472,
+        630,
+        496
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9834,
+      "box": [
+        125,
+        497,
+        399,
+        519
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9866,
+      "box": [
+        127,
+        522,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2010.11–2013.12",
+      "score": 0.984,
+      "box": [
+        115,
+        563,
+        685,
+        588
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9758,
+      "box": [
+        125,
+        588,
+        389,
+        614
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.98,
+      "box": [
+        125,
+        613,
+        364,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Greenridge University, 2012",
+      "score": 0.9387,
+      "box": [
+        116,
+        726,
+        466,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, MeadowfieldUniversity, 210",
+      "score": 0.8707,
+      "box": [
+        115,
+        748,
+        497,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of cybersecurity",
+      "score": 0.98,
+      "box": [
+        132,
+        772,
+        502,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9829,
+      "box": [
+        132,
+        798,
+        533,
+        823
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_55557",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.85,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "DAVE CANTRELL",
+      "score": 0.9819,
+      "box": [
+        116,
+        90,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-735-565-7721 |dave.cantrell@example.com",
+      "score": 0.9839,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2019.09–2023.01",
+      "score": 0.9802,
+      "box": [
+        114,
+        288,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9532,
+      "box": [
+        127,
+        315,
+        362,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9769,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2016.05–2019.09",
+      "score": 0.9887,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9895,
+      "box": [
+        125,
+        405,
+        353,
+        430
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.982,
+      "box": [
+        126,
+        430,
+        390,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2012.01–2015.05",
+      "score": 0.9892,
+      "box": [
+        115,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.982,
+      "box": [
+        125,
+        496,
+        530,
+        522
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.979,
+      "box": [
+        127,
+        523,
+        414,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit Ridge University, 2009",
+      "score": 0.9727,
+      "box": [
+        115,
+        632,
+        513,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9807,
+      "box": [
+        132,
+        657,
+        533,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9818,
+      "box": [
+        134,
+        683,
+        497,
+        706
+      ]
+    }
+  ]
+}

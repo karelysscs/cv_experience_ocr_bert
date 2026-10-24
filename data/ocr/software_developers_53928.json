@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_53928",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.786,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "DANIEL NGUYEN",
+      "score": 0.9809,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-978-263-7297|daniel.nguyen@example.com",
+      "score": 0.9696,
+      "box": [
+        115,
+        150,
+        669,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2020.03–2021.08",
+      "score": 0.9553,
+      "box": [
+        115,
+        289,
+        624,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9895,
+      "box": [
+        126,
+        314,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.951,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestview University, 2016",
+      "score": 0.9873,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.992,
+      "box": [
+        132,
+        472,
+        584,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in machine learning basics",
+      "score": 0.9894,
+      "box": [
+        134,
+        499,
+        614,
+        522
+      ]
+    }
+  ]
+}

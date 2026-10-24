@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_27806",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.905,
+  "mean_conf": 0.9871,
+  "lines": [
+    {
+      "text": "PORCIAWARD",
+      "score": 0.9989,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-941-449-1806 |porcia.ward@example.com",
+      "score": 0.98,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2021.01–2023.01",
+      "score": 0.9887,
+      "box": [
+        114,
+        288,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9781,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2019.01–2021.01",
+      "score": 0.9851,
+      "box": [
+        115,
+        382,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.981,
+      "box": [
+        125,
+        405,
+        461,
+        432
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9899,
+      "box": [
+        126,
+        432,
+        398,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2015.01–2017.02",
+      "score": 0.9957,
+      "box": [
+        115,
+        472,
+        750,
+        495
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.99,
+      "box": [
+        125,
+        497,
+        549,
+        519
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9813,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Northcrest University, 2005",
+      "score": 0.9806,
+      "box": [
+        115,
+        632,
+        669,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Goldenwood University, 2003",
+      "score": 0.9794,
+      "box": [
+        114,
+        656,
+        674,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9915,
+      "box": [
+        133,
+        682,
+        592,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9916,
+      "box": [
+        133,
+        706,
+        633,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_58044",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.9778,
+  "lines": [
+    {
+      "text": "JULIA YANG",
+      "score": 0.9638,
+      "box": [
+        115,
+        88,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-907-321-2630 |julia.yang@example.com",
+      "score": 0.9693,
+      "box": [
+        114,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2020.05–2023.01",
+      "score": 0.987,
+      "box": [
+        116,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9813,
+      "box": [
+        125,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9726,
+      "box": [
+        126,
+        339,
+        394,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2017.08–2020.05",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9843,
+      "box": [
+        126,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9859,
+      "box": [
+        126,
+        430,
+        402,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2014.11–2017.08",
+      "score": 0.9833,
+      "box": [
+        115,
+        471,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9838,
+      "box": [
+        126,
+        497,
+        377,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9777,
+      "box": [
+        126,
+        521,
+        620,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, EIm Ridge University, 2015",
+      "score": 0.9593,
+      "box": [
+        115,
+        632,
+        459,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowfield University, 2013",
+      "score": 0.9722,
+      "box": [
+        115,
+        658,
+        480,
+        681
+      ]
+    },
+    {
+      "text": "•Studied principles of modular design",
+      "score": 0.9471,
+      "box": [
+        132,
+        681,
+        483,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9909,
+      "box": [
+        132,
+        706,
+        511,
+        732
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_18196",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.881,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "TARAH HOWE",
+      "score": 0.9903,
+      "box": [
+        114,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-724-795-2872 |tarah.howe@example.com",
+      "score": 0.9721,
+      "box": [
+        116,
+        151,
+        632,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2020.12–2023.01",
+      "score": 0.9889,
+      "box": [
+        114,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9646,
+      "box": [
+        127,
+        315,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.958,
+      "box": [
+        126,
+        339,
+        491,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2018.03–2020.04",
+      "score": 0.9725,
+      "box": [
+        114,
+        381,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9836,
+      "box": [
+        127,
+        407,
+        419,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9608,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2015.07–2017.09",
+      "score": 0.989,
+      "box": [
+        115,
+        472,
+        690,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9852,
+      "box": [
+        125,
+        496,
+        358,
+        521
+      ]
+    },
+    {
+      "text": "– Maintained vendor records",
+      "score": 0.9606,
+      "box": [
+        126,
+        522,
+        389,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Havenwood University, 2009",
+      "score": 0.9859,
+      "box": [
+        114,
+        630,
+        694,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9892,
+      "box": [
+        133,
+        656,
+        510,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence evaluation",
+      "score": 0.9963,
+      "box": [
+        134,
+        682,
+        615,
+        705
+      ]
+    }
+  ]
+}

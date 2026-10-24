@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_18885",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "BROOKE KLINE",
+      "score": 0.9649,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-733-574-8873 |brooke.kline@example.com",
+      "score": 0.9875,
+      "box": [
+        116,
+        152,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2021.07–2023.01",
+      "score": 0.9802,
+      "box": [
+        116,
+        290,
+        835,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9914,
+      "box": [
+        125,
+        314,
+        459,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Silver Creek University, 2023",
+      "score": 0.97,
+      "box": [
+        114,
+        447,
+        618,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Wildflower University, 2022",
+      "score": 0.9838,
+      "box": [
+        114,
+        472,
+        714,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9925,
+      "box": [
+        134,
+        499,
+        578,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9832,
+      "box": [
+        134,
+        523,
+        700,
+        548
+      ]
+    }
+  ]
+}

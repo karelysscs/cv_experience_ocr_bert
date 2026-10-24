@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_27189",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.789,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "ALDO BAILEY",
+      "score": 0.9605,
+      "box": [
+        116,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-619-647-3412|aldo.bailey@example.com",
+      "score": 0.9921,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2020.06–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        290,
+        702,
+        312
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9831,
+      "box": [
+        127,
+        315,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9593,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Trades, Willowfield University, 2022",
+      "score": 0.9831,
+      "box": [
+        115,
+        449,
+        759,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9915,
+      "box": [
+        132,
+        472,
+        530,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.9761,
+      "box": [
+        132,
+        497,
+        559,
+        523
+      ]
+    }
+  ]
+}

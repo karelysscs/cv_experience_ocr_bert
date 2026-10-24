@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_06661",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.781,
+  "mean_conf": 0.9762,
+  "lines": [
+    {
+      "text": "MIGUEL TATE",
+      "score": 0.9718,
+      "box": [
+        116,
+        90,
+        345,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-458-642-1038 |miguel.tate@example.com",
+      "score": 0.9753,
+      "box": [
+        116,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2020.12–2023.01",
+      "score": 0.9705,
+      "box": [
+        115,
+        289,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.974,
+      "box": [
+        125,
+        314,
+        495,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9458,
+      "box": [
+        126,
+        339,
+        477,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Briarwood University, 2023",
+      "score": 0.9664,
+      "box": [
+        116,
+        450,
+        474,
+        470
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9945,
+      "box": [
+        133,
+        473,
+        530,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of search algorithms",
+      "score": 0.9822,
+      "box": [
+        133,
+        497,
+        544,
+        522
+      ]
+    }
+  ]
+}

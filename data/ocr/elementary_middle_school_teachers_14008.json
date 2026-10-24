@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_14008",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.83,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "JACOB MURRAY",
+      "score": 0.9661,
+      "box": [
+        116,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-651-623-4210 |jacob.murray@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2021.10–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        289,
+        822,
+        314
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9764,
+      "box": [
+        125,
+        314,
+        460,
+        339
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, Highpoint University, 2021",
+      "score": 0.9702,
+      "box": [
+        115,
+        449,
+        680,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9653,
+      "box": [
+        132,
+        472,
+        633,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9782,
+      "box": [
+        133,
+        497,
+        598,
+        523
+      ]
+    }
+  ]
+}

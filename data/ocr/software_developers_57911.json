@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_57911",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.945,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "TAMMY SINGH",
+      "score": 0.9693,
+      "box": [
+        114,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-656-646-5620|tammy.singh@example.com",
+      "score": 0.9779,
+      "box": [
+        114,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2019.10–2023.01",
+      "score": 0.9947,
+      "box": [
+        116,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9903,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9895,
+      "box": [
+        126,
+        339,
+        445,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2016.07–2019.10",
+      "score": 0.9809,
+      "box": [
+        115,
+        381,
+        658,
+        406
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9941,
+      "box": [
+        126,
+        407,
+        415,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9735,
+      "box": [
+        126,
+        432,
+        460,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2013.04–201.07",
+      "score": 0.9794,
+      "box": [
+        115,
+        471,
+        684,
+        496
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9776,
+      "box": [
+        125,
+        496,
+        463,
+        522
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9772,
+      "box": [
+        126,
+        522,
+        395,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2007.10–2011.02",
+      "score": 0.9834,
+      "box": [
+        114,
+        563,
+        686,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9911,
+      "box": [
+        125,
+        589,
+        413,
+        614
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9677,
+      "box": [
+        127,
+        615,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Ridgeway University, 2006",
+      "score": 0.9692,
+      "box": [
+        116,
+        726,
+        453,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestfield University, 2004",
+      "score": 0.972,
+      "box": [
+        114,
+        747,
+        479,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9765,
+      "box": [
+        133,
+        774,
+        673,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9813,
+      "box": [
+        132,
+        797,
+        497,
+        822
+      ]
+    }
+  ]
+}

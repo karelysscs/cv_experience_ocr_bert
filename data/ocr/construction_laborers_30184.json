@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_30184",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.893,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "JESSE REED",
+      "score": 0.9828,
+      "box": [
+        115,
+        88,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA|+1-469-214-3449 |jesse.reed@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9771,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2021.07–2023.01",
+      "score": 0.9794,
+      "box": [
+        115,
+        290,
+        695,
+        312
+      ]
+    },
+    {
+      "text": "-Developed long-term construction strategies",
+      "score": 0.9885,
+      "box": [
+        125,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9617,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorWorks Construction, 2020.01–2021.07",
+      "score": 0.9946,
+      "box": [
+        116,
+        381,
+        756,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9611,
+      "box": [
+        125,
+        405,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9855,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Construction, Brightfield University, 2019",
+      "score": 0.9714,
+      "box": [
+        116,
+        541,
+        825,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.992,
+      "box": [
+        133,
+        566,
+        537,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9774,
+      "box": [
+        132,
+        590,
+        555,
+        615
+      ]
+    }
+  ]
+}

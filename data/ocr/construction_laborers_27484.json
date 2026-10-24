@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_27484",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.822,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "MORGAN AHMED",
+      "score": 0.9873,
+      "box": [
+        116,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-425-683-7685|morgan.ahmed@example.com",
+      "score": 0.9942,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TruePoint Construction, 2021.11–2022.04",
+      "score": 0.978,
+      "box": [
+        115,
+        290,
+        722,
+        313
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9701,
+      "box": [
+        127,
+        315,
+        439,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9628,
+      "box": [
+        126,
+        339,
+        555,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Highpoint High School, 2016",
+      "score": 0.9883,
+      "box": [
+        116,
+        449,
+        840,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9633,
+      "box": [
+        132,
+        473,
+        667,
+        498
+      ]
+    }
+  ]
+}

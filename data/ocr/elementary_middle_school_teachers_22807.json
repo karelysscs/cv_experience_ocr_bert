@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_22807",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.845,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "SARAH HOLMES",
+      "score": 0.9763,
+      "box": [
+        115,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-568-560-2585 |sarah.holmes@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9715,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Minds School, 2021.04–2023.01",
+      "score": 0.9815,
+      "box": [
+        116,
+        290,
+        859,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9839,
+      "box": [
+        126,
+        314,
+        656,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        492,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Brookhaven University, 2023",
+      "score": 0.9667,
+      "box": [
+        115,
+        449,
+        682,
+        472
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9744,
+      "box": [
+        132,
+        471,
+        720,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9827,
+      "box": [
+        133,
+        498,
+        660,
+        523
+      ]
+    }
+  ]
+}

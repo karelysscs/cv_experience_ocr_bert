@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_18764",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.834,
+  "mean_conf": 0.9869,
+  "lines": [
+    {
+      "text": "LISA SEXTON",
+      "score": 0.9751,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-622-886-1983|lisa.sexton@example.com",
+      "score": 0.986,
+      "box": [
+        116,
+        150,
+        627,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2020.08–2022.06",
+      "score": 0.9805,
+      "box": [
+        115,
+        289,
+        647,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9859,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2018.04–2020.02",
+      "score": 0.9889,
+      "box": [
+        116,
+        382,
+        628,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9805,
+      "box": [
+        125,
+        405,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9911,
+      "box": [
+        126,
+        429,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Larkspur University, 2013",
+      "score": 0.9811,
+      "box": [
+        114,
+        539,
+        625,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9923,
+      "box": [
+        133,
+        565,
+        644,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9955,
+      "box": [
+        134,
+        590,
+        682,
+        616
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_33166",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.997,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "JULIO FRIEDMAN",
+      "score": 0.9781,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-547-806-5517 |julio.friedman@example.com",
+      "score": 0.9741,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2019.07–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9673,
+      "box": [
+        125,
+        314,
+        465,
+        337
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9894,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterWorks Construction, 2015.12–2019.07",
+      "score": 0.9791,
+      "box": [
+        115,
+        381,
+        754,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9812,
+      "box": [
+        125,
+        407,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9813,
+      "box": [
+        125,
+        430,
+        394,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2012.05–2015.12",
+      "score": 0.9748,
+      "box": [
+        115,
+        472,
+        729,
+        496
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9827,
+      "box": [
+        125,
+        496,
+        380,
+        522
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9781,
+      "box": [
+        126,
+        521,
+        448,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2006.02–2009.09",
+      "score": 0.9798,
+      "box": [
+        114,
+        563,
+        690,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9736,
+      "box": [
+        124,
+        588,
+        379,
+        614
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9841,
+      "box": [
+        125,
+        613,
+        446,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Greenfield High School, 201",
+      "score": 0.994,
+      "box": [
+        116,
+        725,
+        862,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.9834,
+      "box": [
+        132,
+        747,
+        569,
+        772
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_12617",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.993,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "JOHN WATTS",
+      "score": 0.9766,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-824-670-8073 |john.watts@example.com",
+      "score": 0.9714,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2020.02–2023.01",
+      "score": 0.9803,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "-Directed installation methodologies",
+      "score": 0.984,
+      "box": [
+        125,
+        313,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9673,
+      "box": [
+        126,
+        339,
+        427,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildForce Contractors, 2017.03–2020.02",
+      "score": 0.9843,
+      "box": [
+        116,
+        382,
+        722,
+        406
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9751,
+      "box": [
+        125,
+        405,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9798,
+      "box": [
+        125,
+        431,
+        458,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workline Builders, 2013.09–2016.08",
+      "score": 0.987,
+      "box": [
+        115,
+        472,
+        670,
+        496
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9858,
+      "box": [
+        125,
+        496,
+        384,
+        521
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9751,
+      "box": [
+        125,
+        521,
+        397,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2009.08–2012.8",
+      "score": 0.9765,
+      "box": [
+        114,
+        563,
+        746,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9775,
+      "box": [
+        124,
+        588,
+        406,
+        615
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9889,
+      "box": [
+        126,
+        613,
+        489,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Cedarfield High School, 2000",
+      "score": 0.9822,
+      "box": [
+        116,
+        725,
+        846,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of material estimation",
+      "score": 0.9783,
+      "box": [
+        132,
+        747,
+        517,
+        772
+      ]
+    }
+  ]
+}

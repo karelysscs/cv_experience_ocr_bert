@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_18813",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.966,
+  "mean_conf": 0.9781,
+  "lines": [
+    {
+      "text": "JOSUE MCKENZIE",
+      "score": 0.9783,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-596-218-4787 |josue.mckenzie@example.com",
+      "score": 0.9816,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2020.08–2023.01",
+      "score": 0.9697,
+      "box": [
+        115,
+        289,
+        678,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9755,
+      "box": [
+        126,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9858,
+      "box": [
+        127,
+        340,
+        465,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2018.03–2020.08",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9526,
+      "box": [
+        126,
+        407,
+        342,
+        429
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.983,
+      "box": [
+        127,
+        432,
+        508,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2015.09–2018.03",
+      "score": 0.9789,
+      "box": [
+        115,
+        471,
+        737,
+        496
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9754,
+      "box": [
+        125,
+        496,
+        532,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9558,
+      "box": [
+        126,
+        521,
+        555,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        584,
+        269,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Engineering Technology, Goldenridge University, 2017",
+      "score": 0.9857,
+      "box": [
+        114,
+        631,
+        854,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9697,
+      "box": [
+        134,
+        658,
+        577,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9946,
+      "box": [
+        135,
+        682,
+        629,
+        705
+      ]
+    }
+  ]
+}

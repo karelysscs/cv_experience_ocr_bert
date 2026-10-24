@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_34868",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.828,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "LANDON CLAYTON",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        431,
+        121
+      ]
+    },
+    {
+      "text": "NM, USA|+1-871-504-3631 |landon.clayton@example.com",
+      "score": 0.9731,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9741,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmCraft Construction, 2022.09–2023.01",
+      "score": 0.9762,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9901,
+      "box": [
+        125,
+        314,
+        583,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Riverhaven University, 2023",
+      "score": 0.9836,
+      "box": [
+        115,
+        447,
+        851,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tool usage",
+      "score": 0.9598,
+      "box": [
+        132,
+        472,
+        475,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9746,
+      "box": [
+        134,
+        499,
+        603,
+        522
+      ]
+    }
+  ]
+}

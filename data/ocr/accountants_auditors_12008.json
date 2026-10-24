@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_12008",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.876,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "MAYRA GRIMES",
+      "score": 0.9684,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-781-403-1469|mayra.grimes@example.com",
+      "score": 0.989,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2020.12–2023.01",
+      "score": 0.9811,
+      "box": [
+        114,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9729,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9664,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2018.10–2020.12",
+      "score": 0.9824,
+      "box": [
+        114,
+        381,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9936,
+      "box": [
+        125,
+        407,
+        431,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9907,
+      "box": [
+        126,
+        430,
+        430,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2014.09–2016.11",
+      "score": 0.9866,
+      "box": [
+        115,
+        472,
+        676,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9841,
+      "box": [
+        125,
+        496,
+        358,
+        521
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.986,
+      "box": [
+        125,
+        521,
+        550,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Oakwood University, 2011",
+      "score": 0.9852,
+      "box": [
+        115,
+        632,
+        583,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9899,
+      "box": [
+        132,
+        655,
+        555,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9965,
+      "box": [
+        134,
+        682,
+        527,
+        705
+      ]
+    }
+  ]
+}

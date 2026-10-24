@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_13338",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.799,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "KIANNA EVERETT",
+      "score": 0.9673,
+      "box": [
+        116,
+        90,
+        413,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-297-761-3219 |kianna.everett@example.com",
+      "score": 0.9809,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2020.03–2023.01",
+      "score": 0.9785,
+      "box": [
+        114,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9673,
+      "box": [
+        127,
+        315,
+        440,
+        338
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Practices, Stonebridge University, 2022",
+      "score": 0.9866,
+      "box": [
+        115,
+        447,
+        793,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction cost basics",
+      "score": 0.9913,
+      "box": [
+        133,
+        474,
+        611,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9845,
+      "box": [
+        133,
+        498,
+        552,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_14319",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "TYRUS ROGERS",
+      "score": 0.9861,
+      "box": [
+        115,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-232-224-3146 |tyrus.rogers@example.com",
+      "score": 0.9856,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2020.05–2023.01",
+      "score": 0.9757,
+      "box": [
+        114,
+        289,
+        701,
+        314
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9913,
+      "box": [
+        126,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9651,
+      "box": [
+        127,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2017.09–2020.05",
+      "score": 0.9801,
+      "box": [
+        114,
+        381,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9716,
+      "box": [
+        126,
+        406,
+        350,
+        431
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9809,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2012.01–2014.09",
+      "score": 0.979,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9825,
+      "box": [
+        125,
+        497,
+        384,
+        522
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9891,
+      "box": [
+        126,
+        521,
+        480,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Brookfield University, 2004",
+      "score": 0.9925,
+      "box": [
+        114,
+        631,
+        729,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Meadowfield University, 202",
+      "score": 0.9829,
+      "box": [
+        114,
+        656,
+        677,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9886,
+      "box": [
+        134,
+        682,
+        566,
+        705
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9847,
+      "box": [
+        133,
+        706,
+        508,
+        731
+      ]
+    }
+  ]
+}

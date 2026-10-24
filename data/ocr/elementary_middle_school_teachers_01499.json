@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_01499",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.088,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "KAMI YOUNG",
+      "score": 0.9671,
+      "box": [
+        116,
+        90,
+        335,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-519-580-3257|kami.young@example.com",
+      "score": 0.9735,
+      "box": [
+        116,
+        151,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9771,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2018.02–2023.0",
+      "score": 0.9806,
+      "box": [
+        115,
+        289,
+        875,
+        314
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9728,
+      "box": [
+        126,
+        314,
+        563,
+        339
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9898,
+      "box": [
+        127,
+        340,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Clear Path Academy, 2013.03–2018.02",
+      "score": 0.9858,
+      "box": [
+        115,
+        381,
+        829,
+        406
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9892,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9756,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Steps School, 2008.03–2013.03",
+      "score": 0.974,
+      "box": [
+        114,
+        470,
+        809,
+        498
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9904,
+      "box": [
+        125,
+        496,
+        517,
+        521
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.978,
+      "box": [
+        127,
+        522,
+        479,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Grove Academy, 2003.03–2008.03",
+      "score": 0.9762,
+      "box": [
+        115,
+        564,
+        848,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9765,
+      "box": [
+        126,
+        590,
+        417,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9781,
+      "box": [
+        126,
+        614,
+        656,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Forestfield University, 207",
+      "score": 0.9887,
+      "box": [
+        115,
+        725,
+        702,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Elmwood Ridge University, 2005",
+      "score": 0.9653,
+      "box": [
+        114,
+        747,
+        718,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom learning outcomes",
+      "score": 0.9916,
+      "box": [
+        132,
+        772,
+        614,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9802,
+      "box": [
+        134,
+        800,
+        668,
+        820
+      ]
+    }
+  ]
+}

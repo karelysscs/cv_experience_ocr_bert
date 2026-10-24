@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_21846",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.876,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "SABRINA SIMS",
+      "score": 0.9667,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-616-714-3705 |sabrina.sims@example.com",
+      "score": 0.9792,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2020.05–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9793,
+      "box": [
+        127,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.952,
+      "box": [
+        127,
+        340,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Spring Nursing, 2017.09–2020.05",
+      "score": 0.9793,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9587,
+      "box": [
+        125,
+        405,
+        401,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9917,
+      "box": [
+        126,
+        431,
+        477,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2012.07–2015.04",
+      "score": 0.9935,
+      "box": [
+        116,
+        472,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9827,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9731,
+      "box": [
+        126,
+        521,
+        531,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Public Health, Northwood University, 2002",
+      "score": 0.9742,
+      "box": [
+        114,
+        631,
+        696,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9888,
+      "box": [
+        133,
+        657,
+        501,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.983,
+      "box": [
+        133,
+        681,
+        594,
+        706
+      ]
+    }
+  ]
+}

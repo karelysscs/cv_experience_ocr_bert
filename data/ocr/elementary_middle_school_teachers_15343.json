@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_15343",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.957,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "KACIHENSON",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-891-705-6891|kaci.henson@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2020.01–2023.01",
+      "score": 0.9876,
+      "box": [
+        116,
+        290,
+        815,
+        314
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9768,
+      "box": [
+        126,
+        314,
+        562,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9778,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2017.01–2020.01",
+      "score": 0.9871,
+      "box": [
+        116,
+        382,
+        875,
+        406
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9915,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.968,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2010.12–2014.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        472,
+        823,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9531,
+      "box": [
+        125,
+        496,
+        399,
+        521
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9749,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Instructional Support, Redwood University, 2008",
+      "score": 0.9745,
+      "box": [
+        115,
+        631,
+        815,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.9755,
+      "box": [
+        132,
+        656,
+        549,
+        681
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9831,
+      "box": [
+        135,
+        681,
+        508,
+        705
+      ]
+    }
+  ]
+}

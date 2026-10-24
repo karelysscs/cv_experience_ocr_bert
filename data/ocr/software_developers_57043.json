@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_57043",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JEREMY HAHN",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        360,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-374-759-2023 |jeremy.hahn@example.com",
+      "score": 0.99,
+      "box": [
+        115,
+        150,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2020.08–2023.01",
+      "score": 0.9882,
+      "box": [
+        116,
+        290,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9617,
+      "box": [
+        127,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9801,
+      "box": [
+        127,
+        340,
+        461,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Digital, 2018.02–2020.08",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9915,
+      "box": [
+        125,
+        406,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9886,
+      "box": [
+        126,
+        429,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Clear Spring University, 2016",
+      "score": 0.9696,
+      "box": [
+        115,
+        541,
+        479,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowhaven University, 2014",
+      "score": 0.9492,
+      "box": [
+        115,
+        566,
+        499,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9733,
+      "box": [
+        133,
+        590,
+        641,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.991,
+      "box": [
+        134,
+        616,
+        585,
+        639
+      ]
+    }
+  ]
+}

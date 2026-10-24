@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_37649",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.862,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "ELAINA LEE",
+      "score": 0.9487,
+      "box": [
+        114,
+        87,
+        318,
+        123
+      ]
+    },
+    {
+      "text": "NY, USA|+1-293-674-2456|elaina.lee@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2020.09–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "-Directed strategic accounting initiatives",
+      "score": 0.979,
+      "box": [
+        125,
+        314,
+        503,
+        339
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2016.01–2018.05",
+      "score": 0.9908,
+      "box": [
+        114,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9911,
+      "box": [
+        126,
+        407,
+        405,
+        430
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9722,
+      "box": [
+        125,
+        430,
+        420,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Woodcrest University, 2005",
+      "score": 0.9823,
+      "box": [
+        115,
+        541,
+        647,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Cloverfield University, 2003",
+      "score": 0.9824,
+      "box": [
+        114,
+        565,
+        703,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9664,
+      "box": [
+        132,
+        590,
+        511,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal reporting systems",
+      "score": 0.9806,
+      "box": [
+        134,
+        615,
+        628,
+        640
+      ]
+    }
+  ]
+}

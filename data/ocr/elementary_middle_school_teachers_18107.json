@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_18107",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.041,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "BROOKE SHIELDS",
+      "score": 0.9778,
+      "box": [
+        116,
+        88,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-922-639-1991 | brooke.shields@example.com",
+      "score": 0.9874,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Start Academy, 2019.04–2023.01",
+      "score": 0.9731,
+      "box": [
+        116,
+        289,
+        838,
+        312
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9801,
+      "box": [
+        125,
+        313,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9614,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Futures Academy, 2015.06–2019.04",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        868,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.994,
+      "box": [
+        126,
+        406,
+        569,
+        432
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9913,
+      "box": [
+        125,
+        430,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hands School, 2011.08–2015.06",
+      "score": 0.9844,
+      "box": [
+        114,
+        471,
+        835,
+        496
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9873,
+      "box": [
+        126,
+        498,
+        517,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9608,
+      "box": [
+        126,
+        521,
+        548,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2007.10–2011.08",
+      "score": 0.9657,
+      "box": [
+        116,
+        565,
+        806,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9797,
+      "box": [
+        126,
+        589,
+        495,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.989,
+      "box": [
+        126,
+        613,
+        417,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Riverstone University, 2012",
+      "score": 0.9795,
+      "box": [
+        115,
+        725,
+        763,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Pinefield University, 2010",
+      "score": 0.9802,
+      "box": [
+        114,
+        747,
+        663,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9851,
+      "box": [
+        133,
+        774,
+        488,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9937,
+      "box": [
+        133,
+        799,
+        625,
+        823
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_32037",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.985,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "ALISON MEADOWS",
+      "score": 0.9855,
+      "box": [
+        116,
+        88,
+        433,
+        122
+      ]
+    },
+    {
+      "text": "NV, USA|+1-322-536-4108|alison.meadows@example.com",
+      "score": 0.9918,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2019.05–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9739,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9543,
+      "box": [
+        126,
+        338,
+        491,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2015.09–2019.05",
+      "score": 0.9891,
+      "box": [
+        114,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.993,
+      "box": [
+        126,
+        406,
+        500,
+        431
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9813,
+      "box": [
+        126,
+        430,
+        427,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2012.01–2015.09",
+      "score": 0.9826,
+      "box": [
+        114,
+        471,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9913,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9536,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2006.02–209.10",
+      "score": 0.9725,
+      "box": [
+        115,
+        564,
+        714,
+        587
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9925,
+      "box": [
+        125,
+        589,
+        420,
+        614
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9846,
+      "box": [
+        125,
+        613,
+        573,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Westview University, 2005",
+      "score": 0.9792,
+      "box": [
+        115,
+        725,
+        557,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9685,
+      "box": [
+        132,
+        747,
+        506,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9896,
+      "box": [
+        133,
+        772,
+        552,
+        798
+      ]
+    }
+  ]
+}

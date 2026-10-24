@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_03818",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.856,
+  "mean_conf": 0.9763,
+  "lines": [
+    {
+      "text": "SERGIO VANG",
+      "score": 0.9555,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-713-619-2868 |sergio.vang@example.com",
+      "score": 0.9785,
+      "box": [
+        117,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services, 2022.06–2023.01",
+      "score": 0.9668,
+      "box": [
+        115,
+        289,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9844,
+      "box": [
+        126,
+        314,
+        549,
+        338
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9859,
+      "box": [
+        127,
+        340,
+        413,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Financial Management, Plainview University, 2020",
+      "score": 0.978,
+      "box": [
+        115,
+        449,
+        673,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Brookstone University, 2018",
+      "score": 0.9625,
+      "box": [
+        114,
+        472,
+        650,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in compliance testing",
+      "score": 0.9635,
+      "box": [
+        133,
+        498,
+        562,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9836,
+      "box": [
+        134,
+        523,
+        572,
+        548
+      ]
+    }
+  ]
+}

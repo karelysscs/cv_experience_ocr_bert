@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_36259",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.981,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "JACQUELINE STARK",
+      "score": 0.9711,
+      "box": [
+        116,
+        90,
+        458,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-902-906-9677 |jacqueline.stark@example.com",
+      "score": 0.9879,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2018.02–2023.01",
+      "score": 0.9916,
+      "box": [
+        114,
+        288,
+        743,
+        314
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9848,
+      "box": [
+        127,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9693,
+      "box": [
+        126,
+        339,
+        518,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2013.03–2018.02",
+      "score": 0.9864,
+      "box": [
+        115,
+        381,
+        719,
+        406
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9854,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9859,
+      "box": [
+        126,
+        430,
+        517,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2008.03–2013.03",
+      "score": 0.9772,
+      "box": [
+        114,
+        471,
+        684,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9755,
+      "box": [
+        125,
+        496,
+        461,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9736,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2003.03–2008.03",
+      "score": 0.9948,
+      "box": [
+        115,
+        565,
+        708,
+        588
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9747,
+      "box": [
+        126,
+        590,
+        490,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9963,
+      "box": [
+        126,
+        613,
+        453,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Seabreeze University, 2002",
+      "score": 0.96,
+      "box": [
+        114,
+        723,
+        692,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9837,
+      "box": [
+        133,
+        749,
+        639,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9874,
+      "box": [
+        134,
+        772,
+        622,
+        797
+      ]
+    }
+  ]
+}

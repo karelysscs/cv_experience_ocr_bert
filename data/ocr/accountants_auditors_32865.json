@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_32865",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.959,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "REBEKAH MALONE",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-648-939-3908|rebekah.malone@example.com",
+      "score": 0.9846,
+      "box": [
+        116,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.01–2023.01",
+      "score": 0.963,
+      "box": [
+        114,
+        289,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "-Managed financial governance",
+      "score": 0.9871,
+      "box": [
+        125,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2015.12–2018.12",
+      "score": 0.9783,
+      "box": [
+        114,
+        381,
+        739,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9946,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9646,
+      "box": [
+        126,
+        432,
+        350,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2012.04–2015.05",
+      "score": 0.9762,
+      "box": [
+        114,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9819,
+      "box": [
+        125,
+        496,
+        378,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.985,
+      "box": [
+        126,
+        521,
+        439,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Professional degree, Investment Management, Clearfield Ridge University, 206",
+      "score": 0.9878,
+      "box": [
+        114,
+        631,
+        859,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Bright Ridge University, 2002",
+      "score": 0.9753,
+      "box": [
+        114,
+        656,
+        611,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9839,
+      "box": [
+        132,
+        681,
+        539,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9903,
+      "box": [
+        132,
+        706,
+        506,
+        732
+      ]
+    }
+  ]
+}

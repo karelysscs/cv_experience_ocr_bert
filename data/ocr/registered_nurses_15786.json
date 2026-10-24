@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_15786",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.887,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "LAURA DRAKE",
+      "score": 0.9858,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-704-323-1173 |laura.drake@example.com",
+      "score": 0.978,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLeaf Health Group, 2020.09–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        289,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9836,
+      "box": [
+        125,
+        313,
+        500,
+        339
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9517,
+      "box": [
+        127,
+        340,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2018.05–2020.09",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        639,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9758,
+      "box": [
+        125,
+        405,
+        470,
+        432
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9792,
+      "box": [
+        126,
+        430,
+        380,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2014.10–2017.02",
+      "score": 0.9773,
+      "box": [
+        116,
+        472,
+        657,
+        496
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9829,
+      "box": [
+        126,
+        496,
+        353,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9887,
+      "box": [
+        126,
+        521,
+        474,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Foundations, Sunnyside University, 2005",
+      "score": 0.9943,
+      "box": [
+        114,
+        631,
+        683,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9677,
+      "box": [
+        132,
+        656,
+        621,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.9578,
+      "box": [
+        136,
+        683,
+        557,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_13353",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.971,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "BRANDONKRUEGER",
+      "score": 0.9982,
+      "box": [
+        117,
+        90,
+        463,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-750-214-2706 |brandon.krueger@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2020.05–2023.01",
+      "score": 0.9773,
+      "box": [
+        114,
+        288,
+        754,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9864,
+      "box": [
+        126,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9621,
+      "box": [
+        127,
+        339,
+        392,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2017.08–2020.05",
+      "score": 0.9869,
+      "box": [
+        114,
+        381,
+        692,
+        406
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9862,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9837,
+      "box": [
+        126,
+        431,
+        517,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2014.11–2017.08",
+      "score": 0.9823,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9633,
+      "box": [
+        125,
+        496,
+        368,
+        521
+      ]
+    },
+    {
+      "text": "-Prepared financial statements",
+      "score": 0.9785,
+      "box": [
+        125,
+        521,
+        419,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2009.08–2012.05",
+      "score": 0.9908,
+      "box": [
+        115,
+        565,
+        694,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9899,
+      "box": [
+        125,
+        589,
+        507,
+        614
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9932,
+      "box": [
+        126,
+        613,
+        481,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Silverton University, 2004",
+      "score": 0.9698,
+      "box": [
+        115,
+        723,
+        554,
+        745
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence",
+      "score": 0.9922,
+      "box": [
+        133,
+        748,
+        513,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance measurement",
+      "score": 0.9931,
+      "box": [
+        133,
+        772,
+        641,
+        797
+      ]
+    }
+  ]
+}

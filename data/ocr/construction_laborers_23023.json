@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_23023",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9776,
+  "lines": [
+    {
+      "text": "HOLLY BARRY",
+      "score": 0.9706,
+      "box": [
+        115,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-868-501-7600 |holly.barry@example.com",
+      "score": 0.9572,
+      "box": [
+        116,
+        152,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2020.04–2021.07",
+      "score": 0.985,
+      "box": [
+        115,
+        290,
+        747,
+        313
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.982,
+      "box": [
+        126,
+        312,
+        465,
+        340
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9651,
+      "box": [
+        126,
+        339,
+        445,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Sunnyside High School, 2013",
+      "score": 0.9845,
+      "box": [
+        116,
+        449,
+        866,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9739,
+      "box": [
+        132,
+        472,
+        568,
+        497
+      ]
+    }
+  ]
+}

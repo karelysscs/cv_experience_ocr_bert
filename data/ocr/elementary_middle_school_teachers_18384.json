@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18384",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.826,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "KRISTINE ACEVEDO",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-717-240-1757 |kristine.acevedo@example.com",
+      "score": 0.9833,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Valley School, 2020.12–2023.01",
+      "score": 0.9796,
+      "box": [
+        116,
+        290,
+        810,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        412,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9771,
+      "box": [
+        126,
+        340,
+        398,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Southridge University, 221",
+      "score": 0.9731,
+      "box": [
+        114,
+        447,
+        698,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9885,
+      "box": [
+        133,
+        473,
+        665,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9893,
+      "box": [
+        134,
+        499,
+        708,
+        522
+      ]
+    }
+  ]
+}

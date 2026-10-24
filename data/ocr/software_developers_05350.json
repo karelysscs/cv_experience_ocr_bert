@@ -1,0 +1,163 @@
+{
+  "id": "software_developers_05350",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.86,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "JACOB LI",
+      "score": 0.9651,
+      "box": [
+        114,
+        88,
+        277,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-999-925-4030 |jacob.li@example.com",
+      "score": 0.9834,
+      "box": [
+        116,
+        151,
+        607,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2019.10–2021.06",
+      "score": 0.9862,
+      "box": [
+        114,
+        288,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9764,
+      "box": [
+        126,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9806,
+      "box": [
+        127,
+        340,
+        496,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2016.09–2018.06",
+      "score": 0.9859,
+      "box": [
+        114,
+        381,
+        646,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed APl documentation",
+      "score": 0.9557,
+      "box": [
+        125,
+        407,
+        416,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.979,
+      "box": [
+        125,
+        430,
+        355,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Stonehaven University, 2010",
+      "score": 0.9797,
+      "box": [
+        116,
+        542,
+        486,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehaven University, 25",
+      "score": 0.9724,
+      "box": [
+        114,
+        564,
+        493,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.987,
+      "box": [
+        133,
+        591,
+        571,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9912,
+      "box": [
+        133,
+        615,
+        594,
+        640
+      ]
+    },
+    {
+      "text": "• Completed coursework in data mining basics",
+      "score": 0.9907,
+      "box": [
+        133,
+        640,
+        562,
+        665
+      ]
+    }
+  ]
+}

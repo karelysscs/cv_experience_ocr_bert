@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_22558",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.974,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "LAUREN BARTLETT",
+      "score": 0.9763,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-305-458-4376 |lauren.bartlett@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2020.09–2023.01",
+      "score": 0.9756,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9854,
+      "box": [
+        126,
+        313,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9867,
+      "box": [
+        127,
+        340,
+        439,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2018.05–2020.09",
+      "score": 0.9839,
+      "box": [
+        115,
+        381,
+        880,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9796,
+      "box": [
+        125,
+        407,
+        415,
+        430
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.976,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2015.12–2018.05",
+      "score": 0.9808,
+      "box": [
+        115,
+        471,
+        839,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained classroom bulletin boards",
+      "score": 0.9773,
+      "box": [
+        126,
+        497,
+        485,
+        519
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9816,
+      "box": [
+        126,
+        522,
+        408,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Pinewood University, 2015",
+      "score": 0.9892,
+      "box": [
+        115,
+        631,
+        630,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Riverfield University, 2013",
+      "score": 0.9831,
+      "box": [
+        114,
+        656,
+        645,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9921,
+      "box": [
+        133,
+        681,
+        650,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9824,
+      "box": [
+        134,
+        707,
+        602,
+        730
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_22764",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.002,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "ANGEL CONRAD",
+      "score": 0.9699,
+      "box": [
+        117,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-509-351-2491 |angel.conrad@example.com",
+      "score": 0.9719,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Health Group, 2020.06–223.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "-Directed care coordination strategies",
+      "score": 0.9978,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9853,
+      "box": [
+        126,
+        339,
+        553,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2017.10–220.06",
+      "score": 0.9855,
+      "box": [
+        116,
+        383,
+        727,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9528,
+      "box": [
+        126,
+        406,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9884,
+      "box": [
+        126,
+        431,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Care Services, 2015.02–2017.10",
+      "score": 0.9884,
+      "box": [
+        116,
+        473,
+        724,
+        496
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9891,
+      "box": [
+        125,
+        496,
+        546,
+        522
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9843,
+      "box": [
+        126,
+        521,
+        458,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2010.03–2012.11",
+      "score": 0.9835,
+      "box": [
+        115,
+        563,
+        634,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9805,
+      "box": [
+        126,
+        590,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9697,
+      "box": [
+        125,
+        612,
+        513,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Southridge University, 2002",
+      "score": 0.9728,
+      "box": [
+        115,
+        725,
+        668,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9978,
+      "box": [
+        134,
+        749,
+        625,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9859,
+      "box": [
+        136,
+        775,
+        625,
+        795
+      ]
+    }
+  ]
+}

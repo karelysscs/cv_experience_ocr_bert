@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_02031",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.978,
+  "lines": [
+    {
+      "text": "SAMUELGREER",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-299-778-8219| samuel.greer@example.com",
+      "score": 0.9686,
+      "box": [
+        116,
+        152,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9765,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2022.03–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9688,
+      "box": [
+        127,
+        315,
+        541,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9531,
+      "box": [
+        127,
+        340,
+        440,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Carpentry, Meadowview University, 2023",
+      "score": 0.9628,
+      "box": [
+        116,
+        449,
+        747,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9775,
+      "box": [
+        132,
+        474,
+        620,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9883,
+      "box": [
+        132,
+        497,
+        540,
+        523
+      ]
+    }
+  ]
+}

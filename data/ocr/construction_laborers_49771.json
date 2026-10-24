@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_49771",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.806,
+  "mean_conf": 0.9786,
+  "lines": [
+    {
+      "text": "KRISTOPHER ROLLINS",
+      "score": 0.9905,
+      "box": [
+        116,
+        90,
+        492,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-503-540-4379|kristopher.rollins@example.com",
+      "score": 0.9665,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stoneway Construction, 2020.06–2022.03",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9537,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Hawthorne High School, 2005",
+      "score": 0.9787,
+      "box": [
+        116,
+        449,
+        891,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9623,
+      "box": [
+        132,
+        473,
+        551,
+        498
+      ]
+    }
+  ]
+}

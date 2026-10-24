@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_35322",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.95,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "KAMREN WEBER",
+      "score": 0.9738,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-721-387-7833|kamren.weber@example.com",
+      "score": 0.9854,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2019.04–2023.01",
+      "score": 0.9704,
+      "box": [
+        115,
+        289,
+        679,
+        312
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9849,
+      "box": [
+        126,
+        314,
+        371,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9809,
+      "box": [
+        126,
+        339,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2015.07–2019.04",
+      "score": 0.9944,
+      "box": [
+        116,
+        381,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9837,
+      "box": [
+        126,
+        407,
+        382,
+        430
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9777,
+      "box": [
+        127,
+        432,
+        458,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2011.10–2015.07",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        664,
+        495
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.9748,
+      "box": [
+        125,
+        496,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9765,
+      "box": [
+        127,
+        522,
+        449,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2008.01–2011.10",
+      "score": 0.9889,
+      "box": [
+        116,
+        564,
+        709,
+        587
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9728,
+      "box": [
+        125,
+        589,
+        492,
+        614
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9751,
+      "box": [
+        126,
+        614,
+        361,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Coordination, Westfield University, 2011",
+      "score": 0.9925,
+      "box": [
+        116,
+        725,
+        797,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of construction scheduling",
+      "score": 0.9872,
+      "box": [
+        133,
+        749,
+        560,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9744,
+      "box": [
+        133,
+        772,
+        591,
+        796
+      ]
+    }
+  ]
+}

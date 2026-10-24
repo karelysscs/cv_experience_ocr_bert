@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_00952",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.997,
+  "mean_conf": 0.9769,
+  "lines": [
+    {
+      "text": "SETHGREENE",
+      "score": 0.9989,
+      "box": [
+        115,
+        90,
+        358,
+        120
+      ]
+    },
+    {
+      "text": "AK, USA|+1-489-621-9563 |seth.greene@example.com",
+      "score": 0.971,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueRise Builders, 2019.12–2023.01",
+      "score": 0.9858,
+      "box": [
+        115,
+        289,
+        671,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9482,
+      "box": [
+        125,
+        314,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9724,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Track Co., 2016.10–2019.12",
+      "score": 0.9892,
+      "box": [
+        116,
+        382,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9498,
+      "box": [
+        125,
+        406,
+        465,
+        431
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9743,
+      "box": [
+        125,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2012.11–2016.01",
+      "score": 0.9828,
+      "box": [
+        115,
+        472,
+        744,
+        496
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9818,
+      "box": [
+        125,
+        496,
+        380,
+        522
+      ]
+    },
+    {
+      "text": "-Monitored safety compliance",
+      "score": 0.9686,
+      "box": [
+        125,
+        521,
+        408,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2008.03–2011.05",
+      "score": 0.9837,
+      "box": [
+        114,
+        563,
+        717,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9405,
+      "box": [
+        125,
+        590,
+        435,
+        613
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9783,
+      "box": [
+        125,
+        613,
+        492,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Silverview High School, 2001",
+      "score": 0.9863,
+      "box": [
+        116,
+        725,
+        864,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9876,
+      "box": [
+        133,
+        749,
+        612,
+        772
+      ]
+    }
+  ]
+}

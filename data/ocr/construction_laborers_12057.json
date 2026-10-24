@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_12057",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.947,
+  "mean_conf": 0.9866,
+  "lines": [
+    {
+      "text": "KELLY NIELSEN",
+      "score": 0.9797,
+      "box": [
+        116,
+        90,
+        381,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-644-992-4753 |kelly.nielsen@example.com",
+      "score": 0.9908,
+      "box": [
+        116,
+        152,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2019.12–2023.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9787,
+      "box": [
+        127,
+        340,
+        477,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2016.11–2019.12",
+      "score": 0.9801,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9718,
+      "box": [
+        125,
+        405,
+        382,
+        430
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9925,
+      "box": [
+        126,
+        432,
+        488,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2013.10–2016.11",
+      "score": 0.9851,
+      "box": [
+        115,
+        472,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9894,
+      "box": [
+        126,
+        497,
+        450,
+        519
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9967,
+      "box": [
+        126,
+        521,
+        453,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2009.02–2012.03",
+      "score": 0.9787,
+      "box": [
+        114,
+        563,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9968,
+      "box": [
+        125,
+        588,
+        426,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9977,
+      "box": [
+        126,
+        613,
+        493,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Concrete Technology, Skyline University, 2006",
+      "score": 0.9905,
+      "box": [
+        114,
+        723,
+        737,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of temporary structures",
+      "score": 0.974,
+      "box": [
+        132,
+        747,
+        571,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of material recycling",
+      "score": 0.9776,
+      "box": [
+        134,
+        774,
+        504,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_53121",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.763,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "ALEXTYLER",
+      "score": 0.9968,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-759-842-9732|alex.tyler@example.com",
+      "score": 0.9748,
+      "box": [
+        115,
+        150,
+        623,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2020.04–2023.01",
+      "score": 0.9899,
+      "box": [
+        115,
+        289,
+        648,
+        312
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9909,
+      "box": [
+        128,
+        316,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        501,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Granite Hill University, 2019",
+      "score": 0.9808,
+      "box": [
+        115,
+        449,
+        485,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9608,
+      "box": [
+        132,
+        472,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9638,
+      "box": [
+        132,
+        497,
+        506,
+        523
+      ]
+    }
+  ]
+}

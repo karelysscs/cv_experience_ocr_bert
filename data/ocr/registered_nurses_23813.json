@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_23813",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.955,
+  "mean_conf": 0.977,
+  "lines": [
+    {
+      "text": "APRIL MCCARTY",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-372-425-4154 |april.mccarty@example.com",
+      "score": 0.9543,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2020.07–2023.01",
+      "score": 0.9848,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9529,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9773,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2018.01–2020.07",
+      "score": 0.9826,
+      "box": [
+        116,
+        383,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9737,
+      "box": [
+        126,
+        406,
+        530,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9914,
+      "box": [
+        126,
+        432,
+        517,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2015.07–2018.01",
+      "score": 0.9847,
+      "box": [
+        116,
+        473,
+        741,
+        497
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9638,
+      "box": [
+        125,
+        497,
+        470,
+        522
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9443,
+      "box": [
+        126,
+        521,
+        367,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2011.11–2014.05",
+      "score": 0.9918,
+      "box": [
+        116,
+        565,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9809,
+      "box": [
+        126,
+        590,
+        484,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9983,
+      "box": [
+        126,
+        614,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Parkview University, 2005",
+      "score": 0.9715,
+      "box": [
+        114,
+        722,
+        651,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9592,
+      "box": [
+        132,
+        748,
+        643,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9858,
+      "box": [
+        133,
+        774,
+        553,
+        797
+      ]
+    }
+  ]
+}

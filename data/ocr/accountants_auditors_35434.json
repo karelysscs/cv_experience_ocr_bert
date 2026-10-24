@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_35434",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.917,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "JOSHUA SINGH",
+      "score": 0.9743,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-755-518-1733|joshua.singh@example.com",
+      "score": 0.9938,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2020.05–2023.01",
+      "score": 0.9792,
+      "box": [
+        115,
+        289,
+        681,
+        312
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9722,
+      "box": [
+        127,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9751,
+      "box": [
+        128,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2017.09–2020.05",
+      "score": 0.9801,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9814,
+      "box": [
+        126,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9931,
+      "box": [
+        126,
+        430,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2012.09–2015.05",
+      "score": 0.9808,
+      "box": [
+        114,
+        471,
+        693,
+        495
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9863,
+      "box": [
+        126,
+        497,
+        414,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9852,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Oakwood University, 2008",
+      "score": 0.985,
+      "box": [
+        115,
+        631,
+        733,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9897,
+      "box": [
+        132,
+        656,
+        522,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9837,
+      "box": [
+        133,
+        681,
+        643,
+        707
+      ]
+    }
+  ]
+}

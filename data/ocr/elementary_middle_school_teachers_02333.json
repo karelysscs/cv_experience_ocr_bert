@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_02333",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.041,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "ABBYSCHMIDT",
+      "score": 0.9982,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-637-431-8434 |abby.schmidt@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2019.12–2023.01",
+      "score": 0.9711,
+      "box": [
+        116,
+        290,
+        816,
+        313
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.974,
+      "box": [
+        126,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9895,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Futures School, 2015.12–2019.01",
+      "score": 0.9781,
+      "box": [
+        116,
+        382,
+        825,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9923,
+      "box": [
+        127,
+        407,
+        434,
+        430
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9721,
+      "box": [
+        126,
+        432,
+        384,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2012.02–2015.03",
+      "score": 0.9904,
+      "box": [
+        115,
+        472,
+        850,
+        496
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9675,
+      "box": [
+        127,
+        499,
+        369,
+        520
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9671,
+      "box": [
+        127,
+        523,
+        518,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Windermere University, 205",
+      "score": 0.981,
+      "box": [
+        114,
+        631,
+        724,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Autumn Ridge University, 2003",
+      "score": 0.9691,
+      "box": [
+        115,
+        658,
+        713,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9813,
+      "box": [
+        134,
+        683,
+        643,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional goal setting",
+      "score": 0.9575,
+      "box": [
+        132,
+        705,
+        603,
+        732
+      ]
+    }
+  ]
+}

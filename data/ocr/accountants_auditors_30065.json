@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_30065",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.898,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "SAMANTHA STANLEY",
+      "score": 0.9734,
+      "box": [
+        116,
+        90,
+        474,
+        120
+      ]
+    },
+    {
+      "text": "MO, USA|+1-903-479-1603|samantha.stanley@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        709,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2020.05–2023.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        290,
+        754,
+        312
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9778,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9695,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2017.09–2020.05",
+      "score": 0.9673,
+      "box": [
+        114,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9632,
+      "box": [
+        126,
+        406,
+        351,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9714,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2015.01–2017.09",
+      "score": 0.9891,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9887,
+      "box": [
+        125,
+        496,
+        507,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9924,
+      "box": [
+        126,
+        521,
+        473,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Cedarview University, 2014",
+      "score": 0.9663,
+      "box": [
+        114,
+        631,
+        643,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of payroll systems",
+      "score": 0.9666,
+      "box": [
+        132,
+        656,
+        486,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9938,
+      "box": [
+        134,
+        682,
+        539,
+        705
+      ]
+    }
+  ]
+}

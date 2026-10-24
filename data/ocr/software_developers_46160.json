@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_46160",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.781,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "JOSEPH WILEY",
+      "score": 0.9767,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-451-819-3778|joseph.wiley@example.com",
+      "score": 0.9921,
+      "box": [
+        115,
+        150,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2017.08–2020.05",
+      "score": 0.9914,
+      "box": [
+        116,
+        290,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9598,
+      "box": [
+        127,
+        315,
+        502,
+        338
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9897,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2012",
+      "score": 0.9772,
+      "box": [
+        115,
+        449,
+        452,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in load balancing basics",
+      "score": 0.9913,
+      "box": [
+        133,
+        474,
+        589,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9871,
+      "box": [
+        133,
+        497,
+        553,
+        523
+      ]
+    }
+  ]
+}

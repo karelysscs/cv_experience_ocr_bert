@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_11500",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.982,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "NICHOLAS BARR",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "DE, USA|+1-423-608-8887 |nicholas.barr@example.com",
+      "score": 0.986,
+      "box": [
+        116,
+        152,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2018.11–2023.01",
+      "score": 0.9734,
+      "box": [
+        114,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9808,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9685,
+      "box": [
+        128,
+        340,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2014.08–2018.11",
+      "score": 0.9913,
+      "box": [
+        115,
+        381,
+        755,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9841,
+      "box": [
+        126,
+        406,
+        527,
+        431
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9825,
+      "box": [
+        126,
+        430,
+        515,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2010.05–2014.08",
+      "score": 0.9739,
+      "box": [
+        114,
+        471,
+        684,
+        495
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9943,
+      "box": [
+        126,
+        499,
+        369,
+        520
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9666,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2006.02–2010.05",
+      "score": 0.9814,
+      "box": [
+        115,
+        565,
+        712,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9766,
+      "box": [
+        126,
+        590,
+        445,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9834,
+      "box": [
+        126,
+        615,
+        420,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Management Information Systems, Sunset Ridge University, 2008",
+      "score": 0.9727,
+      "box": [
+        115,
+        725,
+        816,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Clearbrook University, 2006",
+      "score": 0.9677,
+      "box": [
+        114,
+        747,
+        662,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9892,
+      "box": [
+        134,
+        774,
+        692,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9918,
+      "box": [
+        133,
+        799,
+        492,
+        822
+      ]
+    }
+  ]
+}

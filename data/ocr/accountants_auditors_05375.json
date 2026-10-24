@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_05375",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.006,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "MIRIAM PHAM",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        349,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-483-666-1356|miriam.pham@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2019.02–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9794,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2015.03–2019.02",
+      "score": 0.9881,
+      "box": [
+        114,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9774,
+      "box": [
+        125,
+        405,
+        547,
+        432
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9866,
+      "box": [
+        126,
+        430,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial 2011.04–2015.03",
+      "score": 0.9796,
+      "box": [
+        115,
+        472,
+        753,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9662,
+      "box": [
+        126,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9766,
+      "box": [
+        126,
+        521,
+        463,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2007.05–2011.04",
+      "score": 0.9691,
+      "box": [
+        115,
+        565,
+        792,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9932,
+      "box": [
+        127,
+        591,
+        368,
+        612
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9742,
+      "box": [
+        126,
+        613,
+        490,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Larkspur University, 2005",
+      "score": 0.9769,
+      "box": [
+        115,
+        724,
+        641,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit quality management",
+      "score": 0.9794,
+      "box": [
+        133,
+        749,
+        630,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9817,
+      "box": [
+        133,
+        772,
+        636,
+        797
+      ]
+    }
+  ]
+}

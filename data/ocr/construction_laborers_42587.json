@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_42587",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.944,
+  "mean_conf": 0.9853,
+  "lines": [
+    {
+      "text": "ADAMTERRY",
+      "score": 0.9982,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-512-334-2570 |adam.terry@example.com",
+      "score": 0.9789,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorWorks Construction, 2019.03–2021.12",
+      "score": 0.9868,
+      "box": [
+        115,
+        290,
+        756,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9823,
+      "box": [
+        125,
+        313,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9738,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers,FirmWay Construction, 2015.01–2017.11",
+      "score": 0.9897,
+      "box": [
+        115,
+        381,
+        713,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9864,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9811,
+      "box": [
+        126,
+        430,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Elmwood High School, 1999",
+      "score": 0.9865,
+      "box": [
+        116,
+        541,
+        986,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of site inspection checklists",
+      "score": 0.9784,
+      "box": [
+        134,
+        566,
+        570,
+        589
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_59355",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.928,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "MELISSA HOOD",
+      "score": 0.9924,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-639-414-1392|melissa.hood@example.com",
+      "score": 0.9749,
+      "box": [
+        114,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2018.09–2023.01",
+      "score": 0.9747,
+      "box": [
+        114,
+        288,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9821,
+      "box": [
+        125,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        380,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2014.05–2018.09",
+      "score": 0.9751,
+      "box": [
+        116,
+        382,
+        625,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.992,
+      "box": [
+        127,
+        407,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9675,
+      "box": [
+        125,
+        429,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2010.01–2014.05",
+      "score": 0.9866,
+      "box": [
+        115,
+        472,
+        629,
+        496
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9739,
+      "box": [
+        124,
+        496,
+        402,
+        522
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9662,
+      "box": [
+        125,
+        521,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2005.08–2010.01",
+      "score": 0.9881,
+      "box": [
+        114,
+        563,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9871,
+      "box": [
+        124,
+        588,
+        443,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9901,
+      "box": [
+        127,
+        615,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Rockland University, 2006",
+      "score": 0.976,
+      "box": [
+        114,
+        723,
+        469,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.991,
+      "box": [
+        132,
+        748,
+        560,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9848,
+      "box": [
+        134,
+        774,
+        595,
+        797
+      ]
+    }
+  ]
+}

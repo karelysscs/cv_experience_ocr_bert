@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_12321",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.95,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "ALEXSEXTON",
+      "score": 0.9977,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-323-747-7766|alex.sexton@example.com",
+      "score": 0.9895,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2020.06–2023.01",
+      "score": 0.974,
+      "box": [
+        116,
+        290,
+        848,
+        313
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9684,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9777,
+      "box": [
+        127,
+        340,
+        510,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2016.08–2019.03",
+      "score": 0.986,
+      "box": [
+        116,
+        382,
+        820,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9793,
+      "box": [
+        126,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9792,
+      "box": [
+        126,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2012.08–2015.04",
+      "score": 0.9847,
+      "box": [
+        116,
+        472,
+        830,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.964,
+      "box": [
+        126,
+        497,
+        387,
+        519
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9823,
+      "box": [
+        127,
+        522,
+        529,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Silverton University, 2007",
+      "score": 0.9855,
+      "box": [
+        115,
+        631,
+        664,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.9826,
+      "box": [
+        134,
+        658,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9841,
+      "box": [
+        135,
+        681,
+        690,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_35219",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.805,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "JASMINE MOSS",
+      "score": 0.9888,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-931-220-2599 |jasmine.moss@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2021.08–2023.01",
+      "score": 0.9855,
+      "box": [
+        116,
+        291,
+        689,
+        311
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9616,
+      "box": [
+        125,
+        313,
+        410,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9673,
+      "box": [
+        126,
+        338,
+        358,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Rockland University, 2020",
+      "score": 0.96,
+      "box": [
+        114,
+        447,
+        639,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of operations management",
+      "score": 0.979,
+      "box": [
+        132,
+        472,
+        606,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9838,
+      "box": [
+        134,
+        498,
+        558,
+        520
+      ]
+    }
+  ]
+}

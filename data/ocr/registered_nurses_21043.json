@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_21043",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.777,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "KRISTINA BUCHANAN",
+      "score": 0.9838,
+      "box": [
+        116,
+        90,
+        477,
+        120
+      ]
+    },
+    {
+      "text": "IA, USA|+1-291-249-3611 |kristina.buchanan@example.com",
+      "score": 0.9701,
+      "box": [
+        116,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2019.06–2021.05",
+      "score": 0.9849,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "– Managed clinical workflow redesign",
+      "score": 0.9581,
+      "box": [
+        125,
+        314,
+        470,
+        339
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2016.03–2018.02",
+      "score": 0.9849,
+      "box": [
+        115,
+        381,
+        730,
+        406
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9927,
+      "box": [
+        126,
+        407,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.964,
+      "box": [
+        125,
+        431,
+        531,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Foundations, Meadowway University, 2010",
+      "score": 0.9811,
+      "box": [
+        115,
+        540,
+        780,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9898,
+      "box": [
+        133,
+        565,
+        598,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data privacy",
+      "score": 0.9877,
+      "box": [
+        132,
+        590,
+        491,
+        615
+      ]
+    }
+  ]
+}

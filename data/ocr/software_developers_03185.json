@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_03185",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9771,
+  "lines": [
+    {
+      "text": "LUIS HUYNH",
+      "score": 0.9853,
+      "box": [
+        115,
+        88,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-866-301-8817 |luis.huynh@example.com",
+      "score": 0.9889,
+      "box": [
+        116,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital 2020.01–2023.01",
+      "score": 0.9549,
+      "box": [
+        115,
+        288,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9827,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9833,
+      "box": [
+        127,
+        340,
+        543,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2017.01–2020.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        654,
+        406
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9723,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9802,
+      "box": [
+        126,
+        431,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2014.01–2017.01",
+      "score": 0.9873,
+      "box": [
+        116,
+        472,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "-Assisted with build automation",
+      "score": 0.9678,
+      "box": [
+        126,
+        497,
+        422,
+        519
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9551,
+      "box": [
+        126,
+        521,
+        351,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Westfield University, 2021",
+      "score": 0.9576,
+      "box": [
+        115,
+        631,
+        446,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Redwood University, 2019",
+      "score": 0.9655,
+      "box": [
+        114,
+        656,
+        470,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in code review practices",
+      "score": 0.9903,
+      "box": [
+        133,
+        683,
+        590,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9642,
+      "box": [
+        132,
+        706,
+        554,
+        732
+      ]
+    }
+  ]
+}

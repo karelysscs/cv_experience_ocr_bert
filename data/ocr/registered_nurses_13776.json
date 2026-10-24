@@ -1,0 +1,103 @@
+{
+  "id": "registered_nurses_13776",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.749,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "RACHEL HUFFMAN",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        432,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-871-371-7022 |rachel.huffman@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2021.05–2022.07",
+      "score": 0.9791,
+      "box": [
+        116,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9811,
+      "box": [
+        125,
+        314,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9782,
+      "box": [
+        126,
+        339,
+        473,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Clinical Studies, Hillside High School, 2005",
+      "score": 0.9889,
+      "box": [
+        116,
+        449,
+        776,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9675,
+      "box": [
+        133,
+        474,
+        599,
+        497
+      ]
+    }
+  ]
+}

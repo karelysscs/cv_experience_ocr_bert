@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_15985",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.849,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "JESSICA BOONE",
+      "score": 0.9894,
+      "box": [
+        115,
+        88,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-568-577-8440 |jessica.boone@example.com",
+      "score": 0.9795,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2021.06–2023.01",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9809,
+      "box": [
+        126,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9842,
+      "box": [
+        126,
+        339,
+        534,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2019.11–2021.06",
+      "score": 0.9755,
+      "box": [
+        115,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9941,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9714,
+      "box": [
+        125,
+        429,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Technology, Stonewood University, 2021",
+      "score": 0.9721,
+      "box": [
+        115,
+        539,
+        760,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of safety protocols",
+      "score": 0.9807,
+      "box": [
+        133,
+        566,
+        489,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in delegation principles",
+      "score": 0.9926,
+      "box": [
+        133,
+        590,
+        580,
+        615
+      ]
+    }
+  ]
+}

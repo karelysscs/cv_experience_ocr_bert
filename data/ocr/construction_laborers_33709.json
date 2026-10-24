@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_33709",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "WILLIAM DAVIS",
+      "score": 0.987,
+      "box": [
+        116,
+        90,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-853-491-3816|william.davis@example.com",
+      "score": 0.9879,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2020.06–2022.03",
+      "score": 0.9746,
+      "box": [
+        115,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9964,
+      "box": [
+        126,
+        315,
+        566,
+        338
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9827,
+      "box": [
+        127,
+        340,
+        441,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Oakwood High School, 2013",
+      "score": 0.9779,
+      "box": [
+        116,
+        449,
+        849,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9697,
+      "box": [
+        132,
+        473,
+        667,
+        498
+      ]
+    }
+  ]
+}

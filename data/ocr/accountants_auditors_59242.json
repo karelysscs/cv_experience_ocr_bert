@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_59242",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.829,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "SUZANNA PERRY",
+      "score": 0.9756,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-477-531-4002|suzanna.perry@example.com",
+      "score": 0.9727,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2018.08–2020.02",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9531,
+      "box": [
+        126,
+        315,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        382,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, Public Accounting, Oakridge Valley University, 2006",
+      "score": 0.9784,
+      "box": [
+        114,
+        447,
+        795,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Cedarview University, 202",
+      "score": 0.9648,
+      "box": [
+        114,
+        472,
+        754,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9929,
+      "box": [
+        134,
+        499,
+        599,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9806,
+      "box": [
+        133,
+        522,
+        566,
+        546
+      ]
+    }
+  ]
+}

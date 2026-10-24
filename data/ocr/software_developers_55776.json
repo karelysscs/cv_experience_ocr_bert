@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_55776",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "RYAN WAGNER",
+      "score": 0.968,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA |+1-264-813-7319|ryan.wagner@example.com",
+      "score": 0.9823,
+      "box": [
+        117,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2020.08–222.05",
+      "score": 0.9718,
+      "box": [
+        114,
+        289,
+        702,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9706,
+      "box": [
+        127,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9616,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2017.07–2019.05",
+      "score": 0.9913,
+      "box": [
+        116,
+        382,
+        632,
+        405
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9832,
+      "box": [
+        125,
+        406,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9741,
+      "box": [
+        126,
+        427,
+        385,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Clearbrook University, 2005",
+      "score": 0.9673,
+      "box": [
+        115,
+        541,
+        466,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearfield University, 2003",
+      "score": 0.9876,
+      "box": [
+        115,
+        566,
+        469,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9891,
+      "box": [
+        133,
+        590,
+        606,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9924,
+      "box": [
+        133,
+        615,
+        599,
+        640
+      ]
+    }
+  ]
+}

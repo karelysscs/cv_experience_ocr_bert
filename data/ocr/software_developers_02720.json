@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_02720",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "JUSTIN HAYNES",
+      "score": 0.9805,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-375-663-2245 |justin.haynes@example.com",
+      "score": 0.9666,
+      "box": [
+        116,
+        149,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2019.10–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        288,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "-Built core libraries",
+      "score": 0.9949,
+      "box": [
+        125,
+        313,
+        309,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9911,
+      "box": [
+        126,
+        339,
+        438,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Labs, 2016.07–2019.10",
+      "score": 0.9969,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9893,
+      "box": [
+        127,
+        407,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.988,
+      "box": [
+        125,
+        429,
+        471,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Openridge Technologies, 2013.03–2016.07",
+      "score": 0.9905,
+      "box": [
+        114,
+        470,
+        725,
+        498
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.989,
+      "box": [
+        126,
+        498,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9665,
+      "box": [
+        125,
+        521,
+        385,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2006.12–2010.04",
+      "score": 0.9863,
+      "box": [
+        115,
+        563,
+        626,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9909,
+      "box": [
+        125,
+        589,
+        501,
+        614
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9765,
+      "box": [
+        126,
+        613,
+        562,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenbrook University, 2005",
+      "score": 0.9745,
+      "box": [
+        114,
+        723,
+        501,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.9528,
+      "box": [
+        132,
+        747,
+        670,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9809,
+      "box": [
+        133,
+        772,
+        507,
+        798
+      ]
+    }
+  ]
+}

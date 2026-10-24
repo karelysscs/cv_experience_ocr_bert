@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_58383",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.821,
+  "mean_conf": 0.9882,
+  "lines": [
+    {
+      "text": "JEFFREY HOGAN",
+      "score": 0.994,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-402-516-4842 |jeffrey.hogan@example.com",
+      "score": 0.9702,
+      "box": [
+        114,
+        150,
+        666,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2019.03–2021.12",
+      "score": 0.9837,
+      "box": [
+        115,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9772,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9872,
+      "box": [
+        126,
+        338,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2015.12–2018.09",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9882,
+      "box": [
+        127,
+        408,
+        347,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9889,
+      "box": [
+        125,
+        430,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Canyon View University, 2014",
+      "score": 0.9931,
+      "box": [
+        115,
+        541,
+        505,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in server-side development",
+      "score": 0.9963,
+      "box": [
+        133,
+        565,
+        619,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9931,
+      "box": [
+        134,
+        591,
+        558,
+        614
+      ]
+    }
+  ]
+}

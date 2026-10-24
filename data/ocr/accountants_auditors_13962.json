@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_13962",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.966,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "MATTIE CARSON",
+      "score": 0.9816,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-657-450-2212 |mattie.carson@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        152,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2018.09–2023.01",
+      "score": 0.9798,
+      "box": [
+        114,
+        289,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9679,
+      "box": [
+        126,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9896,
+      "box": [
+        126,
+        338,
+        494,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2014.04–2018.09",
+      "score": 0.9937,
+      "box": [
+        115,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9795,
+      "box": [
+        126,
+        406,
+        520,
+        431
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9802,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2009.11–2014.04",
+      "score": 0.9711,
+      "box": [
+        115,
+        472,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9791,
+      "box": [
+        126,
+        498,
+        461,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9928,
+      "box": [
+        126,
+        521,
+        407,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2005.06–2009.11",
+      "score": 0.9619,
+      "box": [
+        116,
+        565,
+        702,
+        588
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9817,
+      "box": [
+        127,
+        590,
+        436,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9647,
+      "box": [
+        128,
+        616,
+        390,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Operations Management, Horizon University, 2005",
+      "score": 0.9834,
+      "box": [
+        115,
+        724,
+        675,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Greenfield University, 2003",
+      "score": 0.979,
+      "box": [
+        114,
+        747,
+        661,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9947,
+      "box": [
+        132,
+        772,
+        491,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9905,
+      "box": [
+        135,
+        800,
+        573,
+        820
+      ]
+    }
+  ]
+}

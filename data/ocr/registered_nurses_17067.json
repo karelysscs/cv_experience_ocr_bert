@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_17067",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.977,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "SHARI STARK",
+      "score": 0.9644,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-888-491-8580 |shari.stark@example.com",
+      "score": 0.9751,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2019.10–2023.01",
+      "score": 0.9908,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9823,
+      "box": [
+        127,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9659,
+      "box": [
+        126,
+        338,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2016.06–2019.10",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9808,
+      "box": [
+        126,
+        406,
+        463,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9862,
+      "box": [
+        126,
+        430,
+        571,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Nursing, 2013.02–2016.06",
+      "score": 0.9883,
+      "box": [
+        116,
+        473,
+        657,
+        496
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9907,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9687,
+      "box": [
+        127,
+        522,
+        476,
+        544
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Care Group, 2009.10–2013.02",
+      "score": 0.9795,
+      "box": [
+        116,
+        565,
+        667,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9729,
+      "box": [
+        125,
+        589,
+        402,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9937,
+      "box": [
+        126,
+        613,
+        390,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Nursing Studies, Foxwood University, 2010",
+      "score": 0.9887,
+      "box": [
+        115,
+        723,
+        768,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient advocacy",
+      "score": 0.9809,
+      "box": [
+        132,
+        747,
+        536,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9938,
+      "box": [
+        135,
+        774,
+        582,
+        797
+      ]
+    }
+  ]
+}

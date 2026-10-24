@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_14505",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "JOEL CLAY",
+      "score": 0.9739,
+      "box": [
+        115,
+        88,
+        308,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-706-852-9949 |joel.clay@example.com",
+      "score": 0.9926,
+      "box": [
+        116,
+        151,
+        612,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2020.10–2023.01",
+      "score": 0.977,
+      "box": [
+        114,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.962,
+      "box": [
+        127,
+        315,
+        500,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9894,
+      "box": [
+        126,
+        338,
+        494,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2018.07–2020.10",
+      "score": 0.9771,
+      "box": [
+        114,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9904,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9574,
+      "box": [
+        126,
+        430,
+        374,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2016.04–2018.07",
+      "score": 0.9827,
+      "box": [
+        115,
+        472,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9884,
+      "box": [
+        125,
+        496,
+        456,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9765,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Windfield University, 2017",
+      "score": 0.9716,
+      "box": [
+        115,
+        632,
+        582,
+        656
+      ]
+    },
+    {
+      "text": "•Completed coursework in data visualization basics",
+      "score": 0.9851,
+      "box": [
+        132,
+        656,
+        615,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9639,
+      "box": [
+        134,
+        681,
+        529,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_60380",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "AYANA REILLY",
+      "score": 0.9621,
+      "box": [
+        116,
+        89,
+        366,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-553-782-2506|ayana.reilly@example.com",
+      "score": 0.9805,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2021.06–2023.01",
+      "score": 0.9947,
+      "box": [
+        115,
+        289,
+        740,
+        312
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9764,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9663,
+      "box": [
+        127,
+        340,
+        479,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2019.11–2021.06",
+      "score": 0.9908,
+      "box": [
+        115,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9864,
+      "box": [
+        126,
+        407,
+        419,
+        430
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9839,
+      "box": [
+        125,
+        430,
+        490,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Fairview University, 2023",
+      "score": 0.9941,
+      "box": [
+        115,
+        541,
+        714,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Riverstone Ridge University, 2023",
+      "score": 0.9834,
+      "box": [
+        114,
+        565,
+        764,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9938,
+      "box": [
+        132,
+        590,
+        637,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9925,
+      "box": [
+        135,
+        616,
+        642,
+        639
+      ]
+    }
+  ]
+}

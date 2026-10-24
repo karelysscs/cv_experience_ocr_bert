@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_49749",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.88,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "TYSON BOYD",
+      "score": 0.9886,
+      "box": [
+        115,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-859-970-9203|tyson.boyd@example.com",
+      "score": 0.9778,
+      "box": [
+        115,
+        150,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2020.10–2023.01",
+      "score": 0.9687,
+      "box": [
+        114,
+        289,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9785,
+      "box": [
+        126,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Builders, 2016.04–2018.07",
+      "score": 0.9683,
+      "box": [
+        115,
+        381,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9493,
+      "box": [
+        126,
+        407,
+        391,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9791,
+      "box": [
+        125,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Logistics, Stonebrook High School, 2007",
+      "score": 0.9923,
+      "box": [
+        116,
+        541,
+        876,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction quality control",
+      "score": 0.9787,
+      "box": [
+        133,
+        565,
+        635,
+        588
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_22886",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.92,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "KARA SCHNEIDER",
+      "score": 0.9663,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-433-309-1292 |kara.schneider@example.com",
+      "score": 0.9894,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2020.11–2023.01",
+      "score": 0.981,
+      "box": [
+        116,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "-Directed clinical quality improvement initiatives",
+      "score": 0.9785,
+      "box": [
+        125,
+        313,
+        572,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9836,
+      "box": [
+        126,
+        339,
+        470,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2018.02–2020.04",
+      "score": 0.9842,
+      "box": [
+        116,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9846,
+      "box": [
+        126,
+        407,
+        477,
+        429
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9716,
+      "box": [
+        126,
+        431,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Care Services, 2014.12–2017.02",
+      "score": 0.9813,
+      "box": [
+        115,
+        471,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained supply inventory",
+      "score": 0.99,
+      "box": [
+        125,
+        496,
+        402,
+        522
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9775,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Registered Nursing, Riverfield University, 2010",
+      "score": 0.9927,
+      "box": [
+        115,
+        631,
+        737,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of oxygen therapy",
+      "score": 0.986,
+      "box": [
+        132,
+        656,
+        485,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9868,
+      "box": [
+        135,
+        683,
+        624,
+        706
+      ]
+    }
+  ]
+}

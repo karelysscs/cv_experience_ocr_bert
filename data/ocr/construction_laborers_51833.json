@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_51833",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "JOSEPH BURCH",
+      "score": 0.9854,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-965-523-6219 |joseph.burch@example.com",
+      "score": 0.9493,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2020.12–2023.01",
+      "score": 0.9783,
+      "box": [
+        115,
+        289,
+        652,
+        312
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9572,
+      "box": [
+        126,
+        314,
+        360,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9682,
+      "box": [
+        126,
+        339,
+        555,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Services, Lakeside University, 2023",
+      "score": 0.9905,
+      "box": [
+        115,
+        447,
+        822,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of environmental safety",
+      "score": 0.9827,
+      "box": [
+        132,
+        472,
+        535,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of construction record keeping",
+      "score": 0.9891,
+      "box": [
+        132,
+        497,
+        598,
+        523
+      ]
+    }
+  ]
+}

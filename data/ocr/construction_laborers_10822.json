@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_10822",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "DYLAN SHARP",
+      "score": 0.9638,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-771-261-4158 |dylan.sharp@example.com",
+      "score": 0.9748,
+      "box": [
+        116,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2020.11–2023.01",
+      "score": 0.9888,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        452,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Construction, 2018.08–2020.11",
+      "score": 0.9938,
+      "box": [
+        116,
+        382,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9809,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9874,
+      "box": [
+        126,
+        431,
+        435,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Sunset Ridge High School, 2019",
+      "score": 0.9899,
+      "box": [
+        116,
+        540,
+        914,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9881,
+      "box": [
+        133,
+        566,
+        622,
+        589
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_20921",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.987,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "CHRISTINA BRIDGES",
+      "score": 0.9849,
+      "box": [
+        117,
+        90,
+        460,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA |+1-914-878-3519|christina.bridges@example.com",
+      "score": 0.98,
+      "box": [
+        117,
+        152,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2020.03–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9762,
+      "box": [
+        127,
+        315,
+        539,
+        338
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9748,
+      "box": [
+        126,
+        339,
+        574,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2017.04–2020.03",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9894,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9804,
+      "box": [
+        126,
+        431,
+        468,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2013.11–2016.10",
+      "score": 0.9842,
+      "box": [
+        116,
+        472,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9884,
+      "box": [
+        126,
+        498,
+        470,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9918,
+      "box": [
+        127,
+        522,
+        373,
+        544
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2010.04–2013.03",
+      "score": 0.9921,
+      "box": [
+        116,
+        565,
+        679,
+        588
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9603,
+      "box": [
+        126,
+        590,
+        480,
+        613
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9883,
+      "box": [
+        126,
+        614,
+        452,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Rehabilitation Sciences, Evergreen University, 2007",
+      "score": 0.9801,
+      "box": [
+        114,
+        723,
+        785,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9845,
+      "box": [
+        132,
+        746,
+        570,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9851,
+      "box": [
+        133,
+        772,
+        538,
+        796
+      ]
+    }
+  ]
+}

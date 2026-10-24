@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_22289",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.003,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "MICHELLE AHMED",
+      "score": 0.9829,
+      "box": [
+        117,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-316-784-2645 |michelle.ahmed@example.com",
+      "score": 0.9784,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2019.12–2023.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        289,
+        886,
+        314
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9755,
+      "box": [
+        127,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9744,
+      "box": [
+        127,
+        339,
+        601,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2015.03–2018.05",
+      "score": 0.9771,
+      "box": [
+        115,
+        381,
+        887,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9969,
+      "box": [
+        127,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9756,
+      "box": [
+        128,
+        433,
+        561,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2011.02–2014.04",
+      "score": 0.9763,
+      "box": [
+        116,
+        472,
+        848,
+        496
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9661,
+      "box": [
+        125,
+        496,
+        427,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9843,
+      "box": [
+        126,
+        521,
+        459,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Professional degree, Education Services, Oakway University, 2010",
+      "score": 0.9812,
+      "box": [
+        114,
+        631,
+        736,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Oakview University, 2006",
+      "score": 0.9698,
+      "box": [
+        114,
+        656,
+        719,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9934,
+      "box": [
+        133,
+        682,
+        540,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9768,
+      "box": [
+        132,
+        706,
+        700,
+        731
+      ]
+    }
+  ]
+}

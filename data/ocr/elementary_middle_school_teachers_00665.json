@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_00665",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.088,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "BRITTANYSTAFFORD",
+      "score": 0.9986,
+      "box": [
+        117,
+        90,
+        477,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-268-229-8965 |britany.stafford@example.com",
+      "score": 0.9634,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2020.03–2023.01",
+      "score": 0.982,
+      "box": [
+        116,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9784,
+      "box": [
+        125,
+        313,
+        560,
+        339
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9926,
+      "box": [
+        126,
+        339,
+        516,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2017.04–2020.03",
+      "score": 0.9833,
+      "box": [
+        115,
+        381,
+        861,
+        406
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9922,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9875,
+      "box": [
+        126,
+        430,
+        523,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2014.05–2017.04",
+      "score": 0.9803,
+      "box": [
+        114,
+        471,
+        878,
+        496
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9914,
+      "box": [
+        126,
+        498,
+        411,
+        521
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9677,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds Academy, 2011.06–2014.05",
+      "score": 0.9746,
+      "box": [
+        116,
+        565,
+        834,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9796,
+      "box": [
+        126,
+        589,
+        492,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9897,
+      "box": [
+        127,
+        615,
+        459,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Academic Foundations, Greenwood Ridge University, 2015",
+      "score": 0.991,
+      "box": [
+        115,
+        725,
+        755,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Springfield University, 2013",
+      "score": 0.9807,
+      "box": [
+        114,
+        747,
+        659,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9871,
+      "box": [
+        135,
+        775,
+        603,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in social-emotional learning basics",
+      "score": 0.9838,
+      "box": [
+        133,
+        799,
+        685,
+        822
+      ]
+    }
+  ]
+}

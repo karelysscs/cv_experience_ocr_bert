@@ -1,0 +1,153 @@
+{
+  "id": "construction_laborers_38526",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "CHAD FLOWERS",
+      "score": 0.979,
+      "box": [
+        116,
+        88,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-703-242-4782|chad.flowers@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2020.03–2023.01",
+      "score": 0.9823,
+      "box": [
+        114,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.981,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9753,
+      "box": [
+        126,
+        338,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2017.05–2020.03",
+      "score": 0.9787,
+      "box": [
+        115,
+        381,
+        724,
+        405
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9616,
+      "box": [
+        126,
+        407,
+        424,
+        430
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9807,
+      "box": [
+        125,
+        432,
+        444,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Construction Design, Stonecrest University, 2023",
+      "score": 0.9961,
+      "box": [
+        114,
+        539,
+        769,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Technology, Willowhaven University, 2021",
+      "score": 0.9802,
+      "box": [
+        114,
+        564,
+        740,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.9936,
+      "box": [
+        132,
+        590,
+        576,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9839,
+      "box": [
+        133,
+        615,
+        604,
+        640
+      ]
+    }
+  ]
+}

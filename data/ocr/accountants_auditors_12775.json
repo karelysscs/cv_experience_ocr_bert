@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_12775",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.987,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "JOHN CARROLL",
+      "score": 0.9521,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-279-596-5947 |john.carroll@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2019.06–202.01",
+      "score": 0.9885,
+      "box": [
+        114,
+        289,
+        754,
+        314
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9836,
+      "box": [
+        127,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9838,
+      "box": [
+        126,
+        339,
+        504,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2015.11–219.06",
+      "score": 0.9867,
+      "box": [
+        114,
+        381,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.979,
+      "box": [
+        126,
+        406,
+        450,
+        431
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9752,
+      "box": [
+        126,
+        431,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2012.03–2015.11",
+      "score": 0.9822,
+      "box": [
+        114,
+        471,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9875,
+      "box": [
+        125,
+        496,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9746,
+      "box": [
+        127,
+        523,
+        398,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2008.07–2012.03",
+      "score": 0.9902,
+      "box": [
+        115,
+        564,
+        666,
+        587
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9947,
+      "box": [
+        127,
+        591,
+        357,
+        612
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9863,
+      "box": [
+        127,
+        615,
+        453,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Meadowway University, 2011",
+      "score": 0.9853,
+      "box": [
+        115,
+        725,
+        685,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning",
+      "score": 0.995,
+      "box": [
+        133,
+        749,
+        519,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of employee benefit accounting",
+      "score": 0.9791,
+      "box": [
+        133,
+        772,
+        643,
+        797
+      ]
+    }
+  ]
+}

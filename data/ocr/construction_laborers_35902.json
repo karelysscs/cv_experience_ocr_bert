@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_35902",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.788,
+  "mean_conf": 0.9774,
+  "lines": [
+    {
+      "text": "JIMMY HENSON",
+      "score": 0.9845,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-266-727-9930 |jimmy.henson@example.com",
+      "score": 0.9534,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2021.01–2023.01",
+      "score": 0.979,
+      "box": [
+        115,
+        290,
+        735,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9713,
+      "box": [
+        127,
+        315,
+        498,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        418,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Greenfield High School, 2021",
+      "score": 0.9753,
+      "box": [
+        116,
+        449,
+        904,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of site inspection checklists",
+      "score": 0.9708,
+      "box": [
+        133,
+        474,
+        570,
+        497
+      ]
+    }
+  ]
+}

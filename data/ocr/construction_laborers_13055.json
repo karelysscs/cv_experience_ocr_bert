@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_13055",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.936,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "JULIAN CHOI",
+      "score": 0.9685,
+      "box": [
+        115,
+        88,
+        334,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-896-602-6869 |julian.choi@example.com",
+      "score": 0.9682,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2021.05–2023.01",
+      "score": 0.9819,
+      "box": [
+        114,
+        289,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed structural integrity assessments",
+      "score": 0.9623,
+      "box": [
+        125,
+        314,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.968,
+      "box": [
+        127,
+        340,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2019.09–201.05",
+      "score": 0.9874,
+      "box": [
+        115,
+        381,
+        728,
+        405
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9806,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9866,
+      "box": [
+        125,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Pioneer University, 018",
+      "score": 0.9745,
+      "box": [
+        115,
+        540,
+        852,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of structural bracing",
+      "score": 0.9882,
+      "box": [
+        132,
+        565,
+        501,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in blueprint reading",
+      "score": 0.9855,
+      "box": [
+        133,
+        590,
+        544,
+        615
+      ]
+    }
+  ]
+}

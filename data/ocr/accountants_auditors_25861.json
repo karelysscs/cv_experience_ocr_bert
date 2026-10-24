@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_25861",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.012,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "MATTHEW OBRIEN",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        428,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-594-805-4971 |matthew.obrien@example.com",
+      "score": 0.9846,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2018.11–2023.01",
+      "score": 0.9734,
+      "box": [
+        114,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9821,
+      "box": [
+        127,
+        315,
+        517,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9802,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2014.08–2018.11",
+      "score": 0.9876,
+      "box": [
+        114,
+        381,
+        726,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9844,
+      "box": [
+        127,
+        407,
+        437,
+        430
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9819,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2010.05–2014.08",
+      "score": 0.9833,
+      "box": [
+        114,
+        471,
+        677,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9731,
+      "box": [
+        125,
+        496,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9792,
+      "box": [
+        126,
+        521,
+        482,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2006.02–2010.05",
+      "score": 0.9898,
+      "box": [
+        115,
+        565,
+        678,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9843,
+      "box": [
+        125,
+        590,
+        403,
+        610
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9937,
+      "box": [
+        125,
+        613,
+        518,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Auditing, Silverwood University, 2004",
+      "score": 0.9886,
+      "box": [
+        115,
+        725,
+        701,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Risk Management, Stonebridge University, 2002",
+      "score": 0.9755,
+      "box": [
+        114,
+        747,
+        674,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional judgment",
+      "score": 0.9835,
+      "box": [
+        132,
+        772,
+        585,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.971,
+      "box": [
+        132,
+        797,
+        552,
+        822
+      ]
+    }
+  ]
+}

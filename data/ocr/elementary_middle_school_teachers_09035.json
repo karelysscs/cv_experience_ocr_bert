@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_09035",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.024,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "KAYLA CASE",
+      "score": 0.981,
+      "box": [
+        116,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-780-935-8339 |kayla.case@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        150,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2019.11–2023.01",
+      "score": 0.978,
+      "box": [
+        116,
+        290,
+        882,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9883,
+      "box": [
+        127,
+        316,
+        509,
+        336
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9772,
+      "box": [
+        127,
+        340,
+        511,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2016.09–2019.11",
+      "score": 0.9853,
+      "box": [
+        116,
+        382,
+        864,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9884,
+      "box": [
+        127,
+        408,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9693,
+      "box": [
+        127,
+        432,
+        503,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2013.07–2016.09",
+      "score": 0.9877,
+      "box": [
+        115,
+        472,
+        799,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9713,
+      "box": [
+        126,
+        498,
+        434,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9848,
+      "box": [
+        126,
+        522,
+        422,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kindlewood School, 2007.10–2010.12",
+      "score": 0.9819,
+      "box": [
+        114,
+        563,
+        816,
+        588
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9819,
+      "box": [
+        127,
+        591,
+        369,
+        612
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9751,
+      "box": [
+        125,
+        613,
+        442,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Riverhaven University, 2005",
+      "score": 0.9767,
+      "box": [
+        114,
+        723,
+        729,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9861,
+      "box": [
+        132,
+        747,
+        590,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9713,
+      "box": [
+        134,
+        773,
+        613,
+        797
+      ]
+    }
+  ]
+}

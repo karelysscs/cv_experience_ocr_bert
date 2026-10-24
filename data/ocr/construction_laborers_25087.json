@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_25087",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "JOHN MIDDLETON",
+      "score": 0.9639,
+      "box": [
+        116,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-226-907-9167 |john.middleton@example.com",
+      "score": 0.9899,
+      "box": [
+        115,
+        150,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2021.01–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        523,
+        338
+      ]
+    },
+    {
+      "text": "-Led cross-functional coordination",
+      "score": 0.9777,
+      "box": [
+        127,
+        341,
+        447,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Contractors, 2018.12–2021.01",
+      "score": 0.997,
+      "box": [
+        116,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9742,
+      "box": [
+        126,
+        407,
+        416,
+        430
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9804,
+      "box": [
+        125,
+        430,
+        364,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2015.06–2017.07",
+      "score": 0.985,
+      "box": [
+        115,
+        472,
+        710,
+        495
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9817,
+      "box": [
+        125,
+        496,
+        439,
+        521
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9576,
+      "box": [
+        126,
+        521,
+        441,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Drafting, Northfield University, 2005",
+      "score": 0.9842,
+      "box": [
+        114,
+        631,
+        757,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in drywall installation basics",
+      "score": 0.9512,
+      "box": [
+        132,
+        656,
+        624,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.995,
+      "box": [
+        134,
+        681,
+        665,
+        706
+      ]
+    }
+  ]
+}

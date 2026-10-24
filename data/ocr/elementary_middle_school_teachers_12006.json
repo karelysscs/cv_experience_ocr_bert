@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_12006",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.972,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "SARAH KELLER",
+      "score": 0.9615,
+      "box": [
+        115,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-739-844-6030 |sarah.keller@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2021.04–2023.",
+      "score": 0.9852,
+      "box": [
+        114,
+        289,
+        876,
+        314
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.984,
+      "box": [
+        125,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.994,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2018.01–2019.11",
+      "score": 0.9795,
+      "box": [
+        116,
+        382,
+        857,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9857,
+      "box": [
+        125,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9874,
+      "box": [
+        125,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Developmental Studies, Windfield University, 2009",
+      "score": 0.9698,
+      "box": [
+        115,
+        541,
+        674,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Meadowridge University, 2007",
+      "score": 0.9915,
+      "box": [
+        115,
+        566,
+        769,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9704,
+      "box": [
+        133,
+        591,
+        578,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9841,
+      "box": [
+        133,
+        615,
+        551,
+        640
+      ]
+    }
+  ]
+}

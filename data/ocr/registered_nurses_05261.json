@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_05261",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.882,
+  "mean_conf": 0.9851,
+  "lines": [
+    {
+      "text": "MEGAN FREEMAN",
+      "score": 0.989,
+      "box": [
+        117,
+        90,
+        417,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-772-569-1247 |megan.freeman@example.com",
+      "score": 0.9926,
+      "box": [
+        117,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2021.02–2023.01",
+      "score": 0.9912,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9688,
+      "box": [
+        126,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "– Managed care delivery innovation",
+      "score": 0.9766,
+      "box": [
+        127,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Care Group, 2017.08–2019.08",
+      "score": 0.9905,
+      "box": [
+        116,
+        382,
+        667,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9827,
+      "box": [
+        125,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9857,
+      "box": [
+        126,
+        431,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Associate's degree, Care Management, Riverstone University, 2006",
+      "score": 0.9963,
+      "box": [
+        116,
+        541,
+        745,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9798,
+      "box": [
+        133,
+        565,
+        518,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of respiratory care basics",
+      "score": 0.9773,
+      "box": [
+        134,
+        591,
+        552,
+        614
+      ]
+    }
+  ]
+}

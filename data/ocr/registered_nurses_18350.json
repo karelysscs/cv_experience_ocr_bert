@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18350",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9783,
+  "lines": [
+    {
+      "text": "WILLIAM HO",
+      "score": 0.9747,
+      "box": [
+        114,
+        88,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-320-243-8837|william.ho@example.com",
+      "score": 0.967,
+      "box": [
+        116,
+        151,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2020.04–2023.01",
+      "score": 0.9674,
+      "box": [
+        115,
+        289,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9527,
+      "box": [
+        127,
+        315,
+        392,
+        339
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9642,
+      "box": [
+        126,
+        338,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2017.07–2020.04",
+      "score": 0.9951,
+      "box": [
+        115,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9735,
+      "box": [
+        125,
+        406,
+        400,
+        432
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9894,
+      "box": [
+        126,
+        430,
+        431,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Health Group, 2014.10–2017.07",
+      "score": 0.9863,
+      "box": [
+        116,
+        472,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9727,
+      "box": [
+        126,
+        498,
+        465,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9718,
+      "box": [
+        126,
+        521,
+        530,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Silverview University, 2014",
+      "score": 0.9771,
+      "box": [
+        115,
+        632,
+        633,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9899,
+      "box": [
+        133,
+        656,
+        679,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in pathophysiology",
+      "score": 0.9859,
+      "box": [
+        134,
+        681,
+        539,
+        707
+      ]
+    }
+  ]
+}

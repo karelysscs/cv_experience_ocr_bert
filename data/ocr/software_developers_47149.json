@@ -1,0 +1,133 @@
+{
+  "id": "software_developers_47149",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.832,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "JORDAN CASEY",
+      "score": 0.9727,
+      "box": [
+        114,
+        87,
+        385,
+        123
+      ]
+    },
+    {
+      "text": "RI, USA|+1-400-578-9121 |jordan.casey@example.com",
+      "score": 0.962,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpoint Software, 2020.08–2023.01",
+      "score": 0.9934,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9664,
+      "box": [
+        125,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9732,
+      "box": [
+        126,
+        339,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2018.03–2020.08",
+      "score": 0.9703,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9847,
+      "box": [
+        126,
+        408,
+        403,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.976,
+      "box": [
+        125,
+        430,
+        409,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Evergreen High School, 2017",
+      "score": 0.9901,
+      "box": [
+        115,
+        540,
+        649,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9712,
+      "box": [
+        134,
+        566,
+        484,
+        590
+      ]
+    }
+  ]
+}

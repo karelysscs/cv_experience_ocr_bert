@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_17975",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.036,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "AIMEE GILL",
+      "score": 0.9525,
+      "box": [
+        116,
+        90,
+        310,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-609-720-7567 |aimee.gill@example.com",
+      "score": 0.9743,
+      "box": [
+        116,
+        151,
+        618,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2019.09–2023.01",
+      "score": 0.9815,
+      "box": [
+        114,
+        289,
+        842,
+        314
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9662,
+      "box": [
+        126,
+        315,
+        505,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9837,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2016.04–2019.09",
+      "score": 0.9937,
+      "box": [
+        115,
+        381,
+        793,
+        406
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9744,
+      "box": [
+        126,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9852,
+      "box": [
+        126,
+        430,
+        535,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2012.11–2016.04",
+      "score": 0.9919,
+      "box": [
+        115,
+        471,
+        800,
+        496
+      ]
+    },
+    {
+      "text": "- Planned interdisciplinary lessons",
+      "score": 0.9707,
+      "box": [
+        125,
+        496,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared unit assessments",
+      "score": 0.9678,
+      "box": [
+        126,
+        521,
+        396,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2009.06–2012.11",
+      "score": 0.9841,
+      "box": [
+        116,
+        565,
+        825,
+        589
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9898,
+      "box": [
+        127,
+        591,
+        517,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9775,
+      "box": [
+        126,
+        614,
+        491,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, General Studies, Hillview University, 2012",
+      "score": 0.9742,
+      "box": [
+        116,
+        726,
+        594,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Foxwood University, 2010",
+      "score": 0.9672,
+      "box": [
+        115,
+        749,
+        710,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9798,
+      "box": [
+        133,
+        774,
+        598,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9869,
+      "box": [
+        134,
+        800,
+        622,
+        820
+      ]
+    }
+  ]
+}

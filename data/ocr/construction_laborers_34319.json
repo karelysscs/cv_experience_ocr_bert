@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_34319",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.946,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "SAMUEL DODSON",
+      "score": 0.9773,
+      "box": [
+        115,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-205-726-4457 | samuel.dodson@example.com",
+      "score": 0.9625,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2017.06–2023.01",
+      "score": 0.9862,
+      "box": [
+        115,
+        289,
+        671,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9944,
+      "box": [
+        126,
+        315,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9797,
+      "box": [
+        126,
+        338,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2011.10–2017.06",
+      "score": 0.9903,
+      "box": [
+        116,
+        382,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9968,
+      "box": [
+        126,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9755,
+      "box": [
+        126,
+        431,
+        438,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2006.02–2011.10",
+      "score": 0.987,
+      "box": [
+        114,
+        471,
+        720,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9561,
+      "box": [
+        125,
+        496,
+        435,
+        521
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9644,
+      "box": [
+        125,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftTrack Builders, 2000.06–2006.02",
+      "score": 0.9836,
+      "box": [
+        114,
+        563,
+        687,
+        588
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9973,
+      "box": [
+        126,
+        590,
+        406,
+        613
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.967,
+      "box": [
+        127,
+        615,
+        332,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Drafting Technology, Windermere University, 2005",
+      "score": 0.9818,
+      "box": [
+        114,
+        723,
+        693,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9822,
+      "box": [
+        134,
+        750,
+        693,
+        770
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site leveling",
+      "score": 0.9771,
+      "box": [
+        133,
+        772,
+        488,
+        797
+      ]
+    }
+  ]
+}

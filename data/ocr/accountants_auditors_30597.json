@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_30597",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.95,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "ZANE KNIGHT",
+      "score": 0.9753,
+      "box": [
+        115,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-352-96-6621 |zane.knight@example.com",
+      "score": 0.9792,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2020.02–2023.01",
+      "score": 0.974,
+      "box": [
+        114,
+        289,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9784,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.97,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2017.03–2020.02",
+      "score": 0.9739,
+      "box": [
+        114,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9953,
+      "box": [
+        126,
+        407,
+        408,
+        430
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.989,
+      "box": [
+        126,
+        430,
+        461,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2014.04–2017.03",
+      "score": 0.9916,
+      "box": [
+        115,
+        472,
+        693,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9752,
+      "box": [
+        125,
+        498,
+        436,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.945,
+      "box": [
+        126,
+        521,
+        384,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Statistics, Forest Hill University, 2014",
+      "score": 0.9604,
+      "box": [
+        115,
+        632,
+        553,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Willowstone University, 2012",
+      "score": 0.9758,
+      "box": [
+        114,
+        656,
+        689,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9849,
+      "box": [
+        133,
+        681,
+        702,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9889,
+      "box": [
+        134,
+        707,
+        620,
+        730
+      ]
+    }
+  ]
+}

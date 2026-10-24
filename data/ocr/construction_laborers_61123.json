@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_61123",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.988,
+  "lines": [
+    {
+      "text": "STEVENGOOD",
+      "score": 0.9989,
+      "box": [
+        115,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-764-530-6949|steven.good@example.com",
+      "score": 0.989,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2020.11–2023.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9757,
+      "box": [
+        126,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2016.10–2019.01",
+      "score": 0.9907,
+      "box": [
+        116,
+        382,
+        719,
+        405
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.993,
+      "box": [
+        125,
+        406,
+        440,
+        431
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9902,
+      "box": [
+        126,
+        432,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Crestline High School, 2010",
+      "score": 0.9932,
+      "box": [
+        116,
+        541,
+        856,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffolding assembly",
+      "score": 0.9684,
+      "box": [
+        132,
+        564,
+        573,
+        590
+      ]
+    }
+  ]
+}

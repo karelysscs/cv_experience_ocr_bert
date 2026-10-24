@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_54203",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.893,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "JUAN BRIGGS",
+      "score": 0.9828,
+      "box": [
+        115,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-773-808-4830 |juan.briggs@example.com",
+      "score": 0.982,
+      "box": [
+        114,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2020.02–2023.01",
+      "score": 0.9654,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9813,
+      "box": [
+        126,
+        315,
+        466,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2017.02–2020.02",
+      "score": 0.9826,
+      "box": [
+        116,
+        382,
+        735,
+        405
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9722,
+      "box": [
+        127,
+        407,
+        439,
+        430
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.974,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Edgewood High School, 2016",
+      "score": 0.9905,
+      "box": [
+        116,
+        541,
+        859,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of structural reinforcement",
+      "score": 0.989,
+      "box": [
+        133,
+        566,
+        563,
+        589
+      ]
+    }
+  ]
+}

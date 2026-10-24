@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_49577",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.804,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "EARL FROST",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        333,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-331-575-1446|earl.frost@example.com",
+      "score": 0.9734,
+      "box": [
+        115,
+        150,
+        622,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2021.02–2023.01",
+      "score": 0.9922,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9655,
+      "box": [
+        127,
+        315,
+        374,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9888,
+      "box": [
+        126,
+        339,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Pebble Creek University, 2023",
+      "score": 0.9911,
+      "box": [
+        115,
+        449,
+        507,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9872,
+      "box": [
+        134,
+        474,
+        625,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.989,
+      "box": [
+        134,
+        499,
+        736,
+        522
+      ]
+    }
+  ]
+}

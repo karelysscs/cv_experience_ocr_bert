@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_01190",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.906,
+  "mean_conf": 0.9757,
+  "lines": [
+    {
+      "text": "COREY ROY",
+      "score": 0.9552,
+      "box": [
+        115,
+        88,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-216-430-8534| corey.roy@example.com",
+      "score": 0.979,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2020.11–2023.01",
+      "score": 0.9878,
+      "box": [
+        114,
+        287,
+        673,
+        315
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9829,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2017.08–2019.10",
+      "score": 0.9915,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9895,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9772,
+      "box": [
+        127,
+        432,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2014.12–2017.02",
+      "score": 0.9926,
+      "box": [
+        115,
+        471,
+        643,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9806,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9563,
+      "box": [
+        126,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9686,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Woodview University, 205",
+      "score": 0.9634,
+      "box": [
+        115,
+        631,
+        458,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowcrest University, 2003",
+      "score": 0.9455,
+      "box": [
+        115,
+        658,
+        486,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in C++",
+      "score": 0.9821,
+      "box": [
+        134,
+        683,
+        579,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.959,
+      "box": [
+        133,
+        706,
+        605,
+        732
+      ]
+    }
+  ]
+}

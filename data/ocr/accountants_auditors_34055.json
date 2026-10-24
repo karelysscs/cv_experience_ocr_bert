@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_34055",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.962,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "JAMEY CLARK",
+      "score": 0.9714,
+      "box": [
+        116,
+        90,
+        359,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-400-463-7992|jamey.clark@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2019.04–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.982,
+      "box": [
+        127,
+        314,
+        452,
+        336
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9771,
+      "box": [
+        127,
+        340,
+        451,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2015.07–2019.04",
+      "score": 0.9843,
+      "box": [
+        115,
+        381,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9782,
+      "box": [
+        125,
+        406,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9874,
+      "box": [
+        127,
+        432,
+        512,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2011.09–2015.07",
+      "score": 0.9717,
+      "box": [
+        114,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9734,
+      "box": [
+        126,
+        497,
+        409,
+        520
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9669,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2007.11–2011.09",
+      "score": 0.9905,
+      "box": [
+        114,
+        563,
+        784,
+        589
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9719,
+      "box": [
+        128,
+        591,
+        371,
+        612
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9823,
+      "box": [
+        127,
+        615,
+        431,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Stonecrest University, 208",
+      "score": 0.9756,
+      "box": [
+        114,
+        723,
+        716,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9856,
+      "box": [
+        132,
+        747,
+        476,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.9815,
+      "box": [
+        132,
+        772,
+        579,
+        797
+      ]
+    }
+  ]
+}

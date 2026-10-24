@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_04594",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.943,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "QUOC MCCANN",
+      "score": 0.9807,
+      "box": [
+        116,
+        88,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-393-420-8138 |quoc.mccann@example.com",
+      "score": 0.9869,
+      "box": [
+        117,
+        151,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2019.05–2023.01",
+      "score": 0.983,
+      "box": [
+        114,
+        289,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9822,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2015.08–2019.05",
+      "score": 0.9821,
+      "box": [
+        115,
+        381,
+        645,
+        406
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9773,
+      "box": [
+        125,
+        405,
+        542,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9776,
+      "box": [
+        127,
+        432,
+        407,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2011.11–2015.08",
+      "score": 0.9691,
+      "box": [
+        115,
+        471,
+        668,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9874,
+      "box": [
+        126,
+        498,
+        407,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9629,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2006.03–2009.12",
+      "score": 0.9702,
+      "box": [
+        114,
+        562,
+        665,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9915,
+      "box": [
+        125,
+        589,
+        509,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9658,
+      "box": [
+        126,
+        614,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Prairie View University, 2005",
+      "score": 0.9707,
+      "box": [
+        115,
+        724,
+        475,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Canyon View University, 203",
+      "score": 0.9743,
+      "box": [
+        114,
+        747,
+        504,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concurrency",
+      "score": 0.9951,
+      "box": [
+        132,
+        772,
+        492,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scalability concepts",
+      "score": 0.9867,
+      "box": [
+        132,
+        797,
+        558,
+        823
+      ]
+    }
+  ]
+}

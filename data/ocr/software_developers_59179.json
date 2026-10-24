@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_59179",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.814,
+  "mean_conf": 0.9862,
+  "lines": [
+    {
+      "text": "JOHNATHON WONG",
+      "score": 0.9654,
+      "box": [
+        116,
+        90,
+        445,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-281-901-2708|johnathon.wong@example.com",
+      "score": 0.988,
+      "box": [
+        115,
+        150,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2020.11–2023.01",
+      "score": 0.991,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9756,
+      "box": [
+        127,
+        316,
+        462,
+        339
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Crossfield University, 2018",
+      "score": 0.9871,
+      "box": [
+        115,
+        449,
+        456,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Bright Ridge University, 2016",
+      "score": 0.9875,
+      "box": [
+        115,
+        474,
+        497,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.9929,
+      "box": [
+        134,
+        499,
+        527,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9905,
+      "box": [
+        134,
+        524,
+        583,
+        547
+      ]
+    }
+  ]
+}

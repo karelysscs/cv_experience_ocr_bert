@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_19477",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.819,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "JACOBCUMMINGS",
+      "score": 0.9993,
+      "box": [
+        116,
+        90,
+        430,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-844-795-3903 |jacob.cummings@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2020.04–2023.01",
+      "score": 0.9786,
+      "box": [
+        116,
+        290,
+        833,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9701,
+      "box": [
+        126,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.979,
+      "box": [
+        126,
+        340,
+        458,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Stonehill University, 2023",
+      "score": 0.9777,
+      "box": [
+        114,
+        447,
+        603,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9697,
+      "box": [
+        135,
+        475,
+        669,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9776,
+      "box": [
+        134,
+        499,
+        604,
+        522
+      ]
+    }
+  ]
+}

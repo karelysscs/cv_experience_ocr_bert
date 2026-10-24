@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_23048",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.995,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "BERNICEWHITE",
+      "score": 0.998,
+      "box": [
+        116,
+        90,
+        386,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA |+1-512-562-4535 | bernice.white@example.com",
+      "score": 0.9628,
+      "box": [
+        116,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2019.03–2023.01",
+      "score": 0.9734,
+      "box": [
+        114,
+        288,
+        712,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9718,
+      "box": [
+        126,
+        313,
+        323,
+        339
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9918,
+      "box": [
+        126,
+        338,
+        547,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2015.05–2019.03",
+      "score": 0.9938,
+      "box": [
+        115,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9898,
+      "box": [
+        126,
+        406,
+        530,
+        431
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9682,
+      "box": [
+        127,
+        432,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2011.07–2015.05",
+      "score": 0.9847,
+      "box": [
+        114,
+        471,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9756,
+      "box": [
+        124,
+        496,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9876,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2005.04–2009.02",
+      "score": 0.9881,
+      "box": [
+        115,
+        565,
+        701,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9897,
+      "box": [
+        125,
+        589,
+        456,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9965,
+      "box": [
+        126,
+        614,
+        517,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Cedar Ridge University, 2003",
+      "score": 0.9798,
+      "box": [
+        114,
+        723,
+        734,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9773,
+      "box": [
+        132,
+        747,
+        588,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.9884,
+      "box": [
+        133,
+        774,
+        525,
+        797
+      ]
+    }
+  ]
+}

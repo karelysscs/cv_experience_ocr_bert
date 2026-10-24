@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_13506",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "JASON FOWLER",
+      "score": 0.987,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-571-749-2289 |jason.fowler@example.com",
+      "score": 0.974,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2020.04–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.993,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9779,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2015.01–2017.11",
+      "score": 0.99,
+      "box": [
+        116,
+        382,
+        729,
+        405
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9885,
+      "box": [
+        125,
+        406,
+        503,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9708,
+      "box": [
+        127,
+        432,
+        511,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Clearbrook High School, 1997",
+      "score": 0.9881,
+      "box": [
+        116,
+        541,
+        870,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of job site efficiency",
+      "score": 0.9873,
+      "box": [
+        133,
+        565,
+        500,
+        590
+      ]
+    }
+  ]
+}

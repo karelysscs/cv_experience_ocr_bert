@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22571",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.697,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "MASON MADDOX",
+      "score": 0.9643,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-555-504-8657 |mason.maddox@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2020.12–2023.01",
+      "score": 0.982,
+      "box": [
+        116,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9678,
+      "box": [
+        125,
+        314,
+        476,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.995,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Meadowfield University, 2023",
+      "score": 0.9882,
+      "box": [
+        115,
+        449,
+        806,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of patient safety",
+      "score": 0.9904,
+      "box": [
+        132,
+        472,
+        466,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9817,
+      "box": [
+        134,
+        499,
+        545,
+        522
+      ]
+    }
+  ]
+}

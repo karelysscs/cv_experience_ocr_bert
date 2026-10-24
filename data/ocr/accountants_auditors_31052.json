@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_31052",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "MICHAEL STUART",
+      "score": 0.9838,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-658-612-9753|michael.stuart@example.com",
+      "score": 0.9918,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2020.12–2023.01",
+      "score": 0.991,
+      "box": [
+        115,
+        289,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9657,
+      "box": [
+        125,
+        314,
+        502,
+        337
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        552,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2018.11–2020.12",
+      "score": 0.9915,
+      "box": [
+        115,
+        382,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9886,
+      "box": [
+        125,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9813,
+      "box": [
+        125,
+        430,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2016.10–2018.11",
+      "score": 0.9743,
+      "box": [
+        115,
+        472,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "-Verified transaction accuracy",
+      "score": 0.9893,
+      "box": [
+        125,
+        496,
+        411,
+        522
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9815,
+      "box": [
+        126,
+        521,
+        371,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Silverwood University, 2014",
+      "score": 0.9694,
+      "box": [
+        115,
+        632,
+        687,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance measurement",
+      "score": 0.9902,
+      "box": [
+        133,
+        656,
+        640,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9697,
+      "box": [
+        133,
+        681,
+        452,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_16760",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.961,
+  "mean_conf": 0.9761,
+  "lines": [
+    {
+      "text": "LUCINDA OCONNELL",
+      "score": 0.9721,
+      "box": [
+        116,
+        90,
+        464,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-619-855-3905|lucinda.oconnell@example.com",
+      "score": 0.9747,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2019.11–2023.01",
+      "score": 0.9753,
+      "box": [
+        115,
+        289,
+        626,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9771,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.963,
+      "box": [
+        126,
+        339,
+        509,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2016.08–2019.11",
+      "score": 0.991,
+      "box": [
+        116,
+        383,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9852,
+      "box": [
+        127,
+        407,
+        539,
+        430
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9317,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2013.05–2016.08",
+      "score": 0.9812,
+      "box": [
+        116,
+        473,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9798,
+      "box": [
+        125,
+        495,
+        367,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9712,
+      "box": [
+        126,
+        521,
+        499,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2010.02–2013.05",
+      "score": 0.9859,
+      "box": [
+        116,
+        565,
+        717,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9666,
+      "box": [
+        125,
+        589,
+        387,
+        614
+      ]
+    },
+    {
+      "text": "-Assisted with patient positioning",
+      "score": 0.9644,
+      "box": [
+        125,
+        614,
+        436,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Springfield University, 2010",
+      "score": 0.9788,
+      "box": [
+        114,
+        723,
+        642,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9721,
+      "box": [
+        132,
+        747,
+        594,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing workflow management",
+      "score": 0.9971,
+      "box": [
+        134,
+        772,
+        673,
+        798
+      ]
+    }
+  ]
+}

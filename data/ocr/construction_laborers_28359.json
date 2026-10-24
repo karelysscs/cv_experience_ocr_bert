@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_28359",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.831,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "JOSHUA WALTERS",
+      "score": 0.9701,
+      "box": [
+        116,
+        90,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-968-604-8262 |joshua.walters@example.com",
+      "score": 0.9752,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStep Builders, 2021.01–2023.01",
+      "score": 0.982,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9654,
+      "box": [
+        125,
+        314,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9812,
+      "box": [
+        127,
+        340,
+        554,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Construction, Fairhill University, 2023",
+      "score": 0.9705,
+      "box": [
+        115,
+        447,
+        795,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9717,
+      "box": [
+        132,
+        473,
+        591,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9878,
+      "box": [
+        133,
+        499,
+        620,
+        522
+      ]
+    }
+  ]
+}

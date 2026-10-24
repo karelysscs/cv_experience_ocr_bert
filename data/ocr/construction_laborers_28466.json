@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_28466",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "STEPHEN NEWMAN",
+      "score": 0.9739,
+      "box": [
+        116,
+        90,
+        440,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-967-201-3667|stephen.newman@example.com",
+      "score": 0.9906,
+      "box": [
+        115,
+        150,
+        703,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2021.01–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9838,
+      "box": [
+        126,
+        315,
+        491,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9668,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2019.01–2021.01",
+      "score": 0.9887,
+      "box": [
+        116,
+        382,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9966,
+      "box": [
+        126,
+        407,
+        451,
+        430
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.96,
+      "box": [
+        128,
+        433,
+        477,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearForm Builders, 2016.12–2019.01",
+      "score": 0.981,
+      "box": [
+        116,
+        472,
+        687,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9888,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9932,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Forestfield High School, 2016",
+      "score": 0.9866,
+      "box": [
+        115,
+        631,
+        851,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9653,
+      "box": [
+        133,
+        657,
+        524,
+        679
+      ]
+    }
+  ]
+}

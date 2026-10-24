@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_00176",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "TIFFANY MASON",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-259-427-2847 |tffany.mason@example.com",
+      "score": 0.9725,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2020.04–2023.01",
+      "score": 0.9797,
+      "box": [
+        114,
+        289,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9881,
+      "box": [
+        126,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9641,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2015.06–2018.04",
+      "score": 0.9832,
+      "box": [
+        114,
+        381,
+        783,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9535,
+      "box": [
+        125,
+        406,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9889,
+      "box": [
+        126,
+        430,
+        422,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Stonecrest University, 2005",
+      "score": 0.9839,
+      "box": [
+        115,
+        540,
+        664,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Willow Ridge University, 2003",
+      "score": 0.9559,
+      "box": [
+        114,
+        565,
+        692,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9889,
+      "box": [
+        133,
+        590,
+        593,
+        616
+      ]
+    },
+    {
+      "text": "• Studied principles of inventory valuation",
+      "score": 0.9905,
+      "box": [
+        133,
+        615,
+        516,
+        640
+      ]
+    }
+  ]
+}
