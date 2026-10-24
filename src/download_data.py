@@ -64,8 +64,11 @@ def to_pil(img) -> Image.Image:
 
 
 def sample_occupation(occ: str, files: list[str], n: int, seed: int) -> list[dict]:
-    from datasets import load_dataset
+    from datasets import Image as HFImage, load_dataset
     ds = load_dataset("parquet", data_files=files, split="train", streaming=True)
+    # keep images as compressed JPEG bytes while 5,000 rows sit in the shuffle buffer;
+    # decoded PIL images (~6 MB each) would need ~30 GB of RAM. Only the sampled ones are decoded.
+    ds = ds.cast_column("image", HFImage(decode=False))
     ds = ds.filter(lambda r: not r["has_photo"]).shuffle(seed=seed, buffer_size=5000)
     rows = []
     for r in tqdm(ds.take(n), total=n, desc=occ):
