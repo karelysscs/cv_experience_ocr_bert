@@ -18,6 +18,7 @@ It must never decide who is interviewed or hired (see §11).
 
 ```
 app.py                     Streamlit app (4 tabs)
+notebooks/00_colab_full_pipeline.ipynb  Colab: the whole pipeline in one notebook
 notebooks/01_ocr_gpu.ipynb     Kaggle/Colab: sampling + PaddleOCR (GPU) + cleaning + split
 notebooks/02_models_gpu.ipynb  Kaggle/Colab: baselines + BERT (GPU) + evaluation
 src/download_data.py       stratified sampling from PopResume (streaming)
@@ -141,6 +142,20 @@ template family. The estimate can pre-fill a profile or help prioritize reading;
 who is hired.
 
 ## 12. How to reproduce
+
+### Option A (recommended) — everything in one Google Colab notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karelysscs/cv_experience_ocr_bert/blob/Practica_04/notebooks/00_colab_full_pipeline.ipynb)
+
+`notebooks/00_colab_full_pipeline.ipynb` runs the whole pipeline on a T4 GPU with *Run all*:
+sampling, PaddleOCR, OCR quality, cleaning, split, all models, Q1–Q4 analyses, figures, the
+Streamlit app with a public link, and pushes the results to GitHub. Needs the Colab secrets
+`HF_TOKEN` (Hugging Face) and `GH_TOKEN` (fine-grained GitHub token, contents read/write on this
+repo only). Progress is saved to Google Drive, so a disconnected run resumes where it stopped.
+PaddlePaddle-GPU runs in an isolated virtual environment because it clashes with PyTorch's CUDA
+libraries.
+
+### Option B — Kaggle notebooks + local machine
 
 The GPU stages run on **Kaggle or Google Colab**; everything else runs locally.
 

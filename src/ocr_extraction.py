@@ -95,6 +95,18 @@ def main():
     summarize(failed, args.model)
 
 
+def paddle_hardware() -> str:
+    """CPU info plus the GPU Paddle sees (torch may not exist in the OCR environment)."""
+    info = hardware_info()
+    try:
+        import paddle
+        if paddle.device.cuda.device_count():
+            info += f" | Paddle GPU: {paddle.device.cuda.get_device_name(0)}"
+    except Exception:
+        pass
+    return info
+
+
 def summarize(failed: list[dict] | None = None, model: str = "server"):
     """Aggregate time / confidence over all cached JSONs -> output/metrics/ocr_summary.json."""
     recs = [load_json(p) for p in OCR_DIR.glob("*.json")]
@@ -104,7 +116,7 @@ def summarize(failed: list[dict] | None = None, model: str = "server"):
     summary = {
         "n_processed": len(recs),
         "model": MODELS[model][1],
-        "hardware": hardware_info(),
+        "hardware": paddle_hardware(),
         "time_per_cv_s_mean": round(statistics.fmean(times), 3) if times else None,
         "time_per_cv_s_median": round(statistics.median(times), 3) if times else None,
         "mean_confidence": round(statistics.fmean(confs), 4) if confs else None,
