@@ -1,15 +1,15 @@
 {
   "median": {
-    "train_s": 0.0010030399998868234,
-    "infer_s_per_cv": 1.5966666069289204e-08,
+    "train_s": 0.0015488999924855307,
+    "infer_s_per_cv": 1.2666666104147832e-08,
     "params": {
       "median": 5.516047369494939
     }
   },
   "tfidf": {
-    "train_s": 3.0652023120001104,
-    "infer_s_per_cv": 0.0009834121566670243,
-    "val_mae": 0.8168266896220234,
+    "train_s": 4.293128599994816,
+    "infer_s_per_cv": 0.0014385131666737531,
+    "val_mae": 0.8133116155614281,
     "params": {
       "alpha": 0.1,
       "char_ngrams": true,
@@ -18,8 +18,8 @@
     }
   },
   "rules": {
-    "train_s": 6.19304556499992,
-    "infer_s_per_cv": 0.00021587917000033487,
+    "train_s": 6.939618200005498,
+    "infer_s_per_cv": 0.00023246783333888743,
     "val_mae": 0.2683275550928707,
     "params": {
       "present_year": 2015,
@@ -28,9 +28,9 @@
     }
   },
   "embeddings": {
-    "train_s": 34.104635067000345,
-    "infer_s_per_cv": 0.0027976457333321984,
-    "val_mae": 1.2145746867305642,
+    "train_s": 276.8165091999981,
+    "infer_s_per_cv": 0.06048789149999114,
+    "val_mae": 1.1610587286119205,
     "params": {
       "encoder": "BAAI/bge-small-en-v1.5",
       "alpha": 0.1,
@@ -39,16 +39,16 @@
     }
   },
   "bert": {
-    "train_s": 88.09839233899947,
-    "infer_s_per_cv": 0.001997995513332474,
-    "val_mae": 0.3402421700500115,
-    "hardware": "x86_64 | 2 CPU threads | GPU: Tesla T4",
-    "epochs_run": 5.0,
-    "best_checkpoint": "/content/cv_experience_ocr_bert/models/bert/bert/checkpoints/checkpoint-525",
+    "train_s": 11392.19989824295,
+    "infer_s_per_cv": 0.2608569188333543,
+    "val_mae": 0.24270821375995003,
+    "hardware": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel | 12 CPU threads",
+    "epochs_run": 6.0,
+    "best_checkpoint": "checkpoint-1050",
     "date_survival": {
       "share_years_kept": 1.0,
       "share_cvs_all_years_kept": 1.0,
-      "tokens_median": 109,
+      "tokens_median": 108,
       "tokens_p90": 149,
       "share_cvs_over_limit": 0.0
     },
@@ -57,18 +57,19 @@
       "strategy": "head",
       "loss": "mse",
       "train_text": "ocr_clean",
-      "max_length": 512,
+      "max_length": 256,
       "lr": 5e-05,
       "batch_size": 16,
       "epochs": 10,
       "patience": 2,
-      "seed": 42
+      "seed": 42,
+      "stopped_by_hand_after_epoch": 6.0
     }
   },
   "tfidf_nodigits": {
-    "train_s": 2.3234942159997445,
-    "infer_s_per_cv": 0.0008420190616667848,
-    "val_mae": 1.6148340768466773,
+    "train_s": 2.413620400009677,
+    "infer_s_per_cv": 0.0014506461666557394,
+    "val_mae": 1.6129965264202246,
     "params": {
       "alpha": 3.0,
       "char_ngrams": true,
@@ -77,9 +78,9 @@
     }
   },
   "tfidf@ocr_raw": {
-    "train_s": 3.2909552740002255,
-    "infer_s_per_cv": 0.0009532275100006397,
-    "val_mae": 0.8811907131440093,
+    "train_s": 3.3773929000017233,
+    "infer_s_per_cv": 0.0008103446666791569,
+    "val_mae": 0.8811869436956827,
     "params": {
       "alpha": 0.3,
       "char_ngrams": true,
@@ -88,8 +89,8 @@
     }
   },
   "rules@ocr_raw": {
-    "train_s": 5.980847236000045,
-    "infer_s_per_cv": 0.00012982586000058897,
+    "train_s": 6.0167876000050455,
+    "infer_s_per_cv": 0.0002899910000026769,
     "val_mae": 0.2683275550928707,
     "params": {
       "present_year": 2015,
@@ -98,9 +99,9 @@
     }
   },
   "embeddings@ocr_raw": {
-    "train_s": 19.4042757899997,
-    "infer_s_per_cv": 0.0030878362100005084,
-    "val_mae": 1.545074307352809,
+    "train_s": 252.12782909999078,
+    "infer_s_per_cv": 0.053022779833336246,
+    "val_mae": 1.5450732901002049,
     "params": {
       "encoder": "BAAI/bge-small-en-v1.5",
       "alpha": 0.01,
@@ -109,12 +110,12 @@
     }
   },
   "bert@ocr_raw": {
-    "train_s": 96.48550276200058,
-    "infer_s_per_cv": 0.002069277461666085,
-    "val_mae": 0.4145752824552945,
-    "hardware": "x86_64 | 2 CPU threads | GPU: Tesla T4",
+    "train_s": 8441.589594999998,
+    "infer_s_per_cv": 0.13888411266666179,
+    "val_mae": 0.3718169895119033,
+    "hardware": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel | 12 CPU threads",
     "epochs_run": 5.0,
-    "best_checkpoint": "/content/cv_experience_ocr_bert/models/bert/bert__ocr_raw/checkpoints/checkpoint-525",
+    "best_checkpoint": "C:\\Users\\karel\\Documents\\GitHub\\cv_experience_ocr_bert\\models\\bert\\bert__ocr_raw\\checkpoints\\checkpoint-525",
     "date_survival": {
       "share_years_kept": 1.0,
       "share_cvs_all_years_kept": 1.0,
@@ -127,7 +128,7 @@
       "strategy": "head",
       "loss": "mse",
       "train_text": "ocr_raw",
-      "max_length": 512,
+      "max_length": 256,
       "lr": 5e-05,
       "batch_size": 16,
       "epochs": 10,

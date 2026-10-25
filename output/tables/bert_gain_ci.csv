@@ -1,5 +1,5 @@
 baseline,key,gain_mae,ci_low,ci_high,p_gain_le_0,significant,n_resamples
-Median,median,3.1536,2.9083,3.4081,0.0,True,2000
-TF-IDF + Ridge,tfidf,0.4676,0.4098,0.5286,0.0,True,2000
-Embeddings + Ridge,embeddings,0.8551,0.7703,0.9445,0.0,True,2000
-Rule-based dates (bonus),rules,-0.0892,-0.1382,-0.0344,1.0,True,2000
+Median,median,3.2751,3.0293,3.5332,0.0,True,2000
+TF-IDF + Ridge,tfidf,0.5823,0.5224,0.643,0.0,True,2000
+Embeddings + Ridge,embeddings,0.8888,0.8036,0.9771,0.0,True,2000
+Rule-based dates (bonus),rules,0.0323,-0.0132,0.0852,0.093,False,2000

@@ -1,6 +1,6 @@
 Model,MAE OCR,MAE reference,Gap (OCR - ref),Acc±2 OCR,Acc±2 reference
 Median,3.5039,3.5039,0.0,0.385,0.385
-TF-IDF + Ridge,0.8178,0.8074,0.0105,0.94,0.9383
-Embeddings + Ridge,1.2054,1.1751,0.0303,0.8283,0.8383
+TF-IDF + Ridge,0.8111,0.8073,0.0037,0.9383,0.9367
+Embeddings + Ridge,1.1175,1.1366,-0.0191,0.8633,0.8517
 Rule-based dates (bonus),0.261,0.1238,0.1372,0.9567,1.0
-Fine-tuned BERT,0.3502,0.3597,-0.0094,1.0,1.0
+Fine-tuned BERT,0.2287,0.2717,-0.043,0.9967,0.9967

@@ -1,10 +1,10 @@
 model,setup,MAE,MAE main setup,Δ vs main
-Embeddings + Ridge,embeddings | text=ocr_clean,1.2054,1.2054,0.0
-Embeddings + Ridge,embeddings@ocr_raw | text=ocr_raw,1.5942,1.2054,0.3888
-Fine-tuned BERT,bert | text=ocr_clean,0.3502,0.3502,0.0
-Fine-tuned BERT,bert@ocr_raw | text=ocr_raw,0.3963,0.3502,0.0461
+Embeddings + Ridge,embeddings | text=ocr_clean,1.1175,1.1175,0.0
+Embeddings + Ridge,embeddings@ocr_raw | text=ocr_raw,1.5942,1.1175,0.4766
+Fine-tuned BERT,bert | text=ocr_clean,0.2287,0.2287,0.0
+Fine-tuned BERT,bert@ocr_raw | text=ocr_raw,0.3424,0.2287,0.1136
 Rule-based dates (bonus),rules | text=ocr_clean,0.261,0.261,0.0
 Rule-based dates (bonus),rules@ocr_raw | text=ocr_raw,0.261,0.261,0.0
-TF-IDF + Ridge,tfidf | text=ocr_clean,0.8178,0.8178,0.0
-TF-IDF + Ridge,tfidf@ocr_raw | text=ocr_raw,0.9093,0.8178,0.0915
-TF-IDF + Ridge,tfidf_nodigits | text=ocr_clean,1.7732,0.8178,0.9553
+TF-IDF + Ridge,tfidf | text=ocr_clean,0.8111,0.8111,0.0
+TF-IDF + Ridge,tfidf@ocr_raw | text=ocr_raw,0.9094,0.8111,0.0983
+TF-IDF + Ridge,tfidf_nodigits | text=ocr_clean,1.7653,0.8111,0.9542
