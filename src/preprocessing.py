@@ -129,17 +129,20 @@ STREET = re.compile(r"\b\d{1,6}\s+(?:[A-Z][a-z]+\s){1,3}(?:St|Street|Ave|Avenue|
                     r"Boulevard|Ln|Lane|Dr|Drive|Ct|Court|Way|Pl|Place|Pkwy|Hwy)\b\.?[^\n]*")
 CITY_STATE_ZIP = re.compile(r"\b[A-Z][a-zA-Z .]+,\s*[A-Z]{2}\s*\d{5}(?:-\d{4})?\b")
 STATE_COUNTRY = re.compile(r"\b[A-Z]{2},\s*USA\b")  # PopResume header: "AL, USA"
-NAME_LINE = re.compile(r"^(?:[A-Z][a-zA-Z'.-]+\s){1,3}[A-Z][a-zA-Z'.-]+$")
+# letters only, 1-4 words; OCR sometimes drops the space ("TYLERVANCE"), so one word counts
+NAME_LINE = re.compile(r"^[A-Za-z][A-Za-z'.-]*(?:\s+[A-Za-z][A-Za-z'.-]*){0,3}$")
+SECTION_HEADING = re.compile(r"^(?:work history|(?:professional |work )?experience|employment(?: history)?|"
+                             r"education|skills|summary|profile|certifications?|projects|languages)$", re.I)
 
 
 def remove_pii(lines: list[str]) -> list[str]:
     out = []
     for i, line in enumerate(lines):
-        if i < 3 and NAME_LINE.match(line) and not any(c.isdigit() for c in line):
-            # the candidate's name is the first title-cased line of the header
-            if not any(o == "[NAME]" for o in out):
-                out.append("[NAME]")
-                continue
+        if (i < 3 and NAME_LINE.match(line.strip()) and not SECTION_HEADING.match(line.strip())
+                and "[NAME]" not in out):
+            # the candidate's name is the first letters-only line of the header (never a section title)
+            out.append("[NAME]")
+            continue
         for pat, tok in [(EMAIL, "[EMAIL]"), (URL, "[URL]"), (PHONE, "[PHONE]"),
                          (STREET, "[ADDRESS]"), (CITY_STATE_ZIP, "[ADDRESS]"),
                          (STATE_COUNTRY, "[LOCATION]")]:
