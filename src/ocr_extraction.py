@@ -45,6 +45,10 @@ def build_ocr(model: str = "server", device: str | None = None):
     )
     if device:
         kwargs["device"] = device
+    if device == "cpu":
+        # Paddle 3.x on Windows CPU crashes in the oneDNN (MKLDNN) executor
+        # ("ConvertPirAttribute2RuntimeAttribute not support"); plain CPU kernels work.
+        kwargs["enable_mkldnn"] = False
     return PaddleOCR(**kwargs)
 
 
