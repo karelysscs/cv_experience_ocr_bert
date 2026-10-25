@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_24278",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "MARK HERRERA",
+      "score": 0.9913,
+      "box": [
+        116,
+        90,
+        393,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-695-231-2235 |mark.herrera@example.com",
+      "score": 0.9785,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2020.12–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9693,
+      "box": [
+        125,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.967,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2017.02–2019.04",
+      "score": 0.9897,
+      "box": [
+        114,
+        381,
+        755,
+        406
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9887,
+      "box": [
+        125,
+        405,
+        451,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9782,
+      "box": [
+        126,
+        432,
+        405,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Clearhaven University, 2011",
+      "score": 0.9955,
+      "box": [
+        115,
+        540,
+        721,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.9802,
+      "box": [
+        133,
+        565,
+        546,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.9784,
+      "box": [
+        133,
+        590,
+        583,
+        615
+      ]
+    }
+  ]
+}

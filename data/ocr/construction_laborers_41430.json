@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_41430",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.896,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "GABRIEL COX",
+      "score": 0.9858,
+      "box": [
+        116,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA|+1-392-555-3989 |gabriel.cox@example.com",
+      "score": 0.9857,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2021.01–2023.01",
+      "score": 0.9776,
+      "box": [
+        114,
+        288,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "-Directed construction audits",
+      "score": 0.9828,
+      "box": [
+        125,
+        313,
+        401,
+        338
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9685,
+      "box": [
+        126,
+        338,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeLine Construction, 2019.01–2021.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        382,
+        724,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared job site layouts",
+      "score": 0.9876,
+      "box": [
+        126,
+        407,
+        373,
+        431
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9869,
+      "box": [
+        126,
+        432,
+        380,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2014.04–2016.04",
+      "score": 0.9822,
+      "box": [
+        115,
+        472,
+        726,
+        495
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9792,
+      "box": [
+        124,
+        496,
+        541,
+        521
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9539,
+      "box": [
+        125,
+        521,
+        332,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Elm Valley High School, 2012",
+      "score": 0.9724,
+      "box": [
+        116,
+        632,
+        895,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction measurement tools",
+      "score": 0.983,
+      "box": [
+        131,
+        656,
+        675,
+        680
+      ]
+    }
+  ]
+}

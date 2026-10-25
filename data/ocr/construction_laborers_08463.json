@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_08463",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.883,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "ROBERT BARRETT",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        429,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-412-897-4724 |robert.barrett@example.com",
+      "score": 0.9687,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2021.02–2023.01",
+      "score": 0.9695,
+      "box": [
+        114,
+        288,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9796,
+      "box": [
+        126,
+        315,
+        447,
+        338
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9859,
+      "box": [
+        126,
+        338,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2019.03–2021.02",
+      "score": 0.9955,
+      "box": [
+        116,
+        382,
+        734,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9654,
+      "box": [
+        125,
+        405,
+        485,
+        431
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9707,
+      "box": [
+        127,
+        432,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Brightwater University, 2021",
+      "score": 0.9825,
+      "box": [
+        116,
+        541,
+        811,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffolding assembly",
+      "score": 0.9611,
+      "box": [
+        132,
+        565,
+        573,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9715,
+      "box": [
+        134,
+        591,
+        603,
+        614
+      ]
+    }
+  ]
+}

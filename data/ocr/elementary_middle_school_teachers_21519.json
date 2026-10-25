@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_21519",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.041,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "RACHEL REED",
+      "score": 0.9646,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-540-718-8236 |rachel.reed@example.com",
+      "score": 0.9882,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2020.01–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        289,
+        855,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9766,
+      "box": [
+        126,
+        314,
+        507,
+        339
+      ]
+    },
+    {
+      "text": "- Developed student performance metics",
+      "score": 0.9802,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2016.12–2020.01",
+      "score": 0.9842,
+      "box": [
+        115,
+        381,
+        858,
+        406
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9909,
+      "box": [
+        126,
+        406,
+        493,
+        432
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9913,
+      "box": [
+        126,
+        431,
+        535,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2013.11–2016.12",
+      "score": 0.9811,
+      "box": [
+        114,
+        471,
+        863,
+        496
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9804,
+      "box": [
+        126,
+        498,
+        397,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.994,
+      "box": [
+        127,
+        522,
+        422,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2010.10–2013.11",
+      "score": 0.9655,
+      "box": [
+        116,
+        565,
+        812,
+        588
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9703,
+      "box": [
+        125,
+        589,
+        462,
+        612
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9812,
+      "box": [
+        128,
+        616,
+        458,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Willowcrest University, 2009",
+      "score": 0.9783,
+      "box": [
+        115,
+        724,
+        666,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, Elm Valley University, 27",
+      "score": 0.9636,
+      "box": [
+        114,
+        747,
+        692,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.9896,
+      "box": [
+        135,
+        775,
+        564,
+        795
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9916,
+      "box": [
+        133,
+        799,
+        489,
+        822
+      ]
+    }
+  ]
+}

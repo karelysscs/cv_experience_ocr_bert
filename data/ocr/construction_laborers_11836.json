@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_11836",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.053,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "BRETT KEMP",
+      "score": 0.971,
+      "box": [
+        117,
+        91,
+        335,
+        119
+      ]
+    },
+    {
+      "text": "FL, USA|+1-848-299-9052 |brett.kemp@example.com",
+      "score": 0.9491,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2019.07–2023.01",
+      "score": 0.9705,
+      "box": [
+        114,
+        288,
+        668,
+        313
+      ]
+    },
+    {
+      "text": "-Directed site safety audits",
+      "score": 0.9852,
+      "box": [
+        125,
+        313,
+        382,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9808,
+      "box": [
+        126,
+        338,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers,FirmBase Builders, 2016.01–2019.07",
+      "score": 0.9865,
+      "box": [
+        115,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9814,
+      "box": [
+        125,
+        405,
+        448,
+        430
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9604,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2012.07–2016.01",
+      "score": 0.977,
+      "box": [
+        115,
+        472,
+        636,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9809,
+      "box": [
+        125,
+        496,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9755,
+      "box": [
+        125,
+        521,
+        337,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2006.01–2009.08",
+      "score": 0.9634,
+      "box": [
+        114,
+        563,
+        677,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9795,
+      "box": [
+        126,
+        590,
+        555,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9901,
+      "box": [
+        125,
+        613,
+        565,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Pineview Ridge High School, 2004",
+      "score": 0.9818,
+      "box": [
+        116,
+        724,
+        993,
+        746
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9848,
+      "box": [
+        132,
+        747,
+        623,
+        772
+      ]
+    }
+  ]
+}

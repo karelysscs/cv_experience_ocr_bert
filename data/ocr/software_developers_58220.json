@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_58220",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.949,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "QUEENA LE",
+      "score": 0.9684,
+      "box": [
+        116,
+        88,
+        315,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-528-733-5724 |queena.le@example.com",
+      "score": 0.9638,
+      "box": [
+        114,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2018.03–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        288,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.982,
+      "box": [
+        127,
+        315,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2013.04–2018.03",
+      "score": 0.9809,
+      "box": [
+        115,
+        381,
+        661,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9914,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9914,
+      "box": [
+        126,
+        430,
+        499,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2008.05–2013.04",
+      "score": 0.9851,
+      "box": [
+        115,
+        472,
+        642,
+        495
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9845,
+      "box": [
+        126,
+        498,
+        390,
+        521
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.965,
+      "box": [
+        125,
+        521,
+        375,
+        545
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2003.06–2008.05",
+      "score": 0.9668,
+      "box": [
+        114,
+        563,
+        667,
+        588
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9749,
+      "box": [
+        124,
+        589,
+        402,
+        612
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9792,
+      "box": [
+        125,
+        613,
+        400,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Brightfield University, 2010",
+      "score": 0.9876,
+      "box": [
+        115,
+        725,
+        456,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2008",
+      "score": 0.9824,
+      "box": [
+        115,
+        749,
+        503,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9716,
+      "box": [
+        133,
+        774,
+        585,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9972,
+      "box": [
+        134,
+        799,
+        625,
+        822
+      ]
+    }
+  ]
+}

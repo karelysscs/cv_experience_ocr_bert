@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_16255",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.795,
+  "mean_conf": 0.9771,
+  "lines": [
+    {
+      "text": "LAUREN PHAN",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-229-453-3425|lauren.phan@example.com",
+      "score": 0.9775,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2017.05–2020.04",
+      "score": 0.9754,
+      "box": [
+        114,
+        289,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9632,
+      "box": [
+        125,
+        314,
+        400,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9675,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Northcrest University, 2002",
+      "score": 0.9672,
+      "box": [
+        114,
+        447,
+        564,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9767,
+      "box": [
+        132,
+        472,
+        552,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.988,
+      "box": [
+        134,
+        500,
+        526,
+        520
+      ]
+    }
+  ]
+}

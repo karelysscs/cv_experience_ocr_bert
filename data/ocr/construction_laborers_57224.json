@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_57224",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.909,
+  "mean_conf": 0.9861,
+  "lines": [
+    {
+      "text": "ZACHARIAS BARR",
+      "score": 0.9833,
+      "box": [
+        115,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-806-701-4047|zacharias.barr@example.com",
+      "score": 0.994,
+      "box": [
+        114,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Builders, 2020.07–2023.01",
+      "score": 0.9817,
+      "box": [
+        115,
+        290,
+        690,
+        312
+      ]
+    },
+    {
+      "text": "-Reviewed workflow efficiency reports",
+      "score": 0.9908,
+      "box": [
+        125,
+        313,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9707,
+      "box": [
+        126,
+        339,
+        482,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2016.08–2019.03",
+      "score": 0.9888,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9835,
+      "box": [
+        126,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.993,
+      "box": [
+        125,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Fairhill High School, 1997",
+      "score": 0.9825,
+      "box": [
+        116,
+        541,
+        871,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site cleanup",
+      "score": 0.9825,
+      "box": [
+        133,
+        565,
+        620,
+        590
+      ]
+    }
+  ]
+}

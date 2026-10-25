@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_33051",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.864,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "ADAMANDERSEN",
+      "score": 0.9979,
+      "box": [
+        114,
+        87,
+        417,
+        123
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-314-884-2866|adam.andersen@example.com",
+      "score": 0.9831,
+      "box": [
+        115,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Contractors, 2020.10–2023.01",
+      "score": 0.982,
+      "box": [
+        114,
+        288,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9872,
+      "box": [
+        126,
+        313,
+        448,
+        337
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9791,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongEdge Builders, 2016.05–2018.09",
+      "score": 0.9924,
+      "box": [
+        116,
+        382,
+        699,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9672,
+      "box": [
+        126,
+        407,
+        440,
+        430
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9745,
+      "box": [
+        127,
+        432,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Operations, Fieldview University, 2005",
+      "score": 0.9716,
+      "box": [
+        116,
+        540,
+        847,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.989,
+      "box": [
+        131,
+        564,
+        583,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.9938,
+      "box": [
+        132,
+        590,
+        559,
+        615
+      ]
+    }
+  ]
+}

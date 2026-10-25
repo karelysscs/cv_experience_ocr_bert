@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_23137",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.009,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "RACHEL BRANCH",
+      "score": 0.9767,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-228-640-8368 |rachel.branch@example.com",
+      "score": 0.9709,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2020.04–2023.01",
+      "score": 0.9772,
+      "box": [
+        116,
+        290,
+        858,
+        313
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9848,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9764,
+      "box": [
+        126,
+        339,
+        562,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2017.07–2020.04",
+      "score": 0.9904,
+      "box": [
+        116,
+        382,
+        895,
+        406
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9916,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9818,
+      "box": [
+        126,
+        429,
+        550,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2014.09–2017.07",
+      "score": 0.9673,
+      "box": [
+        115,
+        472,
+        822,
+        496
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9925,
+      "box": [
+        125,
+        496,
+        517,
+        521
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9955,
+      "box": [
+        127,
+        522,
+        401,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2010.01–2012.11",
+      "score": 0.9865,
+      "box": [
+        116,
+        565,
+        876,
+        588
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9873,
+      "box": [
+        127,
+        590,
+        463,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9533,
+      "box": [
+        126,
+        614,
+        466,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Pioneer University, 2003",
+      "score": 0.9614,
+      "box": [
+        115,
+        725,
+        697,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.9813,
+      "box": [
+        133,
+        749,
+        624,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9913,
+      "box": [
+        135,
+        774,
+        591,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_06860",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.974,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "KYLE RICHARDSON",
+      "score": 0.9909,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-931-935-4178 |kyle.richardson@example.com",
+      "score": 0.9852,
+      "box": [
+        117,
+        151,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Grove School, 2020.10–2023.01",
+      "score": 0.9643,
+      "box": [
+        116,
+        290,
+        843,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9798,
+      "box": [
+        126,
+        314,
+        578,
+        339
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2018.07–2020.10",
+      "score": 0.985,
+      "box": [
+        115,
+        381,
+        903,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9852,
+      "box": [
+        126,
+        406,
+        515,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9955,
+      "box": [
+        127,
+        431,
+        426,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2016.04–2018.07",
+      "score": 0.9846,
+      "box": [
+        116,
+        472,
+        866,
+        496
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9812,
+      "box": [
+        126,
+        497,
+        462,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9679,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Liberal Arts, Clearbrook University, 2018",
+      "score": 0.9762,
+      "box": [
+        115,
+        631,
+        582,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Brookfield University, 2016",
+      "score": 0.9873,
+      "box": [
+        115,
+        657,
+        721,
+        680
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.994,
+      "box": [
+        132,
+        681,
+        592,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9723,
+      "box": [
+        132,
+        706,
+        572,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_18392",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.774,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "JOYCE BLANCHARD",
+      "score": 0.9683,
+      "box": [
+        116,
+        90,
+        453,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-677-293-7840 |joyce.blanchard@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2018.09–2021.09",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9803,
+      "box": [
+        125,
+        313,
+        512,
+        339
+      ]
+    },
+    {
+      "text": "– Monitored patient pain levels",
+      "score": 0.9652,
+      "box": [
+        127,
+        340,
+        409,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Willowcrest University, 2005",
+      "score": 0.9818,
+      "box": [
+        114,
+        447,
+        610,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9886,
+      "box": [
+        133,
+        473,
+        607,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9807,
+      "box": [
+        133,
+        499,
+        488,
+        522
+      ]
+    }
+  ]
+}

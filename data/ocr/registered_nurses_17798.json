@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_17798",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.891,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "SALINA WEBSTER",
+      "score": 0.9737,
+      "box": [
+        116,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-293-831-6128 |salina.webster@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2021.01–2023.01",
+      "score": 0.9943,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9576,
+      "box": [
+        127,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2018.12–2021.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        381,
+        630,
+        406
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9863,
+      "box": [
+        126,
+        406,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9856,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2013.12–2016.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9742,
+      "box": [
+        125,
+        496,
+        402,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9754,
+      "box": [
+        125,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Patient Care, Horizon University, 2011",
+      "score": 0.977,
+      "box": [
+        115,
+        632,
+        658,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.987,
+      "box": [
+        132,
+        656,
+        493,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9849,
+      "box": [
+        136,
+        684,
+        634,
+        704
+      ]
+    }
+  ]
+}

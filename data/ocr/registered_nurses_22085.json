@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22085",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.713,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "LAYAN GRIMES",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-695-423-4750 |layan.grimes@example.com",
+      "score": 0.9764,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2020.12–2023.01",
+      "score": 0.9858,
+      "box": [
+        116,
+        290,
+        626,
+        313
+      ]
+    },
+    {
+      "text": "-Checked medication dosages",
+      "score": 0.9948,
+      "box": [
+        125,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9825,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Applied Health Sciences, Northway University, 2023",
+      "score": 0.9803,
+      "box": [
+        116,
+        449,
+        849,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9788,
+      "box": [
+        132,
+        472,
+        573,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9911,
+      "box": [
+        132,
+        497,
+        551,
+        523
+      ]
+    }
+  ]
+}

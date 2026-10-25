@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_54676",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.895,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "LUKE WU",
+      "score": 0.9367,
+      "box": [
+        114,
+        88,
+        275,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-286-358-5600|luke.wu@example.com",
+      "score": 0.9955,
+      "box": [
+        116,
+        151,
+        610,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9873,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2019.02–2023.01",
+      "score": 0.9959,
+      "box": [
+        116,
+        290,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9833,
+      "box": [
+        125,
+        314,
+        513,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9867,
+      "box": [
+        126,
+        338,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2015.03–2019.02",
+      "score": 0.9897,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9844,
+      "box": [
+        126,
+        406,
+        500,
+        431
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9808,
+      "box": [
+        125,
+        430,
+        388,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2011.04–2015.03",
+      "score": 0.9853,
+      "box": [
+        115,
+        471,
+        638,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9514,
+      "box": [
+        125,
+        497,
+        417,
+        522
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9773,
+      "box": [
+        126,
+        521,
+        403,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2007.05–2011.04",
+      "score": 0.9877,
+      "box": [
+        115,
+        563,
+        630,
+        588
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9698,
+      "box": [
+        127,
+        590,
+        601,
+        614
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9896,
+      "box": [
+        126,
+        614,
+        375,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonewood University, 2005",
+      "score": 0.9946,
+      "box": [
+        115,
+        725,
+        486,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.9942,
+      "box": [
+        133,
+        749,
+        527,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.9912,
+      "box": [
+        135,
+        774,
+        576,
+        797
+      ]
+    }
+  ]
+}

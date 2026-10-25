@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_04911",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "MARC MALONE",
+      "score": 0.9836,
+      "box": [
+        115,
+        88,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-874-439-1004|marc.malone@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9871,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2020.01–2023.01",
+      "score": 0.97,
+      "box": [
+        114,
+        288,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9676,
+      "box": [
+        125,
+        313,
+        352,
+        338
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9654,
+      "box": [
+        127,
+        340,
+        374,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2017.01–2020.01",
+      "score": 0.9919,
+      "box": [
+        115,
+        381,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9836,
+      "box": [
+        126,
+        406,
+        431,
+        432
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9917,
+      "box": [
+        126,
+        430,
+        451,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Openridge Technologies, 2013.07–2016.07",
+      "score": 0.9891,
+      "box": [
+        114,
+        470,
+        725,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9798,
+      "box": [
+        126,
+        498,
+        449,
+        521
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9674,
+      "box": [
+        125,
+        521,
+        385,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2009.12–2012.12",
+      "score": 0.9781,
+      "box": [
+        114,
+        562,
+        698,
+        590
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9616,
+      "box": [
+        127,
+        590,
+        440,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9829,
+      "box": [
+        126,
+        613,
+        448,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood University, 003",
+      "score": 0.9652,
+      "box": [
+        114,
+        723,
+        467,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9717,
+      "box": [
+        132,
+        747,
+        578,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9954,
+      "box": [
+        134,
+        772,
+        690,
+        798
+      ]
+    }
+  ]
+}

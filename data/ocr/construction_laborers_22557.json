@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_22557",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.998,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "MONTRAIL GRANT",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        424,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-922-734-8110 |montrail.grant@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2019.05–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        290,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9783,
+      "box": [
+        125,
+        313,
+        485,
+        339
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9972,
+      "box": [
+        128,
+        341,
+        487,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2015.09–2019.5",
+      "score": 0.9816,
+      "box": [
+        115,
+        381,
+        730,
+        405
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9896,
+      "box": [
+        126,
+        407,
+        448,
+        430
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9851,
+      "box": [
+        126,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2011.12–2015.09",
+      "score": 0.9819,
+      "box": [
+        114,
+        471,
+        713,
+        496
+      ]
+    },
+    {
+      "text": "-Monitored safety compliance",
+      "score": 0.9656,
+      "box": [
+        125,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9832,
+      "box": [
+        125,
+        521,
+        397,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2005.06–2009.03",
+      "score": 0.9573,
+      "box": [
+        114,
+        563,
+        697,
+        588
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.988,
+      "box": [
+        125,
+        590,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9669,
+      "box": [
+        125,
+        614,
+        491,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Brookridge High School, 1998",
+      "score": 0.9951,
+      "box": [
+        116,
+        725,
+        890,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.9803,
+      "box": [
+        132,
+        747,
+        501,
+        772
+      ]
+    }
+  ]
+}

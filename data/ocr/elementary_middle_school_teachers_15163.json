@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_15163",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "MICHAEL HOFFMAN",
+      "score": 0.9684,
+      "box": [
+        117,
+        90,
+        446,
+        120
+      ]
+    },
+    {
+      "text": "GA,USA|+1-795-600-9910|michael.hoffman@example.com",
+      "score": 0.9803,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Field School, 2020.01–2021.08",
+      "score": 0.9862,
+      "box": [
+        115,
+        289,
+        850,
+        314
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9781,
+      "box": [
+        126,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9903,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons Academy, 2017.10–2019.06",
+      "score": 0.9907,
+      "box": [
+        115,
+        381,
+        869,
+        406
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9885,
+      "box": [
+        126,
+        406,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9783,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Child Development, Windridge University, 2006",
+      "score": 0.9763,
+      "box": [
+        115,
+        541,
+        644,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Briar Ridge University, 2004",
+      "score": 0.9922,
+      "box": [
+        115,
+        566,
+        676,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational teaching practices",
+      "score": 0.998,
+      "box": [
+        134,
+        590,
+        677,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9925,
+      "box": [
+        134,
+        615,
+        685,
+        639
+      ]
+    }
+  ]
+}

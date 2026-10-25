@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_58025",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.948,
+  "mean_conf": 0.9775,
+  "lines": [
+    {
+      "text": "LADONNA XIONG",
+      "score": 0.9881,
+      "box": [
+        116,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-633-334-3206|ladonna.xiong@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2020.05–2023.01",
+      "score": 0.9784,
+      "box": [
+        114,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "-Designed accounting frameworks",
+      "score": 0.9796,
+      "box": [
+        126,
+        314,
+        449,
+        338
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9523,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2017.09–2020.05",
+      "score": 0.9843,
+      "box": [
+        114,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9632,
+      "box": [
+        126,
+        406,
+        351,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9919,
+      "box": [
+        126,
+        430,
+        367,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2015.01–2017.09",
+      "score": 0.9854,
+      "box": [
+        114,
+        471,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9761,
+      "box": [
+        125,
+        497,
+        436,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9801,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Silver Ridge University, 2014",
+      "score": 0.9688,
+      "box": [
+        115,
+        632,
+        697,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9443,
+      "box": [
+        132,
+        656,
+        583,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9833,
+      "box": [
+        136,
+        682,
+        686,
+        705
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_30958",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.786,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "JIMMY DAVENPORT",
+      "score": 0.9916,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "MO, USA |+1-557-669-8367 |jimmy.davenport@example.com",
+      "score": 0.9843,
+      "box": [
+        116,
+        152,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2018.11–2021.02",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        704,
+        312
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9756,
+      "box": [
+        125,
+        313,
+        361,
+        341
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9858,
+      "box": [
+        128,
+        341,
+        366,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Briarwood University, 2016",
+      "score": 0.9776,
+      "box": [
+        116,
+        449,
+        790,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9924,
+      "box": [
+        131,
+        472,
+        498,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.979,
+      "box": [
+        134,
+        499,
+        501,
+        522
+      ]
+    }
+  ]
+}

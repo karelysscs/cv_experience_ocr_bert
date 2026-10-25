@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_57954",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.769,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "BROCKBEST",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-811-376-5939|brock.best@example.com",
+      "score": 0.9854,
+      "box": [
+        114,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2021.09–2022.06",
+      "score": 0.996,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9814,
+      "box": [
+        126,
+        314,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9605,
+      "box": [
+        126,
+        339,
+        385,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearfield Ridge University, 2002",
+      "score": 0.9776,
+      "box": [
+        115,
+        449,
+        530,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9907,
+      "box": [
+        132,
+        472,
+        521,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency management",
+      "score": 0.9859,
+      "box": [
+        132,
+        498,
+        584,
+        523
+      ]
+    }
+  ]
+}

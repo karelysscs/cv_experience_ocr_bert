@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_01741",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.882,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "JOHN HAHN",
+      "score": 0.9526,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-542-533-7704|john.hahn@example.com",
+      "score": 0.9922,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2020.05–2023.01",
+      "score": 0.982,
+      "box": [
+        115,
+        289,
+        653,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9891,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9884,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2017.08–2020.05",
+      "score": 0.9872,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9743,
+      "box": [
+        125,
+        406,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9762,
+      "box": [
+        126,
+        430,
+        419,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2014.11–2017.08",
+      "score": 0.9914,
+      "box": [
+        115,
+        471,
+        643,
+        496
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9858,
+      "box": [
+        125,
+        496,
+        562,
+        522
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9866,
+      "box": [
+        126,
+        522,
+        439,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Windfield University, 2022",
+      "score": 0.9764,
+      "box": [
+        115,
+        632,
+        449,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakfield University, 2020",
+      "score": 0.9677,
+      "box": [
+        114,
+        656,
+        458,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9954,
+      "box": [
+        134,
+        683,
+        616,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of NoSQL systems",
+      "score": 0.9813,
+      "box": [
+        132,
+        706,
+        530,
+        732
+      ]
+    }
+  ]
+}

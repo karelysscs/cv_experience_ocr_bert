@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_29465",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.869,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "MELISSA VU",
+      "score": 0.9677,
+      "box": [
+        116,
+        90,
+        322,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-975-803-8143|melissa.vu@example.com",
+      "score": 0.9792,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Advisors, 2020.10–2023.01",
+      "score": 0.976,
+      "box": [
+        115,
+        290,
+        736,
+        312
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9821,
+      "box": [
+        126,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9765,
+      "box": [
+        127,
+        340,
+        514,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2018.07–2020.10",
+      "score": 0.9807,
+      "box": [
+        115,
+        382,
+        749,
+        404
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9857,
+      "box": [
+        125,
+        406,
+        384,
+        431
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9716,
+      "box": [
+        125,
+        430,
+        418,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Rockland University, 2017",
+      "score": 0.9731,
+      "box": [
+        115,
+        541,
+        667,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Elmwood University, 2015",
+      "score": 0.9842,
+      "box": [
+        115,
+        566,
+        658,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9884,
+      "box": [
+        133,
+        591,
+        511,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9954,
+      "box": [
+        135,
+        616,
+        647,
+        639
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_26070",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.964,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "STACY FLOYD",
+      "score": 0.9611,
+      "box": [
+        115,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-216-905-7975 |stacy.floyd@example.com",
+      "score": 0.9854,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2018.12–2023.01",
+      "score": 0.9929,
+      "box": [
+        115,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9843,
+      "box": [
+        125,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.971,
+      "box": [
+        127,
+        338,
+        392,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2014.11–2018.12",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        707,
+        406
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9853,
+      "box": [
+        126,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.988,
+      "box": [
+        126,
+        431,
+        516,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2010.10–2014.11",
+      "score": 0.98,
+      "box": [
+        114,
+        471,
+        740,
+        496
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9907,
+      "box": [
+        125,
+        496,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        427,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2006.09–2010.10",
+      "score": 0.9849,
+      "box": [
+        115,
+        565,
+        687,
+        588
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9618,
+      "box": [
+        126,
+        589,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.984,
+      "box": [
+        127,
+        615,
+        412,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Highpoint University, 2005",
+      "score": 0.9779,
+      "box": [
+        114,
+        723,
+        744,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.99,
+      "box": [
+        133,
+        749,
+        566,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting process improvement",
+      "score": 0.9958,
+      "box": [
+        135,
+        774,
+        696,
+        797
+      ]
+    }
+  ]
+}

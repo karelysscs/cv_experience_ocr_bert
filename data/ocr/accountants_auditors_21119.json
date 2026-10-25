@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_21119",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.006,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "SAMANTHA WALTERS",
+      "score": 0.9738,
+      "box": [
+        116,
+        90,
+        483,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-296-667-9773 |samantha.walters@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2019.02–202.01",
+      "score": 0.9797,
+      "box": [
+        114,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9814,
+      "box": [
+        127,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2015.03–2019.02",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        702,
+        406
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9816,
+      "box": [
+        126,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.982,
+      "box": [
+        126,
+        431,
+        517,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2010.07–2014.06",
+      "score": 0.9844,
+      "box": [
+        114,
+        471,
+        757,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9846,
+      "box": [
+        126,
+        497,
+        406,
+        519
+      ]
+    },
+    {
+      "text": "-Reviewed balance sheet accounts",
+      "score": 0.9978,
+      "box": [
+        125,
+        521,
+        459,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2005.11–2009.10",
+      "score": 0.9522,
+      "box": [
+        115,
+        565,
+        676,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.994,
+      "box": [
+        125,
+        589,
+        422,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9817,
+      "box": [
+        126,
+        613,
+        356,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Lakeview University, 2002",
+      "score": 0.9731,
+      "box": [
+        114,
+        723,
+        703,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9959,
+      "box": [
+        131,
+        747,
+        510,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9823,
+      "box": [
+        133,
+        772,
+        476,
+        798
+      ]
+    }
+  ]
+}

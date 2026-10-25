@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_20860",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.92,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "JACOB BRANDT",
+      "score": 0.9785,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-778-855-6757 |jacob.brandt@example.com",
+      "score": 0.9852,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2020.11–2023.01",
+      "score": 0.9872,
+      "box": [
+        114,
+        289,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9454,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        515,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2018.09–2020.11",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9904,
+      "box": [
+        126,
+        406,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9857,
+      "box": [
+        126,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2016.07–2018.09",
+      "score": 0.9894,
+      "box": [
+        114,
+        471,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9875,
+      "box": [
+        125,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9622,
+      "box": [
+        127,
+        523,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Horizon University, 2021",
+      "score": 0.9643,
+      "box": [
+        115,
+        632,
+        605,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Meadowfield University, 2019",
+      "score": 0.9855,
+      "box": [
+        115,
+        657,
+        732,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9679,
+      "box": [
+        134,
+        683,
+        612,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9899,
+      "box": [
+        133,
+        706,
+        562,
+        731
+      ]
+    }
+  ]
+}

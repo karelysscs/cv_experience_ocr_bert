@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_23670",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.017,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "ISELA MCFARLAND",
+      "score": 0.9724,
+      "box": [
+        115,
+        90,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-728-764-3884 |isela.mcfarland@example.com",
+      "score": 0.9906,
+      "box": [
+        116,
+        151,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2019.06–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        289,
+        687,
+        312
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9696,
+      "box": [
+        125,
+        313,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9599,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2015.11–2019.06",
+      "score": 0.9896,
+      "box": [
+        114,
+        381,
+        755,
+        406
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9872,
+      "box": [
+        125,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9845,
+      "box": [
+        125,
+        432,
+        508,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2012.04–2015.11",
+      "score": 0.9823,
+      "box": [
+        115,
+        472,
+        721,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9725,
+      "box": [
+        126,
+        497,
+        426,
+        520
+      ]
+    },
+    {
+      "text": "– Managed accounting system updates",
+      "score": 0.9694,
+      "box": [
+        127,
+        523,
+        487,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2008.08–2012.04",
+      "score": 0.9844,
+      "box": [
+        115,
+        565,
+        681,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9654,
+      "box": [
+        126,
+        590,
+        511,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9872,
+      "box": [
+        127,
+        614,
+        409,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Willow Ridge University, 2012",
+      "score": 0.966,
+      "box": [
+        114,
+        723,
+        736,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9716,
+      "box": [
+        132,
+        747,
+        702,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9853,
+      "box": [
+        136,
+        775,
+        662,
+        795
+      ]
+    }
+  ]
+}

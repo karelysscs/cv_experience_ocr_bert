@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_01099",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.831,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "CHASITY DYER",
+      "score": 0.9934,
+      "box": [
+        117,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-603-441-9620|chasity.dyer@example.com",
+      "score": 0.9959,
+      "box": [
+        116,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonewave Software, 2020.09–2023.01",
+      "score": 0.992,
+      "box": [
+        116,
+        289,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2015.09–2018.01",
+      "score": 0.9912,
+      "box": [
+        115,
+        381,
+        652,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9811,
+      "box": [
+        126,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9817,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Cloverfield University, 2006",
+      "score": 0.9732,
+      "box": [
+        115,
+        541,
+        480,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9703,
+      "box": [
+        132,
+        565,
+        501,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in continuous integration",
+      "score": 0.9675,
+      "box": [
+        134,
+        590,
+        593,
+        615
+      ]
+    }
+  ]
+}

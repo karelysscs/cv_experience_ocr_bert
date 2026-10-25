@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_46725",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.79,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "JEFFREY DYER",
+      "score": 0.9859,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-904-400-8347 |jeffrey.dyer@example.com",
+      "score": 0.9741,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Labs, 2022.03–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        290,
+        617,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9371,
+      "box": [
+        125,
+        314,
+        355,
+        339
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9888,
+      "box": [
+        126,
+        339,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Harvest University, 2023",
+      "score": 0.987,
+      "box": [
+        115,
+        449,
+        452,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9841,
+      "box": [
+        132,
+        474,
+        617,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9913,
+      "box": [
+        133,
+        497,
+        554,
+        523
+      ]
+    }
+  ]
+}

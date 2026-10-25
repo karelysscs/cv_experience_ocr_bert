@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_56979",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "VICTOR TERRY",
+      "score": 0.9764,
+      "box": [
+        115,
+        88,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-900-643-3372 |victor.terry@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2021.03–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        751,
+        312
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.975,
+      "box": [
+        126,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9759,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2017.06–2019.04",
+      "score": 0.9783,
+      "box": [
+        115,
+        382,
+        722,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9742,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9735,
+      "box": [
+        126,
+        430,
+        420,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Fairmont University, 2008",
+      "score": 0.9794,
+      "box": [
+        114,
+        540,
+        705,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning",
+      "score": 0.9808,
+      "box": [
+        133,
+        565,
+        519,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.97,
+      "box": [
+        134,
+        590,
+        554,
+        615
+      ]
+    }
+  ]
+}

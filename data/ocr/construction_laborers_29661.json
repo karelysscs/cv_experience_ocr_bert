@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_29661",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.946,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "DONAVON LUGO",
+      "score": 0.9728,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA|+1-349-814-2123 |donavon.lugo@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2020.06–2023.01",
+      "score": 0.9682,
+      "box": [
+        114,
+        288,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9865,
+      "box": [
+        127,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        552,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2017.10–2020.06",
+      "score": 0.9747,
+      "box": [
+        116,
+        381,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.98,
+      "box": [
+        126,
+        407,
+        453,
+        429
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9848,
+      "box": [
+        127,
+        432,
+        451,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2015.02–2017.10",
+      "score": 0.9897,
+      "box": [
+        115,
+        471,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9921,
+      "box": [
+        125,
+        496,
+        426,
+        522
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9707,
+      "box": [
+        127,
+        523,
+        476,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Trades, Oakridge University, 2014",
+      "score": 0.9845,
+      "box": [
+        114,
+        630,
+        744,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic metalwork",
+      "score": 0.9695,
+      "box": [
+        132,
+        656,
+        539,
+        679
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9964,
+      "box": [
+        134,
+        682,
+        588,
+        705
+      ]
+    }
+  ]
+}

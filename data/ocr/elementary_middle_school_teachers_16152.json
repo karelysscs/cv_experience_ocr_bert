@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_16152",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "DANICA LOGAN",
+      "score": 0.9737,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "GA,USA|+1-265-869-9982|danica.logan@example.com",
+      "score": 0.973,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2020.04–2023.01",
+      "score": 0.9834,
+      "box": [
+        114,
+        289,
+        873,
+        314
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9825,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        516,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2016.03–2018.12",
+      "score": 0.9759,
+      "box": [
+        115,
+        381,
+        824,
+        406
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9883,
+      "box": [
+        126,
+        407,
+        408,
+        429
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9741,
+      "box": [
+        127,
+        432,
+        395,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Seabreeze University, 2013",
+      "score": 0.9737,
+      "box": [
+        115,
+        540,
+        727,
+        563
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9921,
+      "box": [
+        133,
+        566,
+        624,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of inclusive education",
+      "score": 0.9739,
+      "box": [
+        133,
+        590,
+        518,
+        614
+      ]
+    }
+  ]
+}

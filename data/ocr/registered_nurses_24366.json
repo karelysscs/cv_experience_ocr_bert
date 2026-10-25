@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_24366",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.85,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "AMYSTARK",
+      "score": 0.9983,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-544-847-2630|amy.stark@example.com",
+      "score": 0.9916,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2021.04–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9621,
+      "box": [
+        125,
+        314,
+        481,
+        337
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        470,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2019.06–2021.04",
+      "score": 0.9882,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9804,
+      "box": [
+        126,
+        407,
+        372,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9649,
+      "box": [
+        126,
+        430,
+        372,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Pediatric Care, Clearway University, 2023",
+      "score": 0.9748,
+      "box": [
+        116,
+        541,
+        690,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9877,
+      "box": [
+        134,
+        567,
+        607,
+        587
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9972,
+      "box": [
+        134,
+        590,
+        542,
+        615
+      ]
+    }
+  ]
+}

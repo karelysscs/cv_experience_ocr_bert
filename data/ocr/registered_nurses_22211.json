@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22211",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "ANITASILVA",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-806-400-5902 |anita.silva@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2020.08–2023.01",
+      "score": 0.9849,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9847,
+      "box": [
+        125,
+        313,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9789,
+      "box": [
+        126,
+        339,
+        365,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Forest Ridge University, 2021",
+      "score": 0.9794,
+      "box": [
+        114,
+        447,
+        662,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9789,
+      "box": [
+        132,
+        473,
+        677,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9913,
+      "box": [
+        135,
+        500,
+        623,
+        520
+      ]
+    }
+  ]
+}

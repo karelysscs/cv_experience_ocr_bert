@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_57373",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.86,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "MATTHEW HOLT",
+      "score": 0.9579,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-545-805-3998|matthew.holt@example.com",
+      "score": 0.9903,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2019.12–2022.01",
+      "score": 0.9908,
+      "box": [
+        114,
+        288,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.97,
+      "box": [
+        126,
+        313,
+        387,
+        338
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9817,
+      "box": [
+        127,
+        340,
+        496,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2016.08–2018.10",
+      "score": 0.9968,
+      "box": [
+        116,
+        382,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9745,
+      "box": [
+        125,
+        405,
+        508,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9836,
+      "box": [
+        126,
+        432,
+        424,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Silver Creek University, 2009",
+      "score": 0.9906,
+      "box": [
+        115,
+        541,
+        476,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood University, 2007",
+      "score": 0.9712,
+      "box": [
+        115,
+        565,
+        467,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in quality assurance",
+      "score": 0.9938,
+      "box": [
+        134,
+        590,
+        552,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9911,
+      "box": [
+        134,
+        615,
+        658,
+        641
+      ]
+    }
+  ]
+}

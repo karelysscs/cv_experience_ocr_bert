@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_28368",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "SADIE POPE",
+      "score": 0.9535,
+      "box": [
+        115,
+        90,
+        322,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-324-400-4210 |sadie.pope@example.com",
+      "score": 0.9856,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2021.05–2023.01",
+      "score": 0.9933,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9782,
+      "box": [
+        126,
+        314,
+        384,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Greenwood Ridge University, 2023",
+      "score": 0.9575,
+      "box": [
+        114,
+        448,
+        662,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9672,
+      "box": [
+        132,
+        473,
+        650,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9902,
+      "box": [
+        133,
+        498,
+        586,
+        523
+      ]
+    }
+  ]
+}

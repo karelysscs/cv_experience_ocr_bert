@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_08409",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.896,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "ZACHARY MORSE",
+      "score": 0.982,
+      "box": [
+        115,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-797-886-2318 |zachary.morse@example.com",
+      "score": 0.9742,
+      "box": [
+        117,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2019.10–2021.04",
+      "score": 0.9882,
+      "box": [
+        114,
+        289,
+        736,
+        314
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9736,
+      "box": [
+        127,
+        313,
+        452,
+        337
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2017.02–2018.08",
+      "score": 0.9856,
+      "box": [
+        114,
+        381,
+        791,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9827,
+      "box": [
+        125,
+        406,
+        366,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9741,
+      "box": [
+        125,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Golden Hills University, 2014",
+      "score": 0.9799,
+      "box": [
+        115,
+        541,
+        739,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Clearstone University, 2012",
+      "score": 0.9704,
+      "box": [
+        115,
+        566,
+        684,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9871,
+      "box": [
+        134,
+        592,
+        613,
+        612
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9753,
+      "box": [
+        133,
+        615,
+        506,
+        640
+      ]
+    }
+  ]
+}

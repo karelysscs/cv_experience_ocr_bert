@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_00689",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.886,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "ANNLANDRY",
+      "score": 0.9492,
+      "box": [
+        116,
+        89,
+        339,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-978-988-9528|ann.landry@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2019.04–2022.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        289,
+        838,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9984,
+      "box": [
+        125,
+        313,
+        473,
+        339
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2015.07–2018.05",
+      "score": 0.9827,
+      "box": [
+        115,
+        381,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9812,
+      "box": [
+        126,
+        407,
+        411,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.979,
+      "box": [
+        126,
+        432,
+        564,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Foxwood University, 2008",
+      "score": 0.9835,
+      "box": [
+        114,
+        539,
+        705,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Pinefield University, 2006",
+      "score": 0.9792,
+      "box": [
+        114,
+        564,
+        677,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic skill development",
+      "score": 0.9827,
+      "box": [
+        133,
+        590,
+        645,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in learning theory",
+      "score": 0.9779,
+      "box": [
+        133,
+        614,
+        527,
+        641
+      ]
+    }
+  ]
+}

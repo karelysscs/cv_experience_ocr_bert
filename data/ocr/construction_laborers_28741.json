@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_28741",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "MICHAEL LYNN",
+      "score": 0.9586,
+      "box": [
+        116,
+        89,
+        371,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-683-822-4405|michael.lynn@example.com",
+      "score": 0.9867,
+      "box": [
+        115,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2020.10–2023.01",
+      "score": 0.9732,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9755,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9855,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2018.07–2020.10",
+      "score": 0.987,
+      "box": [
+        116,
+        382,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9871,
+      "box": [
+        125,
+        405,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9742,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Brightwood High School, 2017",
+      "score": 0.9844,
+      "box": [
+        116,
+        541,
+        841,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.99,
+      "box": [
+        132,
+        564,
+        570,
+        590
+      ]
+    }
+  ]
+}

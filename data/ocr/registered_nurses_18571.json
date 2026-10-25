@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_18571",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.777,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "KINSEY FULLER",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        384,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-281-743-6482|kinsey.fuller@example.com",
+      "score": 0.9856,
+      "box": [
+        116,
+        152,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2020.06–2023.01",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9847,
+      "box": [
+        126,
+        315,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.955,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Sunfield University, 2020",
+      "score": 0.9678,
+      "box": [
+        115,
+        449,
+        592,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing workflow management",
+      "score": 0.9848,
+      "box": [
+        133,
+        473,
+        673,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9898,
+      "box": [
+        134,
+        499,
+        582,
+        522
+      ]
+    }
+  ]
+}

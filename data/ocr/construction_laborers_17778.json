@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_17778",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9853,
+  "lines": [
+    {
+      "text": "KENNETH HOWARD",
+      "score": 0.9901,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-980-434-3907 |kenneth.howard@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Contractors, 2019.12–2023.01",
+      "score": 0.9771,
+      "box": [
+        114,
+        288,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "-Directed project execution strategies",
+      "score": 0.9959,
+      "box": [
+        125,
+        314,
+        480,
+        339
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2015.09–2018.10",
+      "score": 0.9915,
+      "box": [
+        115,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9763,
+      "box": [
+        126,
+        407,
+        446,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9725,
+      "box": [
+        125,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2011.06–2014.07",
+      "score": 0.9857,
+      "box": [
+        115,
+        472,
+        637,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9707,
+      "box": [
+        125,
+        497,
+        424,
+        519
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9866,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Safety, Riverstone Ridge University, 2010",
+      "score": 0.9851,
+      "box": [
+        114,
+        631,
+        813,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.9832,
+      "box": [
+        132,
+        656,
+        577,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.9891,
+      "box": [
+        135,
+        683,
+        659,
+        706
+      ]
+    }
+  ]
+}

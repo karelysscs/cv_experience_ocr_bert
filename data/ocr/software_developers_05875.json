@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_05875",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.896,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "CHAD VO",
+      "score": 0.9249,
+      "box": [
+        115,
+        88,
+        274,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-721-831-1430 |chad.vo@example.com",
+      "score": 0.9812,
+      "box": [
+        116,
+        150,
+        614,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2020.03–2023.01",
+      "score": 0.986,
+      "box": [
+        115,
+        289,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9894,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2017.04–2020.03",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        685,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9926,
+      "box": [
+        126,
+        406,
+        359,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9877,
+      "box": [
+        126,
+        430,
+        437,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2014.05–2017.04",
+      "score": 0.9803,
+      "box": [
+        115,
+        471,
+        665,
+        496
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9745,
+      "box": [
+        125,
+        496,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9837,
+      "box": [
+        126,
+        521,
+        421,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Brookfield University, 2014",
+      "score": 0.9792,
+      "box": [
+        115,
+        632,
+        456,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2012",
+      "score": 0.9849,
+      "box": [
+        115,
+        658,
+        474,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9919,
+      "box": [
+        132,
+        681,
+        559,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.9848,
+      "box": [
+        132,
+        706,
+        528,
+        732
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_05970",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.821,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "MALIK MARKS",
+      "score": 0.989,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-960-646-8542 |malik.marks@example.com",
+      "score": 0.9846,
+      "box": [
+        116,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2021.04–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        290,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9822,
+      "box": [
+        126,
+        315,
+        446,
+        339
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9789,
+      "box": [
+        126,
+        339,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2019.07–2021.04",
+      "score": 0.9898,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9759,
+      "box": [
+        125,
+        405,
+        389,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9613,
+      "box": [
+        125,
+        430,
+        355,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Pinefield University, 2021",
+      "score": 0.9793,
+      "box": [
+        116,
+        542,
+        441,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood Ridge University, 2019",
+      "score": 0.9798,
+      "box": [
+        115,
+        566,
+        550,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9895,
+      "box": [
+        132,
+        590,
+        558,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9557,
+      "box": [
+        133,
+        616,
+        531,
+        639
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_12971",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.944,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "DANIELLE KENNEDY",
+      "score": 0.9775,
+      "box": [
+        116,
+        90,
+        458,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-909-205-9939|danielle.kennedy@example.com",
+      "score": 0.9855,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2019.12–2023.01",
+      "score": 0.9873,
+      "box": [
+        115,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.977,
+      "box": [
+        127,
+        316,
+        436,
+        336
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9667,
+      "box": [
+        127,
+        340,
+        479,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2016.10–2019.12",
+      "score": 0.9813,
+      "box": [
+        114,
+        381,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9755,
+      "box": [
+        126,
+        406,
+        494,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9766,
+      "box": [
+        126,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2013.08–2016.10",
+      "score": 0.9853,
+      "box": [
+        115,
+        472,
+        690,
+        495
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9699,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9904,
+      "box": [
+        126,
+        521,
+        456,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Managerial Accounting, Ridgeway University, 2021",
+      "score": 0.983,
+      "box": [
+        115,
+        632,
+        676,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Riverhaven University, 2019",
+      "score": 0.9906,
+      "box": [
+        114,
+        656,
+        711,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.9848,
+      "box": [
+        132,
+        681,
+        669,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.985,
+      "box": [
+        135,
+        709,
+        620,
+        729
+      ]
+    }
+  ]
+}

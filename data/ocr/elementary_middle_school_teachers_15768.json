@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_15768",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "ADAMWAGNER",
+      "score": 0.998,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-340-638-6809|adam.wagner@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2020.11–2023.01",
+      "score": 0.9876,
+      "box": [
+        116,
+        290,
+        873,
+        313
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9843,
+      "box": [
+        125,
+        313,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Applied Child Studies, Horizon University, 2022",
+      "score": 0.9722,
+      "box": [
+        115,
+        449,
+        644,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Riverfield University, 2020",
+      "score": 0.9643,
+      "box": [
+        114,
+        472,
+        714,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9938,
+      "box": [
+        133,
+        499,
+        505,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9909,
+      "box": [
+        134,
+        523,
+        661,
+        548
+      ]
+    }
+  ]
+}

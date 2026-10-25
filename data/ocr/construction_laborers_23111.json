@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_23111",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.01,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "RYAN PAGE",
+      "score": 0.9592,
+      "box": [
+        115,
+        88,
+        318,
+        122
+      ]
+    },
+    {
+      "text": "LA, USA|+1-909-227-4255|ryan.page@example.com",
+      "score": 0.977,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeTrack Builders, 2019.11–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        551,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2016.09–2019.11",
+      "score": 0.9929,
+      "box": [
+        116,
+        382,
+        724,
+        404
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9682,
+      "box": [
+        125,
+        406,
+        476,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9786,
+      "box": [
+        127,
+        432,
+        467,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2013.07–2016.09",
+      "score": 0.9834,
+      "box": [
+        115,
+        472,
+        713,
+        496
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9892,
+      "box": [
+        126,
+        497,
+        449,
+        519
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9696,
+      "box": [
+        126,
+        521,
+        520,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Construction, 2008.09–2011.11",
+      "score": 0.9815,
+      "box": [
+        115,
+        564,
+        725,
+        587
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9679,
+      "box": [
+        125,
+        590,
+        358,
+        611
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9782,
+      "box": [
+        125,
+        613,
+        440,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Drafting Technology, Shady Grove University, 2001",
+      "score": 0.9831,
+      "box": [
+        115,
+        723,
+        842,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tool usage",
+      "score": 0.9913,
+      "box": [
+        131,
+        747,
+        476,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9835,
+      "box": [
+        133,
+        772,
+        676,
+        797
+      ]
+    }
+  ]
+}

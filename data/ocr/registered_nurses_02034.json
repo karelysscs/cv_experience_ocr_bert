@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_02034",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.684,
+  "mean_conf": 0.978,
+  "lines": [
+    {
+      "text": "MERVIN GREEN",
+      "score": 0.9594,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-854-488-7268|mervin.green@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2019.04–2021.12",
+      "score": 0.9712,
+      "box": [
+        116,
+        290,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9817,
+      "box": [
+        127,
+        315,
+        431,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9622,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Elmwood University, 2014",
+      "score": 0.971,
+      "box": [
+        115,
+        449,
+        624,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.9979,
+      "box": [
+        134,
+        474,
+        576,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9703,
+      "box": [
+        133,
+        498,
+        606,
+        523
+      ]
+    }
+  ]
+}

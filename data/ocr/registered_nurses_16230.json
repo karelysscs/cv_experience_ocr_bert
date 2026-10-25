@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_16230",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.912,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "TONY AHMED",
+      "score": 0.963,
+      "box": [
+        114,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-842-440-6795|tony.ahmed@example.com",
+      "score": 0.9843,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing Services, 2020.05–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9921,
+      "box": [
+        126,
+        314,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2017.09–2020.05",
+      "score": 0.9807,
+      "box": [
+        116,
+        383,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9814,
+      "box": [
+        126,
+        406,
+        540,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9879,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2015.01–2017.09",
+      "score": 0.9714,
+      "box": [
+        115,
+        471,
+        733,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9891,
+      "box": [
+        125,
+        496,
+        483,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9659,
+      "box": [
+        126,
+        521,
+        372,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Rivercrest University, 2013",
+      "score": 0.9774,
+      "box": [
+        114,
+        631,
+        673,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of infection prevention",
+      "score": 0.986,
+      "box": [
+        132,
+        656,
+        522,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9938,
+      "box": [
+        135,
+        683,
+        519,
+        707
+      ]
+    }
+  ]
+}

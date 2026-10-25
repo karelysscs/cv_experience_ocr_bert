@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_01556",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.927,
+  "mean_conf": 0.9765,
+  "lines": [
+    {
+      "text": "TROYXIONG",
+      "score": 0.9922,
+      "box": [
+        113,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-916-427-4600|troy.xiong@example.com",
+      "score": 0.9621,
+      "box": [
+        115,
+        150,
+        628,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9879,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2020.07–2023.01",
+      "score": 0.9704,
+      "box": [
+        115,
+        288,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9737,
+      "box": [
+        125,
+        313,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9903,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2018.01–2020.07",
+      "score": 0.9843,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9339,
+      "box": [
+        125,
+        405,
+        380,
+        430
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9931,
+      "box": [
+        126,
+        431,
+        450,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2015.07–2018.01",
+      "score": 0.9707,
+      "box": [
+        115,
+        472,
+        630,
+        495
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9562,
+      "box": [
+        125,
+        496,
+        437,
+        522
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9791,
+      "box": [
+        125,
+        521,
+        372,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2013.01–2015.07",
+      "score": 0.9917,
+      "box": [
+        115,
+        563,
+        681,
+        588
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9707,
+      "box": [
+        126,
+        590,
+        376,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9438,
+      "box": [
+        125,
+        613,
+        355,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Redwood University, 2014",
+      "score": 0.9797,
+      "box": [
+        115,
+        724,
+        470,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9975,
+      "box": [
+        133,
+        749,
+        540,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of compiler design",
+      "score": 0.9778,
+      "box": [
+        133,
+        772,
+        525,
+        797
+      ]
+    }
+  ]
+}

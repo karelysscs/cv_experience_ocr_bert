@@ -1,0 +1,26 @@
+Model,attribute,group,n,MAE,Mean error (pred-true),Mean true years
+Median,sex,Female,293,3.6684,-1.3575,6.8735
+Median,sex,Male,307,3.3469,-0.7647,6.2807
+Median,race,Asian/Pacific Islander,118,3.4061,-1.4239,6.9399
+Median,race,Black,37,3.4003,-1.7872,7.3033
+Median,race,White,445,3.5384,-0.8952,6.4112
+TF-IDF + Ridge,sex,Female,293,0.8495,-0.1109,6.8735
+TF-IDF + Ridge,sex,Male,307,0.7744,-0.0562,6.2807
+TF-IDF + Ridge,race,Asian/Pacific Islander,118,0.8424,-0.0936,6.9399
+TF-IDF + Ridge,race,Black,37,0.8316,-0.2636,7.3033
+TF-IDF + Ridge,race,White,445,0.8011,-0.065,6.4112
+Embeddings + Ridge,sex,Female,293,1.1684,-0.1778,6.8735
+Embeddings + Ridge,sex,Male,307,1.069,-0.0052,6.2807
+Embeddings + Ridge,race,Asian/Pacific Islander,118,0.9905,-0.1233,6.9399
+Embeddings + Ridge,race,Black,37,1.2865,-0.4204,7.3033
+Embeddings + Ridge,race,White,445,1.1372,-0.053,6.4112
+Rule-based dates (bonus),sex,Female,293,0.2853,0.0567,6.8735
+Rule-based dates (bonus),sex,Male,307,0.2378,0.0141,6.2807
+Rule-based dates (bonus),race,Asian/Pacific Islander,118,0.2955,-0.0103,6.9399
+Rule-based dates (bonus),race,Black,37,0.2373,-0.0015,7.3033
+Rule-based dates (bonus),race,White,445,0.2538,0.0499,6.4112
+Fine-tuned BERT,sex,Female,293,0.2349,0.0794,6.8735
+Fine-tuned BERT,sex,Male,307,0.2229,0.0725,6.2807
+Fine-tuned BERT,race,Asian/Pacific Islander,118,0.22,0.0763,6.9399
+Fine-tuned BERT,race,Black,37,0.184,0.0076,7.3033
+Fine-tuned BERT,race,White,445,0.2347,0.0814,6.4112

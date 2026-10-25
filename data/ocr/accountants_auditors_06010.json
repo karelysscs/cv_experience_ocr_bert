@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_06010",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.816,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "CHYNA LAWSON",
+      "score": 0.9847,
+      "box": [
+        117,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-921-337-2889 |chyna.lawson@example.com",
+      "score": 0.9894,
+      "box": [
+        117,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2021.10–2023.01",
+      "score": 0.9661,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.974,
+      "box": [
+        126,
+        314,
+        413,
+        339
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9812,
+      "box": [
+        127,
+        341,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Economics, Vista University, 2020",
+      "score": 0.9753,
+      "box": [
+        115,
+        449,
+        523,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Sunnyside University, 2018",
+      "score": 0.9813,
+      "box": [
+        115,
+        474,
+        714,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial management",
+      "score": 0.9809,
+      "box": [
+        133,
+        497,
+        585,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9868,
+      "box": [
+        135,
+        523,
+        599,
+        546
+      ]
+    }
+  ]
+}

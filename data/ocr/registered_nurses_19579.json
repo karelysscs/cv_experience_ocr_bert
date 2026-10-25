@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_19579",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.784,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "NAOMI HOOD",
+      "score": 0.9875,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-979-624-9004 |naomi.hood@example.com",
+      "score": 0.9798,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2022.11–2023.01",
+      "score": 0.9632,
+      "box": [
+        116,
+        290,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.982,
+      "box": [
+        126,
+        314,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        473,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Brookstone University, 2023",
+      "score": 0.9781,
+      "box": [
+        114,
+        447,
+        715,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9828,
+      "box": [
+        133,
+        474,
+        574,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.971,
+      "box": [
+        134,
+        499,
+        598,
+        523
+      ]
+    }
+  ]
+}

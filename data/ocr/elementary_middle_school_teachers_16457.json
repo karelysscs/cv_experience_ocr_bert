@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_16457",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "BRENDANBEIL",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        369,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA |+1-533-562-6947| brendan.beil@example.com",
+      "score": 0.9637,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2021.03–2023.01",
+      "score": 0.9725,
+      "box": [
+        116,
+        290,
+        814,
+        313
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9857,
+      "box": [
+        127,
+        315,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.985,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2016.09–2018.08",
+      "score": 0.9855,
+      "box": [
+        115,
+        381,
+        830,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9738,
+      "box": [
+        126,
+        406,
+        416,
+        431
+      ]
+    },
+    {
+      "text": "-Maintained lesson documentation",
+      "score": 0.9818,
+      "box": [
+        126,
+        432,
+        452,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Pioneer University, 2012",
+      "score": 0.9518,
+      "box": [
+        115,
+        541,
+        625,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Greenfield Ridge University, 2010",
+      "score": 0.9758,
+      "box": [
+        115,
+        566,
+        756,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9712,
+      "box": [
+        135,
+        592,
+        604,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson goal alignment",
+      "score": 0.9816,
+      "box": [
+        134,
+        616,
+        581,
+        638
+      ]
+    }
+  ]
+}

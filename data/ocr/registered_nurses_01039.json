@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_01039",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.957,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "TARA BARTON",
+      "score": 0.9826,
+      "box": [
+        114,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-385-213-5665|tara.barton@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        151,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2019.12–2023.01",
+      "score": 0.9831,
+      "box": [
+        116,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9739,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "– Managed nursing unit operations",
+      "score": 0.9754,
+      "box": [
+        127,
+        340,
+        446,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2016.11–2019.12",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9866,
+      "box": [
+        125,
+        405,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9589,
+      "box": [
+        126,
+        430,
+        529,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2013.10–2016.11",
+      "score": 0.9809,
+      "box": [
+        116,
+        473,
+        689,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9771,
+      "box": [
+        125,
+        496,
+        522,
+        522
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9753,
+      "box": [
+        126,
+        522,
+        379,
+        545
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2010.08–2013.10",
+      "score": 0.9875,
+      "box": [
+        116,
+        565,
+        706,
+        588
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9686,
+      "box": [
+        125,
+        589,
+        476,
+        614
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9874,
+      "box": [
+        126,
+        614,
+        494,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Northfield University, 2010",
+      "score": 0.9592,
+      "box": [
+        115,
+        725,
+        654,
+        748
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9639,
+      "box": [
+        132,
+        748,
+        557,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in health policy basics",
+      "score": 0.9875,
+      "box": [
+        135,
+        774,
+        570,
+        797
+      ]
+    }
+  ]
+}

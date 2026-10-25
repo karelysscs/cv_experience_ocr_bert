@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_14179",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "KAITLYN NEWTON",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-532-852-4395 |kaitlyn.newton@example.com",
+      "score": 0.9905,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.07–2023.01",
+      "score": 0.9848,
+      "box": [
+        116,
+        290,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.98,
+      "box": [
+        126,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9883,
+      "box": [
+        126,
+        339,
+        567,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2018.01–2020.07",
+      "score": 0.9898,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9815,
+      "box": [
+        126,
+        406,
+        540,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9768,
+      "box": [
+        126,
+        430,
+        381,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2015.06–2018.01",
+      "score": 0.993,
+      "box": [
+        116,
+        472,
+        724,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9785,
+      "box": [
+        124,
+        496,
+        474,
+        521
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9913,
+      "box": [
+        125,
+        521,
+        353,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Brookhaven University, 2016",
+      "score": 0.9829,
+      "box": [
+        114,
+        630,
+        637,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9792,
+      "box": [
+        133,
+        657,
+        551,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9772,
+      "box": [
+        134,
+        681,
+        578,
+        704
+      ]
+    }
+  ]
+}

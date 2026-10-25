@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_21665",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.064,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "KERRYANN FOLEY",
+      "score": 0.9832,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-823-399-3914 |kerryann.foley@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2020.04–2023.01",
+      "score": 0.9688,
+      "box": [
+        116,
+        290,
+        826,
+        313
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9733,
+      "box": [
+        125,
+        314,
+        510,
+        337
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2017.07–2020.04",
+      "score": 0.9802,
+      "box": [
+        116,
+        382,
+        873,
+        406
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9928,
+      "box": [
+        125,
+        406,
+        474,
+        431
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.966,
+      "box": [
+        127,
+        432,
+        467,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2013.10–2016.08",
+      "score": 0.9864,
+      "box": [
+        114,
+        471,
+        887,
+        496
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9744,
+      "box": [
+        126,
+        498,
+        545,
+        521
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9813,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2010.03–2013.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        564,
+        894,
+        587
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9596,
+      "box": [
+        125,
+        589,
+        399,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.986,
+      "box": [
+        126,
+        613,
+        480,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Basic Child Development, Foxwood University, 2004",
+      "score": 0.9801,
+      "box": [
+        116,
+        725,
+        690,
+        744
+      ]
+    },
+    {
+      "text": "Bachelor's, General Studies, Willowview University, 2002",
+      "score": 0.982,
+      "box": [
+        115,
+        748,
+        645,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9837,
+      "box": [
+        132,
+        772,
+        661,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.98,
+      "box": [
+        133,
+        800,
+        651,
+        820
+      ]
+    }
+  ]
+}

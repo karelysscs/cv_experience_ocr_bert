@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_17088",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.826,
+  "mean_conf": 0.9853,
+  "lines": [
+    {
+      "text": "BAILEYCROSBY",
+      "score": 0.9984,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-704-401-9279 |bailey.crosby@example.com",
+      "score": 0.9904,
+      "box": [
+        116,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2020.06–2023.01",
+      "score": 0.9807,
+      "box": [
+        115,
+        289,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9539,
+      "box": [
+        127,
+        315,
+        392,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.984,
+      "box": [
+        126,
+        339,
+        468,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2017.10–2020.06",
+      "score": 0.9836,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9726,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9897,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2015.02–2017.10",
+      "score": 0.9897,
+      "box": [
+        116,
+        473,
+        630,
+        496
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9856,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9856,
+      "box": [
+        125,
+        520,
+        442,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Pinehaven University, 2016",
+      "score": 0.9895,
+      "box": [
+        114,
+        631,
+        678,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9865,
+      "box": [
+        133,
+        658,
+        626,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9885,
+      "box": [
+        134,
+        681,
+        541,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_55754",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.947,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "GREGORIO CHEN",
+      "score": 0.9819,
+      "box": [
+        116,
+        88,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA|+1-306-568-6613|gregorio.chen@example.com",
+      "score": 0.985,
+      "box": [
+        116,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2018.09–2023.01",
+      "score": 0.9935,
+      "box": [
+        116,
+        290,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9913,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2014.05–2018.09",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9857,
+      "box": [
+        126,
+        406,
+        361,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9829,
+      "box": [
+        126,
+        431,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2010.01–2014.05",
+      "score": 0.9755,
+      "box": [
+        115,
+        471,
+        681,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9899,
+      "box": [
+        127,
+        499,
+        495,
+        519
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9563,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2005.08–2010.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        563,
+        651,
+        588
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9865,
+      "box": [
+        125,
+        588,
+        389,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9543,
+      "box": [
+        126,
+        614,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2009",
+      "score": 0.978,
+      "box": [
+        116,
+        726,
+        480,
+        745
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.956,
+      "box": [
+        132,
+        748,
+        637,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9873,
+      "box": [
+        133,
+        772,
+        506,
+        797
+      ]
+    }
+  ]
+}

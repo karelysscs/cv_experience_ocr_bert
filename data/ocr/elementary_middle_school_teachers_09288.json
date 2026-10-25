@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_09288",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "BETH NIELSEN",
+      "score": 0.9627,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-652-585-9265 |beth.nielsen@example.com",
+      "score": 0.9905,
+      "box": [
+        116,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9759,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2020.11–2023.01",
+      "score": 0.9749,
+      "box": [
+        116,
+        290,
+        863,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9865,
+      "box": [
+        126,
+        314,
+        552,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9836,
+      "box": [
+        127,
+        341,
+        570,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2018.03–2020.05",
+      "score": 0.9875,
+      "box": [
+        116,
+        382,
+        875,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9907,
+      "box": [
+        127,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9885,
+      "box": [
+        126,
+        431,
+        545,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons Academy, 2015.06–2017.08",
+      "score": 0.9921,
+      "box": [
+        115,
+        471,
+        870,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9681,
+      "box": [
+        126,
+        496,
+        493,
+        521
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9893,
+      "box": [
+        127,
+        522,
+        528,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Cedarfield University, 2008",
+      "score": 0.9686,
+      "box": [
+        114,
+        630,
+        735,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom observation methods",
+      "score": 0.9889,
+      "box": [
+        134,
+        657,
+        684,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9976,
+      "box": [
+        135,
+        681,
+        625,
+        706
+      ]
+    }
+  ]
+}

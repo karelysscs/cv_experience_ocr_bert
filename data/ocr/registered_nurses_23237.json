@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_23237",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.019,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "JESSICA JOHNSON",
+      "score": 0.9748,
+      "box": [
+        116,
+        90,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-752-403-8322 |jessica.johnson@example.com",
+      "score": 0.9639,
+      "box": [
+        116,
+        151,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2020.01–2023.01",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical risk assessments",
+      "score": 0.9758,
+      "box": [
+        127,
+        315,
+        464,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9794,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2017.01–2020.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9895,
+      "box": [
+        127,
+        407,
+        549,
+        430
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.978,
+      "box": [
+        127,
+        432,
+        454,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Care, 2014.01–2017.01",
+      "score": 0.9893,
+      "box": [
+        116,
+        472,
+        662,
+        496
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9781,
+      "box": [
+        125,
+        495,
+        370,
+        521
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9736,
+      "box": [
+        126,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Health Group, 2010.12–2014.01",
+      "score": 0.9895,
+      "box": [
+        116,
+        565,
+        707,
+        589
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.988,
+      "box": [
+        125,
+        589,
+        479,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9743,
+      "box": [
+        126,
+        614,
+        513,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Nursing, Clearstone University, 2009",
+      "score": 0.9766,
+      "box": [
+        114,
+        723,
+        717,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9556,
+      "box": [
+        132,
+        748,
+        510,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9797,
+      "box": [
+        133,
+        772,
+        562,
+        798
+      ]
+    }
+  ]
+}

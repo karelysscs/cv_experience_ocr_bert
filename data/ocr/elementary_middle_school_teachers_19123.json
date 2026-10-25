@@ -1,0 +1,133 @@
+{
+  "id": "elementary_middle_school_teachers_19123",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.938,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "AMBERSINGH",
+      "score": 0.9991,
+      "box": [
+        115,
+        88,
+        357,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-482-851-3204 |amber.singh@example.com",
+      "score": 0.9836,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, WonderWorks Academy, 2020.12–2023.01",
+      "score": 0.983,
+      "box": [
+        116,
+        290,
+        861,
+        313
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9667,
+      "box": [
+        125,
+        313,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Conducted group reading activitties",
+      "score": 0.9532,
+      "box": [
+        127,
+        340,
+        463,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Educational Foundations, Clearstone University, 2019",
+      "score": 0.9636,
+      "box": [
+        114,
+        447,
+        717,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Summit University, 2014",
+      "score": 0.9747,
+      "box": [
+        114,
+        472,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9795,
+      "box": [
+        133,
+        498,
+        592,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9689,
+      "box": [
+        135,
+        524,
+        582,
+        544
+      ]
+    },
+    {
+      "text": "• Studied principles of academic instruction",
+      "score": 0.9909,
+      "box": [
+        132,
+        547,
+        532,
+        572
+      ]
+    }
+  ]
+}

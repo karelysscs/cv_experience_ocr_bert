@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_60756",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.991,
+  "mean_conf": 0.978,
+  "lines": [
+    {
+      "text": "STEFANIE FREEMAN",
+      "score": 0.9705,
+      "box": [
+        116,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-675-563-4080|stefanie.freeman@example.com",
+      "score": 0.9849,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2020.07–2023.01",
+      "score": 0.9668,
+      "box": [
+        114,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9574,
+      "box": [
+        126,
+        313,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9777,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2017.12–2020.07",
+      "score": 0.9806,
+      "box": [
+        116,
+        382,
+        693,
+        404
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9779,
+      "box": [
+        125,
+        405,
+        494,
+        431
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9836,
+      "box": [
+        126,
+        430,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2015.05–2017.12",
+      "score": 0.9678,
+      "box": [
+        114,
+        471,
+        754,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9785,
+      "box": [
+        126,
+        496,
+        423,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9879,
+      "box": [
+        126,
+        521,
+        427,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2011.08–2014.03",
+      "score": 0.9751,
+      "box": [
+        114,
+        563,
+        681,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9746,
+      "box": [
+        124,
+        588,
+        362,
+        614
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9846,
+      "box": [
+        125,
+        613,
+        550,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Timberline University, 2007",
+      "score": 0.9751,
+      "box": [
+        114,
+        723,
+        702,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9625,
+      "box": [
+        132,
+        748,
+        593,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9954,
+      "box": [
+        134,
+        772,
+        564,
+        796
+      ]
+    }
+  ]
+}

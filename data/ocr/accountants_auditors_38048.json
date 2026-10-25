@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_38048",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.841,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "MICHAL BOND",
+      "score": 0.985,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-972-842-3719|michal.bond@example.com",
+      "score": 0.9959,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2022.10–2023.01",
+      "score": 0.9818,
+      "box": [
+        116,
+        290,
+        692,
+        310
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9622,
+      "box": [
+        125,
+        313,
+        422,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9813,
+      "box": [
+        126,
+        339,
+        384,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, International Business, Timberline University, 2020",
+      "score": 0.9827,
+      "box": [
+        114,
+        447,
+        784,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Shady Grove University, 2016",
+      "score": 0.9646,
+      "box": [
+        114,
+        472,
+        591,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence evaluation",
+      "score": 0.9782,
+      "box": [
+        133,
+        500,
+        613,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9689,
+      "box": [
+        133,
+        522,
+        557,
+        547
+      ]
+    }
+  ]
+}

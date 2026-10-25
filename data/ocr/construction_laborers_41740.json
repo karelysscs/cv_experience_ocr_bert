@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_41740",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.903,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "BRIAN HUNTER",
+      "score": 0.9606,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-786-260-7402 |brian.hunter@example.com",
+      "score": 0.9882,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongStone Builders, 2020.12–2023.01",
+      "score": 0.9907,
+      "box": [
+        115,
+        290,
+        703,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9951,
+      "box": [
+        126,
+        315,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9773,
+      "box": [
+        126,
+        339,
+        551,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2018.10–2020.12",
+      "score": 0.975,
+      "box": [
+        115,
+        381,
+        714,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9834,
+      "box": [
+        126,
+        406,
+        484,
+        430
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9435,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Stonebridge High School, 2016",
+      "score": 0.9885,
+      "box": [
+        116,
+        541,
+        874,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency procedures",
+      "score": 0.9881,
+      "box": [
+        133,
+        565,
+        555,
+        590
+      ]
+    }
+  ]
+}

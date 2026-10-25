@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_09384",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.839,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "NICOLE CHEN",
+      "score": 0.9597,
+      "box": [
+        115,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-407-682-4157|nicole.chen@example.com",
+      "score": 0.9905,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Care Services, 2020.02–2023.01",
+      "score": 0.9811,
+      "box": [
+        116,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9834,
+      "box": [
+        126,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Life Care, 2017.02–2020.02",
+      "score": 0.9875,
+      "box": [
+        116,
+        382,
+        651,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9878,
+      "box": [
+        126,
+        407,
+        411,
+        430
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.994,
+      "box": [
+        127,
+        432,
+        415,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Wildflower University, 2018",
+      "score": 0.9847,
+      "box": [
+        114,
+        539,
+        681,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9746,
+      "box": [
+        133,
+        565,
+        635,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9831,
+      "box": [
+        134,
+        590,
+        598,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18873",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.83,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "WHITNEY POOLE",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-286-944-7681 |whitney.poole@example.com",
+      "score": 0.9906,
+      "box": [
+        116,
+        152,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2019.06–2021.03",
+      "score": 0.9878,
+      "box": [
+        115,
+        289,
+        807,
+        314
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9718,
+      "box": [
+        125,
+        314,
+        460,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9788,
+      "box": [
+        126,
+        340,
+        339,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Riverbend University, 2010",
+      "score": 0.9891,
+      "box": [
+        115,
+        449,
+        777,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9836,
+      "box": [
+        132,
+        473,
+        533,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9801,
+      "box": [
+        134,
+        499,
+        608,
+        522
+      ]
+    }
+  ]
+}

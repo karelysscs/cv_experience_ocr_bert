@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_60515",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.81,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "JACOB ELLIS",
+      "score": 0.9686,
+      "box": [
+        115,
+        88,
+        340,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA|+1-487-720-2369|jacob.ellis@example.com",
+      "score": 0.9931,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2020.03–2023.01",
+      "score": 0.972,
+      "box": [
+        115,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9751,
+      "box": [
+        127,
+        315,
+        360,
+        339
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Clearwood High School, 2019",
+      "score": 0.9864,
+      "box": [
+        116,
+        449,
+        817,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9901,
+      "box": [
+        133,
+        474,
+        676,
+        497
+      ]
+    }
+  ]
+}

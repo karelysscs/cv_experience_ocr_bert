@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_03663",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.965,
+  "mean_conf": 0.986,
+  "lines": [
+    {
+      "text": "JULIA LU",
+      "score": 0.9707,
+      "box": [
+        115,
+        88,
+        270,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-909-237-6391 |julia.lu@example.com",
+      "score": 0.9846,
+      "box": [
+        116,
+        150,
+        600,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2019.12–2023.01",
+      "score": 0.9915,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9837,
+      "box": [
+        126,
+        315,
+        445,
+        339
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9779,
+      "box": [
+        127,
+        339,
+        484,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing Services, 2016.11–2019.12",
+      "score": 0.9726,
+      "box": [
+        115,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9886,
+      "box": [
+        126,
+        406,
+        501,
+        432
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9867,
+      "box": [
+        126,
+        430,
+        397,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2013.10–2016.11",
+      "score": 0.9901,
+      "box": [
+        116,
+        472,
+        661,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.993,
+      "box": [
+        125,
+        497,
+        509,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9904,
+      "box": [
+        126,
+        522,
+        522,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2009.03–2012.04",
+      "score": 0.9811,
+      "box": [
+        116,
+        565,
+        690,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9783,
+      "box": [
+        125,
+        589,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9894,
+      "box": [
+        127,
+        615,
+        474,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Cedarfield University, 2003",
+      "score": 0.9847,
+      "box": [
+        114,
+        723,
+        674,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9952,
+      "box": [
+        133,
+        749,
+        555,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.9901,
+      "box": [
+        135,
+        774,
+        575,
+        797
+      ]
+    }
+  ]
+}

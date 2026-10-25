@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_58447",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "MARY TANG",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        320,
+        121
+      ]
+    },
+    {
+      "text": "WA，USA|+1-620-226-8380|mary.tang@example.com",
+      "score": 0.9814,
+      "box": [
+        114,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2021.02–2023.01",
+      "score": 0.9895,
+      "box": [
+        116,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9807,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.972,
+      "box": [
+        126,
+        339,
+        561,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2016.03–2018.02",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        667,
+        405
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9744,
+      "box": [
+        125,
+        406,
+        382,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9642,
+      "box": [
+        126,
+        429,
+        318,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyline University, 2009",
+      "score": 0.9799,
+      "box": [
+        115,
+        541,
+        448,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9884,
+      "box": [
+        133,
+        566,
+        550,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9904,
+      "box": [
+        133,
+        590,
+        600,
+        613
+      ]
+    }
+  ]
+}

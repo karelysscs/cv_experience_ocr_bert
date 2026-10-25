@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_05507",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.951,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "SABAWOLFE",
+      "score": 0.9987,
+      "box": [
+        115,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-610-826-9236 |saba.wolfe@example.com",
+      "score": 0.9858,
+      "box": [
+        117,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLeaf Health Group, 2019.11–2023.01",
+      "score": 0.972,
+      "box": [
+        116,
+        290,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "-Directed clinical quality improvement initiatives",
+      "score": 0.9889,
+      "box": [
+        126,
+        313,
+        573,
+        339
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9862,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2016.09–2019.11",
+      "score": 0.9839,
+      "box": [
+        116,
+        382,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.981,
+      "box": [
+        125,
+        406,
+        501,
+        432
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9816,
+      "box": [
+        126,
+        431,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2013.06–2016.09",
+      "score": 0.9921,
+      "box": [
+        116,
+        472,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9815,
+      "box": [
+        126,
+        498,
+        540,
+        521
+      ]
+    },
+    {
+      "text": "-Coordinated patient discharge planning",
+      "score": 0.9892,
+      "box": [
+        125,
+        520,
+        504,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2010.03–2013.06",
+      "score": 0.9831,
+      "box": [
+        116,
+        564,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9756,
+      "box": [
+        126,
+        590,
+        437,
+        613
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9721,
+      "box": [
+        126,
+        613,
+        435,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Geriatric Care, Granite Hill University, 2010",
+      "score": 0.988,
+      "box": [
+        115,
+        723,
+        770,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9933,
+      "box": [
+        133,
+        749,
+        587,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9947,
+      "box": [
+        133,
+        772,
+        571,
+        798
+      ]
+    }
+  ]
+}

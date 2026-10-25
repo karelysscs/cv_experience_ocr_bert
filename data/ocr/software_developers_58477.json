@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58477",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.764,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "BRETTWOOD",
+      "score": 0.997,
+      "box": [
+        116,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-218-591-5772 |brett.wood@example.com",
+      "score": 0.97,
+      "box": [
+        114,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2021.12–2023.01",
+      "score": 0.9951,
+      "box": [
+        116,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9747,
+      "box": [
+        127,
+        315,
+        422,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9803,
+      "box": [
+        126,
+        338,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Driftwood University, 2022",
+      "score": 0.9821,
+      "box": [
+        114,
+        447,
+        470,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of NoSQL systems",
+      "score": 0.9775,
+      "box": [
+        132,
+        472,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in data mining basics",
+      "score": 0.9772,
+      "box": [
+        133,
+        497,
+        562,
+        523
+      ]
+    }
+  ]
+}

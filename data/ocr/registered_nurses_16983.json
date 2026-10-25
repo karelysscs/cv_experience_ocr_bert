@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_16983",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.844,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "AMANDA COSTA",
+      "score": 0.9779,
+      "box": [
+        117,
+        90,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-275-264-3921 |amanda.costa@example.com",
+      "score": 0.9928,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2020.03–2023.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9686,
+      "box": [
+        126,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2017.05–2020.03",
+      "score": 0.9937,
+      "box": [
+        116,
+        382,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.982,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9863,
+      "box": [
+        126,
+        431,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2014.06–2017.05",
+      "score": 0.9885,
+      "box": [
+        116,
+        472,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9637,
+      "box": [
+        125,
+        498,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9842,
+      "box": [
+        126,
+        521,
+        458,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Nursing, 2011.07–2014.06",
+      "score": 0.9951,
+      "box": [
+        116,
+        565,
+        651,
+        589
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9691,
+      "box": [
+        126,
+        590,
+        480,
+        613
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9717,
+      "box": [
+        127,
+        615,
+        443,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        267,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Meadowland University, 2011",
+      "score": 0.9812,
+      "box": [
+        114,
+        723,
+        632,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.987,
+      "box": [
+        132,
+        747,
+        541,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9913,
+      "box": [
+        133,
+        773,
+        518,
+        795
+      ]
+    }
+  ]
+}

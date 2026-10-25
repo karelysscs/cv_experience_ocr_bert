@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_22867",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.896,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "DANAEGREGORY",
+      "score": 0.9991,
+      "box": [
+        115,
+        88,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-801-741-3844 |danae.gregory@example.com",
+      "score": 0.974,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2019.08–2021.12",
+      "score": 0.9896,
+      "box": [
+        115,
+        289,
+        809,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9733,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.975,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2015.11–2018.04",
+      "score": 0.9852,
+      "box": [
+        115,
+        381,
+        880,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9741,
+      "box": [
+        126,
+        406,
+        417,
+        431
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9858,
+      "box": [
+        126,
+        431,
+        427,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Brookfield University, 2007",
+      "score": 0.97,
+      "box": [
+        115,
+        541,
+        668,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Pinehaven University, 2005",
+      "score": 0.9778,
+      "box": [
+        114,
+        564,
+        704,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9866,
+      "box": [
+        134,
+        590,
+        602,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9747,
+      "box": [
+        134,
+        615,
+        656,
+        641
+      ]
+    }
+  ]
+}

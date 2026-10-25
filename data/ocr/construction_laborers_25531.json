@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_25531",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "PATRICKBRANCH",
+      "score": 0.9991,
+      "box": [
+        115,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-661-693-5191 |patrick.branch@example.com",
+      "score": 0.9855,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Contractors, 2020.12–2023.01",
+      "score": 0.9816,
+      "box": [
+        114,
+        288,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9911,
+      "box": [
+        126,
+        315,
+        458,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9806,
+      "box": [
+        126,
+        338,
+        381,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2018.10–2020.12",
+      "score": 0.9966,
+      "box": [
+        116,
+        382,
+        726,
+        405
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9815,
+      "box": [
+        125,
+        406,
+        475,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9911,
+      "box": [
+        126,
+        431,
+        423,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Materials, Silverlake University, 2016",
+      "score": 0.9693,
+      "box": [
+        116,
+        541,
+        834,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic window installation",
+      "score": 0.966,
+      "box": [
+        133,
+        566,
+        619,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site layout",
+      "score": 0.9772,
+      "box": [
+        133,
+        591,
+        508,
+        614
+      ]
+    }
+  ]
+}

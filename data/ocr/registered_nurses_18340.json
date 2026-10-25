@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18340",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.906,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "LISA MOORE",
+      "score": 0.9876,
+      "box": [
+        115,
+        88,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-585-657-1047 |lisa.moore@example.com",
+      "score": 0.9736,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Care Center, 2020.12–2023.01",
+      "score": 0.9903,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9829,
+      "box": [
+        127,
+        315,
+        568,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2016.07–2018.09",
+      "score": 0.9839,
+      "box": [
+        116,
+        383,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9807,
+      "box": [
+        125,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9904,
+      "box": [
+        126,
+        430,
+        587,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2013.10–2015.12",
+      "score": 0.9804,
+      "box": [
+        115,
+        471,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.98,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9787,
+      "box": [
+        126,
+        521,
+        441,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Clearview University, 2006",
+      "score": 0.9711,
+      "box": [
+        114,
+        630,
+        671,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.978,
+      "box": [
+        132,
+        656,
+        621,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical skills practice",
+      "score": 0.9794,
+      "box": [
+        135,
+        681,
+        582,
+        706
+      ]
+    }
+  ]
+}

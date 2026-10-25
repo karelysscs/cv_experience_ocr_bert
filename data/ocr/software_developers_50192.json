@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_50192",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.875,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "TYLER CHEN",
+      "score": 0.9551,
+      "box": [
+        115,
+        90,
+        331,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-642-702-7579|tyler.chen@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2020.12–2023.01",
+      "score": 0.9848,
+      "box": [
+        114,
+        288,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9507,
+      "box": [
+        127,
+        315,
+        362,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9858,
+      "box": [
+        127,
+        340,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2018.11–2020.12",
+      "score": 0.9939,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9839,
+      "box": [
+        125,
+        405,
+        400,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9857,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2016.10–2018.11",
+      "score": 0.9826,
+      "box": [
+        115,
+        472,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9779,
+      "box": [
+        127,
+        498,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9725,
+      "box": [
+        126,
+        521,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Silverfield University, 2016",
+      "score": 0.9827,
+      "box": [
+        115,
+        632,
+        454,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Southridge University, 2014",
+      "score": 0.9613,
+      "box": [
+        115,
+        658,
+        482,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9889,
+      "box": [
+        134,
+        683,
+        605,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9828,
+      "box": [
+        132,
+        706,
+        579,
+        731
+      ]
+    }
+  ]
+}

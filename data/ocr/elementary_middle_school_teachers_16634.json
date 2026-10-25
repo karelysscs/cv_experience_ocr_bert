@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_16634",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.903,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "MARY CHANG",
+      "score": 0.9771,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-877-922-7842|mary.chang@example.com",
+      "score": 0.9857,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2020.06–2022.02",
+      "score": 0.9722,
+      "box": [
+        116,
+        290,
+        847,
+        313
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.983,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2018.01–2019.09",
+      "score": 0.984,
+      "box": [
+        115,
+        381,
+        886,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9928,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Skyline University, 2015",
+      "score": 0.9787,
+      "box": [
+        115,
+        541,
+        687,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Parkview University, 2013",
+      "score": 0.9812,
+      "box": [
+        115,
+        566,
+        687,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of group learning dynamics",
+      "score": 0.9805,
+      "box": [
+        133,
+        591,
+        606,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9926,
+      "box": [
+        133,
+        615,
+        678,
+        640
+      ]
+    }
+  ]
+}

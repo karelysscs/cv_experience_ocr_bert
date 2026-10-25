@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_43377",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "RYAN RANDALL",
+      "score": 0.9605,
+      "box": [
+        116,
+        90,
+        383,
+        120
+      ]
+    },
+    {
+      "text": "OK, USA|+1-444-294-9339|ryan.randall@example.com",
+      "score": 0.9731,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2020.09–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9703,
+      "box": [
+        125,
+        313,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9742,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2017.03–2019.8",
+      "score": 0.9934,
+      "box": [
+        115,
+        382,
+        735,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9643,
+      "box": [
+        126,
+        407,
+        426,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9872,
+      "box": [
+        125,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Clearfield High School, 1999",
+      "score": 0.9859,
+      "box": [
+        116,
+        541,
+        841,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9811,
+      "box": [
+        133,
+        565,
+        617,
+        588
+      ]
+    }
+  ]
+}

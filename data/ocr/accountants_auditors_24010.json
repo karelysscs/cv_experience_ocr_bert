@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_24010",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.939,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "ALMA THOMAS",
+      "score": 0.9532,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-754-803-7648|alma.thomas@example.com",
+      "score": 0.9935,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2020.06–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9713,
+      "box": [
+        125,
+        313,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        427,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2017.10–2020.06",
+      "score": 0.9793,
+      "box": [
+        114,
+        381,
+        745,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9738,
+      "box": [
+        125,
+        406,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9808,
+      "box": [
+        126,
+        430,
+        427,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Co., 2012.06–2015.02",
+      "score": 0.9818,
+      "box": [
+        115,
+        472,
+        695,
+        495
+      ]
+    },
+    {
+      "text": "-Maintained supporting documentation",
+      "score": 0.9767,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9722,
+      "box": [
+        126,
+        521,
+        423,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Riverhaven University, 2003",
+      "score": 0.984,
+      "box": [
+        114,
+        631,
+        721,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9841,
+      "box": [
+        133,
+        657,
+        563,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9791,
+      "box": [
+        134,
+        681,
+        511,
+        706
+      ]
+    }
+  ]
+}

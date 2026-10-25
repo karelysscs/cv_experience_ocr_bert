@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_09921",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "BLAKE NELSON",
+      "score": 0.9676,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA| +1-248-322-4667|blake.nelson@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2020.10–2023.01",
+      "score": 0.9764,
+      "box": [
+        116,
+        290,
+        826,
+        314
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9764,
+      "box": [
+        127,
+        315,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9888,
+      "box": [
+        126,
+        339,
+        543,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Minds School, 2018.07–2020.10",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        860,
+        406
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.972,
+      "box": [
+        125,
+        406,
+        411,
+        431
+      ]
+    },
+    {
+      "text": "- Designed student support plans",
+      "score": 0.9746,
+      "box": [
+        126,
+        430,
+        436,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2016.04–2018.07",
+      "score": 0.9819,
+      "box": [
+        116,
+        472,
+        806,
+        496
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.988,
+      "box": [
+        126,
+        498,
+        561,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9947,
+      "box": [
+        127,
+        522,
+        458,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Ridgeway University, 2015",
+      "score": 0.9751,
+      "box": [
+        114,
+        631,
+        709,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of classroom engagement",
+      "score": 0.9924,
+      "box": [
+        132,
+        656,
+        597,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9977,
+      "box": [
+        134,
+        681,
+        572,
+        706
+      ]
+    }
+  ]
+}

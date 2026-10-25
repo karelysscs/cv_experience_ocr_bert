@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_21787",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.764,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "KRYSTINA CARROLL",
+      "score": 0.9807,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-208-587-1910|krystina.carroll@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2020.07–2022.04",
+      "score": 0.9627,
+      "box": [
+        116,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9511,
+      "box": [
+        126,
+        314,
+        436,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        399,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Assisting, Heritage University, 2008",
+      "score": 0.988,
+      "box": [
+        116,
+        449,
+        711,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9815,
+      "box": [
+        132,
+        472,
+        606,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9777,
+      "box": [
+        133,
+        497,
+        552,
+        523
+      ]
+    }
+  ]
+}

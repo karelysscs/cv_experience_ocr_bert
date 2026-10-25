@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_09874",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.946,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "STEVECASTRO",
+      "score": 0.999,
+      "box": [
+        115,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-822-990-6309| steve.castro@example.com",
+      "score": 0.9676,
+      "box": [
+        117,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.12–2023.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        289,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9642,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9786,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2017.11–2019.12",
+      "score": 0.9755,
+      "box": [
+        114,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9793,
+      "box": [
+        126,
+        406,
+        464,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9886,
+      "box": [
+        126,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2015.03–2017.05",
+      "score": 0.9723,
+      "box": [
+        114,
+        471,
+        704,
+        496
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9738,
+      "box": [
+        126,
+        497,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9689,
+      "box": [
+        126,
+        520,
+        362,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Meadowland University, 2012",
+      "score": 0.9762,
+      "box": [
+        115,
+        632,
+        653,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Clear Spring University, 2010",
+      "score": 0.9827,
+      "box": [
+        114,
+        656,
+        732,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sustainability accounting basics",
+      "score": 0.991,
+      "box": [
+        132,
+        681,
+        670,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9785,
+      "box": [
+        132,
+        706,
+        548,
+        732
+      ]
+    }
+  ]
+}

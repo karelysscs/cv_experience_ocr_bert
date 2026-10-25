@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_37161",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.996,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "ROBERT BAKER",
+      "score": 0.9872,
+      "box": [
+        116,
+        90,
+        387,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-330-461-9485|robert.baker@example.com",
+      "score": 0.9827,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2020.02–2023.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        289,
+        713,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9905,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2017.03–2020.02",
+      "score": 0.9746,
+      "box": [
+        115,
+        381,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9861,
+      "box": [
+        125,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9766,
+      "box": [
+        126,
+        430,
+        441,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidEdge Construction, 2014.04–2017.03",
+      "score": 0.9815,
+      "box": [
+        114,
+        471,
+        726,
+        496
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9721,
+      "box": [
+        125,
+        496,
+        380,
+        521
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.963,
+      "box": [
+        126,
+        520,
+        368,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Builders, 2010.05–2013.04",
+      "score": 0.9917,
+      "box": [
+        115,
+        563,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9746,
+      "box": [
+        126,
+        589,
+        510,
+        614
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9523,
+      "box": [
+        126,
+        613,
+        424,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Highland University, 2004",
+      "score": 0.9881,
+      "box": [
+        115,
+        723,
+        764,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9726,
+      "box": [
+        132,
+        748,
+        620,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9817,
+      "box": [
+        135,
+        775,
+        588,
+        795
+      ]
+    }
+  ]
+}

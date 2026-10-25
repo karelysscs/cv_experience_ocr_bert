@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_46842",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.844,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "FREDERICK PAUL",
+      "score": 0.9809,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-729-459-4593 |frederick.paul@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2020.02–2023.01",
+      "score": 0.9798,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9854,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9913,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2017.02–2020.02",
+      "score": 0.9979,
+      "box": [
+        116,
+        382,
+        629,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9701,
+      "box": [
+        125,
+        406,
+        495,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9768,
+      "box": [
+        126,
+        430,
+        628,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Briar Ridge University, 2016",
+      "score": 0.9814,
+      "box": [
+        115,
+        541,
+        468,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Ridgeway University, 2014",
+      "score": 0.9787,
+      "box": [
+        115,
+        566,
+        473,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.962,
+      "box": [
+        132,
+        590,
+        598,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9919,
+      "box": [
+        133,
+        615,
+        538,
+        640
+      ]
+    }
+  ]
+}

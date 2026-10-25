@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_21497",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "SHIANN WISE",
+      "score": 0.9729,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-505-748-7366 |shiann.wise@example.com",
+      "score": 0.989,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.09–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9876,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9738,
+      "box": [
+        127,
+        339,
+        529,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2018.05–2020.09",
+      "score": 0.9816,
+      "box": [
+        116,
+        383,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.974,
+      "box": [
+        126,
+        406,
+        468,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9836,
+      "box": [
+        126,
+        431,
+        499,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Spring Nursing, 2015.12–2018.05",
+      "score": 0.9933,
+      "box": [
+        116,
+        473,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9743,
+      "box": [
+        127,
+        498,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9712,
+      "box": [
+        126,
+        521,
+        435,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Crestview University, 2014",
+      "score": 0.9696,
+      "box": [
+        114,
+        631,
+        663,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of wound care",
+      "score": 0.9898,
+      "box": [
+        132,
+        656,
+        450,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9863,
+      "box": [
+        135,
+        682,
+        674,
+        705
+      ]
+    }
+  ]
+}

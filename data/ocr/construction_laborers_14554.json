@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_14554",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.771,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "JULIAN HANCOCK",
+      "score": 0.9832,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-235-436-6816 |julian.hancock@example.com",
+      "score": 0.9588,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterWorks Construction, 2022.07–2023.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        753,
+        313
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9813,
+      "box": [
+        126,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Silverlake High School, 2023",
+      "score": 0.9861,
+      "box": [
+        116,
+        449,
+        851,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9904,
+      "box": [
+        133,
+        474,
+        530,
+        497
+      ]
+    }
+  ]
+}

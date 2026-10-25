@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_26924",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.903,
+  "mean_conf": 0.9777,
+  "lines": [
+    {
+      "text": "SARA PETERSON",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-892-856-2220| sara.peterson@example.com",
+      "score": 0.9886,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2020.07–2023.01",
+      "score": 0.977,
+      "box": [
+        114,
+        289,
+        752,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9809,
+      "box": [
+        127,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9445,
+      "box": [
+        127,
+        340,
+        500,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2018.01–2020.07",
+      "score": 0.9801,
+      "box": [
+        114,
+        381,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.987,
+      "box": [
+        127,
+        407,
+        407,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9583,
+      "box": [
+        125,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2015.07–2018.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        471,
+        757,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9934,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9647,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Forestview University, 2013",
+      "score": 0.9773,
+      "box": [
+        114,
+        631,
+        685,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9829,
+      "box": [
+        132,
+        656,
+        491,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9568,
+      "box": [
+        136,
+        682,
+        535,
+        706
+      ]
+    }
+  ]
+}

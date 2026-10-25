@@ -1,0 +1,153 @@
+{
+  "id": "registered_nurses_18613",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9861,
+  "lines": [
+    {
+      "text": "RONNITA CHAVEZ",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-443-353-9172 |ronnita.chavez@example.com",
+      "score": 0.9865,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2020.02–2023.01",
+      "score": 0.9799,
+      "box": [
+        116,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9823,
+      "box": [
+        125,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        489,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2016.02–2019.02",
+      "score": 0.991,
+      "box": [
+        116,
+        382,
+        779,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9757,
+      "box": [
+        125,
+        407,
+        410,
+        430
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9861,
+      "box": [
+        126,
+        432,
+        453,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Practical Nursing, Parkview University, 205",
+      "score": 0.9944,
+      "box": [
+        115,
+        540,
+        617,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Oakridge University, 2003",
+      "score": 0.9885,
+      "box": [
+        115,
+        566,
+        670,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9981,
+      "box": [
+        134,
+        590,
+        644,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9914,
+      "box": [
+        135,
+        616,
+        626,
+        639
+      ]
+    }
+  ]
+}

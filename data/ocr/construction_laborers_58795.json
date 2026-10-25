@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_58795",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.992,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "HALSTON SCHROEDER",
+      "score": 0.9794,
+      "box": [
+        116,
+        90,
+        501,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-451-248-6008|halston.schroeder@example.com",
+      "score": 0.9941,
+      "box": [
+        114,
+        150,
+        712,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2018.10–2023.01",
+      "score": 0.9841,
+      "box": [
+        114,
+        288,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9841,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9914,
+      "box": [
+        126,
+        339,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2014.07–2018.10",
+      "score": 0.991,
+      "box": [
+        116,
+        382,
+        680,
+        404
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9701,
+      "box": [
+        125,
+        406,
+        394,
+        431
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9867,
+      "box": [
+        126,
+        432,
+        487,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2010.03–2014.07",
+      "score": 0.9808,
+      "box": [
+        115,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9682,
+      "box": [
+        125,
+        496,
+        398,
+        521
+      ]
+    },
+    {
+      "text": "-Assembled structural frameworks",
+      "score": 0.9746,
+      "box": [
+        126,
+        522,
+        449,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2005.11–2010.3",
+      "score": 0.9792,
+      "box": [
+        114,
+        563,
+        696,
+        588
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9636,
+      "box": [
+        126,
+        590,
+        416,
+        613
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.988,
+      "box": [
+        127,
+        616,
+        371,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Springdale High School, 2006",
+      "score": 0.9882,
+      "box": [
+        116,
+        724,
+        884,
+        746
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9842,
+      "box": [
+        133,
+        749,
+        577,
+        772
+      ]
+    }
+  ]
+}

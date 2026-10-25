@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_15547",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.957,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "BREANNAGILBERT",
+      "score": 0.9994,
+      "box": [
+        117,
+        90,
+        442,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-308-968-3604 |breanna.gilbert@example.com",
+      "score": 0.9802,
+      "box": [
+        117,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2020.07–2023.01",
+      "score": 0.9914,
+      "box": [
+        115,
+        289,
+        792,
+        314
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9796,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9716,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2017.12–2020.07",
+      "score": 0.9877,
+      "box": [
+        116,
+        382,
+        899,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9799,
+      "box": [
+        126,
+        407,
+        422,
+        429
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9934,
+      "box": [
+        128,
+        433,
+        383,
+        452
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2015.05–2017.12",
+      "score": 0.9844,
+      "box": [
+        115,
+        472,
+        835,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9604,
+      "box": [
+        126,
+        497,
+        411,
+        519
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9842,
+      "box": [
+        126,
+        521,
+        411,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Riverstone Ridge University, 2018",
+      "score": 0.9791,
+      "box": [
+        114,
+        631,
+        769,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson goal alignment",
+      "score": 0.987,
+      "box": [
+        132,
+        656,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9695,
+      "box": [
+        136,
+        683,
+        604,
+        706
+      ]
+    }
+  ]
+}

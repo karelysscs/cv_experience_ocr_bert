@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_21528",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "JAMES LAMBERT",
+      "score": 0.9693,
+      "box": [
+        116,
+        90,
+        407,
+        120
+      ]
+    },
+    {
+      "text": "KS, USA|+1-911-826-8899 |james.lambert@example.com",
+      "score": 0.9874,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongEdge Builders, 2018.12–2023.01",
+      "score": 0.9839,
+      "box": [
+        114,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9857,
+      "box": [
+        127,
+        315,
+        465,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9639,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Services, 2014.11–2018.12",
+      "score": 0.9814,
+      "box": [
+        115,
+        381,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9918,
+      "box": [
+        126,
+        430,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftBuild Group, 2008.09–2012.10",
+      "score": 0.9796,
+      "box": [
+        115,
+        472,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9741,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9739,
+      "box": [
+        126,
+        522,
+        452,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Group, 203.09–2007.11",
+      "score": 0.9769,
+      "box": [
+        115,
+        563,
+        681,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9899,
+      "box": [
+        125,
+        588,
+        583,
+        614
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9793,
+      "box": [
+        126,
+        613,
+        440,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Lakeview High School, 2002",
+      "score": 0.9822,
+      "box": [
+        116,
+        725,
+        850,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9838,
+      "box": [
+        133,
+        748,
+        524,
+        770
+      ]
+    }
+  ]
+}

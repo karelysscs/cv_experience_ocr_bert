@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_02020",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.801,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "JASMINE MADDOX",
+      "score": 0.9919,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-326-210-8706 |jasmine.maddox@example.com",
+      "score": 0.9887,
+      "box": [
+        116,
+        151,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2021.08–2023.01",
+      "score": 0.9955,
+      "box": [
+        116,
+        289,
+        715,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9922,
+      "box": [
+        125,
+        314,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9625,
+      "box": [
+        126,
+        339,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Willowgate University, 2023",
+      "score": 0.9377,
+      "box": [
+        115,
+        449,
+        666,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9771,
+      "box": [
+        133,
+        474,
+        593,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in medical-surgical nursing",
+      "score": 0.9936,
+      "box": [
+        133,
+        497,
+        614,
+        523
+      ]
+    }
+  ]
+}

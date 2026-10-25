@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58934",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.79,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "KARLA DUDLEY",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-664-967-3441 |karla.dudley@example.com",
+      "score": 0.9787,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2021.07–2022.01",
+      "score": 0.992,
+      "box": [
+        115,
+        290,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9691,
+      "box": [
+        127,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9753,
+      "box": [
+        127,
+        341,
+        601,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Rockland University, 2019",
+      "score": 0.9728,
+      "box": [
+        115,
+        447,
+        612,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in server-side development",
+      "score": 0.9877,
+      "box": [
+        132,
+        472,
+        619,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.984,
+      "box": [
+        132,
+        497,
+        578,
+        523
+      ]
+    }
+  ]
+}

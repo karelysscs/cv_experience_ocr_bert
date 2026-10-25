@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22394",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.791,
+  "mean_conf": 0.9772,
+  "lines": [
+    {
+      "text": "JILLIAN MERRITT",
+      "score": 0.9796,
+      "box": [
+        116,
+        90,
+        402,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-662-520-4720 |jillian.merritt@example.com",
+      "score": 0.9505,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelINest Medical Group, 2021.06–2023.01",
+      "score": 0.9683,
+      "box": [
+        116,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9831,
+      "box": [
+        126,
+        314,
+        483,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9697,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Silver Ridge University, 2023",
+      "score": 0.9708,
+      "box": [
+        115,
+        449,
+        649,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9796,
+      "box": [
+        134,
+        475,
+        556,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9913,
+      "box": [
+        134,
+        499,
+        602,
+        522
+      ]
+    }
+  ]
+}

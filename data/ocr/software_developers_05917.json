@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_05917",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.911,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "SANTIAGO HENDRIX",
+      "score": 0.9831,
+      "box": [
+        116,
+        90,
+        453,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-830-520-6933 |santiago.hendrix@example.com",
+      "score": 0.9845,
+      "box": [
+        117,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2020.12–2023.01",
+      "score": 0.9899,
+      "box": [
+        116,
+        289,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9614,
+      "box": [
+        127,
+        315,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9812,
+      "box": [
+        126,
+        339,
+        499,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2018.11–2020.12",
+      "score": 0.9816,
+      "box": [
+        116,
+        382,
+        652,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9672,
+      "box": [
+        128,
+        408,
+        349,
+        429
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.956,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2016.10–2018.11",
+      "score": 0.9848,
+      "box": [
+        116,
+        472,
+        657,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9888,
+      "box": [
+        127,
+        498,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9692,
+      "box": [
+        126,
+        521,
+        446,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowcrest University, 2017",
+      "score": 0.9819,
+      "box": [
+        115,
+        632,
+        506,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.9915,
+      "box": [
+        133,
+        657,
+        563,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9934,
+      "box": [
+        135,
+        683,
+        713,
+        706
+      ]
+    }
+  ]
+}

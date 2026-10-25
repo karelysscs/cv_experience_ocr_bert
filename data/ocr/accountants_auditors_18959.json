@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_18959",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.905,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "LESLIE SEXTON",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-453-913-7923 |leslie.sexton@example.com",
+      "score": 0.9824,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2020.01–2023.01",
+      "score": 0.9832,
+      "box": [
+        115,
+        290,
+        697,
+        312
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9812,
+      "box": [
+        126,
+        314,
+        429,
+        339
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9859,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2017.01–2020.01",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        734,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9772,
+      "box": [
+        125,
+        405,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9814,
+      "box": [
+        126,
+        430,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2013.12–2017.01",
+      "score": 0.9697,
+      "box": [
+        115,
+        472,
+        692,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9844,
+      "box": [
+        126,
+        498,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9754,
+      "box": [
+        126,
+        521,
+        436,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Canyon View University, 2015",
+      "score": 0.9904,
+      "box": [
+        115,
+        632,
+        685,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9758,
+      "box": [
+        133,
+        657,
+        536,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in international accounting basics",
+      "score": 0.9922,
+      "box": [
+        134,
+        681,
+        674,
+        706
+      ]
+    }
+  ]
+}

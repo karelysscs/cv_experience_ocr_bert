@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_31717",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.994,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "RORY MUELLER",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-948-952-7061 |rory.mueller@example.com",
+      "score": 0.9899,
+      "box": [
+        116,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2018.04–2023.01",
+      "score": 0.9739,
+      "box": [
+        114,
+        289,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9704,
+      "box": [
+        125,
+        313,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9861,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2013.07–2018.04",
+      "score": 0.9798,
+      "box": [
+        114,
+        381,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9889,
+      "box": [
+        125,
+        405,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9749,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2008.10–2013.07",
+      "score": 0.9842,
+      "box": [
+        114,
+        471,
+        756,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9779,
+      "box": [
+        125,
+        496,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9763,
+      "box": [
+        125,
+        521,
+        425,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2004.01–2008.10",
+      "score": 0.9893,
+      "box": [
+        115,
+        565,
+        663,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.983,
+      "box": [
+        124,
+        589,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9711,
+      "box": [
+        125,
+        613,
+        490,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Applied Finance, Sagewood University, 2004",
+      "score": 0.9842,
+      "box": [
+        115,
+        724,
+        623,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Crossfield University, 202",
+      "score": 0.983,
+      "box": [
+        114,
+        747,
+        650,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement analysis",
+      "score": 0.9875,
+      "box": [
+        133,
+        774,
+        598,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9746,
+      "box": [
+        134,
+        799,
+        641,
+        822
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_23082",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.844,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "BRITAIN BUCHANAN",
+      "score": 0.9751,
+      "box": [
+        117,
+        90,
+        455,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA|+1-985-293-6847 | britain.buchanan@example.com",
+      "score": 0.9826,
+      "box": [
+        116,
+        152,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2020.04–2023.01",
+      "score": 0.9794,
+      "box": [
+        116,
+        291,
+        635,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9575,
+      "box": [
+        125,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9861,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Infrastructure, Northwood University, 2023",
+      "score": 0.9646,
+      "box": [
+        116,
+        449,
+        882,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9872,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of building permits overview",
+      "score": 0.9911,
+      "box": [
+        133,
+        499,
+        576,
+        522
+      ]
+    }
+  ]
+}

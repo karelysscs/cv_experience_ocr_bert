@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_39057",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.826,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "SARAHKENT",
+      "score": 0.9985,
+      "box": [
+        115,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "NC,USA|+1-251-887-4556|sarah.kent@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2022.01–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        289,
+        672,
+        312
+      ]
+    },
+    {
+      "text": "– Moved equipment between work zones",
+      "score": 0.9578,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9615,
+      "box": [
+        126,
+        339,
+        359,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Prairie View High School, 2022",
+      "score": 0.9762,
+      "box": [
+        116,
+        449,
+        836,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic earthmoving techniques",
+      "score": 0.9786,
+      "box": [
+        133,
+        474,
+        665,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_35835",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.849,
+  "mean_conf": 0.9853,
+  "lines": [
+    {
+      "text": "TAYLORBLAKE",
+      "score": 0.9987,
+      "box": [
+        113,
+        88,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-520-691-6667|taylor.blake@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2020.08–2023.01",
+      "score": 0.9924,
+      "box": [
+        115,
+        289,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.981,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9689,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2018.03–2020.08",
+      "score": 0.9918,
+      "box": [
+        114,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9907,
+      "box": [
+        126,
+        407,
+        546,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9789,
+      "box": [
+        126,
+        432,
+        445,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Willowcrest University, 2020",
+      "score": 0.9631,
+      "box": [
+        115,
+        541,
+        609,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Cedarfield University, 2018",
+      "score": 0.9903,
+      "box": [
+        115,
+        566,
+        563,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9871,
+      "box": [
+        133,
+        590,
+        647,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9867,
+      "box": [
+        134,
+        616,
+        493,
+        639
+      ]
+    }
+  ]
+}

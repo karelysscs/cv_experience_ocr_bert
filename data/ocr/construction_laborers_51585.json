@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_51585",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.799,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "PARKERSHAH",
+      "score": 0.9994,
+      "box": [
+        115,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-592-819-1797|parker.shah@example.com",
+      "score": 0.9733,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2022.11–2023.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        290,
+        689,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9873,
+      "box": [
+        125,
+        314,
+        498,
+        339
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9378,
+      "box": [
+        126,
+        338,
+        332,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Silver Creek High School, 2023",
+      "score": 0.9831,
+      "box": [
+        116,
+        449,
+        883,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of site safety protocols",
+      "score": 0.9836,
+      "box": [
+        133,
+        474,
+        526,
+        497
+      ]
+    }
+  ]
+}

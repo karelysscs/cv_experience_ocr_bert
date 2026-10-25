@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_47187",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.809,
+  "mean_conf": 0.978,
+  "lines": [
+    {
+      "text": "BRADEN BOYLE",
+      "score": 0.9583,
+      "box": [
+        116,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-798-247-6812 |braden.boyle@example.com",
+      "score": 0.9805,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2022.12–2023.01",
+      "score": 0.9783,
+      "box": [
+        116,
+        291,
+        675,
+        311
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9679,
+      "box": [
+        125,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9742,
+      "box": [
+        127,
+        341,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Surveying Technology, Willow Creek University, 2023",
+      "score": 0.9644,
+      "box": [
+        116,
+        449,
+        864,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9901,
+      "box": [
+        133,
+        474,
+        633,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9845,
+      "box": [
+        134,
+        499,
+        538,
+        522
+      ]
+    }
+  ]
+}

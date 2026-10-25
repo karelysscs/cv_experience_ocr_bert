@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_04806",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.927,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "DAREN KEITH",
+      "score": 0.9599,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-851-230-9599 |daren.keith@example.com",
+      "score": 0.9755,
+      "box": [
+        116,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9771,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2021.04–2023.01",
+      "score": 0.9873,
+      "box": [
+        114,
+        289,
+        878,
+        314
+      ]
+    },
+    {
+      "text": "-Developed student performance metrics",
+      "score": 0.9896,
+      "box": [
+        125,
+        314,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.97,
+      "box": [
+        127,
+        341,
+        562,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Valley School, 2019.06–2021.04",
+      "score": 0.9829,
+      "box": [
+        115,
+        381,
+        821,
+        406
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9845,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9869,
+      "box": [
+        126,
+        431,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Learning Support Studies, Pioneer University, 2023",
+      "score": 0.9756,
+      "box": [
+        114,
+        539,
+        789,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Bayside University, 2022",
+      "score": 0.9578,
+      "box": [
+        115,
+        566,
+        655,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9878,
+      "box": [
+        133,
+        590,
+        601,
+        613
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9892,
+      "box": [
+        134,
+        617,
+        581,
+        637
+      ]
+    }
+  ]
+}

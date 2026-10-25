@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_56492",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "KATHERINE VILLANUEVA",
+      "score": 0.9886,
+      "box": [
+        116,
+        90,
+        535,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-393-713-8251 |katherine.villanueva@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        724,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2020.03–2023.01",
+      "score": 0.995,
+      "box": [
+        116,
+        290,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "-Defined technical documentation standards",
+      "score": 0.9829,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9738,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2014.08–2017.07",
+      "score": 0.9966,
+      "box": [
+        116,
+        382,
+        621,
+        405
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9775,
+      "box": [
+        126,
+        406,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9763,
+      "box": [
+        127,
+        432,
+        374,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2011",
+      "score": 0.9834,
+      "box": [
+        115,
+        541,
+        476,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9771,
+      "box": [
+        132,
+        565,
+        736,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of augmented reality",
+      "score": 0.9714,
+      "box": [
+        133,
+        590,
+        507,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_35468",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.877,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "DEVIN BARNETT",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-612-673-1529|devin.barnett@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Services, 2019.12–2022.07",
+      "score": 0.9872,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9791,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9695,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2016.08–2019.03",
+      "score": 0.9852,
+      "box": [
+        116,
+        382,
+        727,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9828,
+      "box": [
+        125,
+        406,
+        498,
+        431
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.977,
+      "box": [
+        125,
+        430,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Harvest High School, 2006",
+      "score": 0.9772,
+      "box": [
+        116,
+        541,
+        881,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of dust control",
+      "score": 0.9941,
+      "box": [
+        133,
+        566,
+        450,
+        589
+      ]
+    }
+  ]
+}

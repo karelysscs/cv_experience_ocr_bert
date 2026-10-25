@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_36426",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "LAUREN HOOVER",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-275-396-7774|lauren.hoover@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2020.09–2023.01",
+      "score": 0.9808,
+      "box": [
+        114,
+        289,
+        770,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9679,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9837,
+      "box": [
+        127,
+        340,
+        521,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2018.04–2020.09",
+      "score": 0.9836,
+      "box": [
+        114,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9937,
+      "box": [
+        127,
+        408,
+        371,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9818,
+      "box": [
+        126,
+        430,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2014.01–2016.06",
+      "score": 0.9784,
+      "box": [
+        114,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9767,
+      "box": [
+        127,
+        498,
+        546,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9817,
+      "box": [
+        126,
+        521,
+        490,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Elmwood University, 2005",
+      "score": 0.971,
+      "box": [
+        114,
+        630,
+        671,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9886,
+      "box": [
+        133,
+        657,
+        566,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9795,
+      "box": [
+        135,
+        682,
+        618,
+        705
+      ]
+    }
+  ]
+}

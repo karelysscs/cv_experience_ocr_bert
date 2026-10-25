@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_19257",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.719,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "BRIANA LAMBERT",
+      "score": 0.9702,
+      "box": [
+        117,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-909-930-1081 | briana.lambert@example.com",
+      "score": 0.9834,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2021.10–2023.01",
+      "score": 0.9717,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9704,
+      "box": [
+        126,
+        314,
+        386,
+        340
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        352,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Blue Ridge University, 2022",
+      "score": 0.9909,
+      "box": [
+        115,
+        449,
+        680,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9929,
+      "box": [
+        132,
+        472,
+        569,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic communication",
+      "score": 0.9477,
+      "box": [
+        133,
+        499,
+        637,
+        522
+      ]
+    }
+  ]
+}

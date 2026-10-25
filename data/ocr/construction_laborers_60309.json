@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_60309",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.881,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "THOMAS THORNTON",
+      "score": 0.9912,
+      "box": [
+        115,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-482-289-1945|thomas.thornton@example.com",
+      "score": 0.9664,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Builders, 2020.06–2023.01",
+      "score": 0.9742,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9897,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        371,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2016.10–2019.06",
+      "score": 0.9863,
+      "box": [
+        116,
+        382,
+        658,
+        405
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9703,
+      "box": [
+        125,
+        405,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.985,
+      "box": [
+        125,
+        429,
+        402,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Track Co., 2013.03–2015.11",
+      "score": 0.9906,
+      "box": [
+        116,
+        472,
+        654,
+        495
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9705,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9676,
+      "box": [
+        126,
+        520,
+        361,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Fairmont High School, 2008",
+      "score": 0.9906,
+      "box": [
+        115,
+        631,
+        868,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9532,
+      "box": [
+        132,
+        656,
+        612,
+        681
+      ]
+    }
+  ]
+}

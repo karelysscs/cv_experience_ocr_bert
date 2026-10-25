@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_56215",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.816,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "RUDY SEXTON",
+      "score": 0.9606,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-456-456-6113 |rudy.sexton@example.com",
+      "score": 0.9825,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2020.07–2023.01",
+      "score": 0.9782,
+      "box": [
+        114,
+        289,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9787,
+      "box": [
+        125,
+        314,
+        396,
+        339
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9717,
+      "box": [
+        127,
+        340,
+        407,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonewave Software, 2015.02–2017.09",
+      "score": 0.994,
+      "box": [
+        116,
+        382,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9708,
+      "box": [
+        125,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9806,
+      "box": [
+        126,
+        432,
+        423,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Foxwood University, 2009",
+      "score": 0.9749,
+      "box": [
+        115,
+        541,
+        466,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scalability concepts",
+      "score": 0.9927,
+      "box": [
+        131,
+        564,
+        559,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software testing",
+      "score": 0.9926,
+      "box": [
+        133,
+        591,
+        525,
+        615
+      ]
+    }
+  ]
+}

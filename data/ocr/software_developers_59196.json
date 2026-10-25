@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_59196",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "VICENTE FREEMAN",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        438,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-440-339-8486|vicente.freeman@example.com",
+      "score": 0.9653,
+      "box": [
+        114,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9922,
+      "box": [
+        116,
+        243,
+        316,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2019.05–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        288,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9742,
+      "box": [
+        126,
+        314,
+        308,
+        336
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9916,
+      "box": [
+        126,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2015.09–2019.05",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9826,
+      "box": [
+        126,
+        407,
+        496,
+        430
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9925,
+      "box": [
+        126,
+        430,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2012.01–2015.09",
+      "score": 0.9876,
+      "box": [
+        115,
+        471,
+        666,
+        496
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9896,
+      "box": [
+        126,
+        498,
+        384,
+        521
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9667,
+      "box": [
+        125,
+        521,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2008.05–2012.01",
+      "score": 0.982,
+      "box": [
+        114,
+        563,
+        625,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9878,
+      "box": [
+        125,
+        589,
+        447,
+        614
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9881,
+      "box": [
+        126,
+        614,
+        501,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Pine Valley University, 206",
+      "score": 0.9903,
+      "box": [
+        115,
+        725,
+        486,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.963,
+      "box": [
+        132,
+        748,
+        557,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9807,
+      "box": [
+        133,
+        772,
+        472,
+        798
+      ]
+    }
+  ]
+}

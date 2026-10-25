@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_38274",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "JABAR FLOYD",
+      "score": 0.9858,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-381-810-7729|jabar.floyd@example.com",
+      "score": 0.9799,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2020.03–2023.01",
+      "score": 0.9679,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9845,
+      "box": [
+        126,
+        314,
+        420,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9697,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2016.09–2019.07",
+      "score": 0.9883,
+      "box": [
+        116,
+        382,
+        727,
+        405
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9912,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9838,
+      "box": [
+        126,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2012.07–2015.06",
+      "score": 0.9809,
+      "box": [
+        115,
+        471,
+        738,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9885,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9633,
+      "box": [
+        126,
+        521,
+        512,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Greenwood High School, 2008",
+      "score": 0.9722,
+      "box": [
+        115,
+        631,
+        860,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.9923,
+      "box": [
+        132,
+        656,
+        576,
+        681
+      ]
+    }
+  ]
+}

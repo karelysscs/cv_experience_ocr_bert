@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_14196",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.932,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "ERIN MCCANN",
+      "score": 0.9836,
+      "box": [
+        117,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-742-742-1195|erin.mccann@example.com",
+      "score": 0.9871,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2020.05–2023.01",
+      "score": 0.99,
+      "box": [
+        116,
+        290,
+        850,
+        314
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9753,
+      "box": [
+        126,
+        314,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9742,
+      "box": [
+        127,
+        340,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2017.09–2020.05",
+      "score": 0.9767,
+      "box": [
+        116,
+        382,
+        840,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9818,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional pacing guides",
+      "score": 0.9636,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2014.12–2017.09",
+      "score": 0.9897,
+      "box": [
+        115,
+        471,
+        807,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9859,
+      "box": [
+        126,
+        497,
+        656,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9847,
+      "box": [
+        126,
+        521,
+        479,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Skycrest University, 2014",
+      "score": 0.9769,
+      "box": [
+        115,
+        631,
+        719,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.976,
+      "box": [
+        133,
+        658,
+        533,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.994,
+      "box": [
+        135,
+        683,
+        533,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_03092",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.822,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "SUMMERROSS",
+      "score": 0.9986,
+      "box": [
+        114,
+        87,
+        371,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-451-485-6610 | summer.ross@example.com",
+      "score": 0.9749,
+      "box": [
+        117,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2021.11–2023.01",
+      "score": 0.9723,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9945,
+      "box": [
+        126,
+        315,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9753,
+      "box": [
+        127,
+        341,
+        365,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Commerce, Silverlake University, 223",
+      "score": 0.9833,
+      "box": [
+        115,
+        449,
+        566,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Westbrook University, 2023",
+      "score": 0.9741,
+      "box": [
+        115,
+        474,
+        702,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.997,
+      "box": [
+        134,
+        499,
+        565,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9806,
+      "box": [
+        133,
+        523,
+        636,
+        548
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_00380",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.826,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "TIMCONRAD",
+      "score": 0.9958,
+      "box": [
+        114,
+        88,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA|+1-454-953-5207 |tim.conrad@example.com",
+      "score": 0.9713,
+      "box": [
+        116,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2021.03–2023.01",
+      "score": 0.9867,
+      "box": [
+        116,
+        289,
+        883,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9846,
+      "box": [
+        125,
+        314,
+        411,
+        337
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9731,
+      "box": [
+        127,
+        340,
+        428,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Pebble Creek University, 220",
+      "score": 0.9804,
+      "box": [
+        115,
+        449,
+        728,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9862,
+      "box": [
+        133,
+        474,
+        600,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of academic scaffolding",
+      "score": 0.981,
+      "box": [
+        132,
+        497,
+        536,
+        523
+      ]
+    }
+  ]
+}

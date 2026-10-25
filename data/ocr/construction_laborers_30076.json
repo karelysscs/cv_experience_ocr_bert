@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_30076",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.811,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "SEANCUNNINGHAM",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        450,
+        120
+      ]
+    },
+    {
+      "text": "MO, USA |+1-903-582-5082| sean.cunningham@example.com",
+      "score": 0.9828,
+      "box": [
+        116,
+        151,
+        710,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2021.04–2022.06",
+      "score": 0.9825,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.939,
+      "box": [
+        127,
+        315,
+        332,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9903,
+      "box": [
+        127,
+        340,
+        484,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Stonecrest High School, 2004",
+      "score": 0.985,
+      "box": [
+        116,
+        449,
+        860,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of flooring installation",
+      "score": 0.9825,
+      "box": [
+        132,
+        472,
+        552,
+        496
+      ]
+    }
+  ]
+}

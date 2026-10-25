@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_58627",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.895,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "JOSUE BERNARD",
+      "score": 0.9606,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-795-696-6104|josue.bernard@example.com",
+      "score": 0.9823,
+      "box": [
+        114,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.12–2023.01",
+      "score": 0.9908,
+      "box": [
+        116,
+        290,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9639,
+      "box": [
+        126,
+        313,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2018.11–2020.12",
+      "score": 0.9755,
+      "box": [
+        116,
+        382,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9843,
+      "box": [
+        127,
+        407,
+        496,
+        431
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9917,
+      "box": [
+        127,
+        433,
+        399,
+        452
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2016.09–2018.11",
+      "score": 0.9683,
+      "box": [
+        116,
+        472,
+        652,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.98,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9705,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowland University, 2015",
+      "score": 0.9834,
+      "box": [
+        115,
+        632,
+        501,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9797,
+      "box": [
+        133,
+        657,
+        583,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9878,
+      "box": [
+        134,
+        681,
+        617,
+        707
+      ]
+    }
+  ]
+}

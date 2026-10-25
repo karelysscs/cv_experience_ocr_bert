@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_26741",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.9851,
+  "lines": [
+    {
+      "text": "STEPHEN JOSEPH",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-709-314-7490|stephen.joseph@example.com",
+      "score": 0.9928,
+      "box": [
+        116,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Builders, 2019.07–2021.07",
+      "score": 0.9875,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9786,
+      "box": [
+        126,
+        315,
+        447,
+        338
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9802,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2016.06–2018.06",
+      "score": 0.9942,
+      "box": [
+        116,
+        382,
+        678,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.977,
+      "box": [
+        125,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9843,
+      "box": [
+        126,
+        429,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Meadowridge Valley High School, 2008",
+      "score": 0.9812,
+      "box": [
+        116,
+        541,
+        906,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.987,
+      "box": [
+        132,
+        564,
+        592,
+        589
+      ]
+    }
+  ]
+}

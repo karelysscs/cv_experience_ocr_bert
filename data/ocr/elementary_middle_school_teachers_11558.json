@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_11558",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.916,
+  "mean_conf": 0.9867,
+  "lines": [
+    {
+      "text": "TINA HUANG",
+      "score": 0.9816,
+      "box": [
+        114,
+        88,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "DE,USA|+1-558-867-7111 |tina.huang@example.com",
+      "score": 0.9761,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2021.01–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        289,
+        838,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9799,
+      "box": [
+        126,
+        314,
+        497,
+        339
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9931,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2018.05–2020.05",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        851,
+        406
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9921,
+      "box": [
+        126,
+        406,
+        411,
+        431
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9845,
+      "box": [
+        126,
+        431,
+        545,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2015.04–2017.04",
+      "score": 0.9891,
+      "box": [
+        115,
+        471,
+        807,
+        496
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.986,
+      "box": [
+        126,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9891,
+      "box": [
+        126,
+        521,
+        716,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Fairmont University, 2012",
+      "score": 0.9847,
+      "box": [
+        115,
+        632,
+        663,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.987,
+      "box": [
+        133,
+        656,
+        532,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9875,
+      "box": [
+        135,
+        682,
+        602,
+        705
+      ]
+    }
+  ]
+}

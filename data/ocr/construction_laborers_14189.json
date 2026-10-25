@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_14189",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.946,
+  "mean_conf": 0.9788,
+  "lines": [
+    {
+      "text": "IZIAH CHAMBERS",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-672-326-1447 |iziah.chambers@example.com",
+      "score": 0.97,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2018.12–2023.01",
+      "score": 0.9823,
+      "box": [
+        114,
+        288,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9831,
+      "box": [
+        126,
+        314,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9795,
+      "box": [
+        126,
+        338,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2014.11–2018.12",
+      "score": 0.9948,
+      "box": [
+        116,
+        382,
+        698,
+        405
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9828,
+      "box": [
+        125,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9772,
+      "box": [
+        126,
+        432,
+        467,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Contractors, 2010.10–2014.11",
+      "score": 0.9824,
+      "box": [
+        115,
+        472,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9807,
+      "box": [
+        125,
+        496,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.9572,
+      "box": [
+        125,
+        521,
+        368,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterCraft Builders, 2006.08–2010.10",
+      "score": 0.9793,
+      "box": [
+        114,
+        563,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9858,
+      "box": [
+        124,
+        588,
+        361,
+        615
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9746,
+      "box": [
+        125,
+        612,
+        440,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Lakeside High School, 2005",
+      "score": 0.9833,
+      "box": [
+        116,
+        725,
+        847,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9556,
+      "box": [
+        132,
+        748,
+        605,
+        773
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_02162",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.928,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "JAMIE MCGEE",
+      "score": 0.9876,
+      "box": [
+        115,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-439-262-2687 |jamie.mcgee@example.com",
+      "score": 0.9682,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2019.10–2023.01",
+      "score": 0.9564,
+      "box": [
+        115,
+        289,
+        674,
+        312
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9668,
+      "box": [
+        127,
+        313,
+        452,
+        337
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9873,
+      "box": [
+        126,
+        338,
+        393,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2015.06–2018.09",
+      "score": 0.9775,
+      "box": [
+        114,
+        381,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9737,
+      "box": [
+        126,
+        407,
+        410,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9748,
+      "box": [
+        126,
+        431,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2011.02–2014.05",
+      "score": 0.9795,
+      "box": [
+        115,
+        472,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9815,
+      "box": [
+        127,
+        498,
+        436,
+        521
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9837,
+      "box": [
+        127,
+        523,
+        545,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Accounting, Goldenridge University, 2004",
+      "score": 0.9683,
+      "box": [
+        115,
+        632,
+        592,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Greenway University, 2002",
+      "score": 0.9846,
+      "box": [
+        115,
+        658,
+        788,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of financial planning",
+      "score": 0.9893,
+      "box": [
+        132,
+        681,
+        503,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9817,
+      "box": [
+        132,
+        706,
+        548,
+        732
+      ]
+    }
+  ]
+}

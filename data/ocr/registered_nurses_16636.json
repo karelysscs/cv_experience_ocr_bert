@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_16636",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9777,
+  "lines": [
+    {
+      "text": "MELISSA STEIN",
+      "score": 0.9713,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-263-501-1662|melissa.stein@example.com",
+      "score": 0.9867,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2020.01–2023.01",
+      "score": 0.9679,
+      "box": [
+        115,
+        289,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9696,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9838,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2017.01–2020.01",
+      "score": 0.9714,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9806,
+      "box": [
+        125,
+        406,
+        469,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9864,
+      "box": [
+        126,
+        431,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2012.06–2015.06",
+      "score": 0.9873,
+      "box": [
+        116,
+        473,
+        705,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9413,
+      "box": [
+        124,
+        495,
+        365,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9572,
+      "box": [
+        126,
+        521,
+        387,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Nursing, Highland University, 2007",
+      "score": 0.9898,
+      "box": [
+        114,
+        631,
+        699,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9883,
+      "box": [
+        133,
+        656,
+        625,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9791,
+      "box": [
+        133,
+        681,
+        531,
+        706
+      ]
+    }
+  ]
+}

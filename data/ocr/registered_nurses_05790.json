@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_05790",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.806,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "JONATHON SCHROEDER",
+      "score": 0.9809,
+      "box": [
+        117,
+        90,
+        527,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-455-775-5983 |jonathon.schroeder@example.com",
+      "score": 0.9844,
+      "box": [
+        117,
+        152,
+        720,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9733,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2020.06–2022.05",
+      "score": 0.9916,
+      "box": [
+        116,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9929,
+      "box": [
+        126,
+        315,
+        531,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Health, Elm Ridge University, 2013",
+      "score": 0.9854,
+      "box": [
+        116,
+        449,
+        701,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9744,
+      "box": [
+        132,
+        472,
+        625,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.987,
+      "box": [
+        134,
+        500,
+        622,
+        520
+      ]
+    }
+  ]
+}

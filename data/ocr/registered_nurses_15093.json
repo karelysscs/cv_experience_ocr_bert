@@ -1,0 +1,123 @@
+{
+  "id": "registered_nurses_15093",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.814,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "CLAUDIA HENDERSON",
+      "score": 0.9873,
+      "box": [
+        117,
+        90,
+        490,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-877-738-5463 |claudia.henderson@example.com",
+      "score": 0.9941,
+      "box": [
+        117,
+        152,
+        713,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2022.01–2023.01",
+      "score": 0.9794,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "– Monitored patient pain levels",
+      "score": 0.9571,
+      "box": [
+        125,
+        314,
+        409,
+        339
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.974,
+      "box": [
+        126,
+        339,
+        441,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Life Sciences, Greenfield University, 2023",
+      "score": 0.9802,
+      "box": [
+        115,
+        449,
+        594,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Crossfield University, 2021",
+      "score": 0.9808,
+      "box": [
+        114,
+        472,
+        669,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.9857,
+      "box": [
+        133,
+        498,
+        538,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9875,
+      "box": [
+        133,
+        523,
+        540,
+        548
+      ]
+    }
+  ]
+}

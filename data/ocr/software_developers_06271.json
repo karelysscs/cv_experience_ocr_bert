@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_06271",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.917,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "ZACHARY ESTES",
+      "score": 0.9838,
+      "box": [
+        115,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-755-571-3527 |zachary.estes@example.com",
+      "score": 0.9835,
+      "box": [
+        117,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2018.09–2023.01",
+      "score": 0.9722,
+      "box": [
+        115,
+        288,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9773,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9901,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2014.05–2018.09",
+      "score": 0.9805,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9938,
+      "box": [
+        126,
+        406,
+        450,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9886,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2010.01–2014.05",
+      "score": 0.9813,
+      "box": [
+        114,
+        471,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9666,
+      "box": [
+        126,
+        498,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9736,
+      "box": [
+        126,
+        521,
+        426,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2005.08–2010.01",
+      "score": 0.9873,
+      "box": [
+        114,
+        563,
+        636,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9578,
+      "box": [
+        125,
+        590,
+        417,
+        613
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.982,
+      "box": [
+        126,
+        613,
+        443,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Springfield University, 2005",
+      "score": 0.9837,
+      "box": [
+        115,
+        725,
+        480,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9581,
+      "box": [
+        132,
+        748,
+        553,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9831,
+      "box": [
+        133,
+        772,
+        575,
+        797
+      ]
+    }
+  ]
+}

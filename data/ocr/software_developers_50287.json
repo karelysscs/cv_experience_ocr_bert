@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_50287",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "KEVIN HUYNH",
+      "score": 0.9947,
+      "box": [
+        116,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-796-616-7755 |kevin.huynh@example.com",
+      "score": 0.986,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9893,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2019.06–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        288,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9709,
+      "box": [
+        126,
+        313,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2015.11–2019.06",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        624,
+        406
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9908,
+      "box": [
+        126,
+        405,
+        351,
+        430
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9905,
+      "box": [
+        126,
+        430,
+        449,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2012.03–2015.11",
+      "score": 0.9747,
+      "box": [
+        115,
+        471,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9859,
+      "box": [
+        125,
+        496,
+        359,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9807,
+      "box": [
+        127,
+        523,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2008.07–2012.03",
+      "score": 0.9859,
+      "box": [
+        115,
+        563,
+        625,
+        588
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.972,
+      "box": [
+        126,
+        590,
+        374,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9873,
+      "box": [
+        125,
+        613,
+        318,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Maple Ridge University, 2010",
+      "score": 0.9858,
+      "box": [
+        115,
+        725,
+        480,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Silver Ridge University, 2008",
+      "score": 0.9608,
+      "box": [
+        114,
+        747,
+        494,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9949,
+      "box": [
+        132,
+        772,
+        555,
+        796
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9659,
+      "box": [
+        133,
+        799,
+        657,
+        822
+      ]
+    }
+  ]
+}

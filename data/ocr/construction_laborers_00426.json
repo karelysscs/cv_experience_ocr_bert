@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_00426",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.785,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "JAMESON REYNOLDS",
+      "score": 0.9772,
+      "box": [
+        116,
+        90,
+        477,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-928-402-3269 |jameson.reynolds@example.com",
+      "score": 0.9786,
+      "box": [
+        116,
+        152,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2022.06–2023.01",
+      "score": 0.9803,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9761,
+      "box": [
+        125,
+        314,
+        439,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9964,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Clearbrook High School, 2022",
+      "score": 0.9798,
+      "box": [
+        116,
+        449,
+        854,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic metalwork",
+      "score": 0.9908,
+      "box": [
+        134,
+        475,
+        539,
+        495
+      ]
+    }
+  ]
+}

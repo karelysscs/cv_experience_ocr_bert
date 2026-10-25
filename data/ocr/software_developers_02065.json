@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_02065",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.774,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "JALEN HARMON",
+      "score": 0.9843,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-864-807-9551 |jalen.harmon@example.com",
+      "score": 0.9915,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2021.01–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        289,
+        634,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9893,
+      "box": [
+        127,
+        315,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9665,
+      "box": [
+        126,
+        339,
+        628,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Northway University, 2023",
+      "score": 0.9757,
+      "box": [
+        115,
+        449,
+        469,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9829,
+      "box": [
+        133,
+        473,
+        570,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of deployment pipelines",
+      "score": 0.9864,
+      "box": [
+        133,
+        497,
+        575,
+        522
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_24398",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "YESENIA BRANDT",
+      "score": 0.9872,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-912-843-7584 |yesenia.brandt@example.com",
+      "score": 0.9595,
+      "box": [
+        116,
+        151,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2020.03–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        289,
+        720,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9825,
+      "box": [
+        126,
+        313,
+        397,
+        339
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2016.10–2019.08",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        779,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9785,
+      "box": [
+        125,
+        406,
+        470,
+        431
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9884,
+      "box": [
+        126,
+        429,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing Services, 2013.06–2016.04",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9753,
+      "box": [
+        125,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9945,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Life Sciences, Pinefield University, 2004",
+      "score": 0.9727,
+      "box": [
+        114,
+        631,
+        676,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in health policy basics",
+      "score": 0.9713,
+      "box": [
+        133,
+        656,
+        570,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9625,
+      "box": [
+        133,
+        681,
+        532,
+        706
+      ]
+    }
+  ]
+}

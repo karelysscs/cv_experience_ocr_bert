@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_56751",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "JAMIE WEEKS",
+      "score": 0.9656,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-633-755-8397 |jamie.weeks@example.com",
+      "score": 0.9829,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2021.01–2022.06",
+      "score": 0.9853,
+      "box": [
+        115,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9796,
+      "box": [
+        126,
+        314,
+        417,
+        338
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.984,
+      "box": [
+        127,
+        341,
+        346,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Clearhaven University, 2009",
+      "score": 0.979,
+      "box": [
+        115,
+        449,
+        470,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestview University, 2007",
+      "score": 0.9648,
+      "box": [
+        114,
+        472,
+        483,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in SQL and data querying",
+      "score": 0.9862,
+      "box": [
+        133,
+        497,
+        604,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9956,
+      "box": [
+        135,
+        524,
+        713,
+        547
+      ]
+    }
+  ]
+}

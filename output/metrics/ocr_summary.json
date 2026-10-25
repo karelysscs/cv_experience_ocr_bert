@@ -1,0 +1,10 @@
+{
+  "n_processed": 4000,
+  "model": "PP-OCRv5_server_rec",
+  "hardware": "x86_64 | 2 CPU threads | Paddle GPU: Tesla T4",
+  "time_per_cv_s_mean": 0.895,
+  "time_per_cv_s_median": 0.892,
+  "mean_confidence": 0.9819,
+  "n_empty_output": 0,
+  "failed": []
+}

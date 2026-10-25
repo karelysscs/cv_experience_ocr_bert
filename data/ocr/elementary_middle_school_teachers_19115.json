@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_19115",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.008,
+  "mean_conf": 0.9773,
+  "lines": [
+    {
+      "text": "MARCY YU",
+      "score": 0.941,
+      "box": [
+        115,
+        88,
+        297,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-949-345-7922 |marcy.yu@example.com",
+      "score": 0.9829,
+      "box": [
+        116,
+        150,
+        614,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2020.08–2023.01",
+      "score": 0.9821,
+      "box": [
+        116,
+        290,
+        845,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9726,
+      "box": [
+        126,
+        314,
+        578,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9665,
+      "box": [
+        126,
+        339,
+        600,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2018.02–2020.08",
+      "score": 0.9695,
+      "box": [
+        115,
+        381,
+        824,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9942,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9784,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2013.09–2016.03",
+      "score": 0.979,
+      "box": [
+        115,
+        471,
+        843,
+        496
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9465,
+      "box": [
+        125,
+        496,
+        427,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9923,
+      "box": [
+        127,
+        522,
+        398,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Willowview University, 2004",
+      "score": 0.9806,
+      "box": [
+        115,
+        632,
+        711,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Crestwood University, 2002",
+      "score": 0.9636,
+      "box": [
+        115,
+        658,
+        699,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.9968,
+      "box": [
+        134,
+        683,
+        667,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9887,
+      "box": [
+        133,
+        706,
+        559,
+        731
+      ]
+    }
+  ]
+}

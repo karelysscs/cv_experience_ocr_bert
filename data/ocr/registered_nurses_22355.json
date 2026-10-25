@@ -1,0 +1,213 @@
+{
+  "id": "registered_nurses_22355",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.954,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "TINA HAHN",
+      "score": 0.9768,
+      "box": [
+        114,
+        88,
+        303,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-628-831-1756 |tina.hahn@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Care Group, 2020.06–2023.01",
+      "score": 0.9717,
+      "box": [
+        115,
+        289,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "– Managed clinical data analysis",
+      "score": 0.9522,
+      "box": [
+        127,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.987,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Care, 2017.11–2020.06",
+      "score": 0.9704,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9872,
+      "box": [
+        125,
+        405,
+        482,
+        431
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9769,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2015.03–2017.11",
+      "score": 0.992,
+      "box": [
+        116,
+        472,
+        627,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9853,
+      "box": [
+        126,
+        498,
+        489,
+        521
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9859,
+      "box": [
+        126,
+        521,
+        470,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2012.07–2015.03",
+      "score": 0.9783,
+      "box": [
+        116,
+        565,
+        674,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9958,
+      "box": [
+        126,
+        590,
+        390,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9975,
+      "box": [
+        126,
+        614,
+        483,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Health Support Services, Maplewood University, 2013",
+      "score": 0.9863,
+      "box": [
+        115,
+        725,
+        705,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Oakview University, 2011",
+      "score": 0.9733,
+      "box": [
+        114,
+        747,
+        623,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.9841,
+      "box": [
+        132,
+        772,
+        553,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of time management in care",
+      "score": 0.9926,
+      "box": [
+        133,
+        799,
+        578,
+        822
+      ]
+    }
+  ]
+}

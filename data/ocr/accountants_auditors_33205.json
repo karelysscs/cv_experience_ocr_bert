@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_33205",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "JUSTIN CHOI",
+      "score": 0.9819,
+      "box": [
+        115,
+        88,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-292-792-1824 |justin.choi@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2020.03–2023.01",
+      "score": 0.9842,
+      "box": [
+        114,
+        289,
+        726,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9711,
+      "box": [
+        125,
+        313,
+        477,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9909,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2017.05–2020.03",
+      "score": 0.9802,
+      "box": [
+        114,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9614,
+      "box": [
+        126,
+        407,
+        365,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9772,
+      "box": [
+        126,
+        430,
+        439,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Forensic Accounting, Brightwater University, 2018",
+      "score": 0.9727,
+      "box": [
+        114,
+        539,
+        669,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Sunfield University, 2016",
+      "score": 0.9796,
+      "box": [
+        115,
+        566,
+        545,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9807,
+      "box": [
+        132,
+        590,
+        574,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of inventory valuation",
+      "score": 0.9906,
+      "box": [
+        134,
+        616,
+        515,
+        639
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_26964",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.883,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "MARY BLAIR",
+      "score": 0.9843,
+      "box": [
+        115,
+        88,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA|+1-376-605-5529|mary.blair@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2020.05–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        290,
+        705,
+        312
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9672,
+      "box": [
+        125,
+        313,
+        429,
+        339
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2017.09–2020.05",
+      "score": 0.9755,
+      "box": [
+        114,
+        381,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9848,
+      "box": [
+        126,
+        406,
+        414,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.98,
+      "box": [
+        125,
+        431,
+        436,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Greenway University, 2020",
+      "score": 0.9783,
+      "box": [
+        115,
+        541,
+        598,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Stoneview University, 2018",
+      "score": 0.9874,
+      "box": [
+        114,
+        565,
+        713,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9716,
+      "box": [
+        132,
+        590,
+        530,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.9832,
+      "box": [
+        134,
+        616,
+        577,
+        638
+      ]
+    }
+  ]
+}

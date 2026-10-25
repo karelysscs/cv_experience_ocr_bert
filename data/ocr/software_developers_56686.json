@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_56686",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "MYISHA SINGH",
+      "score": 0.9597,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-444-873-7871 |myisha.singh@example.com",
+      "score": 0.9887,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9879,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2020.02–2023.01",
+      "score": 0.9874,
+      "box": [
+        116,
+        289,
+        659,
+        312
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9782,
+      "box": [
+        125,
+        314,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9707,
+      "box": [
+        128,
+        341,
+        351,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2016.05–2019.04",
+      "score": 0.9668,
+      "box": [
+        115,
+        381,
+        630,
+        406
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.977,
+      "box": [
+        126,
+        407,
+        355,
+        431
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9798,
+      "box": [
+        126,
+        432,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2012.12–2015.11",
+      "score": 0.9861,
+      "box": [
+        116,
+        472,
+        656,
+        496
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9824,
+      "box": [
+        125,
+        496,
+        562,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9748,
+      "box": [
+        126,
+        521,
+        620,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2007",
+      "score": 0.9751,
+      "box": [
+        116,
+        632,
+        503,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9851,
+      "box": [
+        132,
+        656,
+        484,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9916,
+      "box": [
+        135,
+        683,
+        616,
+        706
+      ]
+    }
+  ]
+}

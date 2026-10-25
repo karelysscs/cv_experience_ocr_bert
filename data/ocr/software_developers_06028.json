@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_06028",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.852,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "RYAN SMITH",
+      "score": 0.9859,
+      "box": [
+        116,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-298-934-5241 |ryan.smith@example.com",
+      "score": 0.9879,
+      "box": [
+        117,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2020.09–2023.01",
+      "score": 0.9967,
+      "box": [
+        116,
+        290,
+        618,
+        313
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9588,
+      "box": [
+        127,
+        315,
+        415,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        515,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2017.04–219.08",
+      "score": 0.9815,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9671,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9635,
+      "box": [
+        126,
+        430,
+        352,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Morningstar University, 2008",
+      "score": 0.9824,
+      "box": [
+        115,
+        540,
+        472,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Ridge University, 2006",
+      "score": 0.9731,
+      "box": [
+        115,
+        566,
+        499,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.993,
+      "box": [
+        133,
+        590,
+        553,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9862,
+      "box": [
+        133,
+        614,
+        682,
+        641
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_43434",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.863,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JESUS OCONNOR",
+      "score": 0.9855,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA| +1-868-384-4916|jesus.oconnor@example.com",
+      "score": 0.9878,
+      "box": [
+        116,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2019.02–2021.02",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        678,
+        313
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9749,
+      "box": [
+        125,
+        313,
+        452,
+        339
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2016.03–2018.04",
+      "score": 0.9856,
+      "box": [
+        115,
+        381,
+        656,
+        405
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9551,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9608,
+      "box": [
+        125,
+        430,
+        332,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Maintenance, Crestview University, 2004",
+      "score": 0.9846,
+      "box": [
+        115,
+        539,
+        827,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9753,
+      "box": [
+        134,
+        567,
+        524,
+        587
+      ]
+    },
+    {
+      "text": "• Completed coursework in site drainage planning",
+      "score": 0.9926,
+      "box": [
+        134,
+        590,
+        593,
+        615
+      ]
+    }
+  ]
+}

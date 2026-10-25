@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_50185",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.784,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "TYLER HALE",
+      "score": 0.9819,
+      "box": [
+        115,
+        90,
+        328,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-422-331-9456|tyler.hale@example.com",
+      "score": 0.9757,
+      "box": [
+        114,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2022.03–2023.01",
+      "score": 0.976,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9698,
+      "box": [
+        126,
+        314,
+        438,
+        337
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9801,
+      "box": [
+        126,
+        339,
+        444,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Northwood High School, 2023",
+      "score": 0.9782,
+      "box": [
+        116,
+        449,
+        853,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9729,
+      "box": [
+        132,
+        472,
+        541,
+        497
+      ]
+    }
+  ]
+}

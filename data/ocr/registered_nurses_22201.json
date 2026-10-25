@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_22201",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.903,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "HOWARD LU",
+      "score": 0.9486,
+      "box": [
+        115,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-209-433-3735 |howard.lu@example.com",
+      "score": 0.9702,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2020.07–2023.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9758,
+      "box": [
+        126,
+        314,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9809,
+      "box": [
+        127,
+        339,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2017.12–2020.07",
+      "score": 0.9753,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9872,
+      "box": [
+        126,
+        406,
+        530,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9765,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2015.05–2017.12",
+      "score": 0.981,
+      "box": [
+        115,
+        471,
+        730,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9526,
+      "box": [
+        125,
+        495,
+        384,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9961,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Timberline University, 2017",
+      "score": 0.9913,
+      "box": [
+        114,
+        631,
+        710,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9749,
+      "box": [
+        134,
+        658,
+        582,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical skills practice",
+      "score": 0.9888,
+      "box": [
+        134,
+        681,
+        582,
+        706
+      ]
+    }
+  ]
+}

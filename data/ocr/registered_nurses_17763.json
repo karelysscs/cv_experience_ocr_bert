@@ -1,0 +1,153 @@
+{
+  "id": "registered_nurses_17763",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.838,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "TIMOTHY RIVERA",
+      "score": 0.9908,
+      "box": [
+        115,
+        90,
+        404,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-391-897-6961 |timothy.rivera@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2020.05–2023.01",
+      "score": 0.9779,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Directed clinical training stadards",
+      "score": 0.9826,
+      "box": [
+        125,
+        313,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9669,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Nursing Services, 2017.08–2020.05",
+      "score": 0.9845,
+      "box": [
+        115,
+        381,
+        754,
+        406
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9853,
+      "box": [
+        125,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9813,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Biological Sciences, Willowstone University, 2016",
+      "score": 0.981,
+      "box": [
+        115,
+        541,
+        665,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Fieldview University, 2014",
+      "score": 0.9912,
+      "box": [
+        115,
+        565,
+        641,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9796,
+      "box": [
+        132,
+        590,
+        568,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of health screening",
+      "score": 0.9816,
+      "box": [
+        133,
+        615,
+        494,
+        640
+      ]
+    }
+  ]
+}

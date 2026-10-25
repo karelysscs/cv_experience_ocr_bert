@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_53176",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.755,
+  "mean_conf": 0.9853,
+  "lines": [
+    {
+      "text": "RYAN CHEN",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-964-252-1058|ryan.chen@example.com",
+      "score": 0.979,
+      "box": [
+        115,
+        150,
+        630,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2019.03–2022.03",
+      "score": 0.9903,
+      "box": [
+        116,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9681,
+      "box": [
+        126,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        403,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairmont University, 2009",
+      "score": 0.9931,
+      "box": [
+        115,
+        449,
+        464,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9755,
+      "box": [
+        132,
+        472,
+        579,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in system programming",
+      "score": 0.9922,
+      "box": [
+        133,
+        498,
+        584,
+        523
+      ]
+    }
+  ]
+}

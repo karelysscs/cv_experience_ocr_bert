@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_23707",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.807,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "DAVID HARRINGTON",
+      "score": 0.9855,
+      "box": [
+        116,
+        90,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-440-965-6501 |david.harrington@example.com",
+      "score": 0.9754,
+      "box": [
+        116,
+        152,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9797,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2022.11–2023.01",
+      "score": 0.9773,
+      "box": [
+        116,
+        291,
+        676,
+        311
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9731,
+      "box": [
+        125,
+        314,
+        419,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9846,
+      "box": [
+        126,
+        338,
+        491,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Riverbend High School, 2022",
+      "score": 0.9819,
+      "box": [
+        116,
+        449,
+        862,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9873,
+      "box": [
+        133,
+        474,
+        640,
+        497
+      ]
+    }
+  ]
+}

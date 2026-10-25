@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_27683",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.004,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "JUSTIN DUDLEY",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-784-648-4627 |justin.dudley@example.com",
+      "score": 0.9878,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2019.10–2023.01",
+      "score": 0.9861,
+      "box": [
+        114,
+        289,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9822,
+      "box": [
+        126,
+        313,
+        487,
+        337
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9673,
+      "box": [
+        127,
+        340,
+        452,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2016.07–2019.10",
+      "score": 0.9823,
+      "box": [
+        115,
+        381,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9843,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9756,
+      "box": [
+        126,
+        430,
+        531,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2013.03–2016.07",
+      "score": 0.9869,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.965,
+      "box": [
+        126,
+        498,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.989,
+      "box": [
+        127,
+        522,
+        446,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2009.11–2013.03",
+      "score": 0.9792,
+      "box": [
+        114,
+        563,
+        690,
+        588
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9823,
+      "box": [
+        125,
+        589,
+        360,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9812,
+      "box": [
+        126,
+        613,
+        426,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Fairview Ridge University, 208",
+      "score": 0.9901,
+      "box": [
+        115,
+        723,
+        861,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.962,
+      "box": [
+        132,
+        748,
+        548,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9839,
+      "box": [
+        133,
+        772,
+        564,
+        797
+      ]
+    }
+  ]
+}

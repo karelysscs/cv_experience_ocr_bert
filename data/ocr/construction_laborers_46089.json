@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_46089",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.985,
+  "mean_conf": 0.9785,
+  "lines": [
+    {
+      "text": "LUCAS KEMP",
+      "score": 0.9782,
+      "box": [
+        114,
+        88,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-920-422-3874|lucas.kemp@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        150,
+        645,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2019.11–2023.01",
+      "score": 0.9692,
+      "box": [
+        113,
+        287,
+        689,
+        315
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9688,
+      "box": [
+        127,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        446,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2016.09–2019.11",
+      "score": 0.9517,
+      "box": [
+        116,
+        382,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9848,
+      "box": [
+        125,
+        406,
+        549,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9851,
+      "box": [
+        125,
+        430,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForce Construction, 2013.07–2016.09",
+      "score": 0.9821,
+      "box": [
+        115,
+        472,
+        728,
+        496
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.983,
+      "box": [
+        125,
+        497,
+        449,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9596,
+      "box": [
+        126,
+        522,
+        374,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPath Construction, 2008.10–2012.01",
+      "score": 0.973,
+      "box": [
+        114,
+        563,
+        723,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.975,
+      "box": [
+        124,
+        588,
+        489,
+        614
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9676,
+      "box": [
+        125,
+        613,
+        447,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Highpoint High School, 1997",
+      "score": 0.9953,
+      "box": [
+        116,
+        725,
+        856,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9902,
+      "box": [
+        131,
+        747,
+        540,
+        772
+      ]
+    }
+  ]
+}

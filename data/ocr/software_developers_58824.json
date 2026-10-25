@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_58824",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.883,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "KEONTAYE FRY",
+      "score": 0.9717,
+      "box": [
+        116,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-274-518-7650|keontaye.fry@example.com",
+      "score": 0.9717,
+      "box": [
+        114,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2020.08–2023.01",
+      "score": 0.9891,
+      "box": [
+        116,
+        290,
+        620,
+        313
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9879,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9785,
+      "box": [
+        125,
+        338,
+        308,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2018.02–2020.08",
+      "score": 0.9833,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9727,
+      "box": [
+        126,
+        406,
+        438,
+        431
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9784,
+      "box": [
+        126,
+        431,
+        469,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2015.08–2018.02",
+      "score": 0.9775,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.975,
+      "box": [
+        125,
+        496,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9715,
+      "box": [
+        127,
+        523,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunnyside University, 221",
+      "score": 0.9853,
+      "box": [
+        115,
+        632,
+        478,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in clean code principles",
+      "score": 0.9664,
+      "box": [
+        132,
+        656,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9694,
+      "box": [
+        135,
+        683,
+        502,
+        703
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_15718",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.889,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "RIANA TAYLOR",
+      "score": 0.9596,
+      "box": [
+        114,
+        87,
+        371,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA|+1-617-682-6706|riana.taylor@example.com",
+      "score": 0.9656,
+      "box": [
+        116,
+        151,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2021.06–2023.01",
+      "score": 0.9853,
+      "box": [
+        114,
+        289,
+        804,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9841,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9839,
+      "box": [
+        127,
+        340,
+        503,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2019.10–2021.06",
+      "score": 0.9912,
+      "box": [
+        115,
+        381,
+        818,
+        406
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9676,
+      "box": [
+        126,
+        406,
+        370,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9913,
+      "box": [
+        125,
+        431,
+        458,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Willowbrook University, 2023",
+      "score": 0.9621,
+      "box": [
+        114,
+        539,
+        611,
+        564
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.9877,
+      "box": [
+        132,
+        564,
+        525,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9833,
+      "box": [
+        133,
+        590,
+        643,
+        615
+      ]
+    }
+  ]
+}

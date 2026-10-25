@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_19012",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.845,
+  "mean_conf": 0.9786,
+  "lines": [
+    {
+      "text": "JENNA SPARKS",
+      "score": 0.9745,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-286-355-6450 |jenna.sparks@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2020.11–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9701,
+      "box": [
+        125,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9726,
+      "box": [
+        126,
+        338,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2016.08–2018.11",
+      "score": 0.9831,
+      "box": [
+        116,
+        382,
+        668,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9734,
+      "box": [
+        125,
+        405,
+        531,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9414,
+      "box": [
+        126,
+        432,
+        410,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Bayside University, 2008",
+      "score": 0.9827,
+      "box": [
+        114,
+        539,
+        765,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in continence management",
+      "score": 0.9907,
+      "box": [
+        133,
+        565,
+        620,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.984,
+      "box": [
+        135,
+        591,
+        556,
+        614
+      ]
+    }
+  ]
+}

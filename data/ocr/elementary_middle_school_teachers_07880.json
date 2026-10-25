@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_07880",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.041,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "NICHOLEPIERCE",
+      "score": 0.998,
+      "box": [
+        114,
+        87,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-292-233-4901 |nichole.pierce@example.com",
+      "score": 0.9672,
+      "box": [
+        117,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2019.01–2023.01",
+      "score": 0.9927,
+      "box": [
+        115,
+        289,
+        858,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9733,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9587,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2015.01–2019.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        381,
+        854,
+        406
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9727,
+      "box": [
+        127,
+        407,
+        505,
+        430
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9756,
+      "box": [
+        126,
+        431,
+        512,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2010.12–2015.01",
+      "score": 0.9879,
+      "box": [
+        114,
+        471,
+        837,
+        496
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9651,
+      "box": [
+        125,
+        496,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9795,
+      "box": [
+        126,
+        522,
+        544,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2006.11–2010.12",
+      "score": 0.9895,
+      "box": [
+        116,
+        565,
+        794,
+        589
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9824,
+      "box": [
+        125,
+        589,
+        460,
+        614
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9829,
+      "box": [
+        126,
+        614,
+        570,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Elementary Education Preparation, Greenfield University, 2004",
+      "score": 0.9778,
+      "box": [
+        114,
+        723,
+        789,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Crossfield University, 2002",
+      "score": 0.975,
+      "box": [
+        114,
+        747,
+        664,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9881,
+      "box": [
+        134,
+        774,
+        632,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9753,
+      "box": [
+        133,
+        799,
+        582,
+        822
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_05968",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.036,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "MARCELLA WEEKS",
+      "score": 0.9744,
+      "box": [
+        116,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-967-726-9151 |marcella.weeks@example.com",
+      "score": 0.9849,
+      "box": [
+        117,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Horizons School, 2018.09–2023.01",
+      "score": 0.9772,
+      "box": [
+        116,
+        290,
+        853,
+        313
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9729,
+      "box": [
+        126,
+        315,
+        526,
+        338
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9577,
+      "box": [
+        126,
+        339,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2014.05–2018.09",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        874,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9767,
+      "box": [
+        126,
+        406,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9841,
+      "box": [
+        126,
+        431,
+        562,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2009.12–2014.05",
+      "score": 0.9746,
+      "box": [
+        115,
+        472,
+        856,
+        496
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.964,
+      "box": [
+        125,
+        496,
+        413,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9937,
+      "box": [
+        127,
+        522,
+        422,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2004.04–2008.09",
+      "score": 0.9763,
+      "box": [
+        116,
+        565,
+        839,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9689,
+      "box": [
+        127,
+        591,
+        493,
+        614
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9848,
+      "box": [
+        127,
+        614,
+        517,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Summit Ridge University, 2002",
+      "score": 0.9728,
+      "box": [
+        116,
+        725,
+        812,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9794,
+      "box": [
+        132,
+        747,
+        602,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading instruction",
+      "score": 0.992,
+      "box": [
+        136,
+        775,
+        559,
+        795
+      ]
+    }
+  ]
+}

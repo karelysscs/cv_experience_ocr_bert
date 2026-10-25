@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_27517",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.902,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "TOMMY FIGUEROA",
+      "score": 0.9641,
+      "box": [
+        115,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-781-848-6307|tommy.figueroa@example.com",
+      "score": 0.9958,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2020.11–2023.01",
+      "score": 0.9828,
+      "box": [
+        115,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9791,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "-Ledcross-functional coordination",
+      "score": 0.9846,
+      "box": [
+        128,
+        341,
+        447,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Contractors, 2018.08–2020.11",
+      "score": 0.9913,
+      "box": [
+        115,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9585,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9801,
+      "box": [
+        126,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Fieldstone High School, 2017",
+      "score": 0.9933,
+      "box": [
+        116,
+        541,
+        849,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.982,
+      "box": [
+        134,
+        566,
+        538,
+        589
+      ]
+    }
+  ]
+}

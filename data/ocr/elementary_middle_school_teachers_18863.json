@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18863",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.808,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "SARAHCONWAY",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-456-874-9375 |sarah.conway@example.com",
+      "score": 0.975,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2020.12–2023.01",
+      "score": 0.965,
+      "box": [
+        116,
+        290,
+        801,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9798,
+      "box": [
+        126,
+        314,
+        587,
+        337
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9834,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Ironwood University, 223",
+      "score": 0.9693,
+      "box": [
+        115,
+        449,
+        646,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9811,
+      "box": [
+        133,
+        474,
+        533,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9923,
+      "box": [
+        134,
+        499,
+        650,
+        522
+      ]
+    }
+  ]
+}

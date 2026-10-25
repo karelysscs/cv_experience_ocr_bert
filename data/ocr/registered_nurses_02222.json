@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_02222",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.964,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "JASMINE RYAN",
+      "score": 0.9915,
+      "box": [
+        116,
+        90,
+        370,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-476-248-4940 |jasmine.ryan@example.com",
+      "score": 0.9889,
+      "box": [
+        116,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9909,
+      "box": [
+        116,
+        244,
+        315,
+        268
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2019.07–2023.01",
+      "score": 0.9918,
+      "box": [
+        115,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9689,
+      "box": [
+        127,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.981,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassionate Path Medical, 2016.01–2019.07",
+      "score": 0.9818,
+      "box": [
+        116,
+        383,
+        747,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9768,
+      "box": [
+        126,
+        406,
+        481,
+        432
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9801,
+      "box": [
+        126,
+        431,
+        466,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2012.07–2016.01",
+      "score": 0.9844,
+      "box": [
+        116,
+        473,
+        672,
+        496
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9792,
+      "box": [
+        124,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9722,
+      "box": [
+        126,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2007.04–2010.10",
+      "score": 0.9843,
+      "box": [
+        116,
+        565,
+        722,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9861,
+      "box": [
+        126,
+        590,
+        436,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9761,
+      "box": [
+        126,
+        614,
+        401,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, EImwood University, 2002",
+      "score": 0.9618,
+      "box": [
+        115,
+        725,
+        609,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.9901,
+      "box": [
+        133,
+        749,
+        575,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9699,
+      "box": [
+        133,
+        772,
+        571,
+        797
+      ]
+    }
+  ]
+}

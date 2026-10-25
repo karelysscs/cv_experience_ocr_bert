@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_01923",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "KELSEY PECK",
+      "score": 0.9789,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-582-667-5233|kelsey.peck@example.com",
+      "score": 0.9923,
+      "box": [
+        116,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2021.04–2022.04",
+      "score": 0.9827,
+      "box": [
+        116,
+        290,
+        640,
+        314
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9816,
+      "box": [
+        127,
+        315,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        399,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Fairhill University, 2019",
+      "score": 0.9771,
+      "box": [
+        114,
+        447,
+        645,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9691,
+      "box": [
+        132,
+        472,
+        610,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9901,
+      "box": [
+        133,
+        498,
+        551,
+        523
+      ]
+    }
+  ]
+}

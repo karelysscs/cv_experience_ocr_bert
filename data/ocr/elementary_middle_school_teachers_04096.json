@@ -1,0 +1,223 @@
+{
+  "id": "elementary_middle_school_teachers_04096",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.041,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "ASHLEY FREDERICK",
+      "score": 0.9778,
+      "box": [
+        117,
+        90,
+        457,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-599-901-7651 |ashley.frederick@example.com",
+      "score": 0.9605,
+      "box": [
+        117,
+        152,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2019.10–2023.01",
+      "score": 0.9731,
+      "box": [
+        116,
+        290,
+        842,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9663,
+      "box": [
+        125,
+        313,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2016.07–2019.10",
+      "score": 0.9932,
+      "box": [
+        115,
+        381,
+        793,
+        406
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9846,
+      "box": [
+        127,
+        407,
+        512,
+        430
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9949,
+      "box": [
+        127,
+        432,
+        533,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2013.04–2016.07",
+      "score": 0.9795,
+      "box": [
+        114,
+        471,
+        858,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9819,
+      "box": [
+        126,
+        498,
+        413,
+        521
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9905,
+      "box": [
+        126,
+        521,
+        411,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2009.12–2013.04",
+      "score": 0.9682,
+      "box": [
+        116,
+        565,
+        877,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9771,
+      "box": [
+        126,
+        590,
+        493,
+        613
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9877,
+      "box": [
+        126,
+        614,
+        394,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Doctorate, Family and Child Studies, Clearfield University, 2010",
+      "score": 0.9843,
+      "box": [
+        115,
+        725,
+        705,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Westfield University, 2005",
+      "score": 0.9593,
+      "box": [
+        114,
+        747,
+        585,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.9788,
+      "box": [
+        132,
+        772,
+        567,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9751,
+      "box": [
+        132,
+        798,
+        737,
+        823
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.9756,
+      "box": [
+        132,
+        823,
+        526,
+        848
+      ]
+    }
+  ]
+}

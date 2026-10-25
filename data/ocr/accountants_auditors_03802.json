@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_03802",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.0,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "SARAH BEAN",
+      "score": 0.9483,
+      "box": [
+        114,
+        88,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-813-744-3044 |sarah.bean@example.com",
+      "score": 0.979,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2018.08–2023.01",
+      "score": 0.9856,
+      "box": [
+        115,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9754,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9807,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2014.03–2018.08",
+      "score": 0.9893,
+      "box": [
+        114,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9782,
+      "box": [
+        126,
+        406,
+        469,
+        431
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9808,
+      "box": [
+        126,
+        431,
+        505,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2009.10–2014.03",
+      "score": 0.9826,
+      "box": [
+        114,
+        471,
+        793,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9742,
+      "box": [
+        126,
+        497,
+        398,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9754,
+      "box": [
+        126,
+        521,
+        511,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2005.04–2009.10",
+      "score": 0.9952,
+      "box": [
+        115,
+        565,
+        712,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.973,
+      "box": [
+        125,
+        589,
+        423,
+        614
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9825,
+      "box": [
+        127,
+        615,
+        436,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Management Information Systems, Forest Ridge University, 2007",
+      "score": 0.9585,
+      "box": [
+        115,
+        725,
+        811,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Vista University, 2005",
+      "score": 0.976,
+      "box": [
+        114,
+        747,
+        632,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.993,
+      "box": [
+        134,
+        774,
+        611,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9853,
+      "box": [
+        133,
+        798,
+        536,
+        823
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_21796",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "JASON CONNER",
+      "score": 0.9777,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-344-863-5797 |jason.conner@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Health Services, 2020.11–2023.01",
+      "score": 0.9887,
+      "box": [
+        116,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9874,
+      "box": [
+        126,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9815,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2018.02–2020.04",
+      "score": 0.996,
+      "box": [
+        116,
+        382,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9852,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9717,
+      "box": [
+        125,
+        432,
+        460,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2015.02–2017.05",
+      "score": 0.978,
+      "box": [
+        115,
+        471,
+        669,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9866,
+      "box": [
+        125,
+        496,
+        483,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9845,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, EIm Ridge University, 2013",
+      "score": 0.9735,
+      "box": [
+        115,
+        632,
+        693,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9885,
+      "box": [
+        134,
+        658,
+        680,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of nursing communication",
+      "score": 0.9931,
+      "box": [
+        134,
+        682,
+        594,
+        705
+      ]
+    }
+  ]
+}

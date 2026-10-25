@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_01159",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.84,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "DERICKCOLLIER",
+      "score": 0.9957,
+      "box": [
+        115,
+        87,
+        403,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-830-539-1839|derick.collier@example.com",
+      "score": 0.9872,
+      "box": [
+        114,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2019.07–2021.05",
+      "score": 0.9605,
+      "box": [
+        114,
+        288,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9809,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2016.06–2018.04",
+      "score": 0.9925,
+      "box": [
+        116,
+        382,
+        673,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9721,
+      "box": [
+        126,
+        406,
+        418,
+        431
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9731,
+      "box": [
+        126,
+        431,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Forest Hill University, 2012",
+      "score": 0.9519,
+      "box": [
+        115,
+        541,
+        476,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9932,
+      "box": [
+        133,
+        566,
+        469,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9898,
+      "box": [
+        133,
+        590,
+        571,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "accountants_auditors_25511",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.909,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "KATHERINE CHRISTIAN",
+      "score": 0.9921,
+      "box": [
+        116,
+        90,
+        504,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-455-279-5386 |katherine.christian@example.com",
+      "score": 0.9886,
+      "box": [
+        115,
+        150,
+        713,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2020.05–2023.01",
+      "score": 0.9888,
+      "box": [
+        114,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9787,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "-Directed strategic accounting initiatives",
+      "score": 0.9799,
+      "box": [
+        126,
+        339,
+        501,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2015.12–2018.08",
+      "score": 0.9867,
+      "box": [
+        114,
+        381,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9757,
+      "box": [
+        126,
+        406,
+        371,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9848,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2012.09–2015.05",
+      "score": 0.9898,
+      "box": [
+        114,
+        471,
+        809,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9837,
+      "box": [
+        125,
+        496,
+        422,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9797,
+      "box": [
+        126,
+        521,
+        445,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Business, Lakeview High School, 2009",
+      "score": 0.9711,
+      "box": [
+        115,
+        631,
+        816,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.9884,
+      "box": [
+        132,
+        656,
+        627,
+        681
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_45774",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.828,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "DANIEL SCHMITT",
+      "score": 0.9827,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-418-597-7880 |daniel.schmitt@example.com",
+      "score": 0.9772,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2020.02–2023.01",
+      "score": 0.9881,
+      "box": [
+        115,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.981,
+      "box": [
+        126,
+        313,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2015.11–2018.11",
+      "score": 0.9812,
+      "box": [
+        115,
+        381,
+        624,
+        406
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9506,
+      "box": [
+        127,
+        407,
+        390,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9859,
+      "box": [
+        127,
+        432,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2011",
+      "score": 0.9785,
+      "box": [
+        115,
+        541,
+        468,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9933,
+      "box": [
+        133,
+        566,
+        535,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in technical writing",
+      "score": 0.9802,
+      "box": [
+        134,
+        591,
+        537,
+        615
+      ]
+    }
+  ]
+}

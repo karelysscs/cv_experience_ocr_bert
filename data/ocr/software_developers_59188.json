@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_59188",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.854,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "JENNIFER MARSH",
+      "score": 0.9699,
+      "box": [
+        116,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-990-220-9399|jennifer.marsh@example.com",
+      "score": 0.9867,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9947,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2020.07–2023.01",
+      "score": 0.9782,
+      "box": [
+        114,
+        288,
+        654,
+        314
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9712,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2015.11–2018.06",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9797,
+      "box": [
+        127,
+        408,
+        350,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.976,
+      "box": [
+        126,
+        431,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2012.06–2015.01",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        659,
+        496
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9864,
+      "box": [
+        125,
+        496,
+        389,
+        522
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9644,
+      "box": [
+        125,
+        521,
+        364,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Pinecrest University, 2005",
+      "score": 0.9904,
+      "box": [
+        115,
+        631,
+        449,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2003",
+      "score": 0.976,
+      "box": [
+        114,
+        656,
+        474,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9746,
+      "box": [
+        132,
+        680,
+        540,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in inversion of control",
+      "score": 0.9874,
+      "box": [
+        133,
+        706,
+        565,
+        730
+      ]
+    }
+  ]
+}

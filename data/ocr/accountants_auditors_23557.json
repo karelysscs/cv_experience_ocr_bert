@@ -1,0 +1,133 @@
+{
+  "id": "accountants_auditors_23557",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9863,
+  "lines": [
+    {
+      "text": "JENESA NICHOLSON",
+      "score": 0.9811,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-490-516-1496 |jenesa.nicholson@example.com",
+      "score": 0.9803,
+      "box": [
+        116,
+        151,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2021.01–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        764,
+        313
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9757,
+      "box": [
+        125,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9826,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2016.01–2018.02",
+      "score": 0.9926,
+      "box": [
+        115,
+        382,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9959,
+      "box": [
+        126,
+        407,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9829,
+      "box": [
+        125,
+        429,
+        550,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Economic Studies, Fieldstone High School, 2007",
+      "score": 0.9921,
+      "box": [
+        116,
+        541,
+        828,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9831,
+      "box": [
+        132,
+        564,
+        614,
+        588
+      ]
+    }
+  ]
+}

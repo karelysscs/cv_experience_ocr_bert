@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_19179",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.808,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JENNA ABBOTT",
+      "score": 0.9752,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-414-697-9409 |jenna.abbott@example.com",
+      "score": 0.9898,
+      "box": [
+        116,
+        152,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2018.09–2021.03",
+      "score": 0.9755,
+      "box": [
+        116,
+        290,
+        837,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained instructional logs",
+      "score": 0.9762,
+      "box": [
+        125,
+        313,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.96,
+      "box": [
+        127,
+        340,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Canyon View University, 2011",
+      "score": 0.985,
+      "box": [
+        115,
+        449,
+        691,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational measurement",
+      "score": 0.9824,
+      "box": [
+        133,
+        474,
+        631,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in phonics instruction",
+      "score": 0.9867,
+      "box": [
+        134,
+        499,
+        563,
+        522
+      ]
+    }
+  ]
+}

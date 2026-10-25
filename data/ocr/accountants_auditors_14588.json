@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_14588",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "JESSICA ANDREWS",
+      "score": 0.9864,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-889-917-6842 |jessica.andrews@example.com",
+      "score": 0.9833,
+      "box": [
+        117,
+        152,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2020.07–2023.01",
+      "score": 0.9721,
+      "box": [
+        115,
+        289,
+        719,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9751,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9624,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2018.01–2020.07",
+      "score": 0.9795,
+      "box": [
+        115,
+        381,
+        766,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9968,
+      "box": [
+        127,
+        407,
+        407,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9461,
+      "box": [
+        127,
+        432,
+        458,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2015.06–2018.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        472,
+        708,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9844,
+      "box": [
+        126,
+        499,
+        356,
+        520
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9866,
+      "box": [
+        126,
+        521,
+        419,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Silver Creek University, 2013",
+      "score": 0.9601,
+      "box": [
+        114,
+        631,
+        697,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9874,
+      "box": [
+        135,
+        659,
+        494,
+        679
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9818,
+      "box": [
+        134,
+        681,
+        506,
+        707
+      ]
+    }
+  ]
+}

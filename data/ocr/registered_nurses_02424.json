@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_02424",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.903,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "SAMANTHA GILL",
+      "score": 0.9676,
+      "box": [
+        115,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-680-423-3285|samantha.gill@example.com",
+      "score": 0.9894,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2019.11–2023.01",
+      "score": 0.9827,
+      "box": [
+        116,
+        290,
+        635,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.978,
+      "box": [
+        127,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2016.09–2019.11",
+      "score": 0.9873,
+      "box": [
+        115,
+        381,
+        728,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9439,
+      "box": [
+        127,
+        407,
+        381,
+        430
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9849,
+      "box": [
+        126,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2013.07–2016.09",
+      "score": 0.9776,
+      "box": [
+        116,
+        473,
+        722,
+        496
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.978,
+      "box": [
+        125,
+        496,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9596,
+      "box": [
+        126,
+        521,
+        470,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Pinecrest University, 2015",
+      "score": 0.9757,
+      "box": [
+        115,
+        632,
+        660,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient monitoring technologies",
+      "score": 0.9886,
+      "box": [
+        133,
+        656,
+        677,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9851,
+      "box": [
+        133,
+        681,
+        619,
+        706
+      ]
+    }
+  ]
+}

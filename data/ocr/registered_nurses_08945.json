@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_08945",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.858,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "TAYLOR TATE",
+      "score": 0.9783,
+      "box": [
+        114,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-995-209-7170 |taylor.tate@example.com",
+      "score": 0.9794,
+      "box": [
+        116,
+        150,
+        632,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Care Services, 2019.05–2020.11",
+      "score": 0.9925,
+      "box": [
+        116,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9886,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.98,
+      "box": [
+        127,
+        340,
+        539,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2017.01–2018.08",
+      "score": 0.9846,
+      "box": [
+        116,
+        382,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9869,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9486,
+      "box": [
+        126,
+        432,
+        410,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Willow Ridge University, 2016",
+      "score": 0.9863,
+      "box": [
+        114,
+        539,
+        738,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wound assessment",
+      "score": 0.9954,
+      "box": [
+        132,
+        564,
+        559,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9721,
+      "box": [
+        133,
+        591,
+        538,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_23814",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "KAITLEN BEST",
+      "score": 0.9595,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-420-886-4462 |kaitlen.best@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2020.01–223.01",
+      "score": 0.9866,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9785,
+      "box": [
+        126,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9765,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2017.01–2020.01",
+      "score": 0.9789,
+      "box": [
+        114,
+        381,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9829,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9908,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2014.01–2017.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        472,
+        708,
+        495
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9893,
+      "box": [
+        126,
+        497,
+        450,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.988,
+      "box": [
+        126,
+        521,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Data Analytics, Fieldstone University, 2016",
+      "score": 0.9855,
+      "box": [
+        115,
+        631,
+        604,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Riverstone Ridge University, 2014",
+      "score": 0.9711,
+      "box": [
+        114,
+        656,
+        636,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9876,
+      "box": [
+        133,
+        682,
+        611,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9854,
+      "box": [
+        134,
+        707,
+        647,
+        730
+      ]
+    }
+  ]
+}

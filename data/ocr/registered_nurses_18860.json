@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_18860",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.858,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "RENA OCONNOR",
+      "score": 0.9682,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-790-298-1287 |rena.oconnor@example.com",
+      "score": 0.9921,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Medical Group, 2020.06–2023.01",
+      "score": 0.9739,
+      "box": [
+        115,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9844,
+      "box": [
+        126,
+        314,
+        573,
+        339
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9901,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2016.10–2019.06",
+      "score": 0.9753,
+      "box": [
+        115,
+        381,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9968,
+      "box": [
+        126,
+        406,
+        409,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.983,
+      "box": [
+        126,
+        431,
+        465,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Nursing, Pinefield University, 2010",
+      "score": 0.9912,
+      "box": [
+        115,
+        539,
+        696,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of pharmacology",
+      "score": 0.9902,
+      "box": [
+        132,
+        565,
+        472,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9838,
+      "box": [
+        134,
+        591,
+        609,
+        614
+      ]
+    }
+  ]
+}

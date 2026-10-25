@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_61302",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.802,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "JOHN PERKINS",
+      "score": 0.9722,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-715-399-9763 |john.perkins@example.com",
+      "score": 0.9767,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2020.03–2023.01",
+      "score": 0.9744,
+      "box": [
+        115,
+        290,
+        740,
+        313
+      ]
+    },
+    {
+      "text": "-Filed financial documents",
+      "score": 0.9956,
+      "box": [
+        126,
+        314,
+        378,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9837,
+      "box": [
+        127,
+        340,
+        518,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Business Operations, Willowstone University, 2023",
+      "score": 0.9764,
+      "box": [
+        115,
+        447,
+        839,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9744,
+      "box": [
+        133,
+        472,
+        557,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of payroll systems",
+      "score": 0.983,
+      "box": [
+        133,
+        497,
+        486,
+        522
+      ]
+    }
+  ]
+}

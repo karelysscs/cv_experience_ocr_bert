@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_13766",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.025,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "RUBENWEST",
+      "score": 0.9981,
+      "box": [
+        116,
+        90,
+        344,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-668-884-3083 |ruben.west@example.com",
+      "score": 0.9763,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2019.12–2023.01",
+      "score": 0.9876,
+      "box": [
+        114,
+        289,
+        715,
+        314
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9746,
+      "box": [
+        127,
+        315,
+        451,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9816,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2016.10–2019.12",
+      "score": 0.9837,
+      "box": [
+        115,
+        382,
+        710,
+        405
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9721,
+      "box": [
+        125,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9709,
+      "box": [
+        126,
+        430,
+        524,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2013.08–2016.10",
+      "score": 0.9697,
+      "box": [
+        114,
+        471,
+        750,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9854,
+      "box": [
+        125,
+        496,
+        446,
+        521
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9567,
+      "box": [
+        126,
+        521,
+        487,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2010.06–2013.08",
+      "score": 0.9774,
+      "box": [
+        115,
+        565,
+        695,
+        588
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9554,
+      "box": [
+        126,
+        589,
+        449,
+        611
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9726,
+      "box": [
+        126,
+        614,
+        389,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Finance, Meadowway University, 2008",
+      "score": 0.993,
+      "box": [
+        115,
+        725,
+        565,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Sunfield University, 2006",
+      "score": 0.988,
+      "box": [
+        114,
+        747,
+        659,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9782,
+      "box": [
+        132,
+        772,
+        583,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in fraud examination basics",
+      "score": 0.9908,
+      "box": [
+        134,
+        800,
+        619,
+        820
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_01852",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "MEGAN MADDEN",
+      "score": 0.9646,
+      "box": [
+        116,
+        90,
+        399,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-805-285-1662|megan.madden@example.com",
+      "score": 0.9937,
+      "box": [
+        116,
+        151,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2020.06–2022.07",
+      "score": 0.9877,
+      "box": [
+        116,
+        290,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9927,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9773,
+      "box": [
+        127,
+        340,
+        548,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2017.10–2019.12",
+      "score": 0.9744,
+      "box": [
+        117,
+        384,
+        674,
+        404
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9957,
+      "box": [
+        125,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9944,
+      "box": [
+        127,
+        432,
+        416,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Brookside University, 2013",
+      "score": 0.9657,
+      "box": [
+        115,
+        540,
+        602,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9758,
+      "box": [
+        132,
+        564,
+        536,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9545,
+      "box": [
+        134,
+        591,
+        472,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_06100",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.786,
+  "mean_conf": 0.9772,
+  "lines": [
+    {
+      "text": "DANA MANN",
+      "score": 0.9447,
+      "box": [
+        116,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-907-291-1026 |dana.mann@example.com",
+      "score": 0.9736,
+      "box": [
+        116,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2020.10–2023.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        290,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.98,
+      "box": [
+        126,
+        315,
+        398,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9533,
+      "box": [
+        126,
+        339,
+        372,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Stoneview University, 2021",
+      "score": 0.9695,
+      "box": [
+        114,
+        447,
+        704,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9947,
+      "box": [
+        133,
+        474,
+        607,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9873,
+      "box": [
+        133,
+        497,
+        551,
+        523
+      ]
+    }
+  ]
+}

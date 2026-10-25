@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_20858",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.939,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "TRACYQUINTERO",
+      "score": 0.9988,
+      "box": [
+        115,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-497-345-2933 |tracy.quintero@example.com",
+      "score": 0.9808,
+      "box": [
+        116,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2020.05–2023.01",
+      "score": 0.9577,
+      "box": [
+        116,
+        290,
+        832,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9912,
+      "box": [
+        126,
+        314,
+        569,
+        339
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9694,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2017.08–2020.05",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        860,
+        406
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9919,
+      "box": [
+        126,
+        406,
+        411,
+        431
+      ]
+    },
+    {
+      "text": "- Managed instructional timelines",
+      "score": 0.98,
+      "box": [
+        126,
+        431,
+        434,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2012.02–2014.11",
+      "score": 0.9719,
+      "box": [
+        116,
+        472,
+        869,
+        496
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9697,
+      "box": [
+        126,
+        497,
+        428,
+        519
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9817,
+      "box": [
+        127,
+        523,
+        466,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Elmwood University, 2010",
+      "score": 0.9658,
+      "box": [
+        115,
+        632,
+        690,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9865,
+      "box": [
+        133,
+        657,
+        643,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9807,
+      "box": [
+        135,
+        681,
+        632,
+        706
+      ]
+    }
+  ]
+}

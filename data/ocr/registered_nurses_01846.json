@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_01846",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.971,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "KRISTEN MOON",
+      "score": 0.9901,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-870-449-3351 |kristen.moon@example.com",
+      "score": 0.9678,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Nursing, 2020.01–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        289,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9824,
+      "box": [
+        125,
+        313,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "– Managed long-term care strategies",
+      "score": 0.9667,
+      "box": [
+        127,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2017.01–2020.01",
+      "score": 0.9811,
+      "box": [
+        115,
+        381,
+        628,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9894,
+      "box": [
+        126,
+        406,
+        457,
+        430
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9942,
+      "box": [
+        126,
+        431,
+        548,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2014.01–2017.01",
+      "score": 0.9777,
+      "box": [
+        116,
+        473,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9909,
+      "box": [
+        126,
+        498,
+        478,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9734,
+      "box": [
+        126,
+        521,
+        518,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2008.09–2011.09",
+      "score": 0.969,
+      "box": [
+        116,
+        565,
+        717,
+        589
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9903,
+      "box": [
+        125,
+        589,
+        434,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9857,
+      "box": [
+        126,
+        613,
+        483,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Meadowfield University, 2003",
+      "score": 0.9724,
+      "box": [
+        114,
+        723,
+        651,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9842,
+      "box": [
+        132,
+        747,
+        536,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9867,
+      "box": [
+        134,
+        774,
+        623,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_29309",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.81,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "CURTIS JENNINGS",
+      "score": 0.9668,
+      "box": [
+        117,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-799-671-6480 |curtis.jennings@example.com",
+      "score": 0.9752,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2021.06–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        290,
+        744,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.972,
+      "box": [
+        127,
+        315,
+        440,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        493,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Riverside High School, 2022",
+      "score": 0.9905,
+      "box": [
+        116,
+        449,
+        860,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building maintenance basics",
+      "score": 0.971,
+      "box": [
+        132,
+        474,
+        651,
+        497
+      ]
+    }
+  ]
+}

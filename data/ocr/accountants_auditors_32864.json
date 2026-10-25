@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_32864",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.972,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "WAYNE PATEL",
+      "score": 0.9755,
+      "box": [
+        115,
+        90,
+        360,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-747-371-9720 |wayne.patel@example.com",
+      "score": 0.976,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2019.10–2023.01",
+      "score": 0.9882,
+      "box": [
+        114,
+        288,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9908,
+      "box": [
+        126,
+        313,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9841,
+      "box": [
+        127,
+        338,
+        453,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2016.07–2019.10",
+      "score": 0.9942,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9786,
+      "box": [
+        125,
+        406,
+        490,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9708,
+      "box": [
+        126,
+        431,
+        527,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2013.04–2016.07",
+      "score": 0.9852,
+      "box": [
+        114,
+        471,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9821,
+      "box": [
+        125,
+        497,
+        461,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9818,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2007.11–2011.02",
+      "score": 0.9744,
+      "box": [
+        115,
+        565,
+        691,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9791,
+      "box": [
+        126,
+        590,
+        431,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9647,
+      "box": [
+        126,
+        614,
+        384,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Commerce, Rosewood University, 2006",
+      "score": 0.9896,
+      "box": [
+        115,
+        725,
+        576,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Timberline University, 2004",
+      "score": 0.9945,
+      "box": [
+        115,
+        749,
+        714,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of transfer pricing",
+      "score": 0.9917,
+      "box": [
+        132,
+        772,
+        480,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.994,
+      "box": [
+        132,
+        798,
+        491,
+        823
+      ]
+    }
+  ]
+}

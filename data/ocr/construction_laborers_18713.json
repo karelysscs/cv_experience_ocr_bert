@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_18713",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.911,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "JENSEN MATTHEWS",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        453,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-980-786-5117 |jensen.matthews@example.com",
+      "score": 0.9928,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2020.05–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9718,
+      "box": [
+        125,
+        313,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        524,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2015.06–2018.03",
+      "score": 0.9962,
+      "box": [
+        116,
+        382,
+        745,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9675,
+      "box": [
+        126,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9891,
+      "box": [
+        126,
+        430,
+        423,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2012.02–2014.11",
+      "score": 0.9875,
+      "box": [
+        115,
+        472,
+        749,
+        495
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9699,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9836,
+      "box": [
+        126,
+        521,
+        489,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Technology, Clearwood University, 2004",
+      "score": 0.9537,
+      "box": [
+        116,
+        632,
+        834,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in demolition procedures",
+      "score": 0.9629,
+      "box": [
+        132,
+        656,
+        595,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of structural bracing",
+      "score": 0.9907,
+      "box": [
+        133,
+        681,
+        501,
+        706
+      ]
+    }
+  ]
+}

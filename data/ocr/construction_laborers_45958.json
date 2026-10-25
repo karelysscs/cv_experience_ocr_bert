@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_45958",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.818,
+  "mean_conf": 0.9771,
+  "lines": [
+    {
+      "text": "SALVADOR KNOX",
+      "score": 0.9651,
+      "box": [
+        115,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-775-856-1905 |salvador.knox@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2021.05–2023.01",
+      "score": 0.9784,
+      "box": [
+        115,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9587,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "– Measured and cut basic building materials",
+      "score": 0.9544,
+      "box": [
+        127,
+        340,
+        532,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Harborview High School, 2021",
+      "score": 0.9869,
+      "box": [
+        116,
+        449,
+        873,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in equipment maintenance basics",
+      "score": 0.9906,
+      "box": [
+        133,
+        474,
+        677,
+        497
+      ]
+    }
+  ]
+}

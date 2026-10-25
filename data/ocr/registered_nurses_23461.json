@@ -1,0 +1,123 @@
+{
+  "id": "registered_nurses_23461",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.837,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "SHANNON PERALTA",
+      "score": 0.9763,
+      "box": [
+        116,
+        90,
+        453,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA |+1-840-286-8472 | shannon.peralta@example.com",
+      "score": 0.9711,
+      "box": [
+        116,
+        152,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9754,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2020.03–2023.01",
+      "score": 0.982,
+      "box": [
+        116,
+        290,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9633,
+      "box": [
+        126,
+        315,
+        487,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.988,
+      "box": [
+        126,
+        338,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, Health Promotion, Riverstone Ridge University, 2018",
+      "score": 0.9838,
+      "box": [
+        114,
+        447,
+        803,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Oakway University, 2014",
+      "score": 0.9733,
+      "box": [
+        115,
+        474,
+        601,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.979,
+      "box": [
+        133,
+        498,
+        552,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in diagnostic testing basics",
+      "score": 0.9897,
+      "box": [
+        134,
+        523,
+        615,
+        546
+      ]
+    }
+  ]
+}

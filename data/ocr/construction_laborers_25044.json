@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_25044",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "JOHNATHAN ALI",
+      "score": 0.9955,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-678-635-2034 |johnathan.ali@example.com",
+      "score": 0.981,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2020.02–2023.01",
+      "score": 0.9818,
+      "box": [
+        114,
+        288,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9556,
+      "box": [
+        125,
+        314,
+        452,
+        337
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9735,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2017.02–2020.02",
+      "score": 0.982,
+      "box": [
+        115,
+        382,
+        689,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.9641,
+      "box": [
+        125,
+        406,
+        453,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9733,
+      "box": [
+        126,
+        432,
+        391,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2011.10–2014.10",
+      "score": 0.9881,
+      "box": [
+        115,
+        472,
+        636,
+        495
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9759,
+      "box": [
+        126,
+        497,
+        552,
+        519
+      ]
+    },
+    {
+      "text": "–Mixed concrete and mortar",
+      "score": 0.9759,
+      "box": [
+        126,
+        522,
+        391,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Some college (no degree), Civil Technology, Clearhaven University, 2011",
+      "score": 0.9871,
+      "box": [
+        116,
+        632,
+        795,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.9896,
+      "box": [
+        133,
+        656,
+        548,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.9982,
+      "box": [
+        134,
+        681,
+        659,
+        706
+      ]
+    }
+  ]
+}

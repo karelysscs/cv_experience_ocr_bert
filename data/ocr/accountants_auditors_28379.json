@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_28379",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.812,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "JARRED DAWSON",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-629-567-8909 |jarred.dawson@example.com",
+      "score": 0.9655,
+      "box": [
+        116,
+        152,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2021.02–2023.01",
+      "score": 0.981,
+      "box": [
+        116,
+        291,
+        675,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9799,
+      "box": [
+        126,
+        314,
+        422,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9944,
+      "box": [
+        127,
+        340,
+        402,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Elm Ridge University, 222",
+      "score": 0.9698,
+      "box": [
+        115,
+        449,
+        663,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Fieldstone University, 2020",
+      "score": 0.9849,
+      "box": [
+        115,
+        474,
+        654,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9978,
+      "box": [
+        134,
+        499,
+        526,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9807,
+      "box": [
+        135,
+        524,
+        563,
+        548
+      ]
+    }
+  ]
+}

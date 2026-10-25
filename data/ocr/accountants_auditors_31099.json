@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_31099",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "ANISACOLLIER",
+      "score": 0.997,
+      "box": [
+        115,
+        88,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA|+1-242-417-9127|anisa.collier@example.com",
+      "score": 0.9718,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2020.01–2023.01",
+      "score": 0.9892,
+      "box": [
+        114,
+        288,
+        731,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9568,
+      "box": [
+        125,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9836,
+      "box": [
+        126,
+        338,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2015.10–2018.10",
+      "score": 0.9764,
+      "box": [
+        114,
+        381,
+        691,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9892,
+      "box": [
+        125,
+        406,
+        456,
+        431
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9711,
+      "box": [
+        127,
+        432,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Forest Ridge University, 2012",
+      "score": 0.9888,
+      "box": [
+        114,
+        539,
+        672,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence evaluation",
+      "score": 0.9865,
+      "box": [
+        132,
+        564,
+        615,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.986,
+      "box": [
+        134,
+        591,
+        600,
+        614
+      ]
+    }
+  ]
+}

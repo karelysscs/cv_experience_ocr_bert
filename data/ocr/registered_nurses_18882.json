@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_18882",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.798,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "KATHERINE WARNER",
+      "score": 0.9747,
+      "box": [
+        116,
+        90,
+        471,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-385-960-7608|katherine.warner@example.com",
+      "score": 0.996,
+      "box": [
+        116,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2021.07–2021.08",
+      "score": 0.9782,
+      "box": [
+        116,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9733,
+      "box": [
+        125,
+        314,
+        409,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9797,
+      "box": [
+        126,
+        339,
+        365,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Autumn Ridge University, 2015",
+      "score": 0.986,
+      "box": [
+        115,
+        449,
+        686,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9902,
+      "box": [
+        132,
+        472,
+        631,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.9896,
+      "box": [
+        133,
+        497,
+        538,
+        523
+      ]
+    }
+  ]
+}

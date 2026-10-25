@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_08363",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.81,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "IAN SCHULTZ",
+      "score": 0.9809,
+      "box": [
+        115,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-341-708-9331 |ian.schultz@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        151,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2022.08–2023.01",
+      "score": 0.984,
+      "box": [
+        115,
+        290,
+        728,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9854,
+      "box": [
+        126,
+        315,
+        426,
+        338
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9874,
+      "box": [
+        126,
+        340,
+        406,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Larkspur High School, 2023",
+      "score": 0.9762,
+      "box": [
+        116,
+        449,
+        855,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural framing techniques",
+      "score": 0.983,
+      "box": [
+        132,
+        472,
+        647,
+        497
+      ]
+    }
+  ]
+}

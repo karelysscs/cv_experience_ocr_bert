@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_23877",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.768,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "KRISTEN GILBERT",
+      "score": 0.9714,
+      "box": [
+        116,
+        90,
+        421,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-744-307-4386 |kristen.gilbert@example.com",
+      "score": 0.9932,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2021.03–2023.01",
+      "score": 0.9657,
+      "box": [
+        115,
+        289,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9916,
+      "box": [
+        126,
+        314,
+        389,
+        338
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9819,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Oakridge University, 2021",
+      "score": 0.9736,
+      "box": [
+        115,
+        447,
+        707,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stress management in care",
+      "score": 0.9883,
+      "box": [
+        132,
+        472,
+        630,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in catheter care",
+      "score": 0.994,
+      "box": [
+        134,
+        499,
+        512,
+        522
+      ]
+    }
+  ]
+}

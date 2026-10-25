@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_26685",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.825,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "JOSHUA STRICKLAND",
+      "score": 0.9767,
+      "box": [
+        116,
+        90,
+        482,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-995-204-2693 |joshua.strickland@example.com",
+      "score": 0.981,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2022.12–2023.01",
+      "score": 0.9814,
+      "box": [
+        116,
+        291,
+        675,
+        311
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9677,
+      "box": [
+        125,
+        314,
+        402,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9849,
+      "box": [
+        128,
+        341,
+        404,
+        361
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Professional Accounting, Shady Grove University, 2023",
+      "score": 0.9827,
+      "box": [
+        115,
+        449,
+        720,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Woodcrest University, 2022",
+      "score": 0.9817,
+      "box": [
+        115,
+        474,
+        698,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9716,
+      "box": [
+        134,
+        499,
+        548,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9878,
+      "box": [
+        134,
+        523,
+        522,
+        548
+      ]
+    }
+  ]
+}

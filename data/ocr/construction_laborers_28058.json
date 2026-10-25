@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_28058",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "PHILIP BLEVINS",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-242-543-7757|philip.blevins@example.com",
+      "score": 0.9931,
+      "box": [
+        116,
+        152,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9742,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2022.02–2023.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        289,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "– Moved equipment between work zones",
+      "score": 0.9598,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9933,
+      "box": [
+        126,
+        339,
+        492,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Building Technology, Pineview Ridge University, 2023",
+      "score": 0.9839,
+      "box": [
+        116,
+        449,
+        724,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of temporary structures",
+      "score": 0.9877,
+      "box": [
+        132,
+        472,
+        571,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in drywall installation basics",
+      "score": 0.9649,
+      "box": [
+        135,
+        499,
+        623,
+        522
+      ]
+    }
+  ]
+}

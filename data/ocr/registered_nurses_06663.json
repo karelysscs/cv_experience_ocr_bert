@@ -1,0 +1,183 @@
+{
+  "id": "registered_nurses_06663",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "LATOYA YU",
+      "score": 0.9536,
+      "box": [
+        114,
+        88,
+        312,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-395-933-2002 |latoya.yu@example.com",
+      "score": 0.9687,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2020.11–2023.01",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9826,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2018.09–2020.11",
+      "score": 0.9847,
+      "box": [
+        116,
+        382,
+        688,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9852,
+      "box": [
+        126,
+        407,
+        489,
+        430
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9734,
+      "box": [
+        126,
+        430,
+        370,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelINest Medical Group, 2014.08–2016.10",
+      "score": 0.9832,
+      "box": [
+        116,
+        472,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9926,
+      "box": [
+        125,
+        496,
+        353,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9768,
+      "box": [
+        125,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Practical Nursing, Skyview University, 208",
+      "score": 0.9836,
+      "box": [
+        115,
+        632,
+        610,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Oakridge Valley University, 2006",
+      "score": 0.9792,
+      "box": [
+        114,
+        656,
+        691,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reporting",
+      "score": 0.9889,
+      "box": [
+        134,
+        683,
+        540,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9672,
+      "box": [
+        133,
+        706,
+        641,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_02569",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.819,
+  "mean_conf": 0.9796,
+  "lines": [
+    {
+      "text": "KARLA TODD",
+      "score": 0.9747,
+      "box": [
+        115,
+        88,
+        340,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA|+1-914-360-6145|karla.todd@example.com",
+      "score": 0.9803,
+      "box": [
+        114,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2022.11–2023.01",
+      "score": 0.9765,
+      "box": [
+        116,
+        291,
+        719,
+        311
+      ]
+    },
+    {
+      "text": "-Maintained chart of accounts",
+      "score": 0.9882,
+      "box": [
+        125,
+        313,
+        410,
+        338
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.981,
+      "box": [
+        126,
+        338,
+        411,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Riverfield University, 2021",
+      "score": 0.9695,
+      "box": [
+        114,
+        447,
+        647,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9768,
+      "box": [
+        132,
+        472,
+        551,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9689,
+      "box": [
+        133,
+        497,
+        640,
+        522
+      ]
+    }
+  ]
+}

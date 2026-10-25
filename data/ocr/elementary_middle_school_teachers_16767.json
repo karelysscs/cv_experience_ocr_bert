@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_16767",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.925,
+  "mean_conf": 0.9876,
+  "lines": [
+    {
+      "text": "RAFAEL ROWLAND",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        437,
+        120
+      ]
+    },
+    {
+      "text": "HI, USA|+1-733-368-9635 |rafael.rowland@example.com",
+      "score": 0.9871,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9876,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2020.01–2023.01",
+      "score": 0.9902,
+      "box": [
+        114,
+        289,
+        855,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9921,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        550,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2017.01–2020.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        381,
+        791,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9902,
+      "box": [
+        126,
+        407,
+        458,
+        429
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9888,
+      "box": [
+        127,
+        432,
+        395,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Pinehaven University, 2015",
+      "score": 0.9762,
+      "box": [
+        114,
+        539,
+        705,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9812,
+      "box": [
+        133,
+        565,
+        591,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.995,
+      "box": [
+        135,
+        591,
+        602,
+        614
+      ]
+    }
+  ]
+}

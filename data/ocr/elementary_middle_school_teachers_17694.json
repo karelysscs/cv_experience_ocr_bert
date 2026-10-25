@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_17694",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.023,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "NICHOLAS MOSES",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-985-430-3455 |nicholas.moses@example.com",
+      "score": 0.9874,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9772,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Clear Path Academy, 2020.02–2023.01",
+      "score": 0.9776,
+      "box": [
+        116,
+        290,
+        827,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9919,
+      "box": [
+        126,
+        314,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9915,
+      "box": [
+        126,
+        339,
+        522,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2017.03–2020.02",
+      "score": 0.9944,
+      "box": [
+        115,
+        381,
+        900,
+        406
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9653,
+      "box": [
+        126,
+        406,
+        475,
+        431
+      ]
+    },
+    {
+      "text": "- Developed behavior management plans",
+      "score": 0.9881,
+      "box": [
+        126,
+        431,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2014.04–2017.03",
+      "score": 0.9604,
+      "box": [
+        116,
+        472,
+        814,
+        496
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9824,
+      "box": [
+        125,
+        496,
+        667,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9844,
+      "box": [
+        126,
+        521,
+        416,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Clearhaven University, 2013",
+      "score": 0.9787,
+      "box": [
+        115,
+        632,
+        618,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Greenfield Ridge University, 2011",
+      "score": 0.9791,
+      "box": [
+        115,
+        657,
+        738,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom discipline strategies",
+      "score": 0.9877,
+      "box": [
+        134,
+        683,
+        672,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9909,
+      "box": [
+        133,
+        707,
+        588,
+        729
+      ]
+    }
+  ]
+}

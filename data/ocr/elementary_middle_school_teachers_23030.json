@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_23030",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.957,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "KAYLA CALDWELL",
+      "score": 0.9795,
+      "box": [
+        116,
+        90,
+        431,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA|+1-820-806-1419|kayla.caldwell@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2021.05–2023.01",
+      "score": 0.9713,
+      "box": [
+        115,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9742,
+      "box": [
+        125,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9745,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2019.09–2021.05",
+      "score": 0.9903,
+      "box": [
+        115,
+        381,
+        896,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9592,
+      "box": [
+        126,
+        407,
+        452,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9941,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Larkspur University, 2023",
+      "score": 0.9686,
+      "box": [
+        115,
+        541,
+        620,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Greenfield Ridge University, 2022",
+      "score": 0.9782,
+      "box": [
+        115,
+        566,
+        685,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9885,
+      "box": [
+        133,
+        590,
+        604,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9795,
+      "box": [
+        133,
+        615,
+        658,
+        640
+      ]
+    }
+  ]
+}

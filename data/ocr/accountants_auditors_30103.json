@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_30103",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.844,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "MARK HAHN",
+      "score": 0.9916,
+      "box": [
+        116,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-887-969-1111 |mark.hahn@example.com",
+      "score": 0.98,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2020.06–2023.01",
+      "score": 0.9798,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-functional financial integration",
+      "score": 0.9694,
+      "box": [
+        125,
+        313,
+        514,
+        338
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9772,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2016.10–2019.05",
+      "score": 0.9842,
+      "box": [
+        115,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9898,
+      "box": [
+        125,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9899,
+      "box": [
+        125,
+        429,
+        411,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Granite Hill University, 2013",
+      "score": 0.9576,
+      "box": [
+        114,
+        539,
+        666,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial management",
+      "score": 0.9876,
+      "box": [
+        132,
+        564,
+        585,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.9891,
+      "box": [
+        132,
+        590,
+        594,
+        613
+      ]
+    }
+  ]
+}

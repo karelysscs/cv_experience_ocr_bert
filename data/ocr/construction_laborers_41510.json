@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_41510",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.933,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "RANDAL GIBBS",
+      "score": 0.9696,
+      "box": [
+        115,
+        88,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA|+1-382-909-2652 |randal.gibbs@example.com",
+      "score": 0.992,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2018.10–2023.01",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9924,
+      "box": [
+        126,
+        315,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "-Directed project scheduling",
+      "score": 0.9959,
+      "box": [
+        126,
+        337,
+        394,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2014.07–2018.10",
+      "score": 0.9943,
+      "box": [
+        116,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9674,
+      "box": [
+        125,
+        406,
+        371,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9722,
+      "box": [
+        125,
+        429,
+        445,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2010.04–2014.07",
+      "score": 0.9926,
+      "box": [
+        115,
+        472,
+        747,
+        496
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9867,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9748,
+      "box": [
+        126,
+        521,
+        423,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2005.12–2010.04",
+      "score": 0.9897,
+      "box": [
+        115,
+        564,
+        712,
+        587
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9881,
+      "box": [
+        126,
+        590,
+        436,
+        613
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9713,
+      "box": [
+        127,
+        615,
+        439,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Drafting Technology, Northfield University, 28",
+      "score": 0.9809,
+      "box": [
+        115,
+        723,
+        811,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of site inspection checklists",
+      "score": 0.9914,
+      "box": [
+        132,
+        747,
+        570,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9696,
+      "box": [
+        133,
+        772,
+        484,
+        797
+      ]
+    }
+  ]
+}

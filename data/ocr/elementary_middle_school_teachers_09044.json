@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_09044",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.972,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "CHRISTINA LI",
+      "score": 0.9718,
+      "box": [
+        117,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-588-602-5327 |christina.li@example.com",
+      "score": 0.9909,
+      "box": [
+        116,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Ridge School, 2020.12–2023.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.959,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9847,
+      "box": [
+        127,
+        339,
+        577,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2017.11–2019.12",
+      "score": 0.9916,
+      "box": [
+        115,
+        381,
+        842,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9854,
+      "box": [
+        126,
+        406,
+        560,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.981,
+      "box": [
+        127,
+        432,
+        443,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2014.07–2016.09",
+      "score": 0.988,
+      "box": [
+        115,
+        471,
+        858,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9745,
+      "box": [
+        127,
+        498,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9717,
+      "box": [
+        126,
+        521,
+        496,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Silverton University, 2004",
+      "score": 0.9843,
+      "box": [
+        115,
+        631,
+        616,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Woodcrest University, 2002",
+      "score": 0.9651,
+      "box": [
+        115,
+        657,
+        679,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of cooperative learning",
+      "score": 0.9785,
+      "box": [
+        132,
+        681,
+        529,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9917,
+      "box": [
+        133,
+        707,
+        539,
+        730
+      ]
+    }
+  ]
+}

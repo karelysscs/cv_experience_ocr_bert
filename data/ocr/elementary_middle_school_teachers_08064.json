@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_08064",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.933,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "STACYKIM",
+      "score": 0.994,
+      "box": [
+        114,
+        88,
+        303,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-893-303-8026 | stacy.kim@example.com",
+      "score": 0.9684,
+      "box": [
+        116,
+        150,
+        627,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9386,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2019.08–202.06",
+      "score": 0.9901,
+      "box": [
+        115,
+        290,
+        860,
+        313
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9706,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.98,
+      "box": [
+        125,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2015.07–2018.05",
+      "score": 0.9741,
+      "box": [
+        115,
+        382,
+        857,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9792,
+      "box": [
+        126,
+        407,
+        411,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9881,
+      "box": [
+        125,
+        431,
+        588,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Pineview Ridge University, 2004",
+      "score": 0.9858,
+      "box": [
+        114,
+        539,
+        756,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9629,
+      "box": [
+        132,
+        564,
+        602,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9829,
+      "box": [
+        135,
+        591,
+        633,
+        614
+      ]
+    }
+  ]
+}

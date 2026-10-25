@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_13411",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.962,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "WHITNEY SMITH",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        385,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-332-308-4448 |whitney.smith@example.com",
+      "score": 0.9752,
+      "box": [
+        116,
+        152,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2018.12–2023.01",
+      "score": 0.9842,
+      "box": [
+        114,
+        289,
+        726,
+        314
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9861,
+      "box": [
+        127,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9786,
+      "box": [
+        126,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2014.11–2018.12",
+      "score": 0.9919,
+      "box": [
+        115,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.9899,
+      "box": [
+        126,
+        406,
+        392,
+        429
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9907,
+      "box": [
+        127,
+        432,
+        512,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2010.10–2014.11",
+      "score": 0.9834,
+      "box": [
+        115,
+        472,
+        715,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9897,
+      "box": [
+        126,
+        496,
+        371,
+        521
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9891,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2005.03–2009.05",
+      "score": 0.9718,
+      "box": [
+        116,
+        566,
+        697,
+        586
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9665,
+      "box": [
+        126,
+        590,
+        511,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9796,
+      "box": [
+        125,
+        613,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Greenfield Ridge University, 2003",
+      "score": 0.9877,
+      "box": [
+        115,
+        725,
+        718,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in international accounting basics",
+      "score": 0.9769,
+      "box": [
+        133,
+        749,
+        674,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9933,
+      "box": [
+        134,
+        772,
+        583,
+        797
+      ]
+    }
+  ]
+}

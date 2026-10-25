@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_37939",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.868,
+  "mean_conf": 0.9874,
+  "lines": [
+    {
+      "text": "JACOBSTARK",
+      "score": 0.9993,
+      "box": [
+        115,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-522-294-1862|jacob.stark@example.com",
+      "score": 0.9937,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2021.03–2023.01",
+      "score": 0.9943,
+      "box": [
+        115,
+        290,
+        737,
+        313
+      ]
+    },
+    {
+      "text": "-Led audit programs",
+      "score": 0.9958,
+      "box": [
+        125,
+        313,
+        323,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.961,
+      "box": [
+        126,
+        338,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2019.05–2021.03",
+      "score": 0.9842,
+      "box": [
+        114,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9845,
+      "box": [
+        126,
+        407,
+        418,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9923,
+      "box": [
+        125,
+        431,
+        473,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Operations, Horizon University, 2019",
+      "score": 0.9887,
+      "box": [
+        115,
+        541,
+        638,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Clearfield University, 2017",
+      "score": 0.976,
+      "box": [
+        114,
+        564,
+        584,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9884,
+      "box": [
+        133,
+        591,
+        551,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting techniques",
+      "score": 0.9842,
+      "box": [
+        133,
+        615,
+        588,
+        640
+      ]
+    }
+  ]
+}

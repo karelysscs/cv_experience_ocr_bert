@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_13696",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.991,
+  "mean_conf": 0.9772,
+  "lines": [
+    {
+      "text": "RAQUEL SULLIVAN",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        436,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-496-215-2599 |raquel.sullivan@example.com",
+      "score": 0.9663,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2020.05–2023.01",
+      "score": 0.976,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9544,
+      "box": [
+        126,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9674,
+      "box": [
+        127,
+        340,
+        427,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2017.09–2020.05",
+      "score": 0.9941,
+      "box": [
+        116,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9556,
+      "box": [
+        125,
+        405,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9709,
+      "box": [
+        125,
+        430,
+        482,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2014.07–2017.03",
+      "score": 0.9831,
+      "box": [
+        115,
+        472,
+        672,
+        495
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9734,
+      "box": [
+        126,
+        497,
+        448,
+        519
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9568,
+      "box": [
+        126,
+        521,
+        392,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TruePoint Construction, 2011.01–2013.10",
+      "score": 0.9748,
+      "box": [
+        114,
+        563,
+        722,
+        588
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9877,
+      "box": [
+        125,
+        588,
+        554,
+        613
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.981,
+      "box": [
+        126,
+        613,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Services, Pine Valley University, 2004",
+      "score": 0.9812,
+      "box": [
+        114,
+        723,
+        779,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic concrete reinforcement",
+      "score": 0.9816,
+      "box": [
+        134,
+        750,
+        657,
+        770
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.998,
+      "box": [
+        134,
+        772,
+        675,
+        797
+      ]
+    }
+  ]
+}

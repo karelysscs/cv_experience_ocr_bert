@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_58153",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.866,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "ALEXHESS",
+      "score": 0.9961,
+      "box": [
+        115,
+        88,
+        309,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-389-411-8337|alex.hess@example.com",
+      "score": 0.993,
+      "box": [
+        114,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9874,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2020.11–2023.01",
+      "score": 0.987,
+      "box": [
+        114,
+        288,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.952,
+      "box": [
+        127,
+        315,
+        362,
+        339
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9539,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2018.08–2020.11",
+      "score": 0.9869,
+      "box": [
+        116,
+        382,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9887,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.977,
+      "box": [
+        127,
+        432,
+        355,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2016.05–2018.08",
+      "score": 0.9812,
+      "box": [
+        115,
+        472,
+        624,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9634,
+      "box": [
+        124,
+        495,
+        419,
+        523
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9805,
+      "box": [
+        126,
+        521,
+        403,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverside University, 2016",
+      "score": 0.9733,
+      "box": [
+        115,
+        632,
+        469,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.9831,
+      "box": [
+        133,
+        657,
+        486,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9863,
+      "box": [
+        134,
+        681,
+        659,
+        707
+      ]
+    }
+  ]
+}

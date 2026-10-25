@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_24782",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.787,
+  "mean_conf": 0.985,
+  "lines": [
+    {
+      "text": "JOSEPH MEADOWS",
+      "score": 0.9918,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-670-700-3126 |joseph.meadows@example.com",
+      "score": 0.9828,
+      "box": [
+        116,
+        151,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workforce Construction, 2021.07–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.986,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9662,
+      "box": [
+        126,
+        339,
+        555,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Goldenfield High School, 2022",
+      "score": 0.9889,
+      "box": [
+        116,
+        449,
+        858,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9771,
+      "box": [
+        133,
+        474,
+        572,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_58421",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.784,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "KEVIN PARRA",
+      "score": 0.9811,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-491-832-1011 |kevin.parra@example.com",
+      "score": 0.9729,
+      "box": [
+        114,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Cornerstone Works, 2020.10–2023.01",
+      "score": 0.9895,
+      "box": [
+        115,
+        289,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9849,
+      "box": [
+        126,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9627,
+      "box": [
+        126,
+        339,
+        360,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Harvest High School, 2021",
+      "score": 0.9882,
+      "box": [
+        116,
+        449,
+        823,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9658,
+      "box": [
+        132,
+        473,
+        604,
+        498
+      ]
+    }
+  ]
+}

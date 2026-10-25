@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_15571",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.937,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "TIFFANIE GREEN",
+      "score": 0.9815,
+      "box": [
+        116,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA |+1-374-438-2610 |tffanie.green@example.com",
+      "score": 0.9649,
+      "box": [
+        116,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2019.10–2022.02",
+      "score": 0.9629,
+      "box": [
+        116,
+        290,
+        844,
+        313
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9732,
+      "box": [
+        127,
+        315,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2015.12–2018.05",
+      "score": 0.9907,
+      "box": [
+        116,
+        382,
+        886,
+        405
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9693,
+      "box": [
+        126,
+        406,
+        370,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9873,
+      "box": [
+        126,
+        432,
+        457,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Education and Development, Clearfield Ridge University, 2002",
+      "score": 0.9756,
+      "box": [
+        116,
+        541,
+        947,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9813,
+      "box": [
+        132,
+        565,
+        533,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9815,
+      "box": [
+        133,
+        590,
+        708,
+        615
+      ]
+    }
+  ]
+}

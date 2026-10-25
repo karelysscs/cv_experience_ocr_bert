@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_01072",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.039,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "HEATHER BLACK",
+      "score": 0.9845,
+      "box": [
+        116,
+        90,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-612-995-5792 |heather.black@example.com",
+      "score": 0.9691,
+      "box": [
+        115,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Minds Academy, 2019.05–2023.01",
+      "score": 0.9927,
+      "box": [
+        115,
+        290,
+        875,
+        313
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9796,
+      "box": [
+        126,
+        315,
+        686,
+        338
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9703,
+      "box": [
+        126,
+        339,
+        476,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2015.09–2019.05",
+      "score": 0.9725,
+      "box": [
+        116,
+        382,
+        834,
+        405
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9814,
+      "box": [
+        126,
+        407,
+        441,
+        429
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9765,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2011.06–2015.02",
+      "score": 0.9815,
+      "box": [
+        115,
+        472,
+        843,
+        496
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9919,
+      "box": [
+        126,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9787,
+      "box": [
+        127,
+        523,
+        411,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2006.12–2010.09",
+      "score": 0.967,
+      "box": [
+        116,
+        565,
+        862,
+        588
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9894,
+      "box": [
+        126,
+        590,
+        667,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9708,
+      "box": [
+        127,
+        615,
+        386,
+        635
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Associate's degree, Learning Skills, Clearfield University, 201",
+      "score": 0.9753,
+      "box": [
+        116,
+        725,
+        694,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional sequencing",
+      "score": 0.9769,
+      "box": [
+        134,
+        749,
+        613,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9855,
+      "box": [
+        136,
+        775,
+        668,
+        795
+      ]
+    }
+  ]
+}

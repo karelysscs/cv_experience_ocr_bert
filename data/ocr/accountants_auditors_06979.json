@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_06979",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.974,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "RYAN SCHAEFER",
+      "score": 0.9822,
+      "box": [
+        116,
+        90,
+        405,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-884-631-3269 |ryan.schaefer@example.com",
+      "score": 0.9827,
+      "box": [
+        117,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.05–2023.01",
+      "score": 0.9758,
+      "box": [
+        114,
+        289,
+        663,
+        314
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9736,
+      "box": [
+        127,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9716,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2017.09–2020.05",
+      "score": 0.9742,
+      "box": [
+        114,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9872,
+      "box": [
+        126,
+        406,
+        556,
+        431
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9724,
+      "box": [
+        126,
+        430,
+        491,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2014.12–2017.09",
+      "score": 0.9807,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9948,
+      "box": [
+        127,
+        499,
+        333,
+        520
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9748,
+      "box": [
+        126,
+        521,
+        350,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2012.03–2014.12",
+      "score": 0.9804,
+      "box": [
+        115,
+        565,
+        767,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9867,
+      "box": [
+        125,
+        589,
+        384,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9634,
+      "box": [
+        126,
+        614,
+        356,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Stonefield University, 2013",
+      "score": 0.9852,
+      "box": [
+        115,
+        725,
+        673,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Greenfield University, 2011",
+      "score": 0.9869,
+      "box": [
+        115,
+        749,
+        711,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9929,
+      "box": [
+        133,
+        774,
+        574,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9923,
+      "box": [
+        133,
+        798,
+        625,
+        822
+      ]
+    }
+  ]
+}

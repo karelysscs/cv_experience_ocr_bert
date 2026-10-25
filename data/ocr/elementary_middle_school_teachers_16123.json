@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_16123",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.928,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "STACEYGREENE",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-944-863-9164|stacey.greene@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2019.05–2021.04",
+      "score": 0.9864,
+      "box": [
+        114,
+        289,
+        827,
+        314
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9822,
+      "box": [
+        126,
+        339,
+        552,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2016.07–2018.07",
+      "score": 0.9896,
+      "box": [
+        115,
+        381,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9752,
+      "box": [
+        125,
+        406,
+        395,
+        431
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9831,
+      "box": [
+        125,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Brightwater University, 2008",
+      "score": 0.9864,
+      "box": [
+        114,
+        539,
+        729,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9726,
+      "box": [
+        132,
+        564,
+        598,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9732,
+      "box": [
+        133,
+        590,
+        613,
+        614
+      ]
+    }
+  ]
+}

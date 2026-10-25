@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_23415",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.983,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "ANNA DAVIDSON",
+      "score": 0.9792,
+      "box": [
+        117,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-547-566-8379 | anna.davidson@example.com",
+      "score": 0.9584,
+      "box": [
+        116,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2019.09–2023.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        289,
+        649,
+        314
+      ]
+    },
+    {
+      "text": "– Managed nursing unit operations",
+      "score": 0.9616,
+      "box": [
+        127,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9843,
+      "box": [
+        126,
+        339,
+        554,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2016.05–2019.09",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9894,
+      "box": [
+        126,
+        406,
+        457,
+        430
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.985,
+      "box": [
+        126,
+        431,
+        468,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2013.01–2016.05",
+      "score": 0.9824,
+      "box": [
+        116,
+        472,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9751,
+      "box": [
+        125,
+        498,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staf",
+      "score": 0.9813,
+      "box": [
+        126,
+        521,
+        424,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Care Group, 2007.08–2010.12",
+      "score": 0.9909,
+      "box": [
+        116,
+        565,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9821,
+      "box": [
+        125,
+        588,
+        527,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.97,
+      "box": [
+        128,
+        616,
+        371,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Studies, Silverton University, 2003",
+      "score": 0.9969,
+      "box": [
+        116,
+        725,
+        688,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9791,
+      "box": [
+        133,
+        749,
+        582,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9775,
+      "box": [
+        133,
+        772,
+        571,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_14379",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.91,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "DAMIAN LUCAS",
+      "score": 0.9624,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-445-485-9008|damian.lucas@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2020.12–2023.01",
+      "score": 0.9853,
+      "box": [
+        115,
+        290,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9228,
+      "box": [
+        125,
+        313,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9941,
+      "box": [
+        126,
+        339,
+        460,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Construction, 2018.11–2020.12",
+      "score": 0.9904,
+      "box": [
+        116,
+        382,
+        724,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9776,
+      "box": [
+        125,
+        406,
+        405,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9813,
+      "box": [
+        126,
+        430,
+        403,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2015.09–2017.11",
+      "score": 0.9778,
+      "box": [
+        115,
+        472,
+        693,
+        495
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9776,
+      "box": [
+        125,
+        496,
+        332,
+        522
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9931,
+      "box": [
+        127,
+        522,
+        404,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Design, High Meadow University, 2010",
+      "score": 0.9813,
+      "box": [
+        114,
+        631,
+        787,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of job site efficiency",
+      "score": 0.9729,
+      "box": [
+        132,
+        656,
+        500,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9962,
+      "box": [
+        134,
+        682,
+        588,
+        705
+      ]
+    }
+  ]
+}

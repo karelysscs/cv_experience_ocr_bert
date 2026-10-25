@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_05312",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "BABY ALI",
+      "score": 0.9503,
+      "box": [
+        115,
+        88,
+        279,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-952-473-4038 |baby.ali@example.com",
+      "score": 0.9756,
+      "box": [
+        116,
+        151,
+        614,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2019.07–2023.01",
+      "score": 0.9844,
+      "box": [
+        116,
+        289,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9868,
+      "box": [
+        126,
+        315,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9801,
+      "box": [
+        127,
+        340,
+        548,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2016.01–2019.07",
+      "score": 0.976,
+      "box": [
+        116,
+        382,
+        641,
+        406
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9895,
+      "box": [
+        127,
+        407,
+        549,
+        430
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9902,
+      "box": [
+        126,
+        430,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Nursing Services, 2012.06–2016.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        470,
+        742,
+        498
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9733,
+      "box": [
+        126,
+        497,
+        439,
+        519
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9718,
+      "box": [
+        126,
+        521,
+        499,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2008.11–2012.06",
+      "score": 0.9821,
+      "box": [
+        116,
+        565,
+        703,
+        588
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9805,
+      "box": [
+        126,
+        590,
+        480,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9743,
+      "box": [
+        126,
+        614,
+        513,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, General Nursing, Crestline University, 2008",
+      "score": 0.9731,
+      "box": [
+        114,
+        723,
+        705,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9766,
+      "box": [
+        132,
+        747,
+        552,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.978,
+      "box": [
+        135,
+        775,
+        535,
+        795
+      ]
+    }
+  ]
+}

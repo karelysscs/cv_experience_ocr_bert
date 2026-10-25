@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_13946",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.069,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "TANYA BARKER",
+      "score": 0.9806,
+      "box": [
+        114,
+        90,
+        385,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-951-707-1722 |tanya.barker@example.com",
+      "score": 0.9823,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2018.11–2023.01",
+      "score": 0.9836,
+      "box": [
+        116,
+        290,
+        819,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9753,
+      "box": [
+        125,
+        313,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9726,
+      "box": [
+        127,
+        339,
+        570,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Steps Academy, 2014.09–2018.11",
+      "score": 0.98,
+      "box": [
+        115,
+        381,
+        869,
+        406
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9632,
+      "box": [
+        126,
+        406,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9885,
+      "box": [
+        126,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2010.07–2014.09",
+      "score": 0.9747,
+      "box": [
+        115,
+        472,
+        856,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9852,
+      "box": [
+        127,
+        499,
+        465,
+        519
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9881,
+      "box": [
+        126,
+        522,
+        509,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2006.04–2010.07",
+      "score": 0.9829,
+      "box": [
+        116,
+        565,
+        881,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9663,
+      "box": [
+        125,
+        589,
+        442,
+        614
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9707,
+      "box": [
+        127,
+        615,
+        484,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, General Education, Crestline University, 2007",
+      "score": 0.9591,
+      "box": [
+        116,
+        726,
+        628,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Northcrest University, 25",
+      "score": 0.9707,
+      "box": [
+        114,
+        747,
+        654,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9921,
+      "box": [
+        134,
+        774,
+        660,
+        797
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9874,
+      "box": [
+        133,
+        799,
+        509,
+        822
+      ]
+    }
+  ]
+}

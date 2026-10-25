@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_40400",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.045,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "ISAAC ARCHER",
+      "score": 0.9951,
+      "box": [
+        115,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-498-601-7470 |isaac.archer@example.com",
+      "score": 0.9686,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2017.12–2023.01",
+      "score": 0.9811,
+      "box": [
+        114,
+        288,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9783,
+      "box": [
+        126,
+        315,
+        423,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        551,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2012.10–2017.12",
+      "score": 0.9892,
+      "box": [
+        116,
+        382,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9449,
+      "box": [
+        125,
+        405,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9806,
+      "box": [
+        126,
+        432,
+        487,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2007.08–2012.10",
+      "score": 0.9781,
+      "box": [
+        115,
+        472,
+        708,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9762,
+      "box": [
+        124,
+        496,
+        338,
+        522
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9665,
+      "box": [
+        125,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2002.06–2007.08",
+      "score": 0.9727,
+      "box": [
+        114,
+        563,
+        711,
+        588
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9812,
+      "box": [
+        124,
+        588,
+        441,
+        614
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9792,
+      "box": [
+        127,
+        615,
+        510,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Granite Hill High School, 2000",
+      "score": 0.9811,
+      "box": [
+        116,
+        725,
+        878,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9786,
+      "box": [
+        133,
+        749,
+        618,
+        772
+      ]
+    }
+  ]
+}

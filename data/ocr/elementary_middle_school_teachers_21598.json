@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_21598",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.826,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "MIA WOOD",
+      "score": 0.9597,
+      "box": [
+        114,
+        86,
+        298,
+        123
+      ]
+    },
+    {
+      "text": "KS, USA|+1-268-232-2160 |mia.wood@example.com",
+      "score": 0.9755,
+      "box": [
+        115,
+        150,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2020.03–2023.01",
+      "score": 0.9868,
+      "box": [
+        115,
+        290,
+        856,
+        313
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9839,
+      "box": [
+        126,
+        314,
+        517,
+        339
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9641,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Silver Creek University, 2019",
+      "score": 0.9685,
+      "box": [
+        114,
+        447,
+        740,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9907,
+      "box": [
+        133,
+        474,
+        624,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9932,
+      "box": [
+        134,
+        499,
+        604,
+        522
+      ]
+    }
+  ]
+}

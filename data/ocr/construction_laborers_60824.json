@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_60824",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.768,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "JEREMY REED",
+      "score": 0.9684,
+      "box": [
+        116,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-813-648-2487 |jeremy.reed@example.com",
+      "score": 0.972,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Contractors, 2019.03–2021.06",
+      "score": 0.9827,
+      "box": [
+        115,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9814,
+      "box": [
+        125,
+        313,
+        360,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9865,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Brookwood High School, 2007",
+      "score": 0.9771,
+      "box": [
+        116,
+        449,
+        956,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9814,
+      "box": [
+        132,
+        472,
+        484,
+        497
+      ]
+    }
+  ]
+}

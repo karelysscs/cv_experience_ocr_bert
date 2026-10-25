@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_21992",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.792,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "TAYLOR TANNER",
+      "score": 0.9774,
+      "box": [
+        114,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-614-905-3955 |taylor.tanner@example.com",
+      "score": 0.9725,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2019.01–2021.12",
+      "score": 0.9752,
+      "box": [
+        115,
+        289,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.989,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.973,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Administration, Meadowridge University, 2014",
+      "score": 0.991,
+      "box": [
+        116,
+        449,
+        796,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9761,
+      "box": [
+        133,
+        474,
+        582,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of population health",
+      "score": 0.9836,
+      "box": [
+        133,
+        497,
+        501,
+        522
+      ]
+    }
+  ]
+}

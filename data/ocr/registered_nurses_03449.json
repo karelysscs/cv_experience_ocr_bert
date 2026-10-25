@@ -1,0 +1,153 @@
+{
+  "id": "registered_nurses_03449",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.859,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "JONATHAN WU",
+      "score": 0.9585,
+      "box": [
+        115,
+        88,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-455-221-3432 |jonathan.wu@example.com",
+      "score": 0.9792,
+      "box": [
+        116,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2021.05–2023.01",
+      "score": 0.9944,
+      "box": [
+        116,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9801,
+      "box": [
+        126,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9727,
+      "box": [
+        127,
+        340,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Care, 2017.08–2019.04",
+      "score": 0.9748,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.982,
+      "box": [
+        125,
+        406,
+        527,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9826,
+      "box": [
+        126,
+        430,
+        438,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Pediatric Care, Westview University, 2014",
+      "score": 0.9853,
+      "box": [
+        115,
+        541,
+        596,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Valley View University, 2012",
+      "score": 0.9731,
+      "box": [
+        114,
+        565,
+        726,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of nursing assessment",
+      "score": 0.9747,
+      "box": [
+        132,
+        590,
+        529,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9808,
+      "box": [
+        133,
+        616,
+        537,
+        638
+      ]
+    }
+  ]
+}

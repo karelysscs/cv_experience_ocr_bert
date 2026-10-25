@@ -1,0 +1,103 @@
+{
+  "id": "software_developers_57645",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.769,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "JAYLENE MATTHEWS",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        474,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-402-608-9242 |jaylene.matthews@example.com",
+      "score": 0.9902,
+      "box": [
+        115,
+        150,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2022.03–2023.01",
+      "score": 0.9896,
+      "box": [
+        116,
+        289,
+        641,
+        312
+      ]
+    },
+    {
+      "text": "-Created test data sets",
+      "score": 0.991,
+      "box": [
+        125,
+        313,
+        347,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9526,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Elmwood Ridge High School, 2023",
+      "score": 0.9765,
+      "box": [
+        116,
+        449,
+        699,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.9868,
+      "box": [
+        132,
+        472,
+        486,
+        496
+      ]
+    }
+  ]
+}

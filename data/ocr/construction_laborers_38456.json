@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_38456",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "WILLIAM ZIMMERMAN",
+      "score": 0.9932,
+      "box": [
+        116,
+        90,
+        477,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-928-632-3479|william.zimmerman@example.com",
+      "score": 0.9881,
+      "box": [
+        115,
+        150,
+        718,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9941,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2019.05–2021.09",
+      "score": 0.9718,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.973,
+      "box": [
+        125,
+        313,
+        406,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9958,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2016.04–2018.08",
+      "score": 0.9964,
+      "box": [
+        116,
+        382,
+        706,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9833,
+      "box": [
+        125,
+        405,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9715,
+      "box": [
+        126,
+        431,
+        391,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Redwood University, 2012",
+      "score": 0.9574,
+      "box": [
+        116,
+        541,
+        911,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction lighting basics",
+      "score": 0.9793,
+      "box": [
+        133,
+        565,
+        637,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in blueprint reading",
+      "score": 0.9865,
+      "box": [
+        134,
+        590,
+        545,
+        615
+      ]
+    }
+  ]
+}

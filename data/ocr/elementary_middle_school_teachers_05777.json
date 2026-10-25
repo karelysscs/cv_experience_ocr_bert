@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_05777",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "NATALIE LE",
+      "score": 0.9765,
+      "box": [
+        115,
+        90,
+        316,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-707-341-8926 |natalie.le@example.com",
+      "score": 0.9861,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9735,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2018.10–2021.02",
+      "score": 0.9659,
+      "box": [
+        116,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained classroom attendance and grading records",
+      "score": 0.9781,
+      "box": [
+        125,
+        314,
+        645,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.983,
+      "box": [
+        126,
+        339,
+        588,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Elmwood Ridge University, 2010",
+      "score": 0.9858,
+      "box": [
+        114,
+        448,
+        733,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Crestline University, 2008",
+      "score": 0.9871,
+      "box": [
+        115,
+        474,
+        700,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in phonics instruction",
+      "score": 0.9899,
+      "box": [
+        134,
+        499,
+        563,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9707,
+      "box": [
+        135,
+        525,
+        538,
+        545
+      ]
+    }
+  ]
+}

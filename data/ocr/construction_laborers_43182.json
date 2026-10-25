@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_43182",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.852,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "TRAVON MIDDLETON",
+      "score": 0.9919,
+      "box": [
+        115,
+        90,
+        466,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA|+1-774-998-1539|travon.middleton@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        150,
+        696,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2020.11–2023.01",
+      "score": 0.9877,
+      "box": [
+        114,
+        289,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "-Directed site safety audits",
+      "score": 0.9675,
+      "box": [
+        125,
+        313,
+        382,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9682,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2018.08–2020.11",
+      "score": 0.9869,
+      "box": [
+        116,
+        382,
+        658,
+        405
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9948,
+      "box": [
+        127,
+        408,
+        367,
+        428
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9733,
+      "box": [
+        125,
+        432,
+        404,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Maintenance, Stonebridge University, 2018",
+      "score": 0.9817,
+      "box": [
+        116,
+        541,
+        848,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9776,
+      "box": [
+        133,
+        566,
+        569,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9859,
+      "box": [
+        134,
+        590,
+        666,
+        615
+      ]
+    }
+  ]
+}

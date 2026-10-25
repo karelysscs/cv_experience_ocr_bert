@@ -1,0 +1,123 @@
+{
+  "id": "construction_laborers_28400",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.869,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "ROBERT BLACKWELL",
+      "score": 0.9815,
+      "box": [
+        116,
+        90,
+        479,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-888-444-3276 |robert.blackwell@example.com",
+      "score": 0.9751,
+      "box": [
+        116,
+        152,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9753,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2019.12–2021.05",
+      "score": 0.9844,
+      "box": [
+        115,
+        290,
+        714,
+        312
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9823,
+      "box": [
+        127,
+        315,
+        493,
+        338
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9888,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Construction Site Management, Lakeview University, 204",
+      "score": 0.9726,
+      "box": [
+        115,
+        449,
+        746,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Drafting, Granite Hill University, 2002",
+      "score": 0.9699,
+      "box": [
+        115,
+        474,
+        693,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of weatherproofing basics",
+      "score": 0.9975,
+      "box": [
+        134,
+        498,
+        556,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in demolition procedures",
+      "score": 0.987,
+      "box": [
+        135,
+        524,
+        595,
+        547
+      ]
+    }
+  ]
+}

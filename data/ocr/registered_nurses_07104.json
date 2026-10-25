@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_07104",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.829,
+  "mean_conf": 0.9873,
+  "lines": [
+    {
+      "text": "SARAHWANG",
+      "score": 0.9993,
+      "box": [
+        115,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-897-761-1111 |sarah.wang@example.com",
+      "score": 0.9746,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Care Services, 2020.06–2023.01",
+      "score": 0.9924,
+      "box": [
+        116,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9927,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        520,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2016.06–2019.02",
+      "score": 0.99,
+      "box": [
+        116,
+        382,
+        690,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9763,
+      "box": [
+        125,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9819,
+      "box": [
+        125,
+        429,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Woodview University, 2013",
+      "score": 0.9833,
+      "box": [
+        114,
+        539,
+        681,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9815,
+      "box": [
+        133,
+        565,
+        606,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9862,
+      "box": [
+        135,
+        591,
+        641,
+        614
+      ]
+    }
+  ]
+}

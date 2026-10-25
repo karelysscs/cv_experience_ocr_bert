@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_30420",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9776,
+  "lines": [
+    {
+      "text": "COURTNEY PAYNE",
+      "score": 0.9654,
+      "box": [
+        117,
+        90,
+        430,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-874-533-9851 | courtney.payne@example.com",
+      "score": 0.9812,
+      "box": [
+        116,
+        152,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2021.06–2023.01",
+      "score": 0.9947,
+      "box": [
+        115,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.967,
+      "box": [
+        128,
+        316,
+        365,
+        337
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9377,
+      "box": [
+        126,
+        339,
+        369,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Managerial Accounting, Cloverfield University, 2022",
+      "score": 0.9847,
+      "box": [
+        115,
+        449,
+        685,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Willowcrest University, 2020",
+      "score": 0.9816,
+      "box": [
+        115,
+        474,
+        572,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9907,
+      "box": [
+        133,
+        499,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "• Studied principles of quality control in auditing",
+      "score": 0.9735,
+      "box": [
+        133,
+        523,
+        570,
+        547
+      ]
+    }
+  ]
+}

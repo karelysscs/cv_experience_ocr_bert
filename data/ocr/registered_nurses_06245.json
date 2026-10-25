@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_06245",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.948,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "AMYSPENCE",
+      "score": 0.9983,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-872-991-3577 |amy.spence@example.com",
+      "score": 0.9835,
+      "box": [
+        117,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2019.04–2023.01",
+      "score": 0.9804,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9863,
+      "box": [
+        126,
+        313,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9491,
+      "box": [
+        127,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Nursing, 2015.07–2019.04",
+      "score": 0.9774,
+      "box": [
+        115,
+        381,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9804,
+      "box": [
+        126,
+        406,
+        482,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9768,
+      "box": [
+        126,
+        430,
+        508,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2011.10–2015.07",
+      "score": 0.9811,
+      "box": [
+        116,
+        473,
+        749,
+        497
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9781,
+      "box": [
+        126,
+        498,
+        540,
+        521
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9515,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2007.12–2011.10",
+      "score": 0.9876,
+      "box": [
+        116,
+        565,
+        680,
+        588
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9948,
+      "box": [
+        126,
+        590,
+        443,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9325,
+      "box": [
+        126,
+        612,
+        372,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Maplewood University, 205",
+      "score": 0.9758,
+      "box": [
+        114,
+        722,
+        635,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9848,
+      "box": [
+        133,
+        749,
+        518,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reporting",
+      "score": 0.9985,
+      "box": [
+        135,
+        774,
+        540,
+        797
+      ]
+    }
+  ]
+}

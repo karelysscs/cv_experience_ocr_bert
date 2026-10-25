@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_16477",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "SUSAN JAMES",
+      "score": 0.9697,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-967-861-6819|susan.james@example.com",
+      "score": 0.982,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9821,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2018.03–2021.03",
+      "score": 0.968,
+      "box": [
+        116,
+        290,
+        799,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.992,
+      "box": [
+        126,
+        315,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9906,
+      "box": [
+        127,
+        340,
+        453,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Clearfield Ridge University, 2016",
+      "score": 0.9884,
+      "box": [
+        114,
+        447,
+        771,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9821,
+      "box": [
+        132,
+        472,
+        560,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9839,
+      "box": [
+        133,
+        498,
+        660,
+        523
+      ]
+    }
+  ]
+}

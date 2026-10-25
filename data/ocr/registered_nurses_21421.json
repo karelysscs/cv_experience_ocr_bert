@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_21421",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "AMANDA DAY",
+      "score": 0.9642,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-707-299-7689 |amanda.day@example.com",
+      "score": 0.9891,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Nursing Services, 2020.05–2023.01",
+      "score": 0.9834,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.984,
+      "box": [
+        127,
+        315,
+        521,
+        338
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9614,
+      "box": [
+        127,
+        339,
+        534,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2017.02–2019.10",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9889,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9935,
+      "box": [
+        126,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2013.09–2016.06",
+      "score": 0.99,
+      "box": [
+        116,
+        473,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9787,
+      "box": [
+        126,
+        497,
+        479,
+        522
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9934,
+      "box": [
+        126,
+        521,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Patient Care, Pinecrest University, 2009",
+      "score": 0.9826,
+      "box": [
+        114,
+        631,
+        674,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9692,
+      "box": [
+        132,
+        656,
+        510,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9687,
+      "box": [
+        135,
+        681,
+        555,
+        705
+      ]
+    }
+  ]
+}

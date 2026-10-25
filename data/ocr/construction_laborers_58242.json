@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_58242",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.99,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "JOSEPH CROSS",
+      "score": 0.9815,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-961-718-8129|joseph.cross@example.com",
+      "score": 0.9837,
+      "box": [
+        114,
+        150,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2019.06–2023.01",
+      "score": 0.9823,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9844,
+      "box": [
+        126,
+        314,
+        552,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9527,
+      "box": [
+        126,
+        339,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2015.11–2019.06",
+      "score": 0.9879,
+      "box": [
+        116,
+        382,
+        718,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9655,
+      "box": [
+        125,
+        405,
+        484,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9858,
+      "box": [
+        127,
+        432,
+        465,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2011.07–2015.02",
+      "score": 0.9737,
+      "box": [
+        115,
+        472,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9613,
+      "box": [
+        125,
+        496,
+        391,
+        522
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9806,
+      "box": [
+        126,
+        521,
+        384,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Stone Co., 2007.03–2010.11",
+      "score": 0.9821,
+      "box": [
+        115,
+        564,
+        681,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9736,
+      "box": [
+        124,
+        588,
+        379,
+        614
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9863,
+      "box": [
+        125,
+        613,
+        503,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Lakeside High School, 201",
+      "score": 0.9944,
+      "box": [
+        116,
+        725,
+        888,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9906,
+      "box": [
+        132,
+        747,
+        465,
+        772
+      ]
+    }
+  ]
+}

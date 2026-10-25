@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_00071",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "MEGAN TURNER",
+      "score": 0.9797,
+      "box": [
+        116,
+        90,
+        390,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-918-600-7003|megan.turner@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2019.11–2023.01",
+      "score": 0.9911,
+      "box": [
+        115,
+        290,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.9755,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9753,
+      "box": [
+        127,
+        340,
+        450,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2014.09–2017.11",
+      "score": 0.9762,
+      "box": [
+        114,
+        381,
+        702,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9708,
+      "box": [
+        126,
+        408,
+        370,
+        429
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9889,
+      "box": [
+        126,
+        432,
+        380,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2010.06–2013.09",
+      "score": 0.968,
+      "box": [
+        115,
+        472,
+        731,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9738,
+      "box": [
+        126,
+        497,
+        403,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9686,
+      "box": [
+        127,
+        522,
+        405,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Pineview University, 2007",
+      "score": 0.9792,
+      "box": [
+        114,
+        631,
+        661,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9819,
+      "box": [
+        133,
+        656,
+        650,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of auditing",
+      "score": 0.9694,
+      "box": [
+        133,
+        681,
+        452,
+        706
+      ]
+    }
+  ]
+}

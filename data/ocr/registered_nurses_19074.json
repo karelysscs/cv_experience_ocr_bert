@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_19074",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "SHANNON ADKINS",
+      "score": 0.9795,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-502-219-7071 |shannon.adkins@example.com",
+      "score": 0.9927,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Health Group, 2020.10–2023.01",
+      "score": 0.9896,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        566,
+        339
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9645,
+      "box": [
+        126,
+        339,
+        425,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2018.07–2020.10",
+      "score": 0.9771,
+      "box": [
+        115,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "-Provided wound care management",
+      "score": 0.9819,
+      "box": [
+        125,
+        405,
+        467,
+        432
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9827,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2016.04–2018.07",
+      "score": 0.9951,
+      "box": [
+        116,
+        472,
+        648,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9661,
+      "box": [
+        125,
+        496,
+        387,
+        522
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9843,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Brightwood University, 2017",
+      "score": 0.9774,
+      "box": [
+        114,
+        630,
+        671,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9878,
+      "box": [
+        134,
+        658,
+        542,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.9955,
+      "box": [
+        134,
+        681,
+        524,
+        706
+      ]
+    }
+  ]
+}

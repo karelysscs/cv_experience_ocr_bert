@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_56881",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "WILLIAM YU",
+      "score": 0.9511,
+      "box": [
+        114,
+        88,
+        316,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-797-771-7310|william.yu@example.com",
+      "score": 0.9877,
+      "box": [
+        114,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2019.09–2023.01",
+      "score": 0.9926,
+      "box": [
+        115,
+        288,
+        663,
+        314
+      ]
+    },
+    {
+      "text": "-Defined APl standards",
+      "score": 0.9843,
+      "box": [
+        126,
+        314,
+        351,
+        336
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2016.05–2019.09",
+      "score": 0.9863,
+      "box": [
+        115,
+        381,
+        642,
+        406
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9887,
+      "box": [
+        126,
+        406,
+        381,
+        432
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9811,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2011.10–2015.02",
+      "score": 0.9875,
+      "box": [
+        115,
+        471,
+        645,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9686,
+      "box": [
+        125,
+        496,
+        507,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9886,
+      "box": [
+        126,
+        521,
+        502,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Heritage University, 2007",
+      "score": 0.9709,
+      "box": [
+        115,
+        632,
+        443,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Golden Hills University, 2005",
+      "score": 0.9762,
+      "box": [
+        115,
+        658,
+        494,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software testing",
+      "score": 0.9795,
+      "box": [
+        132,
+        681,
+        524,
+        707
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9924,
+      "box": [
+        133,
+        708,
+        547,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_14499",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "LAUREN WRIGHT",
+      "score": 0.9615,
+      "box": [
+        116,
+        90,
+        403,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-510-484-9590|lauren.wright@example.com",
+      "score": 0.9883,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Care, 2021.02–2023.01",
+      "score": 0.9948,
+      "box": [
+        116,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9917,
+      "box": [
+        126,
+        314,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2019.02–2021.02",
+      "score": 0.9942,
+      "box": [
+        115,
+        381,
+        724,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9697,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9746,
+      "box": [
+        126,
+        430,
+        387,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Brighton University, 2019",
+      "score": 0.9859,
+      "box": [
+        114,
+        539,
+        649,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reasoning",
+      "score": 0.9681,
+      "box": [
+        134,
+        566,
+        549,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9877,
+      "box": [
+        135,
+        591,
+        625,
+        614
+      ]
+    }
+  ]
+}

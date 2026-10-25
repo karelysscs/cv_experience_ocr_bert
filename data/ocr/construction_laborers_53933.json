@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_53933",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "ROBERTO OCONNOR",
+      "score": 0.9775,
+      "box": [
+        116,
+        90,
+        468,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-780-219-7091 |roberto.oconnor@example.com",
+      "score": 0.986,
+      "box": [
+        115,
+        150,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2020.01–2023.01",
+      "score": 0.9766,
+      "box": [
+        115,
+        290,
+        742,
+        312
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9726,
+      "box": [
+        125,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9608,
+      "box": [
+        127,
+        340,
+        460,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2014.04–2017.04",
+      "score": 0.9812,
+      "box": [
+        116,
+        382,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9737,
+      "box": [
+        125,
+        406,
+        406,
+        432
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9912,
+      "box": [
+        127,
+        432,
+        553,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Rockland High School, 2010",
+      "score": 0.9916,
+      "box": [
+        115,
+        540,
+        840,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of construction record keeping",
+      "score": 0.9802,
+      "box": [
+        133,
+        565,
+        598,
+        590
+      ]
+    }
+  ]
+}

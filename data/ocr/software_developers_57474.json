@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_57474",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.857,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "CAMERONVU",
+      "score": 0.9991,
+      "box": [
+        115,
+        88,
+        347,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-429-753-6945|cameron.vu@example.com",
+      "score": 0.9948,
+      "box": [
+        114,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2019.05–2021.04",
+      "score": 0.9876,
+      "box": [
+        115,
+        290,
+        664,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9592,
+      "box": [
+        127,
+        315,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9641,
+      "box": [
+        127,
+        340,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2016.12–2018.11",
+      "score": 0.9827,
+      "box": [
+        116,
+        382,
+        624,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9747,
+      "box": [
+        125,
+        405,
+        448,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9812,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Hawthorne University, 2016",
+      "score": 0.9913,
+      "box": [
+        115,
+        541,
+        482,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9885,
+      "box": [
+        133,
+        566,
+        572,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.9873,
+      "box": [
+        133,
+        590,
+        576,
+        615
+      ]
+    }
+  ]
+}

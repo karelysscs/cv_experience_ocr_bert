@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_38505",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.916,
+  "mean_conf": 0.9755,
+  "lines": [
+    {
+      "text": "GUY HALL",
+      "score": 0.9589,
+      "box": [
+        115,
+        88,
+        290,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-816-293-8700 |guy.hall@example.com",
+      "score": 0.9757,
+      "box": [
+        116,
+        151,
+        614,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2020.01–2023.01",
+      "score": 0.9798,
+      "box": [
+        114,
+        289,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.942,
+      "box": [
+        125,
+        314,
+        464,
+        337
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9794,
+      "box": [
+        126,
+        340,
+        466,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2015.03–2018.04",
+      "score": 0.9857,
+      "box": [
+        115,
+        382,
+        736,
+        405
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9757,
+      "box": [
+        125,
+        406,
+        391,
+        431
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9533,
+      "box": [
+        126,
+        430,
+        374,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2011.08–2014.09",
+      "score": 0.977,
+      "box": [
+        116,
+        472,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9723,
+      "box": [
+        125,
+        496,
+        504,
+        521
+      ]
+    },
+    {
+      "text": "-Marked measurements on materials",
+      "score": 0.9822,
+      "box": [
+        126,
+        522,
+        474,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Pineview Ridge High School, 2008",
+      "score": 0.9832,
+      "box": [
+        116,
+        632,
+        970,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9838,
+      "box": [
+        133,
+        657,
+        592,
+        680
+      ]
+    }
+  ]
+}

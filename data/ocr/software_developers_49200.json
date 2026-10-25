@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_49200",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.802,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "JOHN HUGHES",
+      "score": 0.9652,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-317-924-8719|john.hughes@example.com",
+      "score": 0.9857,
+      "box": [
+        116,
+        150,
+        652,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2021.10–2022.04",
+      "score": 0.996,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9837,
+      "box": [
+        127,
+        316,
+        346,
+        337
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        385,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Hawthorne University, 2009",
+      "score": 0.983,
+      "box": [
+        115,
+        447,
+        625,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9915,
+      "box": [
+        131,
+        472,
+        579,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.9795,
+      "box": [
+        133,
+        499,
+        572,
+        522
+      ]
+    }
+  ]
+}

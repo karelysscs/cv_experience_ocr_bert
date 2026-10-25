@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_59293",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.847,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "DAVID SHAH",
+      "score": 0.9624,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-445-669-1599|david.shah@example.com",
+      "score": 0.976,
+      "box": [
+        114,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.04–2023.01",
+      "score": 0.985,
+      "box": [
+        114,
+        288,
+        666,
+        314
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9852,
+      "box": [
+        125,
+        313,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2016.11–2019.09",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        626,
+        405
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9501,
+      "box": [
+        125,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9583,
+      "box": [
+        127,
+        433,
+        347,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2012.11–2015.09",
+      "score": 0.9923,
+      "box": [
+        116,
+        472,
+        684,
+        496
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.978,
+      "box": [
+        125,
+        495,
+        365,
+        522
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9808,
+      "box": [
+        126,
+        521,
+        443,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood University, 2010",
+      "score": 0.9924,
+      "box": [
+        115,
+        632,
+        490,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9867,
+      "box": [
+        132,
+        656,
+        533,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.9932,
+      "box": [
+        134,
+        681,
+        505,
+        707
+      ]
+    }
+  ]
+}

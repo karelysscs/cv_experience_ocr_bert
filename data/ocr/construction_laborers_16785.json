@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_16785",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.889,
+  "mean_conf": 0.9876,
+  "lines": [
+    {
+      "text": "JOSEPH PHAN",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-703-869-7786 |joseph.phan@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Group, 2021.04–2023.01",
+      "score": 0.9881,
+      "box": [
+        114,
+        289,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9873,
+      "box": [
+        125,
+        314,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9714,
+      "box": [
+        127,
+        340,
+        480,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2017.08–2019.06",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        691,
+        405
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9894,
+      "box": [
+        125,
+        407,
+        444,
+        430
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9942,
+      "box": [
+        127,
+        433,
+        367,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Driftwood High School, 2003",
+      "score": 0.9914,
+      "box": [
+        116,
+        541,
+        878,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9813,
+      "box": [
+        134,
+        566,
+        618,
+        589
+      ]
+    }
+  ]
+}

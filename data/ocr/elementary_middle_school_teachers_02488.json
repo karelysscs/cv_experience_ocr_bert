@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_02488",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.984,
+  "mean_conf": 0.9764,
+  "lines": [
+    {
+      "text": "LISA RICHARD",
+      "score": 0.959,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-377-926-5330|lisa.richard@example.com",
+      "score": 0.9645,
+      "box": [
+        115,
+        150,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9758,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2021.03–2023.0",
+      "score": 0.9759,
+      "box": [
+        114,
+        289,
+        881,
+        313
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9794,
+      "box": [
+        126,
+        315,
+        686,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9803,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2019.04–2021.03",
+      "score": 0.9911,
+      "box": [
+        115,
+        381,
+        873,
+        406
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9601,
+      "box": [
+        127,
+        408,
+        571,
+        431
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9729,
+      "box": [
+        126,
+        431,
+        409,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Child Development, Willowstone University, 2018",
+      "score": 0.9863,
+      "box": [
+        115,
+        541,
+        662,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Oakway University, 2016",
+      "score": 0.9821,
+      "box": [
+        114,
+        565,
+        715,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9555,
+      "box": [
+        132,
+        590,
+        563,
+        613
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9886,
+      "box": [
+        135,
+        617,
+        556,
+        637
+      ]
+    }
+  ]
+}

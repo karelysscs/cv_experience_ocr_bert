@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_42172",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.842,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "IAN ONEAL",
+      "score": 0.9581,
+      "box": [
+        114,
+        88,
+        302,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA|+1-818-374-5451 |ian.oneal@example.com",
+      "score": 0.981,
+      "box": [
+        115,
+        150,
+        628,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2020.06–2023.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        291,
+        739,
+        311
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9912,
+      "box": [
+        127,
+        314,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9751,
+      "box": [
+        126,
+        339,
+        505,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Stonegate University, 223",
+      "score": 0.9789,
+      "box": [
+        115,
+        447,
+        861,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9843,
+      "box": [
+        134,
+        475,
+        632,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in drywall installation basics",
+      "score": 0.9812,
+      "box": [
+        135,
+        500,
+        623,
+        520
+      ]
+    }
+  ]
+}

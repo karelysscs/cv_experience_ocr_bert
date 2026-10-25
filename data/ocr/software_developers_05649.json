@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_05649",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "DAKOTA PARK",
+      "score": 0.9667,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-835-945-1047 |dakota.park@example.com",
+      "score": 0.9771,
+      "box": [
+        117,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2020.11–2023.01",
+      "score": 0.9913,
+      "box": [
+        116,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9749,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9625,
+      "box": [
+        127,
+        340,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2018.09–2020.11",
+      "score": 0.9845,
+      "box": [
+        116,
+        382,
+        682,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9768,
+      "box": [
+        127,
+        407,
+        479,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9798,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Edgewood University, 2023",
+      "score": 0.991,
+      "box": [
+        115,
+        540,
+        461,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Rivercrest University, 2021",
+      "score": 0.9672,
+      "box": [
+        115,
+        565,
+        472,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9937,
+      "box": [
+        134,
+        591,
+        570,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9968,
+      "box": [
+        134,
+        615,
+        598,
+        640
+      ]
+    }
+  ]
+}

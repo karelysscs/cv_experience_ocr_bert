@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_13187",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9776,
+  "lines": [
+    {
+      "text": "VINCENT BARTLETT",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        449,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-586-965-3657 |vincent.bartlett@example.com",
+      "score": 0.955,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9768,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronTrack Contractors, 2021.04–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        290,
+        707,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9654,
+      "box": [
+        126,
+        314,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9869,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Structures, 2019.07–2021.04",
+      "score": 0.9886,
+      "box": [
+        116,
+        382,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.959,
+      "box": [
+        125,
+        406,
+        417,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9802,
+      "box": [
+        126,
+        431,
+        423,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Skyline University, 2018",
+      "score": 0.9757,
+      "box": [
+        116,
+        541,
+        858,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9805,
+      "box": [
+        133,
+        566,
+        613,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction quality control",
+      "score": 0.9846,
+      "box": [
+        133,
+        590,
+        635,
+        613
+      ]
+    }
+  ]
+}

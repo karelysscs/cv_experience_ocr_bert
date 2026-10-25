@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_03319",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "NINA MENDOZA",
+      "score": 0.9848,
+      "box": [
+        115,
+        87,
+        378,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-391-985-8921 |nina.mendoza@example.com",
+      "score": 0.9891,
+      "box": [
+        116,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.05–2023.01",
+      "score": 0.9933,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9826,
+      "box": [
+        127,
+        315,
+        457,
+        338
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9651,
+      "box": [
+        126,
+        338,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2016.06–2019.03",
+      "score": 0.9946,
+      "box": [
+        116,
+        382,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9612,
+      "box": [
+        125,
+        406,
+        373,
+        431
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9731,
+      "box": [
+        126,
+        429,
+        441,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Human Services, Woodview University, 208",
+      "score": 0.9727,
+      "box": [
+        114,
+        539,
+        827,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9946,
+      "box": [
+        133,
+        566,
+        605,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in continence management",
+      "score": 0.9855,
+      "box": [
+        134,
+        590,
+        619,
+        615
+      ]
+    }
+  ]
+}

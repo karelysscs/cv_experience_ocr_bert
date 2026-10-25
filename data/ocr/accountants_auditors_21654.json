@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_21654",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.975,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "CHRISTY PENNINGTON",
+      "score": 0.9947,
+      "box": [
+        117,
+        90,
+        496,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-356-755-8779 |christy.pennington@example.com",
+      "score": 0.9866,
+      "box": [
+        115,
+        150,
+        709,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2020.02–2023.01",
+      "score": 0.9765,
+      "box": [
+        114,
+        289,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9521,
+      "box": [
+        126,
+        314,
+        525,
+        339
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2017.02–2020.02",
+      "score": 0.9938,
+      "box": [
+        115,
+        381,
+        684,
+        406
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9806,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9936,
+      "box": [
+        126,
+        430,
+        494,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Advisors, 2012.06–2015.06",
+      "score": 0.9789,
+      "box": [
+        114,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9723,
+      "box": [
+        126,
+        497,
+        387,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9679,
+      "box": [
+        126,
+        522,
+        405,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2008.07–2011.07",
+      "score": 0.9892,
+      "box": [
+        115,
+        565,
+        711,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9708,
+      "box": [
+        126,
+        590,
+        445,
+        613
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9662,
+      "box": [
+        128,
+        616,
+        370,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Riverstone Ridge University, 2005",
+      "score": 0.9789,
+      "box": [
+        114,
+        723,
+        752,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9927,
+      "box": [
+        132,
+        747,
+        526,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.9894,
+      "box": [
+        134,
+        772,
+        611,
+        797
+      ]
+    }
+  ]
+}

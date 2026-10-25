@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_00084",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "JANE KELLY",
+      "score": 0.9865,
+      "box": [
+        115,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-592-846-9501 |jane.kelly@example.com",
+      "score": 0.9853,
+      "box": [
+        115,
+        150,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2020.11–2023.01",
+      "score": 0.9879,
+      "box": [
+        114,
+        289,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9663,
+      "box": [
+        126,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.98,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2018.08–2020.11",
+      "score": 0.9858,
+      "box": [
+        115,
+        382,
+        752,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9951,
+      "box": [
+        126,
+        405,
+        427,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9667,
+      "box": [
+        126,
+        430,
+        398,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2014.06–2016.09",
+      "score": 0.991,
+      "box": [
+        115,
+        472,
+        708,
+        495
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9764,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9693,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Westbrook University, 2004",
+      "score": 0.9925,
+      "box": [
+        115,
+        632,
+        658,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9837,
+      "box": [
+        132,
+        656,
+        510,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9864,
+      "box": [
+        134,
+        681,
+        625,
+        706
+      ]
+    }
+  ]
+}

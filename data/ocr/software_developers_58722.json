@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_58722",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.772,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "JARRED ZHANG",
+      "score": 0.9827,
+      "box": [
+        116,
+        90,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-519-340-9558|jarred.zhang@example.com",
+      "score": 0.9939,
+      "box": [
+        115,
+        150,
+        661,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2020.09–2021.08",
+      "score": 0.9773,
+      "box": [
+        115,
+        290,
+        625,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9876,
+      "box": [
+        126,
+        314,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9794,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Riverway University, 2015",
+      "score": 0.9876,
+      "box": [
+        114,
+        447,
+        449,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2013",
+      "score": 0.9539,
+      "box": [
+        114,
+        472,
+        473,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in server-side development",
+      "score": 0.9963,
+      "box": [
+        134,
+        499,
+        619,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concurrency",
+      "score": 0.9411,
+      "box": [
+        132,
+        522,
+        492,
+        548
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_09285",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.868,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "AURIELKAUR",
+      "score": 0.9984,
+      "box": [
+        116,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-749-213-8595 | auriel.kaur@example.com",
+      "score": 0.9717,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2021.07–2023.01",
+      "score": 0.9713,
+      "box": [
+        114,
+        289,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9779,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        467,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2020.01–2021.07",
+      "score": 0.9962,
+      "box": [
+        115,
+        382,
+        731,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9807,
+      "box": [
+        125,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9951,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Westfield University, 2023",
+      "score": 0.9834,
+      "box": [
+        115,
+        541,
+        730,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit reporting",
+      "score": 0.9873,
+      "box": [
+        133,
+        565,
+        523,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9797,
+      "box": [
+        134,
+        591,
+        690,
+        614
+      ]
+    }
+  ]
+}

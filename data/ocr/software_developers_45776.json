@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_45776",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "AMBERALI",
+      "score": 0.9954,
+      "box": [
+        115,
+        88,
+        307,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-249-240-3353 |amber.ali@example.com",
+      "score": 0.9684,
+      "box": [
+        116,
+        150,
+        625,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9874,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2019.07–2023.01",
+      "score": 0.9793,
+      "box": [
+        114,
+        288,
+        640,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9855,
+      "box": [
+        126,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9819,
+      "box": [
+        126,
+        339,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2016.01–2019.07",
+      "score": 0.981,
+      "box": [
+        115,
+        382,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9905,
+      "box": [
+        126,
+        407,
+        515,
+        430
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9841,
+      "box": [
+        126,
+        429,
+        351,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2010.08–2014.03",
+      "score": 0.9901,
+      "box": [
+        115,
+        472,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9891,
+      "box": [
+        125,
+        497,
+        352,
+        519
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9813,
+      "box": [
+        126,
+        522,
+        376,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2006.02–2009.09",
+      "score": 0.986,
+      "box": [
+        114,
+        563,
+        645,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9797,
+      "box": [
+        124,
+        588,
+        410,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9899,
+      "box": [
+        127,
+        615,
+        418,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehaven University, 203",
+      "score": 0.9749,
+      "box": [
+        114,
+        723,
+        493,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9637,
+      "box": [
+        132,
+        748,
+        557,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliability",
+      "score": 0.9875,
+      "box": [
+        132,
+        772,
+        507,
+        798
+      ]
+    }
+  ]
+}

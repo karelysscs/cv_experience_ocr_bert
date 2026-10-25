@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_20027",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "BETH BRUCE",
+      "score": 0.9626,
+      "box": [
+        115,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA|+1-999-736-2306 |beth.bruce@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Roots Academy, 2020.08–2023.01",
+      "score": 0.9815,
+      "box": [
+        114,
+        289,
+        870,
+        314
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9683,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9823,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2015.04–2017.09",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        890,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9919,
+      "box": [
+        126,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9703,
+      "box": [
+        126,
+        431,
+        645,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Prairie Ridge University, 27",
+      "score": 0.9811,
+      "box": [
+        114,
+        539,
+        744,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9877,
+      "box": [
+        133,
+        565,
+        626,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9677,
+      "box": [
+        134,
+        592,
+        588,
+        612
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_15544",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.887,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "JESSE GILL",
+      "score": 0.9911,
+      "box": [
+        115,
+        88,
+        313,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA|+1-520-543-2226|jesse.gill@example.com",
+      "score": 0.9859,
+      "box": [
+        116,
+        150,
+        621,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2021.03–2023.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        290,
+        732,
+        312
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9899,
+      "box": [
+        127,
+        315,
+        465,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.97,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2016.06–2018.05",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        737,
+        406
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9653,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9746,
+      "box": [
+        127,
+        432,
+        425,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Parkview High School, 2016",
+      "score": 0.9832,
+      "box": [
+        116,
+        541,
+        837,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic window installation",
+      "score": 0.9859,
+      "box": [
+        134,
+        566,
+        619,
+        589
+      ]
+    }
+  ]
+}

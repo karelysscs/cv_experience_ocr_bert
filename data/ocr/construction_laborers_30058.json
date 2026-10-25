@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_30058",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.878,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "GIOVANNI DOUGLAS",
+      "score": 0.9829,
+      "box": [
+        117,
+        90,
+        459,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-307-208-6371 | giovanni.douglas@example.com",
+      "score": 0.9671,
+      "box": [
+        116,
+        151,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2021.07–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9599,
+      "box": [
+        125,
+        314,
+        475,
+        337
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9748,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Builders, 2019.12–2021.07",
+      "score": 0.9847,
+      "box": [
+        116,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9817,
+      "box": [
+        126,
+        407,
+        425,
+        430
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9525,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Clear Ridge High School, 2018",
+      "score": 0.9878,
+      "box": [
+        116,
+        541,
+        820,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9846,
+      "box": [
+        135,
+        567,
+        630,
+        587
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "software_developers_01378",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.941,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "ERIN STRONG",
+      "score": 0.96,
+      "box": [
+        116,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-465-837-7709|erin.strong@example.com",
+      "score": 0.979,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2019.04–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        289,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9835,
+      "box": [
+        126,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9829,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2015.07–2019.04",
+      "score": 0.9855,
+      "box": [
+        115,
+        381,
+        619,
+        406
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9833,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9891,
+      "box": [
+        126,
+        431,
+        481,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2011.10–2015.07",
+      "score": 0.9841,
+      "box": [
+        115,
+        472,
+        630,
+        495
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.986,
+      "box": [
+        124,
+        496,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9739,
+      "box": [
+        126,
+        521,
+        431,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2005.05–2009.02",
+      "score": 0.9896,
+      "box": [
+        115,
+        563,
+        686,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9898,
+      "box": [
+        125,
+        589,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9694,
+      "box": [
+        126,
+        613,
+        332,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Redwood High School, 1998",
+      "score": 0.9786,
+      "box": [
+        116,
+        725,
+        641,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9914,
+      "box": [
+        133,
+        749,
+        713,
+        772
+      ]
+    }
+  ]
+}

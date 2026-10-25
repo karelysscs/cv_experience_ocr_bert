@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_52141",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9773,
+  "lines": [
+    {
+      "text": "VALERIE WARD",
+      "score": 0.9734,
+      "box": [
+        115,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-418-257-8662 |valerie.ward@example.com",
+      "score": 0.9738,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2020.08–2023.01",
+      "score": 0.9871,
+      "box": [
+        116,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9774,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9592,
+      "box": [
+        126,
+        339,
+        395,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2015.05–2017.11",
+      "score": 0.9799,
+      "box": [
+        115,
+        381,
+        652,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.957,
+      "box": [
+        126,
+        406,
+        391,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9822,
+      "box": [
+        126,
+        431,
+        501,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Windfield University, 2004",
+      "score": 0.9655,
+      "box": [
+        115,
+        541,
+        467,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of deployment pipelines",
+      "score": 0.9751,
+      "box": [
+        132,
+        564,
+        575,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.9879,
+      "box": [
+        133,
+        591,
+        594,
+        615
+      ]
+    }
+  ]
+}

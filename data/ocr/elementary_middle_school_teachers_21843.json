@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_21843",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.824,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "HUNTER KOCH",
+      "score": 0.9776,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-331-257-9367 |hunter.koch@example.com",
+      "score": 0.9894,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Start School, 2021.04–2023.01",
+      "score": 0.9696,
+      "box": [
+        116,
+        290,
+        799,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9869,
+      "box": [
+        126,
+        315,
+        460,
+        338
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9791,
+      "box": [
+        127,
+        340,
+        667,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Teaching Studies, Forestview University, 2023",
+      "score": 0.9815,
+      "box": [
+        115,
+        447,
+        798,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of special education awareness",
+      "score": 0.9933,
+      "box": [
+        132,
+        472,
+        647,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9811,
+      "box": [
+        134,
+        499,
+        604,
+        523
+      ]
+    }
+  ]
+}

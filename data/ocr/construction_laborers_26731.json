@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_26731",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "JAIME PAYNE",
+      "score": 0.9896,
+      "box": [
+        116,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-643-606-6809 |jaime.payne@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2020.03–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9818,
+      "box": [
+        126,
+        314,
+        422,
+        339
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9785,
+      "box": [
+        127,
+        340,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Group, 2017.04–2020.03",
+      "score": 0.9952,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9855,
+      "box": [
+        125,
+        405,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9747,
+      "box": [
+        126,
+        431,
+        414,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2014.05–2017.04",
+      "score": 0.9807,
+      "box": [
+        116,
+        472,
+        717,
+        496
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9798,
+      "box": [
+        126,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "–Mixed concrete and mortar",
+      "score": 0.9735,
+      "box": [
+        126,
+        522,
+        391,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Workflow, Wesfield High School, 2012",
+      "score": 0.9944,
+      "box": [
+        115,
+        631,
+        859,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of job site efficiency",
+      "score": 0.9783,
+      "box": [
+        132,
+        656,
+        500,
+        681
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_48803",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.842,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "JONATHON MIDDLETON",
+      "score": 0.987,
+      "box": [
+        117,
+        90,
+        512,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-791-737-2756 |jonathon.middleton@example.com",
+      "score": 0.9714,
+      "box": [
+        115,
+        150,
+        717,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2020.07–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        289,
+        658,
+        314
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9776,
+      "box": [
+        125,
+        313,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        447,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2018.01–2020.07",
+      "score": 0.9916,
+      "box": [
+        115,
+        381,
+        678,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9908,
+      "box": [
+        126,
+        406,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9703,
+      "box": [
+        126,
+        432,
+        355,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2013.03–2015.10",
+      "score": 0.9905,
+      "box": [
+        116,
+        472,
+        642,
+        495
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9782,
+      "box": [
+        127,
+        498,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9792,
+      "box": [
+        126,
+        521,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowfield University, 2007",
+      "score": 0.9849,
+      "box": [
+        115,
+        632,
+        499,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9847,
+      "box": [
+        132,
+        656,
+        498,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.993,
+      "box": [
+        133,
+        681,
+        484,
+        707
+      ]
+    }
+  ]
+}

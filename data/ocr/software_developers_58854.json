@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_58854",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.854,
+  "mean_conf": 0.9856,
+  "lines": [
+    {
+      "text": "JACK POLLARD",
+      "score": 0.9772,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "WA,USA|+1-543-349-3264|jack.pollard@example.com",
+      "score": 0.9789,
+      "box": [
+        114,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2020.12–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9814,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2018.11–2020.12",
+      "score": 0.9932,
+      "box": [
+        116,
+        382,
+        634,
+        405
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9834,
+      "box": [
+        125,
+        405,
+        396,
+        430
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9875,
+      "box": [
+        126,
+        432,
+        376,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2016.10–2018.11",
+      "score": 0.9862,
+      "box": [
+        116,
+        472,
+        661,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9904,
+      "box": [
+        125,
+        496,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9825,
+      "box": [
+        126,
+        521,
+        436,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookstone University, 2020",
+      "score": 0.9727,
+      "box": [
+        115,
+        632,
+        487,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9835,
+      "box": [
+        132,
+        656,
+        547,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of functional programming",
+      "score": 0.9886,
+      "box": [
+        134,
+        681,
+        559,
+        707
+      ]
+    }
+  ]
+}

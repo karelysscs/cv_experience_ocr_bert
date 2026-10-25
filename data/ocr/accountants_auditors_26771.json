@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_26771",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.802,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "ZACHARY CHAN",
+      "score": 0.9581,
+      "box": [
+        115,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-259-953-6394|zachary.chan@example.com",
+      "score": 0.9943,
+      "box": [
+        116,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2020.07–202.01",
+      "score": 0.9711,
+      "box": [
+        114,
+        289,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9929,
+      "box": [
+        126,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.99,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Operations Management, Ironwood University, 2018",
+      "score": 0.9805,
+      "box": [
+        115,
+        449,
+        689,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Cedarfield University, 2016",
+      "score": 0.9851,
+      "box": [
+        115,
+        474,
+        618,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.9907,
+      "box": [
+        133,
+        498,
+        547,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9877,
+      "box": [
+        133,
+        523,
+        585,
+        548
+      ]
+    }
+  ]
+}

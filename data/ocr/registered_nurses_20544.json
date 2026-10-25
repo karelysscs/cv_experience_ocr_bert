@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_20544",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.898,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "JENNIFERCASE",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-839-228-9893 |jennifer.case@example.com",
+      "score": 0.9691,
+      "box": [
+        117,
+        150,
+        650,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2019.11–2023.01",
+      "score": 0.9834,
+      "box": [
+        116,
+        290,
+        729,
+        313
+      ]
+    },
+    {
+      "text": "– Managed clinical risk assessments",
+      "score": 0.9673,
+      "box": [
+        127,
+        315,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2015.03–2018.06",
+      "score": 0.9857,
+      "box": [
+        115,
+        381,
+        662,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.992,
+      "box": [
+        126,
+        407,
+        478,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        499,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2010.07–2013.10",
+      "score": 0.9898,
+      "box": [
+        116,
+        473,
+        675,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9511,
+      "box": [
+        125,
+        496,
+        409,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9755,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Forestview University, 2005",
+      "score": 0.9879,
+      "box": [
+        115,
+        631,
+        610,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9823,
+      "box": [
+        134,
+        658,
+        657,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9861,
+      "box": [
+        134,
+        681,
+        557,
+        706
+      ]
+    }
+  ]
+}

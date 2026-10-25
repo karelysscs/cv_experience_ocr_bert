@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_39828",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.925,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "ALEXANDERCROSS",
+      "score": 0.9967,
+      "box": [
+        116,
+        88,
+        454,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA|+1-614-613-8229|alexander.cross@example.com",
+      "score": 0.9781,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2020.12–2023.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.96,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.985,
+      "box": [
+        127,
+        340,
+        487,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2018.10–2020.12",
+      "score": 0.9913,
+      "box": [
+        116,
+        381,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9945,
+      "box": [
+        126,
+        408,
+        385,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9715,
+      "box": [
+        125,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Group, 2014.12–2017.02",
+      "score": 0.9837,
+      "box": [
+        116,
+        472,
+        700,
+        496
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9677,
+      "box": [
+        126,
+        498,
+        476,
+        522
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9836,
+      "box": [
+        126,
+        521,
+        439,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Electrical Technology, Harvest University, 2012",
+      "score": 0.9782,
+      "box": [
+        114,
+        631,
+        743,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9764,
+      "box": [
+        132,
+        656,
+        537,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9911,
+      "box": [
+        133,
+        681,
+        623,
+        706
+      ]
+    }
+  ]
+}

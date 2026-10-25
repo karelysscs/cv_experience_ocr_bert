@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_22456",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.844,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "KAELA GROSS",
+      "score": 0.9718,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-904-696-8944 |kaela.gross@example.com",
+      "score": 0.972,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9788,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2019.08–2022.07",
+      "score": 0.9856,
+      "box": [
+        116,
+        290,
+        835,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained classroom attendance and grading records",
+      "score": 0.9779,
+      "box": [
+        125,
+        314,
+        645,
+        338
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9836,
+      "box": [
+        127,
+        340,
+        408,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Clearstone University, 2017",
+      "score": 0.979,
+      "box": [
+        114,
+        447,
+        667,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.982,
+      "box": [
+        133,
+        472,
+        625,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9919,
+      "box": [
+        133,
+        498,
+        661,
+        523
+      ]
+    }
+  ]
+}

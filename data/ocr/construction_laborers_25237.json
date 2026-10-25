@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_25237",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.803,
+  "mean_conf": 0.9774,
+  "lines": [
+    {
+      "text": "SEAN PETERSEN",
+      "score": 0.9708,
+      "box": [
+        116,
+        90,
+        400,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-984-313-1144 |sean.petersen@example.com",
+      "score": 0.976,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2020.02–2023.01",
+      "score": 0.9835,
+      "box": [
+        115,
+        290,
+        715,
+        312
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9884,
+      "box": [
+        126,
+        314,
+        503,
+        339
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9776,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Windridge University, 2022",
+      "score": 0.9731,
+      "box": [
+        116,
+        449,
+        916,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic carpentry",
+      "score": 0.9521,
+      "box": [
+        132,
+        473,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9764,
+      "box": [
+        134,
+        499,
+        486,
+        522
+      ]
+    }
+  ]
+}

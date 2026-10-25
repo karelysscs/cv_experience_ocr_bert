@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22742",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.788,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "IESHA DYER",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        322,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-941-894-2565|iesha.dyer@example.com",
+      "score": 0.992,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2018.07–2020.07",
+      "score": 0.9875,
+      "box": [
+        116,
+        290,
+        709,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9795,
+      "box": [
+        126,
+        315,
+        399,
+        338
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9676,
+      "box": [
+        126,
+        337,
+        384,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Practical Nursing, Stonefield University, 2014",
+      "score": 0.9876,
+      "box": [
+        116,
+        449,
+        722,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surgical nursing",
+      "score": 0.9799,
+      "box": [
+        132,
+        472,
+        525,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9718,
+      "box": [
+        134,
+        499,
+        570,
+        523
+      ]
+    }
+  ]
+}

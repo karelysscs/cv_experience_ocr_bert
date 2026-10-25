@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_16617",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.822,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "JESSICA MATHIS",
+      "score": 0.9899,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-655-795-9222 |jessica.mathis@example.com",
+      "score": 0.9764,
+      "box": [
+        116,
+        151,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2021.01–2023.01",
+      "score": 0.9839,
+      "box": [
+        116,
+        290,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9771,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Care Group, 2019.01–2021.01",
+      "score": 0.9824,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9428,
+      "box": [
+        127,
+        407,
+        381,
+        430
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9808,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2015.11–2017.11",
+      "score": 0.9917,
+      "box": [
+        116,
+        472,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9929,
+      "box": [
+        126,
+        498,
+        527,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.95,
+      "box": [
+        126,
+        521,
+        530,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Prairie View University, 2012",
+      "score": 0.991,
+      "box": [
+        114,
+        631,
+        708,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonpharmacologic pain relief",
+      "score": 0.9863,
+      "box": [
+        134,
+        658,
+        657,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.9931,
+      "box": [
+        135,
+        682,
+        549,
+        705
+      ]
+    }
+  ]
+}

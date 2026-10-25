@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_15069",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.893,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "JON WALL",
+      "score": 0.9755,
+      "box": [
+        114,
+        88,
+        294,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-415-710-4340 |jon.wall@example.com",
+      "score": 0.9684,
+      "box": [
+        116,
+        151,
+        612,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2020.05–2023.01",
+      "score": 0.9819,
+      "box": [
+        114,
+        289,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9754,
+      "box": [
+        125,
+        313,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9908,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2017.09–2020.05",
+      "score": 0.9683,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9882,
+      "box": [
+        125,
+        406,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9939,
+      "box": [
+        127,
+        433,
+        367,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Field Operations, Highland University, 2016",
+      "score": 0.9901,
+      "box": [
+        115,
+        539,
+        894,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9584,
+      "box": [
+        132,
+        565,
+        602,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of structural bracing",
+      "score": 0.9787,
+      "box": [
+        132,
+        590,
+        501,
+        615
+      ]
+    }
+  ]
+}

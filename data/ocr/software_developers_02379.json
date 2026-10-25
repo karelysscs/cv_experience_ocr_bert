@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_02379",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.985,
+  "lines": [
+    {
+      "text": "JOSHUA MACK",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-247-336-3116|joshua.mack@example.com",
+      "score": 0.9833,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2020.06–2022.06",
+      "score": 0.9816,
+      "box": [
+        114,
+        289,
+        638,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9742,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9795,
+      "box": [
+        126,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2017.12–2019.12",
+      "score": 0.9902,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9895,
+      "box": [
+        126,
+        408,
+        346,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9944,
+      "box": [
+        126,
+        431,
+        604,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Greenfield Ridge University, 2012",
+      "score": 0.9859,
+      "box": [
+        115,
+        541,
+        520,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2010",
+      "score": 0.975,
+      "box": [
+        115,
+        566,
+        504,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9924,
+      "box": [
+        132,
+        590,
+        599,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.979,
+      "box": [
+        134,
+        616,
+        472,
+        639
+      ]
+    }
+  ]
+}

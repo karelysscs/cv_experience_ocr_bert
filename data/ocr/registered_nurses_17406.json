@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_17406",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "APRIL MCKAY",
+      "score": 0.9607,
+      "box": [
+        114,
+        87,
+        352,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA|+1-564-344-5919|april.mckay@example.com",
+      "score": 0.9837,
+      "box": [
+        116,
+        152,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2021.01–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "-Directed care coordination strategies",
+      "score": 0.9978,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.967,
+      "box": [
+        126,
+        339,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2019.01–2021.01",
+      "score": 0.9786,
+      "box": [
+        116,
+        382,
+        640,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9668,
+      "box": [
+        125,
+        406,
+        425,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9793,
+      "box": [
+        126,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2014.05–2016.06",
+      "score": 0.9824,
+      "box": [
+        115,
+        471,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9762,
+      "box": [
+        125,
+        496,
+        436,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9499,
+      "box": [
+        126,
+        521,
+        390,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Willowstone University, 2005",
+      "score": 0.9874,
+      "box": [
+        114,
+        631,
+        689,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in continence management",
+      "score": 0.9971,
+      "box": [
+        134,
+        658,
+        619,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9874,
+      "box": [
+        133,
+        681,
+        538,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21457",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "ANN NELSON",
+      "score": 0.9312,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-226-924-7734 |ann.nelson@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2020.07–2023.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        289,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9819,
+      "box": [
+        126,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9801,
+      "box": [
+        127,
+        340,
+        457,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2018.01–2020.07",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9862,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9711,
+      "box": [
+        126,
+        430,
+        572,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2014.05–2016.12",
+      "score": 0.9826,
+      "box": [
+        116,
+        473,
+        739,
+        497
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9858,
+      "box": [
+        126,
+        498,
+        488,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9855,
+      "box": [
+        126,
+        521,
+        424,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Health Group, 2011.02–2013.09",
+      "score": 0.9821,
+      "box": [
+        116,
+        565,
+        690,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.98,
+      "box": [
+        126,
+        590,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9783,
+      "box": [
+        126,
+        613,
+        431,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Forestview University, 2004",
+      "score": 0.9772,
+      "box": [
+        114,
+        723,
+        692,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9722,
+      "box": [
+        132,
+        747,
+        574,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9783,
+      "box": [
+        133,
+        772,
+        551,
+        798
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_59911",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.877,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "DANIEL SHAH",
+      "score": 0.9752,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-221-722-2404|daniel.shah@example.com",
+      "score": 0.9847,
+      "box": [
+        114,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2021.07–2023.01",
+      "score": 0.9932,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9838,
+      "box": [
+        125,
+        314,
+        467,
+        339
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2018.10–2020.04",
+      "score": 0.98,
+      "box": [
+        115,
+        382,
+        745,
+        405
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9814,
+      "box": [
+        126,
+        408,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9718,
+      "box": [
+        125,
+        431,
+        445,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Fairfield University, 2009",
+      "score": 0.9808,
+      "box": [
+        115,
+        541,
+        639,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Silver Creek University, 2007",
+      "score": 0.9801,
+      "box": [
+        114,
+        565,
+        730,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of sampling techniques",
+      "score": 0.9684,
+      "box": [
+        132,
+        590,
+        533,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9922,
+      "box": [
+        135,
+        616,
+        551,
+        639
+      ]
+    }
+  ]
+}

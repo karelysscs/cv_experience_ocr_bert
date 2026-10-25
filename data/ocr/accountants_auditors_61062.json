@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_61062",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.847,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "MICHAEL SMITH",
+      "score": 0.9885,
+      "box": [
+        116,
+        90,
+        384,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-429-296-4450|michael.smith@example.com",
+      "score": 0.9884,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2021.04–2023.01",
+      "score": 0.9893,
+      "box": [
+        115,
+        289,
+        687,
+        312
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9762,
+      "box": [
+        126,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9698,
+      "box": [
+        126,
+        339,
+        491,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2019.06–2021.04",
+      "score": 0.9895,
+      "box": [
+        114,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.98,
+      "box": [
+        126,
+        406,
+        384,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9838,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Elmwood University, 2023",
+      "score": 0.9782,
+      "box": [
+        114,
+        539,
+        688,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9735,
+      "box": [
+        133,
+        566,
+        529,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9939,
+      "box": [
+        132,
+        590,
+        645,
+        615
+      ]
+    }
+  ]
+}

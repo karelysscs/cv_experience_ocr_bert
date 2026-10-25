@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_01015",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.04,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "JOSEPH DELACRUZ",
+      "score": 0.9898,
+      "box": [
+        116,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-521-517-8628|joseph.delacruz@example.com",
+      "score": 0.9907,
+      "box": [
+        116,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2019.08–2023.01",
+      "score": 0.9835,
+      "box": [
+        114,
+        289,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9856,
+      "box": [
+        126,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9792,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2016.03–2019.08",
+      "score": 0.99,
+      "box": [
+        115,
+        381,
+        737,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9839,
+      "box": [
+        127,
+        407,
+        525,
+        430
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9747,
+      "box": [
+        126,
+        431,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2010.12–2014.05",
+      "score": 0.9765,
+      "box": [
+        114,
+        471,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9889,
+      "box": [
+        127,
+        497,
+        460,
+        520
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9847,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2006.12–210.06",
+      "score": 0.9953,
+      "box": [
+        115,
+        565,
+        697,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9753,
+      "box": [
+        125,
+        589,
+        382,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9541,
+      "box": [
+        126,
+        612,
+        555,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Elmwood Ridge University, 2005",
+      "score": 0.9794,
+      "box": [
+        115,
+        724,
+        726,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Skyview University, 2003",
+      "score": 0.9701,
+      "box": [
+        114,
+        747,
+        648,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.978,
+      "box": [
+        132,
+        772,
+        584,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.974,
+      "box": [
+        134,
+        799,
+        563,
+        823
+      ]
+    }
+  ]
+}

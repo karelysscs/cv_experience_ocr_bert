@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_24862",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.929,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "HARVEY YU",
+      "score": 0.9837,
+      "box": [
+        115,
+        90,
+        313,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-484-345-7180|harvey.yu@example.com",
+      "score": 0.9924,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2020.02–2023.01",
+      "score": 0.9828,
+      "box": [
+        114,
+        289,
+        763,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9842,
+      "box": [
+        125,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9858,
+      "box": [
+        126,
+        338,
+        393,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2015.03–2018.02",
+      "score": 0.9771,
+      "box": [
+        115,
+        382,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9578,
+      "box": [
+        126,
+        406,
+        433,
+        431
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9876,
+      "box": [
+        126,
+        431,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2011.04–2014.03",
+      "score": 0.9841,
+      "box": [
+        115,
+        472,
+        726,
+        496
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9875,
+      "box": [
+        125,
+        496,
+        549,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9963,
+      "box": [
+        126,
+        521,
+        518,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Windfield University, 2011",
+      "score": 0.9883,
+      "box": [
+        116,
+        632,
+        656,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9721,
+      "box": [
+        132,
+        656,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9502,
+      "box": [
+        134,
+        681,
+        548,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_56878",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.763,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "MARIO OBRIEN",
+      "score": 0.971,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-559-700-5472 |mario.obrien@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2020.06–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9789,
+      "box": [
+        126,
+        315,
+        376,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9852,
+      "box": [
+        126,
+        339,
+        355,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 2018",
+      "score": 0.9862,
+      "box": [
+        114,
+        447,
+        493,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.9829,
+      "box": [
+        132,
+        472,
+        594,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9846,
+      "box": [
+        134,
+        499,
+        607,
+        522
+      ]
+    }
+  ]
+}

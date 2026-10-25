@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_11649",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.932,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "KAITLIN DELACRUZ",
+      "score": 0.9845,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "DE, USA|+1-413-611-2211 |kaitlin.delacruz@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9762,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2019.02–2022.01",
+      "score": 0.9764,
+      "box": [
+        116,
+        290,
+        805,
+        313
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9575,
+      "box": [
+        125,
+        313,
+        544,
+        338
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9743,
+      "box": [
+        126,
+        339,
+        686,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds School, 2014.09–2017.09",
+      "score": 0.9851,
+      "box": [
+        116,
+        382,
+        810,
+        405
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9839,
+      "box": [
+        127,
+        408,
+        462,
+        432
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9918,
+      "box": [
+        125,
+        430,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Woodland University, 2006",
+      "score": 0.9904,
+      "box": [
+        114,
+        539,
+        699,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9895,
+      "box": [
+        133,
+        565,
+        660,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom learning outcomes",
+      "score": 0.9925,
+      "box": [
+        133,
+        590,
+        614,
+        615
+      ]
+    }
+  ]
+}

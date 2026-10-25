@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_57264",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.999,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "RYAN MULLINS",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-202-340-1412 |ryan.mullins@example.com",
+      "score": 0.9796,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2020.07–2023.01",
+      "score": 0.9643,
+      "box": [
+        114,
+        288,
+        645,
+        313
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.969,
+      "box": [
+        126,
+        315,
+        375,
+        338
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9522,
+      "box": [
+        127,
+        340,
+        379,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2018.01–2020.07",
+      "score": 0.9711,
+      "box": [
+        115,
+        381,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9898,
+      "box": [
+        126,
+        405,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9821,
+      "box": [
+        127,
+        432,
+        499,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2015.06–2018.01",
+      "score": 0.9842,
+      "box": [
+        115,
+        471,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9816,
+      "box": [
+        125,
+        496,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Designed service interfaces",
+      "score": 0.9737,
+      "box": [
+        126,
+        521,
+        400,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2012.11–2015.06",
+      "score": 0.9802,
+      "box": [
+        115,
+        563,
+        652,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9952,
+      "box": [
+        125,
+        588,
+        502,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9779,
+      "box": [
+        127,
+        615,
+        604,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Pebble Creek University, 2010",
+      "score": 0.983,
+      "box": [
+        116,
+        726,
+        489,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyline University, 2008",
+      "score": 0.9704,
+      "box": [
+        114,
+        747,
+        449,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9842,
+      "box": [
+        133,
+        774,
+        674,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9894,
+      "box": [
+        133,
+        800,
+        575,
+        820
+      ]
+    }
+  ]
+}

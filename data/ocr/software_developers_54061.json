@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_54061",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "LUIGI TRUONG",
+      "score": 0.9797,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-226-704-8795|luigi.truong@example.com",
+      "score": 0.9678,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Digital, 2019.10–2023.01",
+      "score": 0.9806,
+      "box": [
+        115,
+        288,
+        655,
+        314
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9706,
+      "box": [
+        126,
+        315,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9646,
+      "box": [
+        127,
+        340,
+        496,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2016.07–2019.10",
+      "score": 0.9832,
+      "box": [
+        115,
+        381,
+        624,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9948,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9894,
+      "box": [
+        125,
+        431,
+        449,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2013.03–2016.07",
+      "score": 0.9788,
+      "box": [
+        116,
+        472,
+        654,
+        496
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9881,
+      "box": [
+        126,
+        498,
+        422,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9811,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2009.11–2013.03",
+      "score": 0.9939,
+      "box": [
+        115,
+        563,
+        651,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9712,
+      "box": [
+        125,
+        589,
+        477,
+        612
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9842,
+      "box": [
+        126,
+        613,
+        400,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Foxwood University, 2009",
+      "score": 0.9795,
+      "box": [
+        114,
+        723,
+        466,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.955,
+      "box": [
+        132,
+        748,
+        617,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9779,
+      "box": [
+        134,
+        773,
+        594,
+        798
+      ]
+    }
+  ]
+}

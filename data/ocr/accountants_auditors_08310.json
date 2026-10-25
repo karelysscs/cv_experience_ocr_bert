@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_08310",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.945,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "EDDIE NICHOLSON",
+      "score": 0.9914,
+      "box": [
+        117,
+        90,
+        430,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-979-884-2904 |eddie.nicholson@example.com",
+      "score": 0.9895,
+      "box": [
+        117,
+        151,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2019.12–2023.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9761,
+      "box": [
+        125,
+        314,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9898,
+      "box": [
+        126,
+        338,
+        453,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Advisors, 2016.11–2019.12",
+      "score": 0.9855,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9861,
+      "box": [
+        126,
+        407,
+        512,
+        430
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9683,
+      "box": [
+        127,
+        432,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2013.10–2016.11",
+      "score": 0.9743,
+      "box": [
+        115,
+        472,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9862,
+      "box": [
+        125,
+        496,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.967,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2010.09–2013.10",
+      "score": 0.9813,
+      "box": [
+        114,
+        563,
+        701,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9717,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9886,
+      "box": [
+        125,
+        613,
+        481,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Riverbend University, 2011",
+      "score": 0.9835,
+      "box": [
+        114,
+        723,
+        679,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.9787,
+      "box": [
+        134,
+        750,
+        607,
+        770
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of substantive testing",
+      "score": 0.9784,
+      "box": [
+        133,
+        772,
+        551,
+        797
+      ]
+    }
+  ]
+}

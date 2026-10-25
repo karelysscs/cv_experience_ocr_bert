@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_20989",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "JESSICA MCLEAN",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-441-464-9435 |jessica.mclean@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2019.08–2021.10",
+      "score": 0.9714,
+      "box": [
+        114,
+        289,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9668,
+      "box": [
+        125,
+        313,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2016.04–2018.06",
+      "score": 0.9918,
+      "box": [
+        115,
+        382,
+        756,
+        404
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9784,
+      "box": [
+        127,
+        408,
+        371,
+        429
+      ]
+    },
+    {
+      "text": "-Tracked budget expenditures",
+      "score": 0.988,
+      "box": [
+        125,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Information Systems, Driftwood University, 2005",
+      "score": 0.9899,
+      "box": [
+        114,
+        539,
+        750,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9649,
+      "box": [
+        132,
+        565,
+        527,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9723,
+      "box": [
+        133,
+        591,
+        565,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_61269",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.927,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "MICHAEL KLEIN",
+      "score": 0.9863,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "WI,USA|+1-931-248-9928|michael.klein@example.com",
+      "score": 0.9815,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2021.03–2023.01",
+      "score": 0.9768,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9725,
+      "box": [
+        125,
+        313,
+        544,
+        339
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9658,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2018.02–2020.01",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        717,
+        405
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9937,
+      "box": [
+        126,
+        407,
+        465,
+        431
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9788,
+      "box": [
+        126,
+        431,
+        540,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Fairview Ridge High School, 2004",
+      "score": 0.9832,
+      "box": [
+        116,
+        541,
+        890,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction quality assurance",
+      "score": 0.9739,
+      "box": [
+        132,
+        564,
+        660,
+        590
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_11514",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.934,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "ANNEWYATT",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        341,
+        120
+      ]
+    },
+    {
+      "text": "DE, USA|+1-482-977-4886|anne.wyatt@example.com",
+      "score": 0.9729,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9755,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2021.03–2023.0",
+      "score": 0.9801,
+      "box": [
+        115,
+        289,
+        884,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9743,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9791,
+      "box": [
+        127,
+        340,
+        685,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2019.04–2021.03",
+      "score": 0.9786,
+      "box": [
+        116,
+        382,
+        812,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9824,
+      "box": [
+        126,
+        406,
+        716,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9853,
+      "box": [
+        126,
+        431,
+        339,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9978,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Student Learning Studies, Summit University, 2023",
+      "score": 0.9721,
+      "box": [
+        115,
+        539,
+        840,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of student support systems",
+      "score": 0.9809,
+      "box": [
+        132,
+        565,
+        569,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9886,
+      "box": [
+        134,
+        592,
+        581,
+        612
+      ]
+    }
+  ]
+}

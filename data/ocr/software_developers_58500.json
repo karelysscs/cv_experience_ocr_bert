@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_58500",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "RAY BARRETT",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        358,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-859-592-4550|ray.barrett@example.com",
+      "score": 0.9808,
+      "box": [
+        114,
+        150,
+        641,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2021.03–2023.01",
+      "score": 0.9879,
+      "box": [
+        115,
+        289,
+        681,
+        314
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9824,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9919,
+      "box": [
+        126,
+        339,
+        542,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2018.03–2020.02",
+      "score": 0.9886,
+      "box": [
+        116,
+        382,
+        650,
+        405
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9648,
+      "box": [
+        127,
+        408,
+        340,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9781,
+      "box": [
+        127,
+        432,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Clearbrook University, 2015",
+      "score": 0.9642,
+      "box": [
+        115,
+        541,
+        466,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 2013",
+      "score": 0.9716,
+      "box": [
+        115,
+        566,
+        471,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of versioning strategies",
+      "score": 0.9863,
+      "box": [
+        132,
+        590,
+        533,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9716,
+      "box": [
+        133,
+        615,
+        690,
+        640
+      ]
+    }
+  ]
+}

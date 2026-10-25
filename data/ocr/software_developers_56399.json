@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_56399",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.882,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "JASON MASON",
+      "score": 0.9881,
+      "box": [
+        116,
+        90,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-683-818-4606 |jason.mason@example.com",
+      "score": 0.9795,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2020.07–2023.01",
+      "score": 0.9824,
+      "box": [
+        115,
+        289,
+        656,
+        314
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9657,
+      "box": [
+        126,
+        314,
+        461,
+        339
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2016.12–2019.06",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Designed Ul workflows",
+      "score": 0.9735,
+      "box": [
+        127,
+        408,
+        354,
+        429
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9821,
+      "box": [
+        126,
+        430,
+        390,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Stonewave Software, 2013.05–2015.11",
+      "score": 0.9939,
+      "box": [
+        116,
+        472,
+        687,
+        495
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9842,
+      "box": [
+        125,
+        496,
+        501,
+        521
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9824,
+      "box": [
+        126,
+        521,
+        382,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowview University, 2006",
+      "score": 0.9635,
+      "box": [
+        115,
+        632,
+        484,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in data mining basics",
+      "score": 0.9923,
+      "box": [
+        134,
+        658,
+        562,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.9828,
+      "box": [
+        133,
+        681,
+        644,
+        707
+      ]
+    }
+  ]
+}

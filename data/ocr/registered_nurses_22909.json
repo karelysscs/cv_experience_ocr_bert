@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22909",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.789,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "KAYLA ROBERSON",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA|+1-847-444-8488 |kayla.roberson@example.com",
+      "score": 0.9842,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9742,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Care Group, 2021.08–2023.01",
+      "score": 0.9799,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9915,
+      "box": [
+        125,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9622,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Clinical Studies, Brookridge University, 2020",
+      "score": 0.9778,
+      "box": [
+        116,
+        449,
+        780,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9806,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9814,
+      "box": [
+        134,
+        499,
+        593,
+        522
+      ]
+    }
+  ]
+}

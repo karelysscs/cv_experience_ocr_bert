@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_11938",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "MARIAH OLIVER",
+      "score": 0.9652,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-358-742-4214 |mariah.oliver@example.com",
+      "score": 0.9691,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9732,
+      "box": [
+        114,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.07–2023.01",
+      "score": 0.976,
+      "box": [
+        115,
+        290,
+        816,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9934,
+      "box": [
+        126,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        656,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Northfield University, 2022",
+      "score": 0.9691,
+      "box": [
+        114,
+        447,
+        728,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9836,
+      "box": [
+        132,
+        472,
+        603,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9903,
+      "box": [
+        135,
+        500,
+        623,
+        520
+      ]
+    }
+  ]
+}

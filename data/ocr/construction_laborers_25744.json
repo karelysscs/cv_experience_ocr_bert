@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_25744",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.809,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "VERLYN MILLER",
+      "score": 0.9814,
+      "box": [
+        116,
+        90,
+        387,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-865-793-1354 |verlyn.miller@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2021.08–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        739,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.98,
+      "box": [
+        125,
+        314,
+        583,
+        339
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9577,
+      "box": [
+        127,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Structural Technology, Evergreen University, 2019",
+      "score": 0.9857,
+      "box": [
+        116,
+        449,
+        834,
+        472
+      ]
+    },
+    {
+      "text": "•Completed coursework in framing hardware usage",
+      "score": 0.9648,
+      "box": [
+        132,
+        472,
+        615,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9722,
+      "box": [
+        132,
+        497,
+        540,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_07154",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.831,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "JONATHAN FROST",
+      "score": 0.9906,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-783-340-9051 |jonathan.frost@example.com",
+      "score": 0.9792,
+      "box": [
+        117,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2020.04–2023.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        396,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2017.07–2020.04",
+      "score": 0.9913,
+      "box": [
+        116,
+        382,
+        632,
+        405
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9703,
+      "box": [
+        125,
+        406,
+        375,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9453,
+      "box": [
+        126,
+        430,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakridge University, 2019",
+      "score": 0.967,
+      "box": [
+        115,
+        541,
+        466,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9807,
+      "box": [
+        133,
+        566,
+        502,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9754,
+      "box": [
+        134,
+        590,
+        606,
+        615
+      ]
+    }
+  ]
+}

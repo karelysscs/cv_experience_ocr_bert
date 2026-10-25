@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_06598",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.86,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "THEA BANKS",
+      "score": 0.9634,
+      "box": [
+        115,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-867-670-2218 |thea.banks@example.com",
+      "score": 0.9696,
+      "box": [
+        116,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Medical, 2019.01–2021.08",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9903,
+      "box": [
+        126,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9892,
+      "box": [
+        127,
+        340,
+        471,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2015.06–2018.02",
+      "score": 0.9916,
+      "box": [
+        115,
+        382,
+        709,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9803,
+      "box": [
+        126,
+        407,
+        372,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9297,
+      "box": [
+        126,
+        432,
+        531,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Foundations, Meadowway University, 2012",
+      "score": 0.9828,
+      "box": [
+        114,
+        539,
+        702,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9868,
+      "box": [
+        134,
+        566,
+        542,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9863,
+      "box": [
+        135,
+        591,
+        661,
+        614
+      ]
+    }
+  ]
+}

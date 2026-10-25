@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_14020",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.905,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "DANIEL NORMAN",
+      "score": 0.9844,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-795-624-8432|daniel.norman@example.com",
+      "score": 0.9902,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2020.07–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        289,
+        712,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9823,
+      "box": [
+        127,
+        315,
+        457,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9838,
+      "box": [
+        126,
+        339,
+        468,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2018.01–2020.07",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9645,
+      "box": [
+        125,
+        406,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9777,
+      "box": [
+        126,
+        432,
+        440,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2012.08–215.03",
+      "score": 0.9815,
+      "box": [
+        116,
+        473,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9937,
+      "box": [
+        125,
+        496,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9584,
+      "box": [
+        126,
+        521,
+        387,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Meadowridge Valley University, 2009",
+      "score": 0.9711,
+      "box": [
+        114,
+        631,
+        731,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical reporting",
+      "score": 0.9733,
+      "box": [
+        133,
+        658,
+        540,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in critical care basics",
+      "score": 0.9718,
+      "box": [
+        135,
+        682,
+        560,
+        705
+      ]
+    }
+  ]
+}

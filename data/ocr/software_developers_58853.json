@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58853",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.804,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "COLTEN STARK",
+      "score": 0.9847,
+      "box": [
+        117,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-222-738-6071|colten.stark@example.com",
+      "score": 0.9939,
+      "box": [
+        115,
+        150,
+        653,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2020.12–2023.01",
+      "score": 0.9916,
+      "box": [
+        115,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9765,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.965,
+      "box": [
+        126,
+        339,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2023",
+      "score": 0.9825,
+      "box": [
+        115,
+        449,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of image processing",
+      "score": 0.9757,
+      "box": [
+        132,
+        472,
+        505,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9914,
+      "box": [
+        133,
+        499,
+        501,
+        523
+      ]
+    }
+  ]
+}

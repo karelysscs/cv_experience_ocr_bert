@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_55178",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.859,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "PAVANBEIL",
+      "score": 0.9985,
+      "box": [
+        115,
+        90,
+        319,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-916-659-6490 |pavan.beil@example.com",
+      "score": 0.9783,
+      "box": [
+        116,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2020.01–2023.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        620,
+        313
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9907,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        454,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2017.01–2020.01",
+      "score": 0.9839,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9846,
+      "box": [
+        126,
+        406,
+        403,
+        431
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9903,
+      "box": [
+        126,
+        430,
+        406,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2011.07–2014.07",
+      "score": 0.9706,
+      "box": [
+        115,
+        471,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9658,
+      "box": [
+        126,
+        498,
+        604,
+        521
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9792,
+      "box": [
+        126,
+        521,
+        364,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Stonecrest University, 2011",
+      "score": 0.974,
+      "box": [
+        115,
+        631,
+        623,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.9871,
+      "box": [
+        132,
+        656,
+        473,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in SQL and data querying",
+      "score": 0.9868,
+      "box": [
+        134,
+        681,
+        603,
+        707
+      ]
+    }
+  ]
+}

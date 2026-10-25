@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_01807",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.875,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "TERESA TURNER",
+      "score": 0.9721,
+      "box": [
+        115,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-596-536-3159|teresa.turner@example.com",
+      "score": 0.9845,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2021.01–2023.01",
+      "score": 0.9875,
+      "box": [
+        116,
+        290,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.965,
+      "box": [
+        125,
+        313,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2018.12–2021.01",
+      "score": 0.9803,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9786,
+      "box": [
+        125,
+        406,
+        470,
+        431
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9797,
+      "box": [
+        126,
+        429,
+        466,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2016.11–2018.12",
+      "score": 0.9675,
+      "box": [
+        115,
+        471,
+        722,
+        496
+      ]
+    },
+    {
+      "text": "- Checked patient identiication",
+      "score": 0.9795,
+      "box": [
+        124,
+        496,
+        415,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9915,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Stonehill University, 2019",
+      "score": 0.9673,
+      "box": [
+        115,
+        632,
+        652,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9611,
+      "box": [
+        132,
+        656,
+        588,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9917,
+      "box": [
+        135,
+        682,
+        635,
+        705
+      ]
+    }
+  ]
+}

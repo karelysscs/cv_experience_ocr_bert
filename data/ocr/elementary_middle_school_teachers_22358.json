@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_22358",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.932,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "MARIACLINE",
+      "score": 0.9983,
+      "box": [
+        115,
+        88,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-353-485-8725 |maria.cline@example.com",
+      "score": 0.9869,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Grove Academy, 2020.05–2022.04",
+      "score": 0.9868,
+      "box": [
+        114,
+        289,
+        853,
+        314
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9816,
+      "box": [
+        126,
+        315,
+        531,
+        338
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9879,
+      "box": [
+        127,
+        339,
+        542,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2017.10–2019.10",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        883,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9741,
+      "box": [
+        126,
+        406,
+        417,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9803,
+      "box": [
+        126,
+        432,
+        399,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Silver Creek University, 2002",
+      "score": 0.9719,
+      "box": [
+        115,
+        541,
+        702,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9815,
+      "box": [
+        133,
+        565,
+        661,
+        590
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9945,
+      "box": [
+        134,
+        590,
+        508,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_00694",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.914,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "KEARA KERR",
+      "score": 0.9604,
+      "box": [
+        116,
+        90,
+        340,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-712-459-1080|keara.kerr@example.com",
+      "score": 0.99,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9779,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Fields School, 2020.02–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9864,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.97,
+      "box": [
+        126,
+        339,
+        511,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2015.02–2018.01",
+      "score": 0.9863,
+      "box": [
+        115,
+        381,
+        860,
+        406
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9555,
+      "box": [
+        125,
+        406,
+        427,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9681,
+      "box": [
+        125,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Redwood University, 2014",
+      "score": 0.9874,
+      "box": [
+        115,
+        541,
+        651,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Greenfield Ridge University, 2012",
+      "score": 0.9801,
+      "box": [
+        115,
+        565,
+        756,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.995,
+      "box": [
+        134,
+        590,
+        686,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional pacing",
+      "score": 0.9842,
+      "box": [
+        133,
+        615,
+        557,
+        640
+      ]
+    }
+  ]
+}

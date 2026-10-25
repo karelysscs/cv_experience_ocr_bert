@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_32551",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "HOPE KEMP",
+      "score": 0.9812,
+      "box": [
+        115,
+        90,
+        318,
+        121
+      ]
+    },
+    {
+      "text": "NH, USA|+1-627-303-6367|hope.kemp@example.com",
+      "score": 0.9783,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.05–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9759,
+      "box": [
+        126,
+        314,
+        469,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9833,
+      "box": [
+        126,
+        338,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2015.01–2017.09",
+      "score": 0.9761,
+      "box": [
+        114,
+        381,
+        707,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.98,
+      "box": [
+        126,
+        407,
+        389,
+        429
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9628,
+      "box": [
+        126,
+        432,
+        369,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Clearwater University, 2012",
+      "score": 0.9757,
+      "box": [
+        114,
+        539,
+        686,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9886,
+      "box": [
+        134,
+        566,
+        687,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance measurement",
+      "score": 0.9954,
+      "box": [
+        135,
+        591,
+        641,
+        614
+      ]
+    }
+  ]
+}

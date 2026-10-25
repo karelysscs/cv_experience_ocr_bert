@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_17844",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.926,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "BETHSCHULTZ",
+      "score": 0.999,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-672-430-7848 |beth.schultz@example.com",
+      "score": 0.9879,
+      "box": [
+        116,
+        152,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Health Services, 2020.02–2023.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9792,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2017.03–2020.02",
+      "score": 0.9718,
+      "box": [
+        115,
+        381,
+        647,
+        406
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.989,
+      "box": [
+        126,
+        406,
+        412,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9749,
+      "box": [
+        126,
+        431,
+        540,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing, 2012.11–2015.11",
+      "score": 0.9925,
+      "box": [
+        116,
+        472,
+        646,
+        496
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9507,
+      "box": [
+        127,
+        498,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9857,
+      "box": [
+        126,
+        521,
+        444,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Crestwood University, 2005",
+      "score": 0.9869,
+      "box": [
+        114,
+        631,
+        672,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9874,
+      "box": [
+        133,
+        656,
+        598,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9848,
+      "box": [
+        134,
+        681,
+        634,
+        707
+      ]
+    }
+  ]
+}

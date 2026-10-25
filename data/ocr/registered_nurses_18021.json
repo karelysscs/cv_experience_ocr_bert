@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_18021",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.866,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "AMBER ROLLINS",
+      "score": 0.982,
+      "box": [
+        117,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-440-332-3368|amber.rollins@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2018.11–2021.06",
+      "score": 0.9553,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "-Directed care coordination strategies",
+      "score": 0.9915,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9696,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2015.04–2017.12",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9845,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9959,
+      "box": [
+        126,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Skyline University, 2009",
+      "score": 0.9827,
+      "box": [
+        115,
+        541,
+        612,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in health policy basics",
+      "score": 0.9896,
+      "box": [
+        134,
+        566,
+        571,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9875,
+      "box": [
+        134,
+        592,
+        607,
+        612
+      ]
+    }
+  ]
+}

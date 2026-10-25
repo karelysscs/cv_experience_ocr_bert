@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_58487",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "MARTIN HUANG",
+      "score": 0.9865,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-626-989-8385|martin.huang@example.com",
+      "score": 0.9754,
+      "box": [
+        114,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2020.07–2023.01",
+      "score": 0.9902,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9891,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9843,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2017.12–2020.07",
+      "score": 0.9833,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9901,
+      "box": [
+        125,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9857,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Greenfield University, 220",
+      "score": 0.9363,
+      "box": [
+        115,
+        540,
+        458,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2018",
+      "score": 0.9777,
+      "box": [
+        115,
+        566,
+        463,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9869,
+      "box": [
+        133,
+        591,
+        584,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of static analysis",
+      "score": 0.9923,
+      "box": [
+        133,
+        615,
+        472,
+        640
+      ]
+    }
+  ]
+}

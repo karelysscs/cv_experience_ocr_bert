@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_02381",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.801,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "STEPHANIE FLOYD",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        432,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-589-413-3940 |stephanie.floyd@example.com",
+      "score": 0.9857,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9733,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2020.01–2022.04",
+      "score": 0.9831,
+      "box": [
+        115,
+        290,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9875,
+      "box": [
+        127,
+        316,
+        390,
+        336
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9867,
+      "box": [
+        127,
+        340,
+        450,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Brookhaven University, 2008",
+      "score": 0.9726,
+      "box": [
+        115,
+        449,
+        728,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9885,
+      "box": [
+        134,
+        474,
+        621,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9771,
+      "box": [
+        133,
+        497,
+        645,
+        523
+      ]
+    }
+  ]
+}

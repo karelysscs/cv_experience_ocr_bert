@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_08293",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.85,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "JAKE VU",
+      "score": 0.9443,
+      "box": [
+        114,
+        88,
+        266,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-267-756-5995 |jake.vu@example.com",
+      "score": 0.9697,
+      "box": [
+        116,
+        150,
+        607,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2020.01–2022.06",
+      "score": 0.9787,
+      "box": [
+        114,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9697,
+      "box": [
+        125,
+        313,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        458,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2016.07–2018.12",
+      "score": 0.9785,
+      "box": [
+        114,
+        381,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9726,
+      "box": [
+        125,
+        404,
+        366,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9912,
+      "box": [
+        126,
+        430,
+        382,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Silverwood University, 2010",
+      "score": 0.9842,
+      "box": [
+        114,
+        539,
+        687,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9833,
+      "box": [
+        132,
+        565,
+        529,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial ratio analysis",
+      "score": 0.9917,
+      "box": [
+        133,
+        590,
+        546,
+        615
+      ]
+    }
+  ]
+}

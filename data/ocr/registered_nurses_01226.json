@@ -1,0 +1,123 @@
+{
+  "id": "registered_nurses_01226",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.751,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "JACQUELYN BURNETT",
+      "score": 0.9728,
+      "box": [
+        116,
+        90,
+        493,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-558-752-7131 |jacquelyn.burnett@example.com",
+      "score": 0.9754,
+      "box": [
+        116,
+        152,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Medical Group, 2022.12–2023.01",
+      "score": 0.9817,
+      "box": [
+        116,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9845,
+      "box": [
+        126,
+        314,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9777,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Biological Sciences, Wildflower University, 2022",
+      "score": 0.9803,
+      "box": [
+        115,
+        449,
+        650,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Riverway University, 2020",
+      "score": 0.9933,
+      "box": [
+        115,
+        474,
+        637,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9879,
+      "box": [
+        135,
+        500,
+        539,
+        520
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9921,
+      "box": [
+        135,
+        524,
+        624,
+        547
+      ]
+    }
+  ]
+}

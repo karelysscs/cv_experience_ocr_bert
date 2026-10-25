@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_53474",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.944,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "NICHOLAS PRICE",
+      "score": 0.9771,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-245-439-5741|nicholas.price@example.com",
+      "score": 0.9832,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2019.12–2023.01",
+      "score": 0.9847,
+      "box": [
+        114,
+        288,
+        630,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9856,
+      "box": [
+        125,
+        313,
+        438,
+        339
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9773,
+      "box": [
+        126,
+        339,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2016.11–2019.12",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9741,
+      "box": [
+        126,
+        406,
+        513,
+        432
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.981,
+      "box": [
+        126,
+        431,
+        472,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2013.01–2016.03",
+      "score": 0.9725,
+      "box": [
+        116,
+        472,
+        651,
+        496
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9714,
+      "box": [
+        125,
+        497,
+        375,
+        521
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9734,
+      "box": [
+        126,
+        523,
+        415,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2008.09–2011.11",
+      "score": 0.9894,
+      "box": [
+        114,
+        563,
+        659,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9654,
+      "box": [
+        125,
+        589,
+        445,
+        613
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9756,
+      "box": [
+        126,
+        614,
+        627,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverlake University, 2002",
+      "score": 0.9484,
+      "box": [
+        114,
+        723,
+        472,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9905,
+      "box": [
+        133,
+        748,
+        458,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.9836,
+      "box": [
+        133,
+        772,
+        573,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_06841",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.909,
+  "mean_conf": 0.973,
+  "lines": [
+    {
+      "text": "JUAN LU",
+      "score": 0.9304,
+      "box": [
+        114,
+        88,
+        266,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-696-496-5214 |juan.lu@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        151,
+        603,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2020.02–2023.01",
+      "score": 0.975,
+      "box": [
+        116,
+        290,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9817,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9802,
+      "box": [
+        125,
+        339,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2017.03–2020.02",
+      "score": 0.9789,
+      "box": [
+        116,
+        382,
+        631,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9654,
+      "box": [
+        126,
+        407,
+        509,
+        431
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9641,
+      "box": [
+        125,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2014.04–2017.03",
+      "score": 0.9778,
+      "box": [
+        116,
+        472,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.9532,
+      "box": [
+        124,
+        496,
+        424,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9673,
+      "box": [
+        126,
+        521,
+        448,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9971,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Meadowridge University, 2012",
+      "score": 0.9711,
+      "box": [
+        115,
+        632,
+        489,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield University, 210",
+      "score": 0.9569,
+      "box": [
+        115,
+        656,
+        477,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9866,
+      "box": [
+        135,
+        684,
+        600,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.9887,
+      "box": [
+        133,
+        706,
+        577,
+        731
+      ]
+    }
+  ]
+}

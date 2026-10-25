@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_29045",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "ERIK BEST",
+      "score": 0.9584,
+      "box": [
+        115,
+        88,
+        299,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA|+1-843-510-7294 |erik.best@example.com",
+      "score": 0.9705,
+      "box": [
+        115,
+        150,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2021.03–2023.01",
+      "score": 0.9785,
+      "box": [
+        114,
+        289,
+        726,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9874,
+      "box": [
+        126,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.992,
+      "box": [
+        126,
+        339,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildForce Contractors, 2019.05–2021.03",
+      "score": 0.9824,
+      "box": [
+        115,
+        382,
+        722,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9834,
+      "box": [
+        125,
+        406,
+        498,
+        431
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9832,
+      "box": [
+        125,
+        429,
+        492,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Meadowcrest High School, 2019",
+      "score": 0.9956,
+      "box": [
+        116,
+        541,
+        908,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9856,
+      "box": [
+        134,
+        567,
+        529,
+        587
+      ]
+    }
+  ]
+}

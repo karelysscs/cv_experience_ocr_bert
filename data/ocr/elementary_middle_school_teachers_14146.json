@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_14146",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.035,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "LARA BERG",
+      "score": 0.9778,
+      "box": [
+        115,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-711-727-8793 |lara.berg@example.com",
+      "score": 0.9771,
+      "box": [
+        116,
+        150,
+        619,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Field School, 2020.01–2023.01",
+      "score": 0.9887,
+      "box": [
+        116,
+        290,
+        848,
+        314
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        563,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Futures Academy, 2016.12–2020.01",
+      "score": 0.9735,
+      "box": [
+        116,
+        382,
+        866,
+        405
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.976,
+      "box": [
+        127,
+        407,
+        536,
+        431
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9785,
+      "box": [
+        126,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2012.05–2015.06",
+      "score": 0.9812,
+      "box": [
+        115,
+        472,
+        836,
+        495
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9929,
+      "box": [
+        126,
+        498,
+        457,
+        521
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.9838,
+      "box": [
+        127,
+        523,
+        455,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2008.03–2011.04",
+      "score": 0.9816,
+      "box": [
+        116,
+        565,
+        866,
+        588
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.991,
+      "box": [
+        126,
+        590,
+        667,
+        613
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9936,
+      "box": [
+        128,
+        616,
+        443,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Westbrook University, 2002",
+      "score": 0.9636,
+      "box": [
+        114,
+        723,
+        680,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9945,
+      "box": [
+        133,
+        748,
+        545,
+        770
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning reinforcement",
+      "score": 0.9858,
+      "box": [
+        134,
+        773,
+        587,
+        795
+      ]
+    }
+  ]
+}

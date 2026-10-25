@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_08651",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "SARA MCDANIEL",
+      "score": 0.9756,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-922-310-3102 |sara.mcdaniel@example.com",
+      "score": 0.9924,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2020.07–2023.01",
+      "score": 0.9732,
+      "box": [
+        115,
+        289,
+        715,
+        314
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9774,
+      "box": [
+        126,
+        313,
+        573,
+        340
+      ]
+    },
+    {
+      "text": "– Managed long-term care strategies",
+      "score": 0.9625,
+      "box": [
+        127,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2018.01–2020.07",
+      "score": 0.9951,
+      "box": [
+        116,
+        383,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9704,
+      "box": [
+        127,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9818,
+      "box": [
+        126,
+        430,
+        519,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing, 2015.07–2018.01",
+      "score": 0.9914,
+      "box": [
+        116,
+        472,
+        635,
+        496
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9865,
+      "box": [
+        126,
+        498,
+        484,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9697,
+      "box": [
+        126,
+        519,
+        390,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Foxwood University, 2016",
+      "score": 0.9748,
+      "box": [
+        115,
+        631,
+        595,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9908,
+      "box": [
+        133,
+        658,
+        663,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of infection prevention",
+      "score": 0.9918,
+      "box": [
+        134,
+        681,
+        523,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_54838",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.037,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "ERIC MAGANA",
+      "score": 0.994,
+      "box": [
+        117,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-429-298-6775 |eric.magana@example.com",
+      "score": 0.9699,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2018.04–2023.01",
+      "score": 0.9818,
+      "box": [
+        114,
+        289,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9865,
+      "box": [
+        127,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2013.06–2018.04",
+      "score": 0.9838,
+      "box": [
+        115,
+        381,
+        734,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9772,
+      "box": [
+        125,
+        405,
+        484,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9773,
+      "box": [
+        126,
+        430,
+        439,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2006.11–2011.09",
+      "score": 0.9793,
+      "box": [
+        115,
+        472,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9773,
+      "box": [
+        125,
+        496,
+        447,
+        522
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9823,
+      "box": [
+        126,
+        521,
+        415,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2001.04–2006.02",
+      "score": 0.9806,
+      "box": [
+        116,
+        566,
+        659,
+        586
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9608,
+      "box": [
+        125,
+        589,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9595,
+      "box": [
+        125,
+        613,
+        417,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Ironwood High School, 1997",
+      "score": 0.9898,
+      "box": [
+        116,
+        725,
+        847,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9763,
+      "box": [
+        134,
+        750,
+        693,
+        770
+      ]
+    }
+  ]
+}

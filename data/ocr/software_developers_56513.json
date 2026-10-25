@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_56513",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "LUKE CLEMENTS",
+      "score": 0.9771,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-350-678-7277 |luke.clements@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2020.08–2023.01",
+      "score": 0.9965,
+      "box": [
+        116,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9892,
+      "box": [
+        126,
+        315,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9763,
+      "box": [
+        126,
+        339,
+        388,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2018.03–2020.08",
+      "score": 0.9783,
+      "box": [
+        115,
+        381,
+        645,
+        406
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9856,
+      "box": [
+        125,
+        405,
+        363,
+        432
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9839,
+      "box": [
+        126,
+        430,
+        403,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2015.10–2018.03",
+      "score": 0.9814,
+      "box": [
+        115,
+        471,
+        625,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9742,
+      "box": [
+        125,
+        496,
+        448,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9833,
+      "box": [
+        127,
+        523,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Prairie Ridge University, 2016",
+      "score": 0.9849,
+      "box": [
+        115,
+        632,
+        503,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9756,
+      "box": [
+        132,
+        656,
+        484,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of cryptography basics",
+      "score": 0.9898,
+      "box": [
+        134,
+        681,
+        527,
+        706
+      ]
+    }
+  ]
+}

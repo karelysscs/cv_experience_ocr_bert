@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_21718",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.815,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "KEELIA PARRISH",
+      "score": 0.9763,
+      "box": [
+        116,
+        90,
+        401,
+        120
+      ]
+    },
+    {
+      "text": "KS, USA|+1-344-534-1279 |keelia.parrish@example.com",
+      "score": 0.9831,
+      "box": [
+        115,
+        150,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2021.03–2023.01",
+      "score": 0.9833,
+      "box": [
+        116,
+        290,
+        723,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.989,
+      "box": [
+        126,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9813,
+      "box": [
+        126,
+        338,
+        391,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Wellness, Fieldview University, 2023",
+      "score": 0.974,
+      "box": [
+        115,
+        447,
+        750,
+        473
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical decision making",
+      "score": 0.9828,
+      "box": [
+        132,
+        472,
+        597,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9899,
+      "box": [
+        133,
+        498,
+        680,
+        523
+      ]
+    }
+  ]
+}

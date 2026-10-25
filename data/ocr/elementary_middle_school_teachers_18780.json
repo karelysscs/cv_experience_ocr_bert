@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_18780",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.942,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "CANDYCE PERKINS",
+      "score": 0.9882,
+      "box": [
+        117,
+        89,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-667-344-6267 |candyce.perkins@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        152,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2020.11–2023.01",
+      "score": 0.9696,
+      "box": [
+        116,
+        290,
+        882,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9863,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9682,
+      "box": [
+        126,
+        339,
+        488,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2018.09–2020.11",
+      "score": 0.98,
+      "box": [
+        116,
+        382,
+        857,
+        406
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9917,
+      "box": [
+        127,
+        409,
+        457,
+        429
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9925,
+      "box": [
+        126,
+        432,
+        400,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2014.06–2016.08",
+      "score": 0.9784,
+      "box": [
+        114,
+        471,
+        891,
+        496
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9591,
+      "box": [
+        125,
+        497,
+        444,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9795,
+      "box": [
+        126,
+        521,
+        588,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Stoneview University, 2007",
+      "score": 0.9801,
+      "box": [
+        115,
+        632,
+        719,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic differentiation basics",
+      "score": 0.9868,
+      "box": [
+        133,
+        657,
+        675,
+        680
+      ]
+    },
+    {
+      "text": "• Studied foundational instructional design",
+      "score": 0.9876,
+      "box": [
+        133,
+        681,
+        522,
+        706
+      ]
+    }
+  ]
+}

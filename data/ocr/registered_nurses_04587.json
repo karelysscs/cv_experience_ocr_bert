@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_04587",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.777,
+  "mean_conf": 0.9857,
+  "lines": [
+    {
+      "text": "LACEY SINGH",
+      "score": 0.9858,
+      "box": [
+        115,
+        88,
+        347,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-982-515-2442 |lacey.singh@example.com",
+      "score": 0.9738,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2021.07–2023.01",
+      "score": 0.9809,
+      "box": [
+        115,
+        289,
+        630,
+        314
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9817,
+      "box": [
+        126,
+        314,
+        424,
+        337
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2018.02–2019.09",
+      "score": 0.9946,
+      "box": [
+        116,
+        382,
+        722,
+        405
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9823,
+      "box": [
+        126,
+        407,
+        415,
+        431
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9904,
+      "box": [
+        126,
+        431,
+        434,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Operations, Aspen Grove University, 2002",
+      "score": 0.9887,
+      "box": [
+        115,
+        541,
+        812,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9861,
+      "box": [
+        133,
+        566,
+        610,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9784,
+      "box": [
+        133,
+        591,
+        569,
+        614
+      ]
+    }
+  ]
+}

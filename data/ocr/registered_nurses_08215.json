@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_08215",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.953,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "HANNAH MATTHEWS",
+      "score": 0.9761,
+      "box": [
+        116,
+        90,
+        464,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-760-498-2981 |hannah.matthews@example.com",
+      "score": 0.9759,
+      "box": [
+        117,
+        151,
+        706,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2020.12–2023.01",
+      "score": 0.9814,
+      "box": [
+        116,
+        290,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9826,
+      "box": [
+        125,
+        314,
+        534,
+        339
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Nursing, 2018.11–2020.12",
+      "score": 0.9862,
+      "box": [
+        116,
+        382,
+        657,
+        406
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9771,
+      "box": [
+        125,
+        405,
+        466,
+        432
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9738,
+      "box": [
+        126,
+        430,
+        370,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIBridge Health Group, 2016.10–2018.11",
+      "score": 0.9803,
+      "box": [
+        116,
+        472,
+        705,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9668,
+      "box": [
+        126,
+        498,
+        388,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9717,
+      "box": [
+        126,
+        521,
+        512,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Springdale University, 2021",
+      "score": 0.9642,
+      "box": [
+        115,
+        632,
+        676,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of mobility assistance",
+      "score": 0.983,
+      "box": [
+        132,
+        656,
+        554,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in diagnostic testing basics",
+      "score": 0.9878,
+      "box": [
+        134,
+        682,
+        615,
+        705
+      ]
+    }
+  ]
+}

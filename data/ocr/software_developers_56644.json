@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_56644",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.88,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "STEVEN STRICKLAND",
+      "score": 0.9709,
+      "box": [
+        116,
+        90,
+        477,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-743-809-5701 | steven.strickland@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9902,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Labs, 2021.01–2023.01",
+      "score": 0.9913,
+      "box": [
+        116,
+        289,
+        648,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9769,
+      "box": [
+        127,
+        315,
+        422,
+        335
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9902,
+      "box": [
+        126,
+        339,
+        566,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Labs, 2019.01–2021.01",
+      "score": 0.9969,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Developed Cl/CD scripts",
+      "score": 0.9625,
+      "box": [
+        126,
+        406,
+        371,
+        431
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9662,
+      "box": [
+        126,
+        430,
+        388,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Labs, 2016.12–2019.01",
+      "score": 0.9823,
+      "box": [
+        116,
+        472,
+        621,
+        495
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.981,
+      "box": [
+        125,
+        496,
+        495,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9659,
+      "box": [
+        126,
+        521,
+        620,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 2015",
+      "score": 0.972,
+      "box": [
+        115,
+        632,
+        486,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of virtualization",
+      "score": 0.9889,
+      "box": [
+        132,
+        656,
+        458,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9691,
+      "box": [
+        133,
+        681,
+        560,
+        706
+      ]
+    }
+  ]
+}

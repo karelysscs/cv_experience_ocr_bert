@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_19395",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "LINDA MCKEE",
+      "score": 0.9634,
+      "box": [
+        115,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-964-867-1008 |linda.mckee@example.com",
+      "score": 0.9735,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Services, 2020.08–2023.01",
+      "score": 0.9824,
+      "box": [
+        115,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9599,
+      "box": [
+        125,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9906,
+      "box": [
+        126,
+        339,
+        500,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2015.11–2018.05",
+      "score": 0.9754,
+      "box": [
+        114,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9824,
+      "box": [
+        125,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9913,
+      "box": [
+        127,
+        432,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Statistics, Forestfield University, 2009",
+      "score": 0.9723,
+      "box": [
+        114,
+        539,
+        662,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Willowhaven University, 2005",
+      "score": 0.9758,
+      "box": [
+        114,
+        564,
+        740,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial reporting",
+      "score": 0.9932,
+      "box": [
+        132,
+        590,
+        544,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9809,
+      "box": [
+        133,
+        615,
+        648,
+        640
+      ]
+    }
+  ]
+}

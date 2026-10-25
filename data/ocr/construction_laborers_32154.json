@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_32154",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.906,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "DAVID SINGLETON",
+      "score": 0.9704,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA|+1-674-486-9662|david.singleton@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2021.01–2023.01",
+      "score": 0.976,
+      "box": [
+        115,
+        290,
+        669,
+        312
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9782,
+      "box": [
+        126,
+        314,
+        479,
+        337
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9868,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2018.12–2021.01",
+      "score": 0.9872,
+      "box": [
+        116,
+        381,
+        653,
+        405
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9823,
+      "box": [
+        126,
+        408,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9842,
+      "box": [
+        126,
+        430,
+        332,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Maintenance, Clear Ridge University, 2022",
+      "score": 0.9737,
+      "box": [
+        116,
+        541,
+        846,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency procedures",
+      "score": 0.9923,
+      "box": [
+        133,
+        566,
+        556,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9729,
+      "box": [
+        133,
+        590,
+        644,
+        613
+      ]
+    }
+  ]
+}

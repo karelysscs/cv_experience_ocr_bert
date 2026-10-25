@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_11329",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.796,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "SEANKERR",
+      "score": 0.9975,
+      "box": [
+        115,
+        90,
+        315,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-986-768-1070 |sean.kerr@example.com",
+      "score": 0.9617,
+      "box": [
+        116,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2020.01–2022.02",
+      "score": 0.9864,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9676,
+      "box": [
+        126,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9781,
+      "box": [
+        126,
+        339,
+        465,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Forest Ridge High School, 2012",
+      "score": 0.9714,
+      "box": [
+        116,
+        449,
+        891,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of building envelope basics",
+      "score": 0.9837,
+      "box": [
+        132,
+        474,
+        569,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_18833",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.862,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "GENESIS ALI",
+      "score": 0.9931,
+      "box": [
+        116,
+        88,
+        332,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-240-661-6438|genesis.ali@example.com",
+      "score": 0.9704,
+      "box": [
+        116,
+        150,
+        627,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2021.01–2023.01",
+      "score": 0.9873,
+      "box": [
+        116,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9575,
+      "box": [
+        125,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9765,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2019.01–2021.01",
+      "score": 0.9853,
+      "box": [
+        116,
+        382,
+        669,
+        405
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9867,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9897,
+      "box": [
+        125,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Silverton University, 2020",
+      "score": 0.9816,
+      "box": [
+        114,
+        539,
+        700,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9867,
+      "box": [
+        131,
+        564,
+        562,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9731,
+      "box": [
+        133,
+        591,
+        558,
+        614
+      ]
+    }
+  ]
+}

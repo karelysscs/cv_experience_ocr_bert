@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_52551",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.833,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "ADAM LLOYD",
+      "score": 0.9653,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "TX,USA|+1-525-934-9947|adam.lloyd@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2020.12–2023.01",
+      "score": 0.9796,
+      "box": [
+        114,
+        288,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "-Built core libraries",
+      "score": 0.995,
+      "box": [
+        125,
+        313,
+        309,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9813,
+      "box": [
+        126,
+        338,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2018.10–2020.12",
+      "score": 0.9797,
+      "box": [
+        116,
+        382,
+        638,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9807,
+      "box": [
+        126,
+        405,
+        400,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9576,
+      "box": [
+        126,
+        431,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakewood University, 2021",
+      "score": 0.9645,
+      "box": [
+        116,
+        542,
+        473,
+        562
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9985,
+      "box": [
+        134,
+        566,
+        621,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9941,
+      "box": [
+        135,
+        591,
+        584,
+        614
+      ]
+    }
+  ]
+}

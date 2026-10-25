@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_27433",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.96,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "SAMANTHAODONNELL",
+      "score": 0.9985,
+      "box": [
+        114,
+        87,
+        506,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA|+1-511-299-2098 |samantha.odonnell@example.com",
+      "score": 0.9713,
+      "box": [
+        115,
+        150,
+        712,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2020.11–2023.01",
+      "score": 0.9926,
+      "box": [
+        115,
+        290,
+        751,
+        312
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9734,
+      "box": [
+        125,
+        313,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9899,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2018.08–2020.11",
+      "score": 0.9926,
+      "box": [
+        115,
+        382,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9891,
+      "box": [
+        125,
+        406,
+        473,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9786,
+      "box": [
+        125,
+        430,
+        423,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Forestview University, 2020",
+      "score": 0.9898,
+      "box": [
+        115,
+        541,
+        604,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Forest Hill University, 2018",
+      "score": 0.9552,
+      "box": [
+        115,
+        566,
+        571,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9828,
+      "box": [
+        133,
+        591,
+        511,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9937,
+      "box": [
+        133,
+        616,
+        613,
+        638
+      ]
+    }
+  ]
+}

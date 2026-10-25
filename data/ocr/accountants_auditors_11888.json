@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_11888",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "NOAH MULLINS",
+      "score": 0.9921,
+      "box": [
+        115,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-805-325-7333 |noah.mullins@example.com",
+      "score": 0.9579,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2021.04–202.01",
+      "score": 0.9802,
+      "box": [
+        114,
+        289,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9779,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        500,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2019.07–2021.04",
+      "score": 0.9854,
+      "box": [
+        115,
+        382,
+        665,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9825,
+      "box": [
+        125,
+        406,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.989,
+      "box": [
+        126,
+        432,
+        409,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Golden Hills University, 2023",
+      "score": 0.9802,
+      "box": [
+        114,
+        539,
+        757,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9772,
+      "box": [
+        132,
+        564,
+        559,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9836,
+      "box": [
+        134,
+        591,
+        649,
+        614
+      ]
+    }
+  ]
+}

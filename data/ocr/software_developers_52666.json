@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_52666",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "TESSA HUYNH",
+      "score": 0.98,
+      "box": [
+        115,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-405-382-4795|tessa.huynh@example.com",
+      "score": 0.9814,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9782,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2021.07–2023.01",
+      "score": 0.983,
+      "box": [
+        114,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9665,
+      "box": [
+        125,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2018.05–2019.11",
+      "score": 0.992,
+      "box": [
+        116,
+        382,
+        673,
+        405
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9817,
+      "box": [
+        126,
+        406,
+        502,
+        431
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.977,
+      "box": [
+        126,
+        431,
+        562,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverfield University, 2014",
+      "score": 0.9714,
+      "box": [
+        114,
+        539,
+        472,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9869,
+      "box": [
+        133,
+        566,
+        644,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.9936,
+      "box": [
+        134,
+        591,
+        521,
+        614
+      ]
+    }
+  ]
+}

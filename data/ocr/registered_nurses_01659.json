@@ -1,0 +1,123 @@
+{
+  "id": "registered_nurses_01659",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.831,
+  "mean_conf": 0.9781,
+  "lines": [
+    {
+      "text": "JAYLEN FISHER",
+      "score": 0.9876,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-646-822-6553 |jaylen.fisher@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2020.09–2023.01",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9382,
+      "box": [
+        127,
+        315,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9652,
+      "box": [
+        126,
+        339,
+        487,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Biomedical Sciences, Heritage University, 2020",
+      "score": 0.967,
+      "box": [
+        115,
+        449,
+        644,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Cedarview University, 2018",
+      "score": 0.9911,
+      "box": [
+        115,
+        474,
+        670,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9804,
+      "box": [
+        132,
+        497,
+        552,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9674,
+      "box": [
+        134,
+        524,
+        488,
+        547
+      ]
+    }
+  ]
+}

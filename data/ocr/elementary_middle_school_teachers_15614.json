@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_15614",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.03,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "AMANDAKLINE",
+      "score": 0.9975,
+      "box": [
+        114,
+        87,
+        377,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA |+1-211-402-2629|amanda.kline@example.com",
+      "score": 0.9856,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2020.07–2023.01",
+      "score": 0.9688,
+      "box": [
+        116,
+        290,
+        798,
+        313
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9712,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9739,
+      "box": [
+        126,
+        338,
+        510,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Fields School, 2016.03–2018.09",
+      "score": 0.9737,
+      "box": [
+        116,
+        382,
+        820,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9784,
+      "box": [
+        126,
+        407,
+        427,
+        429
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9885,
+      "box": [
+        126,
+        430,
+        420,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2013.01–2015.08",
+      "score": 0.9836,
+      "box": [
+        114,
+        471,
+        862,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9827,
+      "box": [
+        126,
+        498,
+        716,
+        521
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9862,
+      "box": [
+        126,
+        521,
+        667,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Professional degree, Applied Education, Lakeside University, 2006",
+      "score": 0.9902,
+      "box": [
+        114,
+        631,
+        733,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Riverhaven University, 2002",
+      "score": 0.9797,
+      "box": [
+        114,
+        656,
+        705,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9842,
+      "box": [
+        134,
+        683,
+        633,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9914,
+      "box": [
+        132,
+        706,
+        585,
+        731
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_14064",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.872,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "KATHERINE STEVENS",
+      "score": 0.9735,
+      "box": [
+        116,
+        90,
+        477,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-895-246-9328 |katherine.stevens@example.com",
+      "score": 0.9724,
+      "box": [
+        115,
+        150,
+        700,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9883,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2020.05–2023.01",
+      "score": 0.9828,
+      "box": [
+        116,
+        290,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9855,
+      "box": [
+        125,
+        313,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9714,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2017.09–2020.05",
+      "score": 0.9901,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9626,
+      "box": [
+        126,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9855,
+      "box": [
+        126,
+        431,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Redfield University, 2020",
+      "score": 0.9892,
+      "box": [
+        115,
+        541,
+        581,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quality assurance in care",
+      "score": 0.9777,
+      "box": [
+        132,
+        564,
+        610,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9865,
+      "box": [
+        132,
+        590,
+        574,
+        615
+      ]
+    }
+  ]
+}

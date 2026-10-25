@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_40481",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.947,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "ROBERT HAMILTON",
+      "score": 0.9928,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA|+1-433-962-1437|robert.hamilton@example.com",
+      "score": 0.9589,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorStone Construction, 2020.05–2023.01",
+      "score": 0.9931,
+      "box": [
+        114,
+        288,
+        751,
+        313
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9685,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9713,
+      "box": [
+        126,
+        339,
+        394,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workline Builders, 2017.08–2020.05",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9776,
+      "box": [
+        125,
+        406,
+        532,
+        431
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9776,
+      "box": [
+        125,
+        430,
+        452,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2014.11–2017.08",
+      "score": 0.986,
+      "box": [
+        115,
+        472,
+        742,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.98,
+      "box": [
+        124,
+        496,
+        375,
+        521
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9944,
+      "box": [
+        126,
+        521,
+        396,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2010.10–2013.07",
+      "score": 0.9829,
+      "box": [
+        115,
+        563,
+        685,
+        587
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9868,
+      "box": [
+        124,
+        588,
+        361,
+        615
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9725,
+      "box": [
+        125,
+        613,
+        475,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Drafting Technology, Woodland University, 2009",
+      "score": 0.9869,
+      "box": [
+        114,
+        723,
+        753,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials handling",
+      "score": 0.9751,
+      "box": [
+        133,
+        749,
+        676,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of site hazard controls",
+      "score": 0.9813,
+      "box": [
+        133,
+        772,
+        523,
+        796
+      ]
+    }
+  ]
+}

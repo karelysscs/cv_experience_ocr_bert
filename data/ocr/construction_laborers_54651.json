@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_54651",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.882,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "ADAM DONALDSON",
+      "score": 0.9746,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-724-917-9202|adam.donaldson@example.com",
+      "score": 0.9893,
+      "box": [
+        114,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2018.06–2021.05",
+      "score": 0.9852,
+      "box": [
+        115,
+        290,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9936,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9869,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2014.08–2017.08",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        718,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9801,
+      "box": [
+        125,
+        406,
+        492,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9867,
+      "box": [
+        126,
+        432,
+        424,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Brightfield University, 2009",
+      "score": 0.9698,
+      "box": [
+        115,
+        539,
+        826,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9916,
+      "box": [
+        133,
+        566,
+        590,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9846,
+      "box": [
+        135,
+        592,
+        530,
+        612
+      ]
+    }
+  ]
+}

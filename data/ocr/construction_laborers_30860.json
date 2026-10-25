@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_30860",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.853,
+  "mean_conf": 0.9858,
+  "lines": [
+    {
+      "text": "VINCENT WILKINSON",
+      "score": 0.985,
+      "box": [
+        116,
+        90,
+        465,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-781-719-6535|vincent.wilkinson@example.com",
+      "score": 0.9933,
+      "box": [
+        115,
+        150,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongFrame Builders, 2020.01–2023.01",
+      "score": 0.9856,
+      "box": [
+        115,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9682,
+      "box": [
+        127,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2017.01–2020.01",
+      "score": 0.9823,
+      "box": [
+        116,
+        382,
+        656,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.995,
+      "box": [
+        126,
+        407,
+        425,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9811,
+      "box": [
+        126,
+        430,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Forest Ridge High School, 2018",
+      "score": 0.9901,
+      "box": [
+        116,
+        541,
+        885,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9877,
+      "box": [
+        134,
+        566,
+        618,
+        589
+      ]
+    }
+  ]
+}

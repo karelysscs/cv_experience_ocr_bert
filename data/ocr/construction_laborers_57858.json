@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_57858",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.889,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "DAMIAN TATE",
+      "score": 0.9597,
+      "box": [
+        116,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "WA,USA|+1-998-755-7540|damian.tate@example.com",
+      "score": 0.9779,
+      "box": [
+        114,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2020.12–2023.01",
+      "score": 0.9897,
+      "box": [
+        114,
+        288,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9745,
+      "box": [
+        126,
+        315,
+        445,
+        335
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9915,
+      "box": [
+        126,
+        339,
+        524,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Construction, 2018.10–2020.12",
+      "score": 0.9856,
+      "box": [
+        115,
+        381,
+        735,
+        405
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9627,
+      "box": [
+        126,
+        407,
+        442,
+        430
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.99,
+      "box": [
+        126,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Parkview High School, 2017",
+      "score": 0.984,
+      "box": [
+        116,
+        541,
+        912,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in site logistics",
+      "score": 0.9987,
+      "box": [
+        134,
+        566,
+        502,
+        589
+      ]
+    }
+  ]
+}

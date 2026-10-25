@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_23911",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.999,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "SUZIE MCCLAIN",
+      "score": 0.9708,
+      "box": [
+        114,
+        88,
+        380,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA|+1-912-858-1180 |suzie.mcclain@example.com",
+      "score": 0.9675,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2019.10–2023.01",
+      "score": 0.9816,
+      "box": [
+        115,
+        289,
+        678,
+        312
+      ]
+    },
+    {
+      "text": "-Led financial data standardization",
+      "score": 0.9922,
+      "box": [
+        126,
+        314,
+        453,
+        336
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9774,
+      "box": [
+        126,
+        338,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2016.07–2019.10",
+      "score": 0.9853,
+      "box": [
+        114,
+        381,
+        708,
+        406
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9798,
+      "box": [
+        125,
+        405,
+        477,
+        431
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9716,
+      "box": [
+        126,
+        430,
+        459,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2013.04–2016.07",
+      "score": 0.9776,
+      "box": [
+        114,
+        471,
+        722,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9833,
+      "box": [
+        125,
+        496,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "-Prepared statutory filings",
+      "score": 0.9577,
+      "box": [
+        125,
+        521,
+        374,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2007.03–2010.07",
+      "score": 0.9951,
+      "box": [
+        115,
+        565,
+        685,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9779,
+      "box": [
+        125,
+        590,
+        366,
+        612
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9792,
+      "box": [
+        127,
+        615,
+        546,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Operations, Fairview Ridge University, 2005",
+      "score": 0.9857,
+      "box": [
+        115,
+        725,
+        704,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Fairfield University, 2003",
+      "score": 0.9684,
+      "box": [
+        114,
+        747,
+        640,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9776,
+      "box": [
+        133,
+        772,
+        691,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement analysis",
+      "score": 0.9835,
+      "box": [
+        132,
+        797,
+        598,
+        823
+      ]
+    }
+  ]
+}

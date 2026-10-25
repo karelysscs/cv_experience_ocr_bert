@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_35333",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.274,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "MORGAN VU",
+      "score": 0.9678,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-291-869-6355|morgan.vu@example.com",
+      "score": 0.9748,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2020.10–2022.07",
+      "score": 0.9802,
+      "box": [
+        115,
+        289,
+        709,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.985,
+      "box": [
+        126,
+        314,
+        400,
+        339
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9744,
+      "box": [
+        127,
+        340,
+        483,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Fairhill University, 217",
+      "score": 0.9679,
+      "box": [
+        114,
+        447,
+        647,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9909,
+      "box": [
+        135,
+        475,
+        596,
+        495
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9906,
+      "box": [
+        134,
+        499,
+        641,
+        522
+      ]
+    }
+  ]
+}

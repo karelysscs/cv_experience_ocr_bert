@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_01172",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.795,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "RICHARD DUKE",
+      "score": 0.967,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-226-885-3626|richard.duke@example.com",
+      "score": 0.9945,
+      "box": [
+        115,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2019.01–2021.04",
+      "score": 0.9771,
+      "box": [
+        116,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9884,
+      "box": [
+        126,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9683,
+      "box": [
+        126,
+        339,
+        364,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2016",
+      "score": 0.9762,
+      "box": [
+        114,
+        447,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stack and heap usage",
+      "score": 0.9733,
+      "box": [
+        132,
+        472,
+        583,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9733,
+      "box": [
+        133,
+        497,
+        576,
+        523
+      ]
+    }
+  ]
+}

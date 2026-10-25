@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22291",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.705,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "BRYAN HUNTER",
+      "score": 0.964,
+      "box": [
+        116,
+        90,
+        385,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-389-341-3496 |bryan.hunter@example.com",
+      "score": 0.987,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2020.11–2022.07",
+      "score": 0.9939,
+      "box": [
+        116,
+        290,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9673,
+      "box": [
+        127,
+        315,
+        420,
+        338
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9822,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Brookridge University, 2009",
+      "score": 0.9814,
+      "box": [
+        115,
+        449,
+        636,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9765,
+      "box": [
+        133,
+        474,
+        602,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of hematologic nursing basics",
+      "score": 0.9795,
+      "box": [
+        134,
+        499,
+        594,
+        522
+      ]
+    }
+  ]
+}

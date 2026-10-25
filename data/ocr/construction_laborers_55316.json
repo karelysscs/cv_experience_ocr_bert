@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_55316",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "JORGE RICHMOND",
+      "score": 0.9919,
+      "box": [
+        116,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-455-229-9811 |jorge.richmond@example.com",
+      "score": 0.9832,
+      "box": [
+        116,
+        151,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2020.05–2023.01",
+      "score": 0.9892,
+      "box": [
+        116,
+        291,
+        683,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9897,
+      "box": [
+        125,
+        314,
+        492,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9735,
+      "box": [
+        126,
+        339,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Clear Ridge High School, 2019",
+      "score": 0.9854,
+      "box": [
+        116,
+        449,
+        873,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surface preparation",
+      "score": 0.9794,
+      "box": [
+        132,
+        472,
+        559,
+        497
+      ]
+    }
+  ]
+}

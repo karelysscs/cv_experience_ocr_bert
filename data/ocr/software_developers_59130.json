@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_59130",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.839,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "JOSHUA TANG",
+      "score": 0.9822,
+      "box": [
+        115,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-651-239-9949|joshua.tang@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2021.06–2023.01",
+      "score": 0.9657,
+      "box": [
+        115,
+        289,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9807,
+      "box": [
+        125,
+        314,
+        447,
+        338
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.9812,
+      "box": [
+        127,
+        341,
+        351,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2019.11–2021.06",
+      "score": 0.9747,
+      "box": [
+        114,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9838,
+      "box": [
+        126,
+        406,
+        485,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9596,
+      "box": [
+        125,
+        430,
+        355,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Fairfield University, 2018",
+      "score": 0.97,
+      "box": [
+        115,
+        541,
+        439,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Valley View University, 2016",
+      "score": 0.984,
+      "box": [
+        115,
+        566,
+        490,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9848,
+      "box": [
+        131,
+        590,
+        631,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of software reliabillity",
+      "score": 0.97,
+      "box": [
+        132,
+        615,
+        507,
+        640
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_20015",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.91,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "JESS ROWLAND",
+      "score": 0.9898,
+      "box": [
+        115,
+        88,
+        388,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA|+1-329-621-8505 |jess.rowland@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9852,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Builders, 2020.10–2023.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9595,
+      "box": [
+        125,
+        313,
+        444,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9747,
+      "box": [
+        127,
+        338,
+        448,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2017.08–2019.12",
+      "score": 0.9876,
+      "box": [
+        116,
+        382,
+        655,
+        405
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9955,
+      "box": [
+        126,
+        407,
+        450,
+        430
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9744,
+      "box": [
+        125,
+        430,
+        397,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2014.10–2017.02",
+      "score": 0.9804,
+      "box": [
+        115,
+        472,
+        753,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9879,
+      "box": [
+        126,
+        497,
+        440,
+        520
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9957,
+      "box": [
+        126,
+        521,
+        583,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Design, Pineview Ridge University, 2005",
+      "score": 0.9851,
+      "box": [
+        114,
+        631,
+        725,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9884,
+      "box": [
+        133,
+        656,
+        691,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9893,
+      "box": [
+        135,
+        682,
+        714,
+        705
+      ]
+    }
+  ]
+}

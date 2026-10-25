@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_55005",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.799,
+  "mean_conf": 0.9864,
+  "lines": [
+    {
+      "text": "JAMES PATTERSON",
+      "score": 0.9821,
+      "box": [
+        116,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-981-638-9225|james.patterson@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9754,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2021.08–2023.01",
+      "score": 0.9831,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "-Monitored material usage",
+      "score": 0.9923,
+      "box": [
+        125,
+        313,
+        379,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9909,
+      "box": [
+        127,
+        340,
+        484,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Inspection, Driftwood University, 2023",
+      "score": 0.9927,
+      "box": [
+        116,
+        449,
+        776,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.9809,
+      "box": [
+        132,
+        472,
+        570,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction acoustics basics",
+      "score": 0.9887,
+      "box": [
+        135,
+        500,
+        658,
+        520
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_23882",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.764,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "HOPE POTTER",
+      "score": 0.9878,
+      "box": [
+        115,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-202-386-8960 |hope.potter@example.com",
+      "score": 0.9851,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Care Group, 2021.01–2023.01",
+      "score": 0.9918,
+      "box": [
+        116,
+        290,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9713,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9542,
+      "box": [
+        127,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Timberline University, 2022",
+      "score": 0.9813,
+      "box": [
+        114,
+        447,
+        663,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hospice care",
+      "score": 0.9885,
+      "box": [
+        132,
+        472,
+        460,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9699,
+      "box": [
+        132,
+        497,
+        488,
+        522
+      ]
+    }
+  ]
+}

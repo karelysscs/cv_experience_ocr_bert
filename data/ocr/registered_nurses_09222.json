@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_09222",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "CALEB LAMB",
+      "score": 0.9533,
+      "box": [
+        116,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-557-840-8974 |caleb.lamb@example.com",
+      "score": 0.9791,
+      "box": [
+        116,
+        151,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2021.09–2023.01",
+      "score": 0.9923,
+      "box": [
+        116,
+        290,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9794,
+      "box": [
+        127,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9721,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Forest Hill University, 2023",
+      "score": 0.9769,
+      "box": [
+        115,
+        449,
+        713,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9914,
+      "box": [
+        133,
+        474,
+        590,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient positioning",
+      "score": 0.9877,
+      "box": [
+        133,
+        498,
+        557,
+        523
+      ]
+    }
+  ]
+}

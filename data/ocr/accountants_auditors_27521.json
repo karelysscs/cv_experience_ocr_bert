@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_27521",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.032,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "MARISOL KRUEGER",
+      "score": 0.9822,
+      "box": [
+        116,
+        90,
+        447,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-941-825-3655 |marisol.krueger@example.com",
+      "score": 0.9781,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2018.09–2023.01",
+      "score": 0.9824,
+      "box": [
+        115,
+        290,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9774,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9585,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2014.04–2018.09",
+      "score": 0.978,
+      "box": [
+        114,
+        381,
+        803,
+        406
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9724,
+      "box": [
+        127,
+        432,
+        452,
+        453
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2009.11–2014.04",
+      "score": 0.9837,
+      "box": [
+        115,
+        472,
+        717,
+        496
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9857,
+      "box": [
+        126,
+        498,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9616,
+      "box": [
+        126,
+        522,
+        441,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2005.06–2009.11",
+      "score": 0.9645,
+      "box": [
+        115,
+        565,
+        741,
+        588
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9918,
+      "box": [
+        126,
+        590,
+        481,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9386,
+      "box": [
+        126,
+        614,
+        356,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Silverwood University, 2004",
+      "score": 0.9934,
+      "box": [
+        115,
+        724,
+        698,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Sunfield University, 2002",
+      "score": 0.9871,
+      "box": [
+        115,
+        749,
+        680,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9882,
+      "box": [
+        132,
+        772,
+        548,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9911,
+      "box": [
+        133,
+        798,
+        416,
+        821
+      ]
+    }
+  ]
+}

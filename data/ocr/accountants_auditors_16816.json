@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_16816",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9755,
+  "lines": [
+    {
+      "text": "REYNOLD BAUER",
+      "score": 0.9796,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-468-660-2106 |reynold.bauer@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2020.05–2023.01",
+      "score": 0.9851,
+      "box": [
+        115,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9819,
+      "box": [
+        127,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.968,
+      "box": [
+        127,
+        340,
+        393,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2017.02–2019.11",
+      "score": 0.9796,
+      "box": [
+        114,
+        381,
+        782,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9866,
+      "box": [
+        125,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9825,
+      "box": [
+        126,
+        431,
+        461,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2013.06–2016.03",
+      "score": 0.9629,
+      "box": [
+        115,
+        472,
+        721,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9633,
+      "box": [
+        126,
+        496,
+        403,
+        520
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9439,
+      "box": [
+        126,
+        521,
+        357,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Willowhaven University, 2008",
+      "score": 0.9791,
+      "box": [
+        114,
+        631,
+        714,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Riverside University, 2006",
+      "score": 0.966,
+      "box": [
+        114,
+        656,
+        670,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9577,
+      "box": [
+        132,
+        681,
+        491,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9809,
+      "box": [
+        133,
+        708,
+        526,
+        731
+      ]
+    }
+  ]
+}

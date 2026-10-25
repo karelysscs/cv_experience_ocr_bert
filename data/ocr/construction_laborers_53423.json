@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_53423",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.947,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "SAMUEL RICHMOND",
+      "score": 0.9739,
+      "box": [
+        114,
+        87,
+        453,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-324-211-8581 |samuel.richmond@example.com",
+      "score": 0.975,
+      "box": [
+        114,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2020.01–2023.01",
+      "score": 0.9847,
+      "box": [
+        114,
+        288,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9908,
+      "box": [
+        127,
+        316,
+        399,
+        336
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9858,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorFrame Construction, 2016.12–2020.01",
+      "score": 0.9817,
+      "box": [
+        115,
+        381,
+        756,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9787,
+      "box": [
+        126,
+        406,
+        531,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9801,
+      "box": [
+        126,
+        431,
+        491,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueNorth Builders, 2012.04–2015.05",
+      "score": 0.9865,
+      "box": [
+        115,
+        472,
+        684,
+        495
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9867,
+      "box": [
+        125,
+        496,
+        404,
+        522
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9651,
+      "box": [
+        126,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2008.06–2011.07",
+      "score": 0.9856,
+      "box": [
+        114,
+        563,
+        735,
+        588
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9902,
+      "box": [
+        125,
+        590,
+        332,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9491,
+      "box": [
+        126,
+        612,
+        426,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Stonehill High School, 2005",
+      "score": 0.9934,
+      "box": [
+        116,
+        725,
+        841,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of material recycling",
+      "score": 0.9909,
+      "box": [
+        132,
+        747,
+        504,
+        773
+      ]
+    }
+  ]
+}

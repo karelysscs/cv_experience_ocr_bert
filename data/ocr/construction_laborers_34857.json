@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_34857",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.776,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "SAMUEL DAVIDSON",
+      "score": 0.9779,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "NM, USA|+1-312-378-1500 |samuel.davidson@example.com",
+      "score": 0.9823,
+      "box": [
+        115,
+        150,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9834,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2021.07–2023.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        290,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.981,
+      "box": [
+        126,
+        314,
+        477,
+        339
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.974,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Lakeside High School, 2022",
+      "score": 0.9804,
+      "box": [
+        116,
+        449,
+        857,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of roofing methods",
+      "score": 0.9726,
+      "box": [
+        132,
+        472,
+        529,
+        497
+      ]
+    }
+  ]
+}

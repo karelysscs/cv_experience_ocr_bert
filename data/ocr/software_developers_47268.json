@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_47268",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.758,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "SYMONE KHAN",
+      "score": 0.9744,
+      "box": [
+        115,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-364-877-8593 |symone.khan@example.com",
+      "score": 0.9806,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2020.05–2023.01",
+      "score": 0.9897,
+      "box": [
+        116,
+        290,
+        684,
+        313
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9565,
+      "box": [
+        127,
+        315,
+        462,
+        339
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9671,
+      "box": [
+        126,
+        339,
+        382,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Redfield University, 2018",
+      "score": 0.9951,
+      "box": [
+        115,
+        449,
+        458,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.9908,
+      "box": [
+        132,
+        472,
+        566,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9894,
+      "box": [
+        134,
+        499,
+        573,
+        522
+      ]
+    }
+  ]
+}

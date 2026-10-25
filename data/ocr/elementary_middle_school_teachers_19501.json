@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_19501",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.983,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "CHARLOTTE WALTON",
+      "score": 0.9817,
+      "box": [
+        117,
+        90,
+        479,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-753-314-1745 |charlotte.walton@example.com",
+      "score": 0.9819,
+      "box": [
+        116,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2020.09–2023.01",
+      "score": 0.9695,
+      "box": [
+        116,
+        290,
+        842,
+        314
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.993,
+      "box": [
+        126,
+        339,
+        516,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2016.08–2018.12",
+      "score": 0.9906,
+      "box": [
+        115,
+        381,
+        820,
+        406
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9816,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9678,
+      "box": [
+        127,
+        432,
+        481,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2013.01–2015.06",
+      "score": 0.9816,
+      "box": [
+        116,
+        472,
+        826,
+        495
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9716,
+      "box": [
+        126,
+        497,
+        398,
+        519
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9872,
+      "box": [
+        127,
+        523,
+        460,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Community Education, Meadowview University, 2008",
+      "score": 0.9566,
+      "box": [
+        115,
+        632,
+        699,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Clearfield Ridge University, 2006",
+      "score": 0.969,
+      "box": [
+        115,
+        657,
+        739,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9929,
+      "box": [
+        132,
+        681,
+        670,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9761,
+      "box": [
+        132,
+        706,
+        533,
+        732
+      ]
+    }
+  ]
+}

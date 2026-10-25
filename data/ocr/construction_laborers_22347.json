@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_22347",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.824,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "MATTHEW BEARD",
+      "score": 0.9828,
+      "box": [
+        116,
+        90,
+        416,
+        120
+      ]
+    },
+    {
+      "text": "KY, USA|+1-875-601-4778 |matthew.beard@example.com",
+      "score": 0.976,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2020.08–202.01",
+      "score": 0.9856,
+      "box": [
+        114,
+        289,
+        754,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9772,
+      "box": [
+        126,
+        312,
+        379,
+        340
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Practices, Fairhill University, 221",
+      "score": 0.973,
+      "box": [
+        115,
+        449,
+        661,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in blueprint reading",
+      "score": 0.9804,
+      "box": [
+        133,
+        473,
+        544,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in drywall installation basics",
+      "score": 0.9646,
+      "box": [
+        134,
+        499,
+        623,
+        522
+      ]
+    }
+  ]
+}

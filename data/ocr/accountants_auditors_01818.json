@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_01818",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.949,
+  "mean_conf": 0.9766,
+  "lines": [
+    {
+      "text": "RACHEL GREEN",
+      "score": 0.9574,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-397-872-1398|rachel.green@example.com",
+      "score": 0.971,
+      "box": [
+        116,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2017.12–2023.01",
+      "score": 0.982,
+      "box": [
+        114,
+        289,
+        739,
+        314
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.984,
+      "box": [
+        127,
+        315,
+        521,
+        338
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.966,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2012.11–2017.12",
+      "score": 0.989,
+      "box": [
+        114,
+        381,
+        745,
+        406
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9899,
+      "box": [
+        126,
+        406,
+        361,
+        431
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9817,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2007.10–2012.11",
+      "score": 0.9625,
+      "box": [
+        115,
+        472,
+        694,
+        496
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9711,
+      "box": [
+        125,
+        496,
+        350,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9646,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2002.09–27.10",
+      "score": 0.9766,
+      "box": [
+        115,
+        565,
+        742,
+        588
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9642,
+      "box": [
+        125,
+        589,
+        417,
+        612
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9808,
+      "box": [
+        127,
+        616,
+        404,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Rolling Hills University, 2007",
+      "score": 0.9546,
+      "box": [
+        115,
+        725,
+        676,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning",
+      "score": 0.995,
+      "box": [
+        133,
+        749,
+        519,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional judgment",
+      "score": 0.9798,
+      "box": [
+        133,
+        772,
+        584,
+        797
+      ]
+    }
+  ]
+}

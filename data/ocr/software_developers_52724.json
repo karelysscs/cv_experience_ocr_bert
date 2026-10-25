@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_52724",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.935,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "RODNESHA LI",
+      "score": 0.9725,
+      "box": [
+        116,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-984-457-9857|rodnesha.li@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2020.04–2023.01",
+      "score": 0.9541,
+      "box": [
+        115,
+        288,
+        628,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9898,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9717,
+      "box": [
+        126,
+        339,
+        471,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2017.07–2020.04",
+      "score": 0.9803,
+      "box": [
+        115,
+        381,
+        645,
+        406
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9826,
+      "box": [
+        125,
+        405,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9844,
+      "box": [
+        126,
+        431,
+        537,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2014.09–2017.07",
+      "score": 0.9908,
+      "box": [
+        115,
+        471,
+        674,
+        496
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9974,
+      "box": [
+        127,
+        499,
+        350,
+        519
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9887,
+      "box": [
+        126,
+        521,
+        401,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2011.11–2014.09",
+      "score": 0.9917,
+      "box": [
+        115,
+        563,
+        666,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9949,
+      "box": [
+        125,
+        589,
+        509,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9829,
+      "box": [
+        126,
+        613,
+        400,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Stonehaven University, 2012",
+      "score": 0.9874,
+      "box": [
+        116,
+        726,
+        474,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwood University, 2010",
+      "score": 0.9776,
+      "box": [
+        114,
+        747,
+        486,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9859,
+      "box": [
+        133,
+        774,
+        539,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9968,
+      "box": [
+        134,
+        799,
+        625,
+        822
+      ]
+    }
+  ]
+}

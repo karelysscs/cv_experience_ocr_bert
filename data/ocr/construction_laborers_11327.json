@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_11327",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.916,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "KYLE BEASLEY",
+      "score": 0.98,
+      "box": [
+        114,
+        87,
+        376,
+        123
+      ]
+    },
+    {
+      "text": "CT, USA|+1-665-396-1152|kyle.beasley@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9856,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2020.04–2023.01",
+      "score": 0.978,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9829,
+      "box": [
+        126,
+        314,
+        482,
+        340
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9821,
+      "box": [
+        126,
+        338,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2015.11–2018.09",
+      "score": 0.9866,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9524,
+      "box": [
+        125,
+        406,
+        405,
+        431
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9853,
+      "box": [
+        126,
+        429,
+        377,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2012.05–2015.03",
+      "score": 0.9802,
+      "box": [
+        114,
+        471,
+        648,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.989,
+      "box": [
+        125,
+        496,
+        498,
+        521
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9842,
+      "box": [
+        126,
+        522,
+        405,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Meadowview High School, 204",
+      "score": 0.9834,
+      "box": [
+        115,
+        631,
+        892,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in site logistics",
+      "score": 0.9466,
+      "box": [
+        132,
+        656,
+        502,
+        681
+      ]
+    }
+  ]
+}

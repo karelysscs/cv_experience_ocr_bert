@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_28630",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.935,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "STEPHEN HENDRICKS",
+      "score": 0.9856,
+      "box": [
+        116,
+        90,
+        483,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-547-558-4522 |stephen.hendricks@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        714,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2020.03–2023.01",
+      "score": 0.9801,
+      "box": [
+        115,
+        290,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9926,
+      "box": [
+        126,
+        315,
+        422,
+        338
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9528,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2015.05–2018.03",
+      "score": 0.9773,
+      "box": [
+        116,
+        382,
+        658,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9833,
+      "box": [
+        127,
+        407,
+        483,
+        430
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9882,
+      "box": [
+        125,
+        430,
+        454,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2011.06–2014.05",
+      "score": 0.9761,
+      "box": [
+        116,
+        472,
+        690,
+        496
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9855,
+      "box": [
+        125,
+        496,
+        540,
+        521
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9534,
+      "box": [
+        126,
+        521,
+        504,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Heavy Equipment Operation, Forestview University, 2007",
+      "score": 0.9743,
+      "box": [
+        114,
+        631,
+        757,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.985,
+      "box": [
+        133,
+        656,
+        538,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.9787,
+      "box": [
+        134,
+        681,
+        603,
+        706
+      ]
+    }
+  ]
+}

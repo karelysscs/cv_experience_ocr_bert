@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_17682",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.966,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "CRAIG VANG",
+      "score": 0.9515,
+      "box": [
+        116,
+        90,
+        331,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-728-949-4317|craig.vang@example.com",
+      "score": 0.9922,
+      "box": [
+        116,
+        151,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2020.07–2023.01",
+      "score": 0.9876,
+      "box": [
+        114,
+        289,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9833,
+      "box": [
+        127,
+        315,
+        513,
+        338
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9712,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2018.01–2020.07",
+      "score": 0.983,
+      "box": [
+        116,
+        381,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9835,
+      "box": [
+        126,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9832,
+      "box": [
+        126,
+        431,
+        530,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2014.12–2017.07",
+      "score": 0.9844,
+      "box": [
+        114,
+        471,
+        739,
+        496
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9744,
+      "box": [
+        126,
+        499,
+        396,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9569,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2011.07–2014.02",
+      "score": 0.982,
+      "box": [
+        115,
+        564,
+        727,
+        587
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9751,
+      "box": [
+        125,
+        588,
+        451,
+        613
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9859,
+      "box": [
+        126,
+        613,
+        483,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Meadowridge University, 2007",
+      "score": 0.9699,
+      "box": [
+        114,
+        723,
+        689,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.964,
+      "box": [
+        132,
+        748,
+        554,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9989,
+      "box": [
+        135,
+        774,
+        551,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_13299",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.966,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "LATONYA CHANG",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-240-653-9956|latonya.chang@example.com",
+      "score": 0.9821,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2021.01–2023.01",
+      "score": 0.9836,
+      "box": [
+        114,
+        289,
+        781,
+        314
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9884,
+      "box": [
+        125,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9765,
+      "box": [
+        126,
+        339,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2018.07–2020.07",
+      "score": 0.98,
+      "box": [
+        114,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9768,
+      "box": [
+        125,
+        406,
+        427,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9775,
+      "box": [
+        125,
+        430,
+        368,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2016.01–2018.01",
+      "score": 0.9877,
+      "box": [
+        115,
+        472,
+        698,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9829,
+      "box": [
+        124,
+        496,
+        423,
+        522
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9868,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Auditing, Briarwood University, 2005",
+      "score": 0.98,
+      "box": [
+        114,
+        631,
+        693,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Willowfield University, 2003",
+      "score": 0.9713,
+      "box": [
+        114,
+        656,
+        643,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9811,
+      "box": [
+        133,
+        681,
+        690,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9741,
+      "box": [
+        133,
+        706,
+        554,
+        732
+      ]
+    }
+  ]
+}

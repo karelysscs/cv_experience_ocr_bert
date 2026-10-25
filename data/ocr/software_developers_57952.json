@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_57952",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "MARK ZHANG",
+      "score": 0.979,
+      "box": [
+        116,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-276-267-3186|mark.zhang@example.com",
+      "score": 0.9763,
+      "box": [
+        114,
+        150,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Digital, 2020.11–2023.01",
+      "score": 0.992,
+      "box": [
+        114,
+        288,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9731,
+      "box": [
+        126,
+        313,
+        327,
+        339
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9934,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2015.09–2017.12",
+      "score": 0.9835,
+      "box": [
+        115,
+        381,
+        666,
+        406
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.984,
+      "box": [
+        125,
+        405,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.977,
+      "box": [
+        127,
+        432,
+        374,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Pineview Ridge University, 2007",
+      "score": 0.9813,
+      "box": [
+        115,
+        540,
+        506,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield University, 2005",
+      "score": 0.9857,
+      "box": [
+        115,
+        566,
+        478,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in dynamic analysis",
+      "score": 0.9901,
+      "box": [
+        133,
+        590,
+        548,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of embedded systems",
+      "score": 0.9934,
+      "box": [
+        133,
+        615,
+        523,
+        640
+      ]
+    }
+  ]
+}

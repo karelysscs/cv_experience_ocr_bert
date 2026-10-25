@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_22272",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.783,
+  "mean_conf": 0.9754,
+  "lines": [
+    {
+      "text": "KRISTIAN BAXTER",
+      "score": 0.9878,
+      "box": [
+        116,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-291-818-2299 |kristian.baxter@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2017.10–2020.06",
+      "score": 0.9823,
+      "box": [
+        115,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9816,
+      "box": [
+        126,
+        315,
+        440,
+        338
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.933,
+      "box": [
+        126,
+        338,
+        332,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Cedar Ridge High School, 2017",
+      "score": 0.9681,
+      "box": [
+        116,
+        449,
+        958,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9657,
+      "box": [
+        132,
+        473,
+        551,
+        498
+      ]
+    }
+  ]
+}

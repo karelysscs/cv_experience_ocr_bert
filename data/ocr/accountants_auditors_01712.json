@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_01712",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.968,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "JOHNNY LIM",
+      "score": 0.9617,
+      "box": [
+        114,
+        88,
+        325,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-567-618-6800|johnny.lim@example.com",
+      "score": 0.9687,
+      "box": [
+        115,
+        150,
+        632,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2019.10–2023.01",
+      "score": 0.9942,
+      "box": [
+        115,
+        290,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9737,
+      "box": [
+        127,
+        315,
+        450,
+        338
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9491,
+      "box": [
+        126,
+        339,
+        429,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2016.06–2019.10",
+      "score": 0.9853,
+      "box": [
+        115,
+        381,
+        706,
+        406
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9841,
+      "box": [
+        126,
+        405,
+        547,
+        432
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9761,
+      "box": [
+        126,
+        431,
+        489,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2013.02–2016.06",
+      "score": 0.9794,
+      "box": [
+        114,
+        471,
+        726,
+        496
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9679,
+      "box": [
+        126,
+        499,
+        373,
+        519
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9837,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2007.04–2010.08",
+      "score": 0.9888,
+      "box": [
+        115,
+        565,
+        710,
+        588
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9864,
+      "box": [
+        127,
+        590,
+        413,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9902,
+      "box": [
+        126,
+        614,
+        401,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Riverhaven University, 2004",
+      "score": 0.9829,
+      "box": [
+        114,
+        723,
+        658,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of payroll systems",
+      "score": 0.9622,
+      "box": [
+        132,
+        747,
+        486,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9945,
+      "box": [
+        133,
+        773,
+        550,
+        795
+      ]
+    }
+  ]
+}

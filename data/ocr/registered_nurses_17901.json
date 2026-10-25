@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_17901",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.962,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "THERESA SULLIVAN",
+      "score": 0.9754,
+      "box": [
+        116,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-231-438-6052 |theresa.sullivan@example.com",
+      "score": 0.9831,
+      "box": [
+        116,
+        152,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2019.08–2023.01",
+      "score": 0.9844,
+      "box": [
+        115,
+        289,
+        696,
+        314
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9581,
+      "box": [
+        126,
+        313,
+        504,
+        340
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9746,
+      "box": [
+        126,
+        338,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2016.02–2019.08",
+      "score": 0.9775,
+      "box": [
+        115,
+        381,
+        699,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9795,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9835,
+      "box": [
+        126,
+        431,
+        506,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2012.08–2016.02",
+      "score": 0.9864,
+      "box": [
+        115,
+        471,
+        697,
+        496
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9816,
+      "box": [
+        125,
+        496,
+        470,
+        522
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.964,
+      "box": [
+        126,
+        521,
+        422,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2008.01–2011.07",
+      "score": 0.9955,
+      "box": [
+        116,
+        565,
+        725,
+        588
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9866,
+      "box": [
+        124,
+        588,
+        417,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.979,
+      "box": [
+        126,
+        613,
+        471,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Cloverfield University, 2003",
+      "score": 0.9806,
+      "box": [
+        114,
+        723,
+        757,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9899,
+      "box": [
+        132,
+        747,
+        520,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in critical care basics",
+      "score": 0.9837,
+      "box": [
+        135,
+        775,
+        559,
+        795
+      ]
+    }
+  ]
+}

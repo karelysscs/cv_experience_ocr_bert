@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_05379",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "JACOBCOLON",
+      "score": 0.9987,
+      "box": [
+        115,
+        88,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-835-532-5670 |jacob.colon@example.com",
+      "score": 0.9918,
+      "box": [
+        117,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2020.11–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        288,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.969,
+      "box": [
+        126,
+        314,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9848,
+      "box": [
+        126,
+        339,
+        538,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2018.08–2020.11",
+      "score": 0.9893,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9856,
+      "box": [
+        126,
+        406,
+        373,
+        432
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9542,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2016.05–2018.08",
+      "score": 0.9864,
+      "box": [
+        116,
+        472,
+        646,
+        495
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9926,
+      "box": [
+        125,
+        496,
+        352,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.981,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, EIm Ridge University, 2014",
+      "score": 0.9742,
+      "box": [
+        115,
+        632,
+        478,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9922,
+      "box": [
+        133,
+        657,
+        576,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.9807,
+      "box": [
+        135,
+        683,
+        596,
+        707
+      ]
+    }
+  ]
+}

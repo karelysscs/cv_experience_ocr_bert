@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_52668",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.816,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "IAN BURTON",
+      "score": 0.9913,
+      "box": [
+        115,
+        90,
+        328,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-523-977-5566|ian.burton@example.com",
+      "score": 0.9455,
+      "box": [
+        115,
+        150,
+        632,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2021.11–2023.01",
+      "score": 0.9896,
+      "box": [
+        116,
+        291,
+        711,
+        311
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9843,
+      "box": [
+        126,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Clearbrook High School, 2022",
+      "score": 0.9855,
+      "box": [
+        116,
+        449,
+        1014,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9692,
+      "box": [
+        132,
+        472,
+        588,
+        497
+      ]
+    }
+  ]
+}

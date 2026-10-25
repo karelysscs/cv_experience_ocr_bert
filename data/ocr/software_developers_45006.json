@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_45006",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.837,
+  "mean_conf": 0.9865,
+  "lines": [
+    {
+      "text": "JASON HOWELL",
+      "score": 0.9941,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-378-465-5371 |jason.howell@example.com",
+      "score": 0.9776,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2021.07–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        631,
+        313
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9832,
+      "box": [
+        125,
+        313,
+        463,
+        338
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9888,
+      "box": [
+        126,
+        338,
+        434,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2018.05–2019.12",
+      "score": 0.993,
+      "box": [
+        116,
+        382,
+        653,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9695,
+      "box": [
+        126,
+        405,
+        415,
+        430
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.981,
+      "box": [
+        125,
+        429,
+        364,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Skycrest University, 2009",
+      "score": 0.9735,
+      "box": [
+        115,
+        541,
+        443,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Canyon View University, 2007",
+      "score": 0.9931,
+      "box": [
+        115,
+        566,
+        505,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9912,
+      "box": [
+        133,
+        591,
+        575,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud services integration",
+      "score": 0.9903,
+      "box": [
+        133,
+        615,
+        624,
+        640
+      ]
+    }
+  ]
+}

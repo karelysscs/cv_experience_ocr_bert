@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_26881",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "MIGUEL XIONG",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-430-855-6811 |miguel.xiong@example.com",
+      "score": 0.9801,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2020.10–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        289,
+        666,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9525,
+      "box": [
+        125,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9674,
+      "box": [
+        127,
+        340,
+        437,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2015.07–2017.11",
+      "score": 0.9838,
+      "box": [
+        115,
+        382,
+        699,
+        404
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9899,
+      "box": [
+        126,
+        406,
+        508,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9861,
+      "box": [
+        125,
+        430,
+        555,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Highpoint University, 2010",
+      "score": 0.9807,
+      "box": [
+        115,
+        541,
+        654,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Clearfield Ridge University, 208",
+      "score": 0.9762,
+      "box": [
+        114,
+        565,
+        712,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9926,
+      "box": [
+        133,
+        590,
+        524,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9812,
+      "box": [
+        133,
+        615,
+        687,
+        640
+      ]
+    }
+  ]
+}

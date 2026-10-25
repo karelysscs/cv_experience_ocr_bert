@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_53936",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.842,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "NICOLE CHUNG",
+      "score": 0.9589,
+      "box": [
+        114,
+        87,
+        377,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-562-385-5427|nicole.chung@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2021.03–2023.01",
+      "score": 0.9788,
+      "box": [
+        116,
+        290,
+        652,
+        313
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9789,
+      "box": [
+        127,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9805,
+      "box": [
+        126,
+        339,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2018.01–2019.11",
+      "score": 0.9895,
+      "box": [
+        116,
+        382,
+        635,
+        405
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9833,
+      "box": [
+        126,
+        407,
+        376,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9811,
+      "box": [
+        126,
+        431,
+        509,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Riverwood University, 2014",
+      "score": 0.9827,
+      "box": [
+        116,
+        542,
+        461,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2012",
+      "score": 0.98,
+      "box": [
+        115,
+        566,
+        504,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9938,
+      "box": [
+        132,
+        590,
+        583,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in signal processing basics",
+      "score": 0.9921,
+      "box": [
+        134,
+        615,
+        615,
+        640
+      ]
+    }
+  ]
+}

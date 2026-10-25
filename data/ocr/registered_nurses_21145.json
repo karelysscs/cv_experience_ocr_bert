@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_21145",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "NADINE THOMAS",
+      "score": 0.975,
+      "box": [
+        116,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-327-384-2919 |nadine.thomas@example.com",
+      "score": 0.9677,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Center, 2020.08–2023.01",
+      "score": 0.9835,
+      "box": [
+        116,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9885,
+      "box": [
+        126,
+        315,
+        552,
+        338
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9902,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2018.02–2020.08",
+      "score": 0.9794,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.991,
+      "box": [
+        126,
+        406,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9751,
+      "box": [
+        126,
+        430,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2015.08–2018.02",
+      "score": 0.9932,
+      "box": [
+        116,
+        473,
+        730,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9823,
+      "box": [
+        125,
+        496,
+        474,
+        522
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9735,
+      "box": [
+        127,
+        523,
+        443,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Meadowway University, 2019",
+      "score": 0.9933,
+      "box": [
+        115,
+        632,
+        638,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medical imaging basics",
+      "score": 0.975,
+      "box": [
+        132,
+        656,
+        595,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9972,
+      "box": [
+        136,
+        684,
+        488,
+        704
+      ]
+    }
+  ]
+}

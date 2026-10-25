@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_52935",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.828,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "JENNA MOON",
+      "score": 0.9666,
+      "box": [
+        114,
+        87,
+        346,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-433-698-6633 |jenna.moon@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2021.03–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9794,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9897,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2018.03–2020.01",
+      "score": 0.9961,
+      "box": [
+        116,
+        382,
+        644,
+        405
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9632,
+      "box": [
+        127,
+        408,
+        340,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9786,
+      "box": [
+        125,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Timberline University, 2010",
+      "score": 0.9702,
+      "box": [
+        115,
+        541,
+        460,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Foxwood University, 2008",
+      "score": 0.9732,
+      "box": [
+        115,
+        566,
+        466,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in software project management",
+      "score": 0.9905,
+      "box": [
+        133,
+        590,
+        665,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.992,
+      "box": [
+        133,
+        615,
+        598,
+        640
+      ]
+    }
+  ]
+}
