@@ -10,6 +10,9 @@ from __future__ import annotations
 import tempfile
 from pathlib import Path
 
+# On Windows, PyTorch must load its DLLs before PaddlePaddle does (PaddleOCR imports torch
+# indirectly through modelscope); otherwise torch fails with "WinError 127 ... shm.dll".
+import torch  # noqa: F401
 import numpy as np
 import pandas as pd
 import streamlit as st
