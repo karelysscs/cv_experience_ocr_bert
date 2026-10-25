@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_45759",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.959,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "JOHN PENNINGTON",
+      "score": 0.9733,
+      "box": [
+        116,
+        90,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-895-942-7097 |john.pennington@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2019.12–2023.01",
+      "score": 0.9791,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9915,
+      "box": [
+        126,
+        315,
+        538,
+        338
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9785,
+      "box": [
+        126,
+        338,
+        327,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2016.11–2019.12",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9943,
+      "box": [
+        126,
+        407,
+        495,
+        430
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9516,
+      "box": [
+        126,
+        429,
+        307,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Digital, 2013.09–2016.11",
+      "score": 0.9868,
+      "box": [
+        115,
+        472,
+        658,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9816,
+      "box": [
+        126,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9856,
+      "box": [
+        126,
+        521,
+        482,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2010.07–2013.09",
+      "score": 0.9825,
+      "box": [
+        114,
+        563,
+        673,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9737,
+      "box": [
+        126,
+        590,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9579,
+      "box": [
+        126,
+        614,
+        385,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2010",
+      "score": 0.9801,
+      "box": [
+        114,
+        723,
+        489,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9832,
+      "box": [
+        132,
+        747,
+        585,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9774,
+      "box": [
+        136,
+        775,
+        573,
+        795
+      ]
+    }
+  ]
+}

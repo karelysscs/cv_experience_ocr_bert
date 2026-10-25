@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_56205",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.845,
+  "mean_conf": 0.9851,
+  "lines": [
+    {
+      "text": "KEVIN MORRISON",
+      "score": 0.989,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-242-496-7143 |kevin.morrison@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2020.07–2023.01",
+      "score": 0.984,
+      "box": [
+        114,
+        288,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9795,
+      "box": [
+        126,
+        315,
+        396,
+        338
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9928,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2015.07–2018.01",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9847,
+      "box": [
+        126,
+        406,
+        404,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9909,
+      "box": [
+        125,
+        430,
+        627,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2009",
+      "score": 0.9856,
+      "box": [
+        114,
+        539,
+        489,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in inversion of control",
+      "score": 0.9603,
+      "box": [
+        132,
+        565,
+        565,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9829,
+      "box": [
+        134,
+        591,
+        549,
+        615
+      ]
+    }
+  ]
+}

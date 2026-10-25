@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_02468",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.848,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "STEPHANIE SNYDER",
+      "score": 0.9781,
+      "box": [
+        116,
+        90,
+        456,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-902-759-5122 |stephanie.snyder@example.com",
+      "score": 0.977,
+      "box": [
+        116,
+        151,
+        700,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Care Services, 2019.11–2022.03",
+      "score": 0.9911,
+      "box": [
+        116,
+        290,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9635,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.98,
+      "box": [
+        127,
+        340,
+        539,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2016.12–2019.05",
+      "score": 0.997,
+      "box": [
+        116,
+        382,
+        709,
+        405
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.992,
+      "box": [
+        126,
+        407,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.98,
+      "box": [
+        127,
+        432,
+        466,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Geriatric Care, Clearbrook University, 2015",
+      "score": 0.9929,
+      "box": [
+        115,
+        541,
+        704,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9864,
+      "box": [
+        133,
+        566,
+        489,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9712,
+      "box": [
+        132,
+        590,
+        499,
+        613
+      ]
+    }
+  ]
+}

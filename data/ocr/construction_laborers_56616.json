@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_56616",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.807,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "DAKOTA BOWEN",
+      "score": 0.9669,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-898-420-5246|dakota.bowen@example.com",
+      "score": 0.9944,
+      "box": [
+        114,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2021.05–202.01",
+      "score": 0.9852,
+      "box": [
+        114,
+        289,
+        754,
+        313
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9738,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        553,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Logistics, Pinecrest University, 2023",
+      "score": 0.9851,
+      "box": [
+        115,
+        449,
+        683,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of building envelope basics",
+      "score": 0.9893,
+      "box": [
+        132,
+        472,
+        570,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.9831,
+      "box": [
+        132,
+        497,
+        559,
+        522
+      ]
+    }
+  ]
+}

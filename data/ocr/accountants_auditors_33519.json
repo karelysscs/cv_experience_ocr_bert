@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_33519",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.901,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "ANNA NOBLE",
+      "score": 0.9517,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-372-401-2000 | anna.noble@example.com",
+      "score": 0.9455,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial Group, 2020.12–2023.01",
+      "score": 0.9826,
+      "box": [
+        114,
+        289,
+        767,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9774,
+      "box": [
+        126,
+        314,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9756,
+      "box": [
+        127,
+        340,
+        453,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2017.09–2019.11",
+      "score": 0.9807,
+      "box": [
+        115,
+        382,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9729,
+      "box": [
+        127,
+        407,
+        426,
+        430
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9937,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2014.02–2016.04",
+      "score": 0.9925,
+      "box": [
+        115,
+        472,
+        712,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9863,
+      "box": [
+        126,
+        498,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9843,
+      "box": [
+        126,
+        521,
+        483,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Pinewood University, 2010",
+      "score": 0.9824,
+      "box": [
+        115,
+        632,
+        614,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in intangible asset accounting",
+      "score": 0.9782,
+      "box": [
+        134,
+        658,
+        640,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9659,
+      "box": [
+        134,
+        682,
+        547,
+        702
+      ]
+    }
+  ]
+}

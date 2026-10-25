@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_04786",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.835,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "JULIAN CHUNG",
+      "score": 0.9601,
+      "box": [
+        115,
+        88,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-573-831-8345 |julian.chung@example.com",
+      "score": 0.9821,
+      "box": [
+        117,
+        151,
+        652,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2021.01–2023.01",
+      "score": 0.9767,
+      "box": [
+        116,
+        290,
+        641,
+        313
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9744,
+      "box": [
+        126,
+        315,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9596,
+      "box": [
+        127,
+        340,
+        416,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2019.01–2021.01",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9884,
+      "box": [
+        127,
+        408,
+        347,
+        429
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9607,
+      "box": [
+        126,
+        431,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Professional degree, Fairmont University, 2021",
+      "score": 0.9561,
+      "box": [
+        115,
+        540,
+        549,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone Ridge University, 2017",
+      "score": 0.9755,
+      "box": [
+        115,
+        566,
+        542,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9933,
+      "box": [
+        133,
+        591,
+        535,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of computational thinking",
+      "score": 0.9923,
+      "box": [
+        133,
+        615,
+        549,
+        640
+      ]
+    }
+  ]
+}

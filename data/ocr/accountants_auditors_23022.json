@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_23022",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "LAURA MCKINNEY",
+      "score": 0.988,
+      "box": [
+        116,
+        90,
+        423,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA|+1-418-460-5204 |laura.mckinney@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        152,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2019.11–2023.01",
+      "score": 0.9879,
+      "box": [
+        114,
+        289,
+        745,
+        314
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9649,
+      "box": [
+        125,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2014.09–2017.11",
+      "score": 0.978,
+      "box": [
+        115,
+        382,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9848,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9881,
+      "box": [
+        126,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2010.07–2013.10",
+      "score": 0.9745,
+      "box": [
+        114,
+        471,
+        745,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared account reconcilliations",
+      "score": 0.9742,
+      "box": [
+        125,
+        498,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9842,
+      "box": [
+        126,
+        521,
+        423,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Wildflower University, 2005",
+      "score": 0.9649,
+      "box": [
+        115,
+        632,
+        564,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9755,
+      "box": [
+        134,
+        658,
+        612,
+        678
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9834,
+      "box": [
+        133,
+        681,
+        645,
+        706
+      ]
+    }
+  ]
+}

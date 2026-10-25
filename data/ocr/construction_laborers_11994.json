@@ -1,0 +1,213 @@
+{
+  "id": "construction_laborers_11994",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "LEANNE DUNLAP",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-491-838-8799|leanne.dunlap@example.com",
+      "score": 0.9899,
+      "box": [
+        115,
+        150,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2020.06–2023.01",
+      "score": 0.9773,
+      "box": [
+        115,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9823,
+      "box": [
+        126,
+        314,
+        479,
+        337
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9891,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2017.10–2020.06",
+      "score": 0.9804,
+      "box": [
+        115,
+        381,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9875,
+      "box": [
+        125,
+        406,
+        491,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9801,
+      "box": [
+        125,
+        430,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stoneway Construction, 2014.05–2017.01",
+      "score": 0.994,
+      "box": [
+        115,
+        472,
+        722,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9604,
+      "box": [
+        126,
+        498,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9815,
+      "box": [
+        125,
+        521,
+        374,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2010.03–2012.11",
+      "score": 0.9831,
+      "box": [
+        115,
+        565,
+        677,
+        588
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.961,
+      "box": [
+        124,
+        588,
+        421,
+        614
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9605,
+      "box": [
+        126,
+        615,
+        505,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Construction Workflow, Riverstone University, 2008",
+      "score": 0.9915,
+      "box": [
+        115,
+        725,
+        683,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Industrial Technology, Stone Valley University, 2006",
+      "score": 0.9791,
+      "box": [
+        114,
+        747,
+        708,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9798,
+      "box": [
+        134,
+        775,
+        693,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic paving techniques",
+      "score": 0.989,
+      "box": [
+        133,
+        799,
+        612,
+        822
+      ]
+    }
+  ]
+}

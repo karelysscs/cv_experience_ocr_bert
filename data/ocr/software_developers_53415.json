@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_53415",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.866,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "JOSEPH LEONARD",
+      "score": 0.9892,
+      "box": [
+        116,
+        90,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-397-453-3428|joseph.leonard@example.com",
+      "score": 0.976,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9873,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2020.12–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9593,
+      "box": [
+        125,
+        313,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9794,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2018.11–2020.12",
+      "score": 0.987,
+      "box": [
+        116,
+        382,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9738,
+      "box": [
+        125,
+        405,
+        372,
+        432
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9785,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2016.09–2018.11",
+      "score": 0.9926,
+      "box": [
+        116,
+        472,
+        644,
+        495
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9806,
+      "box": [
+        127,
+        498,
+        390,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9907,
+      "box": [
+        126,
+        521,
+        507,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairview University, 2017",
+      "score": 0.9757,
+      "box": [
+        115,
+        632,
+        459,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9706,
+      "box": [
+        132,
+        656,
+        714,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of documentation standards",
+      "score": 0.9879,
+      "box": [
+        135,
+        682,
+        577,
+        705
+      ]
+    }
+  ]
+}

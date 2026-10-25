@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22848",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.712,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "ARIEL INGRAM",
+      "score": 0.9767,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-417-675-9016|ariel.ingram@example.com",
+      "score": 0.9936,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2021.04–2023.01",
+      "score": 0.9866,
+      "box": [
+        116,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9885,
+      "box": [
+        126,
+        314,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Goldenbrook University, 2022",
+      "score": 0.989,
+      "box": [
+        115,
+        449,
+        645,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in catheter care",
+      "score": 0.9375,
+      "box": [
+        132,
+        474,
+        511,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of mental health nursing",
+      "score": 0.9817,
+      "box": [
+        132,
+        496,
+        541,
+        524
+      ]
+    }
+  ]
+}

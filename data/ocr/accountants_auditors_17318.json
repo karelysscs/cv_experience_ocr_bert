@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_17318",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.863,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "JOHN LE",
+      "score": 0.9823,
+      "box": [
+        115,
+        89,
+        266,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-517-974-1119 | john.le@example.com",
+      "score": 0.98,
+      "box": [
+        116,
+        152,
+        591,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2020.09–2023.01",
+      "score": 0.9617,
+      "box": [
+        114,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9818,
+      "box": [
+        127,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        547,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2016.09–2019.01",
+      "score": 0.9869,
+      "box": [
+        114,
+        381,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9811,
+      "box": [
+        125,
+        406,
+        362,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9794,
+      "box": [
+        126,
+        431,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Sunrise University, 2015",
+      "score": 0.9902,
+      "box": [
+        114,
+        539,
+        686,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of financial forecasting",
+      "score": 0.9845,
+      "box": [
+        132,
+        565,
+        526,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9919,
+      "box": [
+        133,
+        591,
+        509,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_20813",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.822,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "JAMEL PHILLIPS",
+      "score": 0.981,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-509-813-6744 |jamel.phillips@example.com",
+      "score": 0.983,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Contractors, 2021.08–2023.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        291,
+        717,
+        311
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9772,
+      "box": [
+        126,
+        314,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9767,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Civil Technology, Pine Valley University, 2023",
+      "score": 0.9723,
+      "box": [
+        116,
+        449,
+        793,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.9932,
+      "box": [
+        132,
+        472,
+        553,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural connections",
+      "score": 0.9828,
+      "box": [
+        134,
+        498,
+        582,
+        521
+      ]
+    }
+  ]
+}

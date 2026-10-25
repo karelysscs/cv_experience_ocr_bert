@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_33446",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.86,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "DARIEN SHEPHERD",
+      "score": 0.9762,
+      "box": [
+        116,
+        90,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-302-360-4061 | darien.shepherd@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        152,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2021.06–2023.01",
+      "score": 0.9785,
+      "box": [
+        115,
+        290,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9625,
+      "box": [
+        125,
+        313,
+        393,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9816,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2019.11–2021.06",
+      "score": 0.9951,
+      "box": [
+        115,
+        382,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9896,
+      "box": [
+        126,
+        406,
+        546,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9785,
+      "box": [
+        126,
+        432,
+        405,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Financial Management, Highpoint University, 2023",
+      "score": 0.9824,
+      "box": [
+        114,
+        539,
+        673,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Riverdale University, 2022",
+      "score": 0.9806,
+      "box": [
+        115,
+        566,
+        648,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9961,
+      "box": [
+        135,
+        591,
+        563,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9727,
+      "box": [
+        134,
+        616,
+        557,
+        640
+      ]
+    }
+  ]
+}

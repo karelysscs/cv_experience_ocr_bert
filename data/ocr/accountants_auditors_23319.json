@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_23319",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "JAMES NORRIS",
+      "score": 0.9912,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA|+1-320-387-5394 |james.norris@example.com",
+      "score": 0.9614,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2020.12–2023.01",
+      "score": 0.978,
+      "box": [
+        114,
+        289,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.966,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9541,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2018.02–2020.04",
+      "score": 0.9903,
+      "box": [
+        115,
+        381,
+        703,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9956,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9961,
+      "box": [
+        127,
+        432,
+        460,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2015.02–2017.04",
+      "score": 0.9842,
+      "box": [
+        115,
+        471,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9611,
+      "box": [
+        126,
+        498,
+        436,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9421,
+      "box": [
+        126,
+        521,
+        356,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Clearway University, 2012",
+      "score": 0.985,
+      "box": [
+        115,
+        632,
+        555,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9832,
+      "box": [
+        134,
+        658,
+        537,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9822,
+      "box": [
+        133,
+        681,
+        645,
+        707
+      ]
+    }
+  ]
+}

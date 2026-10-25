@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_22544",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.81,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "JASMINE HOUSE",
+      "score": 0.9908,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-695-927-6200 |jasmine.house@example.com",
+      "score": 0.9835,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2022.04–2023.01",
+      "score": 0.9814,
+      "box": [
+        116,
+        290,
+        861,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9822,
+      "box": [
+        126,
+        314,
+        496,
+        339
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9687,
+      "box": [
+        127,
+        340,
+        370,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Fairview Ridge University, 2021",
+      "score": 0.9886,
+      "box": [
+        115,
+        449,
+        716,
+        472
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.9799,
+      "box": [
+        132,
+        472,
+        526,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in social studies education",
+      "score": 0.986,
+      "box": [
+        134,
+        499,
+        612,
+        522
+      ]
+    }
+  ]
+}

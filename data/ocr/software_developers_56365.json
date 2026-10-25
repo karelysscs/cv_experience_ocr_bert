@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_56365",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.771,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "JOHN SEXTON",
+      "score": 0.958,
+      "box": [
+        116,
+        90,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-213-498-3938|john.sexton@example.com",
+      "score": 0.9953,
+      "box": [
+        114,
+        150,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Software, 2020.07–2023.01",
+      "score": 0.9945,
+      "box": [
+        116,
+        290,
+        666,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9921,
+      "box": [
+        127,
+        316,
+        385,
+        336
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9963,
+      "box": [
+        127,
+        340,
+        423,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2020",
+      "score": 0.9773,
+      "box": [
+        115,
+        449,
+        474,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.9577,
+      "box": [
+        132,
+        473,
+        583,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9915,
+      "box": [
+        133,
+        498,
+        550,
+        522
+      ]
+    }
+  ]
+}

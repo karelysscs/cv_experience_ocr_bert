@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21221",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.007,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "SONJA DOYLE",
+      "score": 0.9746,
+      "box": [
+        115,
+        90,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-257-361-3965 |sonja.doyle@example.com",
+      "score": 0.9695,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2020.06–2023.01",
+      "score": 0.9733,
+      "box": [
+        116,
+        290,
+        632,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9822,
+      "box": [
+        126,
+        314,
+        456,
+        337
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        469,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Medical, 2017.11–2020.06",
+      "score": 0.9856,
+      "box": [
+        115,
+        381,
+        736,
+        406
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9847,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9872,
+      "box": [
+        126,
+        431,
+        463,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2013.03–2015.10",
+      "score": 0.9691,
+      "box": [
+        115,
+        471,
+        665,
+        498
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9768,
+      "box": [
+        124,
+        496,
+        452,
+        522
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9803,
+      "box": [
+        126,
+        521,
+        466,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2010.01–2012.08",
+      "score": 0.9913,
+      "box": [
+        116,
+        565,
+        679,
+        588
+      ]
+    },
+    {
+      "text": "-Maintained infection control protocols",
+      "score": 0.982,
+      "box": [
+        124,
+        588,
+        486,
+        614
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.979,
+      "box": [
+        126,
+        613,
+        480,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Life Sciences, Pineview Ridge University, 2001",
+      "score": 0.9746,
+      "box": [
+        114,
+        723,
+        738,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9932,
+      "box": [
+        133,
+        749,
+        617,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9862,
+      "box": [
+        135,
+        775,
+        578,
+        795
+      ]
+    }
+  ]
+}

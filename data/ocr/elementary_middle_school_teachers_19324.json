@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_19324",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.837,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "TIFFANY MOYER",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-790-419-1829 |tiffany.moyer@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        152,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2019.07–2020.10",
+      "score": 0.9566,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9723,
+      "box": [
+        126,
+        315,
+        493,
+        338
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9822,
+      "box": [
+        126,
+        338,
+        411,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Stonehaven University, 2015",
+      "score": 0.9785,
+      "box": [
+        115,
+        449,
+        702,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9871,
+      "box": [
+        133,
+        474,
+        690,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.9771,
+      "box": [
+        132,
+        497,
+        578,
+        522
+      ]
+    }
+  ]
+}

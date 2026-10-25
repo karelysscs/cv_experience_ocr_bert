@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_14420",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "KEENAN MOYER",
+      "score": 0.982,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-400-821-2785 |keenan.moyer@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2020.03–2023.01",
+      "score": 0.9827,
+      "box": [
+        114,
+        289,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "-Reviewed credit memos",
+      "score": 0.9529,
+      "box": [
+        126,
+        314,
+        365,
+        337
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9826,
+      "box": [
+        126,
+        338,
+        378,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Larkspur University, 2023",
+      "score": 0.9789,
+      "box": [
+        115,
+        449,
+        628,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Sunset Ridge University, 2022",
+      "score": 0.9902,
+      "box": [
+        115,
+        474,
+        684,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9878,
+      "box": [
+        134,
+        499,
+        686,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9816,
+      "box": [
+        133,
+        522,
+        554,
+        548
+      ]
+    }
+  ]
+}

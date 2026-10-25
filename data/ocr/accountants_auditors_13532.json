@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_13532",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.848,
+  "mean_conf": 0.9796,
+  "lines": [
+    {
+      "text": "DAVID DYER",
+      "score": 0.9679,
+      "box": [
+        116,
+        90,
+        323,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-725-519-1024 |david.dyer@example.com",
+      "score": 0.9705,
+      "box": [
+        115,
+        150,
+        633,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2020.12–2022.07",
+      "score": 0.9849,
+      "box": [
+        114,
+        289,
+        676,
+        314
+      ]
+    },
+    {
+      "text": "-Directed accounting training programs",
+      "score": 0.9845,
+      "box": [
+        125,
+        314,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9702,
+      "box": [
+        127,
+        339,
+        392,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2018.02–2019.09",
+      "score": 0.9854,
+      "box": [
+        114,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9747,
+      "box": [
+        126,
+        407,
+        405,
+        430
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9877,
+      "box": [
+        127,
+        432,
+        413,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Information Systems, Northfield University, 2016",
+      "score": 0.9657,
+      "box": [
+        115,
+        541,
+        654,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Crestline University, 2014",
+      "score": 0.974,
+      "box": [
+        114,
+        565,
+        685,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9871,
+      "box": [
+        132,
+        590,
+        584,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence evaluation",
+      "score": 0.9784,
+      "box": [
+        133,
+        616,
+        615,
+        639
+      ]
+    }
+  ]
+}

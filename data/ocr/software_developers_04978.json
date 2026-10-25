@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_04978",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.937,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "JESSICA CHOI",
+      "score": 0.9872,
+      "box": [
+        115,
+        88,
+        356,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-628-768-4156 |jessica.choi@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9876,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2020.01–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9714,
+      "box": [
+        127,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9913,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital 2017.01–2020.01",
+      "score": 0.9763,
+      "box": [
+        115,
+        381,
+        644,
+        406
+      ]
+    },
+    {
+      "text": "- Defined APl governance models",
+      "score": 0.9731,
+      "box": [
+        127,
+        407,
+        443,
+        430
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.98,
+      "box": [
+        126,
+        430,
+        471,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2012.08–2015.08",
+      "score": 0.9739,
+      "box": [
+        114,
+        470,
+        651,
+        498
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9816,
+      "box": [
+        125,
+        498,
+        383,
+        521
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9806,
+      "box": [
+        126,
+        522,
+        347,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Stonewave Software, 2008.12–2012.01",
+      "score": 0.993,
+      "box": [
+        115,
+        563,
+        686,
+        588
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9914,
+      "box": [
+        125,
+        588,
+        332,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9594,
+      "box": [
+        126,
+        614,
+        447,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillside University, 2007",
+      "score": 0.9779,
+      "box": [
+        115,
+        725,
+        449,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of garbage collection",
+      "score": 0.9615,
+      "box": [
+        132,
+        747,
+        511,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency management",
+      "score": 0.9896,
+      "box": [
+        133,
+        772,
+        584,
+        798
+      ]
+    }
+  ]
+}

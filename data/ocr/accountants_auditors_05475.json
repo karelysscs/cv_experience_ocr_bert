@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_05475",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "AMYWEBER",
+      "score": 0.9976,
+      "box": [
+        116,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-563-972-3580|amy.weber@example.com",
+      "score": 0.9883,
+      "box": [
+        116,
+        150,
+        643,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.07–2023.01",
+      "score": 0.977,
+      "box": [
+        114,
+        289,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "-Led cross-functional financial integration",
+      "score": 0.9636,
+      "box": [
+        125,
+        313,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9764,
+      "box": [
+        126,
+        339,
+        476,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2015.05–2017.11",
+      "score": 0.9813,
+      "box": [
+        114,
+        381,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9701,
+      "box": [
+        125,
+        406,
+        402,
+        431
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9724,
+      "box": [
+        125,
+        430,
+        450,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Canyon View University, 2003",
+      "score": 0.9917,
+      "box": [
+        114,
+        540,
+        778,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of regulatory compliance",
+      "score": 0.9718,
+      "box": [
+        132,
+        565,
+        584,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9704,
+      "box": [
+        135,
+        591,
+        620,
+        614
+      ]
+    }
+  ]
+}

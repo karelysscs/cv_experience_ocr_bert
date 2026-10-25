@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_20824",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "JOSEPH BEST",
+      "score": 0.992,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-727-434-1549 |joseph.best@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2020.01–2023.01",
+      "score": 0.974,
+      "box": [
+        115,
+        289,
+        635,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9824,
+      "box": [
+        126,
+        314,
+        466,
+        337
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9936,
+      "box": [
+        126,
+        339,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Co., 2014.05–2017.05",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        641,
+        406
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9844,
+      "box": [
+        126,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.972,
+      "box": [
+        125,
+        430,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Oakridge High School, 2014",
+      "score": 0.9821,
+      "box": [
+        115,
+        540,
+        836,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9814,
+      "box": [
+        134,
+        566,
+        640,
+        589
+      ]
+    }
+  ]
+}

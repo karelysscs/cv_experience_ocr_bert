@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_14294",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.0,
+  "mean_conf": 0.9783,
+  "lines": [
+    {
+      "text": "JUAN TREVINO",
+      "score": 0.9748,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-477-920-3545 |juan.trevino@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverBuild Co., 2018.10–2023.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        290,
+        634,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9494,
+      "box": [
+        125,
+        314,
+        475,
+        337
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2014.07–2018.10",
+      "score": 0.9904,
+      "box": [
+        115,
+        380,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9559,
+      "box": [
+        126,
+        407,
+        462,
+        430
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9791,
+      "box": [
+        125,
+        431,
+        550,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2009.01–2013.04",
+      "score": 0.9778,
+      "box": [
+        115,
+        472,
+        672,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9812,
+      "box": [
+        125,
+        498,
+        385,
+        521
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9779,
+      "box": [
+        125,
+        521,
+        404,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Services, 2003.12–2008.03",
+      "score": 0.9809,
+      "box": [
+        115,
+        565,
+        732,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9758,
+      "box": [
+        126,
+        590,
+        435,
+        613
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9699,
+      "box": [
+        127,
+        615,
+        556,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Willowcrest High School, 2002",
+      "score": 0.9809,
+      "box": [
+        116,
+        725,
+        824,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9785,
+      "box": [
+        133,
+        749,
+        612,
+        772
+      ]
+    }
+  ]
+}

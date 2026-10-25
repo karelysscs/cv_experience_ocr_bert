@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_28871",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.972,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "FELICIA LANG",
+      "score": 0.9835,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-301-883-6153|felicia.lang@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9865,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2020.06–2023.01",
+      "score": 0.9927,
+      "box": [
+        114,
+        289,
+        791,
+        314
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9701,
+      "box": [
+        125,
+        313,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9786,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2017.10–2020.06",
+      "score": 0.9901,
+      "box": [
+        115,
+        381,
+        701,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9827,
+      "box": [
+        126,
+        406,
+        514,
+        432
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9909,
+      "box": [
+        126,
+        431,
+        478,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2015.02–2017.10",
+      "score": 0.9786,
+      "box": [
+        114,
+        471,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9518,
+      "box": [
+        125,
+        497,
+        398,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9769,
+      "box": [
+        126,
+        521,
+        400,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2012.06–2015.02",
+      "score": 0.987,
+      "box": [
+        115,
+        565,
+        715,
+        588
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9695,
+      "box": [
+        127,
+        590,
+        413,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9668,
+      "box": [
+        126,
+        613,
+        384,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Willowbrook University, 2013",
+      "score": 0.9585,
+      "box": [
+        114,
+        723,
+        655,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9937,
+      "box": [
+        133,
+        749,
+        626,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9939,
+      "box": [
+        135,
+        774,
+        635,
+        796
+      ]
+    }
+  ]
+}

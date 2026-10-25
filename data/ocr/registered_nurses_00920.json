@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_00920",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "JUSTIN BOYD",
+      "score": 0.9723,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "AK, USA|+1-983-845-4709 |justin.boyd@example.com",
+      "score": 0.9864,
+      "box": [
+        116,
+        151,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2020.08–2023.01",
+      "score": 0.9854,
+      "box": [
+        116,
+        290,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9807,
+      "box": [
+        126,
+        314,
+        466,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2018.03–2020.08",
+      "score": 0.989,
+      "box": [
+        116,
+        382,
+        697,
+        405
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.965,
+      "box": [
+        126,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9875,
+      "box": [
+        126,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2013.05–2015.10",
+      "score": 0.9858,
+      "box": [
+        115,
+        471,
+        727,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9547,
+      "box": [
+        125,
+        496,
+        390,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9629,
+      "box": [
+        126,
+        521,
+        408,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Windfield University, 2011",
+      "score": 0.9647,
+      "box": [
+        115,
+        632,
+        651,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9838,
+      "box": [
+        132,
+        656,
+        602,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of respiratory care basics",
+      "score": 0.9761,
+      "box": [
+        135,
+        683,
+        552,
+        706
+      ]
+    }
+  ]
+}

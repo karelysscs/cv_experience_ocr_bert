@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_15558",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.938,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "ROSARIO BOOTH",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-604-467-6850|rosario.booth@example.com",
+      "score": 0.9751,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2019.04–2023.01",
+      "score": 0.9801,
+      "box": [
+        115,
+        289,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9865,
+      "box": [
+        126,
+        314,
+        508,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9758,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2015.07–2019.04",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.982,
+      "box": [
+        126,
+        406,
+        554,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9923,
+      "box": [
+        126,
+        431,
+        517,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2011.09–2015.07",
+      "score": 0.9792,
+      "box": [
+        116,
+        473,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9863,
+      "box": [
+        125,
+        496,
+        508,
+        521
+      ]
+    },
+    {
+      "text": "– Managed care for chronic conditions",
+      "score": 0.9272,
+      "box": [
+        127,
+        523,
+        478,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2007.11–2011.09",
+      "score": 0.9924,
+      "box": [
+        116,
+        565,
+        743,
+        589
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9879,
+      "box": [
+        125,
+        589,
+        435,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9887,
+      "box": [
+        127,
+        615,
+        437,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Clear Ridge University, 2009",
+      "score": 0.9866,
+      "box": [
+        115,
+        724,
+        661,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9811,
+      "box": [
+        133,
+        749,
+        579,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of continuity of care",
+      "score": 0.9909,
+      "box": [
+        134,
+        774,
+        499,
+        797
+      ]
+    }
+  ]
+}

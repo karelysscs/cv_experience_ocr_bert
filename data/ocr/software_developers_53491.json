@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_53491",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.815,
+  "mean_conf": 0.9767,
+  "lines": [
+    {
+      "text": "MILES TRAN",
+      "score": 0.962,
+      "box": [
+        116,
+        90,
+        323,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-417-577-3560|miles.tran@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        629,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9847,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonewave Software, 2022.02–202.01",
+      "score": 0.9745,
+      "box": [
+        115,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9905,
+      "box": [
+        125,
+        314,
+        352,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.966,
+      "box": [
+        126,
+        339,
+        447,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Forest Ridge University, 2020",
+      "score": 0.9786,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 2018",
+      "score": 0.9384,
+      "box": [
+        115,
+        474,
+        494,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9886,
+      "box": [
+        133,
+        498,
+        642,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of data modeling",
+      "score": 0.983,
+      "box": [
+        133,
+        523,
+        472,
+        548
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_27428",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.863,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "STEVEN STANLEY",
+      "score": 0.9654,
+      "box": [
+        116,
+        90,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA|+1-393-619-1317 | steven.stanley@example.com",
+      "score": 0.9682,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2019.05–2021.8",
+      "score": 0.9841,
+      "box": [
+        114,
+        288,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9796,
+      "box": [
+        126,
+        315,
+        447,
+        338
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9731,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2016.01–2018.05",
+      "score": 0.9908,
+      "box": [
+        116,
+        382,
+        681,
+        405
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9789,
+      "box": [
+        125,
+        405,
+        532,
+        431
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.994,
+      "box": [
+        127,
+        433,
+        367,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Methods, Hillside University, 2014",
+      "score": 0.9838,
+      "box": [
+        114,
+        539,
+        743,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9751,
+      "box": [
+        131,
+        564,
+        526,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9814,
+      "box": [
+        133,
+        591,
+        610,
+        614
+      ]
+    }
+  ]
+}

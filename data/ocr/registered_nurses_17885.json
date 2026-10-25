@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_17885",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.774,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "MELODY JARVIS",
+      "score": 0.9846,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-915-401-8425 |melody.jarvis@example.com",
+      "score": 0.9843,
+      "box": [
+        116,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2022.01–2023.01",
+      "score": 0.9732,
+      "box": [
+        116,
+        290,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9859,
+      "box": [
+        125,
+        313,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9721,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Stonehill University, 2022",
+      "score": 0.9668,
+      "box": [
+        115,
+        449,
+        615,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of health records management",
+      "score": 0.9896,
+      "box": [
+        132,
+        472,
+        603,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of teamwork in healthcare",
+      "score": 0.9772,
+      "box": [
+        132,
+        499,
+        557,
+        522
+      ]
+    }
+  ]
+}

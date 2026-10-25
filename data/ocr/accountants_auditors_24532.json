@@ -1,0 +1,133 @@
+{
+  "id": "accountants_auditors_24532",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.914,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "DANIEL MICHAEL",
+      "score": 0.9853,
+      "box": [
+        116,
+        90,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-329-789-2733 | daniel.michael@example.com",
+      "score": 0.9679,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2020.02–2023.01",
+      "score": 0.9765,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting leadership initiatives",
+      "score": 0.9628,
+      "box": [
+        125,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9811,
+      "box": [
+        126,
+        338,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2015.09–2018.09",
+      "score": 0.9818,
+      "box": [
+        115,
+        382,
+        685,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9824,
+      "box": [
+        126,
+        406,
+        384,
+        431
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9747,
+      "box": [
+        125,
+        430,
+        483,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Accounting Information Systems, Pinecrest High School, 2001",
+      "score": 0.9887,
+      "box": [
+        116,
+        541,
+        949,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.976,
+      "box": [
+        133,
+        565,
+        626,
+        590
+      ]
+    }
+  ]
+}

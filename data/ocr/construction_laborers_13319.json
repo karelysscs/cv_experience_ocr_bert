@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_13319",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.881,
+  "mean_conf": 0.9762,
+  "lines": [
+    {
+      "text": "ANDREWWILLIS",
+      "score": 0.9981,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-646-518-9505|andrew.willis@example.com",
+      "score": 0.9691,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2020.05–2023.01",
+      "score": 0.9775,
+      "box": [
+        115,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9403,
+      "box": [
+        125,
+        313,
+        452,
+        339
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9754,
+      "box": [
+        126,
+        338,
+        407,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2017.08–2020.05",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        720,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9662,
+      "box": [
+        125,
+        406,
+        393,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9824,
+      "box": [
+        126,
+        430,
+        442,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Line Co., 2014.11–2017.08",
+      "score": 0.9744,
+      "box": [
+        116,
+        472,
+        667,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9656,
+      "box": [
+        126,
+        498,
+        512,
+        521
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9645,
+      "box": [
+        126,
+        521,
+        435,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Edgewood High School, 2012",
+      "score": 0.9804,
+      "box": [
+        115,
+        631,
+        809,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic sealant application",
+      "score": 0.9791,
+      "box": [
+        132,
+        656,
+        617,
+        681
+      ]
+    }
+  ]
+}

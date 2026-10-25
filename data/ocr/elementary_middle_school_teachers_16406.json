@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_16406",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.855,
+  "mean_conf": 0.9774,
+  "lines": [
+    {
+      "text": "TWILASHERMAN",
+      "score": 0.9993,
+      "box": [
+        115,
+        90,
+        403,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA |+1-254-867-5423|twila.sherman@example.com",
+      "score": 0.9873,
+      "box": [
+        116,
+        152,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2020.04–2021.12",
+      "score": 0.9775,
+      "box": [
+        116,
+        290,
+        848,
+        313
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9627,
+      "box": [
+        127,
+        315,
+        395,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9633,
+      "box": [
+        126,
+        339,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, Academic Foundations, Riverside University, 2009",
+      "score": 0.9729,
+      "box": [
+        114,
+        447,
+        781,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Shady Grove University, 2005",
+      "score": 0.9744,
+      "box": [
+        115,
+        474,
+        748,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9499,
+      "box": [
+        134,
+        499,
+        579,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9825,
+      "box": [
+        134,
+        524,
+        551,
+        547
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_56905",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.854,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "KEERSTIN HENSLEY",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-513-353-1941 |keerstin.hensley@example.com",
+      "score": 0.9845,
+      "box": [
+        115,
+        150,
+        690,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2019.04–2021.02",
+      "score": 0.9928,
+      "box": [
+        116,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9869,
+      "box": [
+        126,
+        315,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9925,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2016.08–2018.06",
+      "score": 0.9858,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9569,
+      "box": [
+        127,
+        407,
+        403,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9814,
+      "box": [
+        126,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Bright Ridge University, 2016",
+      "score": 0.9844,
+      "box": [
+        115,
+        541,
+        496,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of garbage collection",
+      "score": 0.982,
+      "box": [
+        133,
+        566,
+        511,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9886,
+      "box": [
+        133,
+        590,
+        617,
+        615
+      ]
+    }
+  ]
+}

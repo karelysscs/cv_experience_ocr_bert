@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_01493",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.076,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "MICHAEL KHAN",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-277-451-4490|michael.khan@example.com",
+      "score": 0.9943,
+      "box": [
+        115,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2020.07–2023.01",
+      "score": 0.9818,
+      "box": [
+        114,
+        289,
+        739,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9731,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9781,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2017.12–2020.07",
+      "score": 0.9929,
+      "box": [
+        115,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9876,
+      "box": [
+        126,
+        406,
+        505,
+        432
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9728,
+      "box": [
+        126,
+        431,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2015.05–2017.12",
+      "score": 0.9823,
+      "box": [
+        114,
+        471,
+        741,
+        496
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9892,
+      "box": [
+        125,
+        496,
+        460,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9486,
+      "box": [
+        126,
+        521,
+        374,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2012.10–2015.05",
+      "score": 0.9937,
+      "box": [
+        115,
+        565,
+        712,
+        588
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9817,
+      "box": [
+        127,
+        590,
+        436,
+        613
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9915,
+      "box": [
+        126,
+        613,
+        550,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Clearstone University, 2010",
+      "score": 0.9803,
+      "box": [
+        114,
+        723,
+        723,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9945,
+      "box": [
+        134,
+        749,
+        647,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.9823,
+      "box": [
+        134,
+        773,
+        625,
+        797
+      ]
+    }
+  ]
+}

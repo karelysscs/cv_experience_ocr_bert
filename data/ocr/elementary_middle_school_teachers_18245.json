@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_18245",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.923,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "ALANA MACK",
+      "score": 0.956,
+      "box": [
+        116,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-725-741-4846 |alana.mack@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        152,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2020.05–2023.01",
+      "score": 0.9808,
+      "box": [
+        115,
+        289,
+        838,
+        314
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.992,
+      "box": [
+        126,
+        314,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9858,
+      "box": [
+        127,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2017.09–2020.05",
+      "score": 0.9918,
+      "box": [
+        115,
+        381,
+        856,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9798,
+      "box": [
+        126,
+        406,
+        546,
+        431
+      ]
+    },
+    {
+      "text": "- Planned interdisciplinary lessons",
+      "score": 0.9807,
+      "box": [
+        126,
+        430,
+        446,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2013.02–2015.10",
+      "score": 0.989,
+      "box": [
+        115,
+        471,
+        820,
+        496
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9668,
+      "box": [
+        127,
+        498,
+        572,
+        521
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9885,
+      "box": [
+        127,
+        522,
+        443,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Brightfield Ridge University, 2006",
+      "score": 0.9804,
+      "box": [
+        114,
+        631,
+        771,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9865,
+      "box": [
+        134,
+        658,
+        559,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9826,
+      "box": [
+        134,
+        681,
+        641,
+        704
+      ]
+    }
+  ]
+}

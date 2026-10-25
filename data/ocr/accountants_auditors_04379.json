@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_04379",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.9796,
+  "lines": [
+    {
+      "text": "ERICA HESS",
+      "score": 0.9693,
+      "box": [
+        115,
+        88,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-454-597-8179 |erica.hess@example.com",
+      "score": 0.9817,
+      "box": [
+        117,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2019.06–2023.01",
+      "score": 0.9875,
+      "box": [
+        114,
+        289,
+        683,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.971,
+      "box": [
+        127,
+        315,
+        521,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9804,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2015.11–2019.06",
+      "score": 0.9873,
+      "box": [
+        115,
+        381,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9534,
+      "box": [
+        126,
+        406,
+        525,
+        431
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9765,
+      "box": [
+        126,
+        431,
+        521,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2012.04–2015.11",
+      "score": 0.9907,
+      "box": [
+        114,
+        471,
+        742,
+        496
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9892,
+      "box": [
+        126,
+        498,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9669,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2005.09–2009.05",
+      "score": 0.9855,
+      "box": [
+        116,
+        565,
+        709,
+        588
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9752,
+      "box": [
+        125,
+        588,
+        379,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9513,
+      "box": [
+        127,
+        615,
+        410,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Meadowland University, 2004",
+      "score": 0.9967,
+      "box": [
+        115,
+        725,
+        735,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9745,
+      "box": [
+        132,
+        748,
+        620,
+        771
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.99,
+      "box": [
+        134,
+        774,
+        511,
+        797
+      ]
+    }
+  ]
+}

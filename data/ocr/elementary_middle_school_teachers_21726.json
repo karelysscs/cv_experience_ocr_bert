@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_21726",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "LILIANA PETERS",
+      "score": 0.9922,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-342-549-6170 |liliana.peters@example.com",
+      "score": 0.9793,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2019.09–2022.01",
+      "score": 0.9862,
+      "box": [
+        114,
+        289,
+        840,
+        313
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9875,
+      "box": [
+        126,
+        315,
+        431,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9817,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2016.06–2018.11",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        892,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9634,
+      "box": [
+        126,
+        407,
+        486,
+        429
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9749,
+      "box": [
+        126,
+        432,
+        388,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Silverton University, 2015",
+      "score": 0.9863,
+      "box": [
+        114,
+        539,
+        687,
+        564
+      ]
+    },
+    {
+      "text": "•Studied principles of knowledge retention",
+      "score": 0.9807,
+      "box": [
+        132,
+        565,
+        527,
+        588
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.9623,
+      "box": [
+        133,
+        590,
+        623,
+        615
+      ]
+    }
+  ]
+}

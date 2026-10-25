@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_01223",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.839,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "RAGAN VO",
+      "score": 0.9664,
+      "box": [
+        113,
+        86,
+        299,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-244-412-3136|ragan.vo@example.com",
+      "score": 0.9769,
+      "box": [
+        115,
+        151,
+        620,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2020.07–2023.01",
+      "score": 0.9777,
+      "box": [
+        115,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9786,
+      "box": [
+        127,
+        315,
+        506,
+        338
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9895,
+      "box": [
+        126,
+        339,
+        552,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2017.12–2020.07",
+      "score": 0.9888,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9731,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9768,
+      "box": [
+        126,
+        432,
+        439,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2015.05–2017.12",
+      "score": 0.9778,
+      "box": [
+        116,
+        472,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9824,
+      "box": [
+        125,
+        496,
+        372,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9603,
+      "box": [
+        126,
+        521,
+        435,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Highpoint University, 2014",
+      "score": 0.9919,
+      "box": [
+        115,
+        631,
+        613,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9849,
+      "box": [
+        134,
+        657,
+        635,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.988,
+      "box": [
+        134,
+        681,
+        551,
+        706
+      ]
+    }
+  ]
+}

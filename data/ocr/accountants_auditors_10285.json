@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_10285",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "MARIA HAYES",
+      "score": 0.9619,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-670-364-8091 |maria.hayes@example.com",
+      "score": 0.9619,
+      "box": [
+        117,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2021.04–2023.01",
+      "score": 0.9915,
+      "box": [
+        114,
+        288,
+        762,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9771,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9882,
+      "box": [
+        126,
+        339,
+        506,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2017.12–2019.09",
+      "score": 0.9757,
+      "box": [
+        114,
+        381,
+        725,
+        405
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9737,
+      "box": [
+        126,
+        407,
+        378,
+        429
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9672,
+      "box": [
+        126,
+        431,
+        490,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Silverview University, 2005",
+      "score": 0.9659,
+      "box": [
+        114,
+        539,
+        716,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9913,
+      "box": [
+        133,
+        565,
+        555,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in compliance testing",
+      "score": 0.9894,
+      "box": [
+        134,
+        590,
+        562,
+        615
+      ]
+    }
+  ]
+}

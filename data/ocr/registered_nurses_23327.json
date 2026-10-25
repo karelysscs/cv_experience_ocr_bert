@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_23327",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "CHRISTINA SMITH",
+      "score": 0.9819,
+      "box": [
+        117,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-750-623-3557 |christina.smith@example.com",
+      "score": 0.9731,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2020.09–2023.01",
+      "score": 0.9878,
+      "box": [
+        116,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "-Directed care delivery improvements",
+      "score": 0.9851,
+      "box": [
+        125,
+        313,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9733,
+      "box": [
+        126,
+        339,
+        457,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2018.05–2020.09",
+      "score": 0.9716,
+      "box": [
+        115,
+        381,
+        671,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9766,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9906,
+      "box": [
+        126,
+        430,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2014.07–2016.11",
+      "score": 0.9841,
+      "box": [
+        116,
+        472,
+        649,
+        496
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9772,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9648,
+      "box": [
+        127,
+        523,
+        527,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Shady Grove University, 2007",
+      "score": 0.9902,
+      "box": [
+        114,
+        631,
+        661,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9881,
+      "box": [
+        132,
+        656,
+        489,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9985,
+      "box": [
+        135,
+        683,
+        629,
+        706
+      ]
+    }
+  ]
+}

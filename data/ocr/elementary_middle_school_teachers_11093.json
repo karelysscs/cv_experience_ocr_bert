@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_11093",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.023,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "TANISHAGOOD",
+      "score": 0.9983,
+      "box": [
+        112,
+        87,
+        379,
+        123
+      ]
+    },
+    {
+      "text": "CT, USA|+1-294-809-3122 |tanisha.good@example.com",
+      "score": 0.9764,
+      "box": [
+        116,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Minds School, 2020.07–2023.01",
+      "score": 0.9729,
+      "box": [
+        116,
+        290,
+        858,
+        313
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9821,
+      "box": [
+        126,
+        339,
+        522,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Field School, 2018.01–2020.07",
+      "score": 0.9791,
+      "box": [
+        116,
+        382,
+        849,
+        406
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9858,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9909,
+      "box": [
+        128,
+        434,
+        443,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2014.04–2016.11",
+      "score": 0.9738,
+      "box": [
+        116,
+        472,
+        833,
+        496
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9846,
+      "box": [
+        127,
+        498,
+        509,
+        521
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9791,
+      "box": [
+        127,
+        522,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Educational Assistance, Foxwood University, 2005",
+      "score": 0.9645,
+      "box": [
+        115,
+        632,
+        675,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Skyview University, 2003",
+      "score": 0.9733,
+      "box": [
+        114,
+        656,
+        716,
+        681
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9821,
+      "box": [
+        133,
+        681,
+        592,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9731,
+      "box": [
+        133,
+        707,
+        632,
+        730
+      ]
+    }
+  ]
+}

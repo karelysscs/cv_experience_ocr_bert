@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_20974",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "MATTHEW GALLAGHER",
+      "score": 0.9771,
+      "box": [
+        117,
+        90,
+        508,
+        120
+      ]
+    },
+    {
+      "text": "IA, USA|+1-576-481-4730|matthew.gallagher@example.com",
+      "score": 0.993,
+      "box": [
+        117,
+        152,
+        702,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2020.12–2023.01",
+      "score": 0.9806,
+      "box": [
+        115,
+        289,
+        834,
+        314
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9885,
+      "box": [
+        127,
+        315,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9916,
+      "box": [
+        126,
+        339,
+        569,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2017.01–2019.02",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        848,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.99,
+      "box": [
+        126,
+        406,
+        444,
+        430
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9762,
+      "box": [
+        126,
+        431,
+        457,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2013.12–2016.02",
+      "score": 0.9842,
+      "box": [
+        116,
+        472,
+        834,
+        495
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9613,
+      "box": [
+        125,
+        496,
+        427,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9692,
+      "box": [
+        126,
+        521,
+        656,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Child and Family Studies, Greenwood University, 2003",
+      "score": 0.9765,
+      "box": [
+        115,
+        631,
+        809,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9947,
+      "box": [
+        133,
+        656,
+        708,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of teaching strategy selection",
+      "score": 0.9532,
+      "box": [
+        133,
+        681,
+        625,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_05128",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.895,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "KESHIA BLANCHARD",
+      "score": 0.9857,
+      "box": [
+        116,
+        90,
+        466,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-288-316-4685 |keshia.blanchard@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        150,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Nursing Services, 2020.01–2023.01",
+      "score": 0.982,
+      "box": [
+        116,
+        290,
+        749,
+        313
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9568,
+      "box": [
+        126,
+        315,
+        455,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9777,
+      "box": [
+        127,
+        340,
+        455,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2017.01–2020.01",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9743,
+      "box": [
+        125,
+        406,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9731,
+      "box": [
+        126,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2013.01–2016.01",
+      "score": 0.9937,
+      "box": [
+        116,
+        473,
+        735,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9937,
+      "box": [
+        125,
+        496,
+        420,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9632,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Pine Valley University, 2009",
+      "score": 0.9551,
+      "box": [
+        114,
+        631,
+        658,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9878,
+      "box": [
+        134,
+        658,
+        602,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonpharmacologic pain relief",
+      "score": 0.9884,
+      "box": [
+        135,
+        683,
+        657,
+        706
+      ]
+    }
+  ]
+}

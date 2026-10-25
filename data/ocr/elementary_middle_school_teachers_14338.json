@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_14338",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.841,
+  "mean_conf": 0.9777,
+  "lines": [
+    {
+      "text": "MADISON SMITH",
+      "score": 0.9724,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-947-413-6786 |madison.smith@example.com",
+      "score": 0.9703,
+      "box": [
+        116,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9759,
+      "box": [
+        114,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2020.01–2021.02",
+      "score": 0.9906,
+      "box": [
+        115,
+        289,
+        885,
+        312
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.96,
+      "box": [
+        126,
+        313,
+        411,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9787,
+      "box": [
+        127,
+        340,
+        588,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Fairway University, 2010",
+      "score": 0.9646,
+      "box": [
+        115,
+        449,
+        678,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9801,
+      "box": [
+        132,
+        472,
+        529,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9862,
+      "box": [
+        133,
+        498,
+        637,
+        523
+      ]
+    }
+  ]
+}

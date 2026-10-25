@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_53847",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "DANIEL STOKES",
+      "score": 0.9753,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-894-830-7959|daniel.stokes@example.com",
+      "score": 0.9936,
+      "box": [
+        114,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkRight Contractors, 2020.05–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        290,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9743,
+      "box": [
+        125,
+        313,
+        407,
+        339
+      ]
+    },
+    {
+      "text": "– Managed construction schedules",
+      "score": 0.9564,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2017.08–2020.05",
+      "score": 0.9982,
+      "box": [
+        116,
+        382,
+        668,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9901,
+      "box": [
+        125,
+        406,
+        434,
+        431
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9836,
+      "box": [
+        126,
+        431,
+        452,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Line Co., 2012.12–2015.09",
+      "score": 0.9809,
+      "box": [
+        115,
+        472,
+        667,
+        495
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9752,
+      "box": [
+        126,
+        497,
+        552,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9823,
+      "box": [
+        126,
+        521,
+        492,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Stonebrook High School, 2000",
+      "score": 0.9924,
+      "box": [
+        116,
+        632,
+        1007,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9828,
+      "box": [
+        132,
+        656,
+        623,
+        681
+      ]
+    }
+  ]
+}

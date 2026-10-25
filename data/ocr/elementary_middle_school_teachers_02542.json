@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_02542",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.087,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "STEPHANIE VEGA",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-801-342-3125 |stephanie.vega@example.com",
+      "score": 0.9942,
+      "box": [
+        116,
+        152,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2020.09–2023.01",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        792,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9912,
+      "box": [
+        126,
+        314,
+        504,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9775,
+      "box": [
+        126,
+        339,
+        562,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2018.04–2020.09",
+      "score": 0.9799,
+      "box": [
+        115,
+        381,
+        830,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9764,
+      "box": [
+        127,
+        408,
+        506,
+        431
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9814,
+      "box": [
+        126,
+        431,
+        510,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2015.11–2018.04",
+      "score": 0.9918,
+      "box": [
+        115,
+        471,
+        840,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9565,
+      "box": [
+        127,
+        498,
+        716,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9833,
+      "box": [
+        126,
+        521,
+        460,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Basic Child Development, Greenridge University, 2017",
+      "score": 0.9819,
+      "box": [
+        115,
+        632,
+        712,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Fairmont University, 2015",
+      "score": 0.9769,
+      "box": [
+        115,
+        658,
+        690,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9909,
+      "box": [
+        134,
+        683,
+        660,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9908,
+      "box": [
+        132,
+        706,
+        531,
+        731
+      ]
+    }
+  ]
+}

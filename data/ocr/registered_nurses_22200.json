@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_22200",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.771,
+  "mean_conf": 0.9839,
+  "lines": [
+    {
+      "text": "MELISSA CROSS",
+      "score": 0.9741,
+      "box": [
+        116,
+        90,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-923-664-7263 |melissa.cross@example.com",
+      "score": 0.985,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2021.07–2023.01",
+      "score": 0.9956,
+      "box": [
+        116,
+        289,
+        694,
+        312
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9943,
+      "box": [
+        126,
+        315,
+        390,
+        339
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9891,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Redfield University, 2019",
+      "score": 0.9747,
+      "box": [
+        114,
+        447,
+        648,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9525,
+      "box": [
+        132,
+        473,
+        556,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of oxygen therapy",
+      "score": 0.9899,
+      "box": [
+        133,
+        497,
+        484,
+        524
+      ]
+    }
+  ]
+}

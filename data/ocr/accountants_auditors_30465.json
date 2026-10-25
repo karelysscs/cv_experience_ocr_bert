@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_30465",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.901,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "ILANA BOONE",
+      "score": 0.9878,
+      "box": [
+        114,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA|+1-474-279-9390|ilana.boone@example.com",
+      "score": 0.9927,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2020.01–2023.01",
+      "score": 0.9735,
+      "box": [
+        114,
+        289,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9777,
+      "box": [
+        126,
+        314,
+        515,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9756,
+      "box": [
+        127,
+        340,
+        453,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Group, 2015.07–2018.07",
+      "score": 0.9856,
+      "box": [
+        114,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9907,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9755,
+      "box": [
+        126,
+        430,
+        398,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2011.02–2014.02",
+      "score": 0.9896,
+      "box": [
+        115,
+        472,
+        688,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9935,
+      "box": [
+        125,
+        496,
+        423,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9817,
+      "box": [
+        126,
+        521,
+        436,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Prairie View University, 2006",
+      "score": 0.969,
+      "box": [
+        115,
+        631,
+        756,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9932,
+      "box": [
+        132,
+        656,
+        645,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of hedge accounting",
+      "score": 0.9814,
+      "box": [
+        134,
+        681,
+        506,
+        707
+      ]
+    }
+  ]
+}

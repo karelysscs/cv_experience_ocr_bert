@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_36771",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.852,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "RANDY MORRISON",
+      "score": 0.9677,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-856-375-7273|randy.morrison@example.com",
+      "score": 0.979,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2021.11–2022.05",
+      "score": 0.9749,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9704,
+      "box": [
+        127,
+        315,
+        440,
+        338
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9877,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Methods, Goldenfield University, 2018",
+      "score": 0.9933,
+      "box": [
+        115,
+        447,
+        781,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.9615,
+      "box": [
+        133,
+        473,
+        576,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9944,
+      "box": [
+        133,
+        497,
+        694,
+        521
+      ]
+    }
+  ]
+}

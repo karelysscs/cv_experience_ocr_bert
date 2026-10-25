@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_11953",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.966,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "KYLE CHUNG",
+      "score": 0.9802,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-604-545-6304|kyle.chung@example.com",
+      "score": 0.9772,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2018.11–2023.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        289,
+        720,
+        312
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9782,
+      "box": [
+        125,
+        313,
+        547,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9768,
+      "box": [
+        126,
+        338,
+        514,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2014.08–2018.11",
+      "score": 0.9927,
+      "box": [
+        115,
+        382,
+        752,
+        405
+      ]
+    },
+    {
+      "text": "-Directed accounting training programs",
+      "score": 0.984,
+      "box": [
+        125,
+        405,
+        495,
+        432
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9745,
+      "box": [
+        126,
+        432,
+        393,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2010.05–2014.08",
+      "score": 0.987,
+      "box": [
+        114,
+        471,
+        708,
+        496
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9531,
+      "box": [
+        125,
+        496,
+        400,
+        521
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9762,
+      "box": [
+        126,
+        521,
+        463,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2006.02–2010.05",
+      "score": 0.9625,
+      "box": [
+        115,
+        565,
+        701,
+        589
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9803,
+      "box": [
+        126,
+        590,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9802,
+      "box": [
+        126,
+        613,
+        573,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Foxwood University, 2011",
+      "score": 0.9844,
+      "box": [
+        114,
+        723,
+        700,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement analysis",
+      "score": 0.99,
+      "box": [
+        132,
+        747,
+        597,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of compliance auditing",
+      "score": 0.9862,
+      "box": [
+        134,
+        774,
+        526,
+        798
+      ]
+    }
+  ]
+}

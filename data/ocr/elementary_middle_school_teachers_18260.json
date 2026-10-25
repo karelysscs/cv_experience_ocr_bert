@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18260",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.828,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "JAZZMYN HEATH",
+      "score": 0.986,
+      "box": [
+        116,
+        90,
+        400,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-635-951-4200 |jazzmyn.heath@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        152,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9746,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2021.02–2023.01",
+      "score": 0.9779,
+      "box": [
+        116,
+        290,
+        814,
+        313
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9891,
+      "box": [
+        126,
+        315,
+        667,
+        338
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9692,
+      "box": [
+        127,
+        340,
+        370,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Morningstar University, 2023",
+      "score": 0.99,
+      "box": [
+        115,
+        449,
+        715,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9827,
+      "box": [
+        133,
+        474,
+        551,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9752,
+      "box": [
+        133,
+        497,
+        590,
+        522
+      ]
+    }
+  ]
+}

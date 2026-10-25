@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_21493",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.911,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "JANESSA FRANKLIN",
+      "score": 0.988,
+      "box": [
+        116,
+        89,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "KS, USA|+1-240-930-3746 |janessa.franklin@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9769,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2020.02–2023.0",
+      "score": 0.9845,
+      "box": [
+        114,
+        289,
+        880,
+        314
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9604,
+      "box": [
+        126,
+        315,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9781,
+      "box": [
+        127,
+        340,
+        685,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Steps School, 2015.10–2018.09",
+      "score": 0.9638,
+      "box": [
+        116,
+        382,
+        808,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9764,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9824,
+      "box": [
+        127,
+        432,
+        484,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Academic Foundations, Clearfield Ridge University, 2005",
+      "score": 0.9862,
+      "box": [
+        115,
+        541,
+        736,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Goldenbrook University, 2003",
+      "score": 0.9861,
+      "box": [
+        115,
+        566,
+        736,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.989,
+      "box": [
+        133,
+        591,
+        536,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of academic progress tracking",
+      "score": 0.956,
+      "box": [
+        134,
+        616,
+        596,
+        640
+      ]
+    }
+  ]
+}

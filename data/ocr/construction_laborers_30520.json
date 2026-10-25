@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_30520",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.942,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "SHAWN BARTON",
+      "score": 0.9735,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA |+1-569-844-1174 | shawn.barton@example.com",
+      "score": 0.9706,
+      "box": [
+        116,
+        152,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2020.07–2023.01",
+      "score": 0.9878,
+      "box": [
+        114,
+        289,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9712,
+      "box": [
+        125,
+        313,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9867,
+      "box": [
+        126,
+        338,
+        399,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2018.01–2020.07",
+      "score": 0.9831,
+      "box": [
+        115,
+        381,
+        687,
+        405
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9812,
+      "box": [
+        126,
+        406,
+        399,
+        428
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9693,
+      "box": [
+        125,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Co., 2015.06–2018.01",
+      "score": 0.9905,
+      "box": [
+        115,
+        472,
+        656,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9597,
+      "box": [
+        124,
+        496,
+        405,
+        522
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9832,
+      "box": [
+        125,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2012.11–2015.06",
+      "score": 0.9818,
+      "box": [
+        114,
+        563,
+        721,
+        588
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9818,
+      "box": [
+        125,
+        589,
+        492,
+        614
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9826,
+      "box": [
+        125,
+        613,
+        406,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Technology, Driftwood University, 2015",
+      "score": 0.9839,
+      "box": [
+        115,
+        723,
+        823,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction drawing interpretation",
+      "score": 0.989,
+      "box": [
+        133,
+        749,
+        708,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in site logistics",
+      "score": 0.9987,
+      "box": [
+        134,
+        774,
+        502,
+        797
+      ]
+    }
+  ]
+}

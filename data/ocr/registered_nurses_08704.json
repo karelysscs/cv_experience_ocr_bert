@@ -1,0 +1,123 @@
+{
+  "id": "registered_nurses_08704",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.83,
+  "mean_conf": 0.9864,
+  "lines": [
+    {
+      "text": "JENNIFERWARREN",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-469-417-9227 |jennifer.warren@example.com",
+      "score": 0.9647,
+      "box": [
+        117,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Nursing Services, 2022.04–2023.01",
+      "score": 0.9855,
+      "box": [
+        116,
+        290,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9859,
+      "box": [
+        126,
+        314,
+        479,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9971,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Nursing Foundations, Pinewood University, 2023",
+      "score": 0.9776,
+      "box": [
+        115,
+        449,
+        658,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Windridge University, 2022",
+      "score": 0.9808,
+      "box": [
+        115,
+        474,
+        633,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of evidence-based practice",
+      "score": 0.9932,
+      "box": [
+        133,
+        499,
+        568,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9857,
+      "box": [
+        133,
+        523,
+        574,
+        548
+      ]
+    }
+  ]
+}

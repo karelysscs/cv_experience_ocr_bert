@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_02128",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.928,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "KRISTEN BRYAN",
+      "score": 0.9783,
+      "box": [
+        116,
+        90,
+        393,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-989-876-3890 |kristen.bryan@example.com",
+      "score": 0.9803,
+      "box": [
+        116,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2020.02–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        289,
+        884,
+        314
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9874,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        482,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2017.03–2020.02",
+      "score": 0.9877,
+      "box": [
+        116,
+        382,
+        847,
+        406
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9948,
+      "box": [
+        126,
+        407,
+        444,
+        429
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9824,
+      "box": [
+        125,
+        431,
+        442,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Basic Education Studies, Crestline University, 2015",
+      "score": 0.9767,
+      "box": [
+        115,
+        541,
+        682,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Pinehaven University, 2013",
+      "score": 0.9673,
+      "box": [
+        115,
+        566,
+        660,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.992,
+      "box": [
+        133,
+        591,
+        536,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9787,
+      "box": [
+        134,
+        616,
+        532,
+        640
+      ]
+    }
+  ]
+}

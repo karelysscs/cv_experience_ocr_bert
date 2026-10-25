@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_49486",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.967,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "JEFFREY CUEVAS",
+      "score": 0.9717,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-786-449-1591 |jeffrey.cuevas@example.com",
+      "score": 0.9759,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2019.12–2023.01",
+      "score": 0.9877,
+      "box": [
+        114,
+        289,
+        701,
+        313
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9614,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9748,
+      "box": [
+        127,
+        340,
+        466,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2016.11–2019.12",
+      "score": 0.9818,
+      "box": [
+        115,
+        381,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9806,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9952,
+      "box": [
+        126,
+        431,
+        544,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Works, 2013.10–2016.11",
+      "score": 0.9928,
+      "box": [
+        115,
+        472,
+        658,
+        495
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9835,
+      "box": [
+        125,
+        496,
+        415,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9475,
+      "box": [
+        125,
+        521,
+        368,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2010.09–2013.10",
+      "score": 0.9882,
+      "box": [
+        114,
+        563,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9784,
+      "box": [
+        126,
+        589,
+        448,
+        611
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9818,
+      "box": [
+        126,
+        613,
+        485,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Civil Technology, Rolling Hills University, 2011",
+      "score": 0.9737,
+      "box": [
+        115,
+        723,
+        797,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9929,
+      "box": [
+        133,
+        749,
+        544,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in framing hardware usage",
+      "score": 0.9795,
+      "box": [
+        134,
+        772,
+        614,
+        798
+      ]
+    }
+  ]
+}

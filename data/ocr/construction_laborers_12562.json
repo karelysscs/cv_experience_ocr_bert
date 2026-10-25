@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_12562",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.024,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "LEVI SCHMIDT",
+      "score": 0.9853,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-878-375-1748|levi.schmidt@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2020.04–2023.01",
+      "score": 0.969,
+      "box": [
+        114,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9814,
+      "box": [
+        126,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2017.07–2020.04",
+      "score": 0.9599,
+      "box": [
+        115,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9944,
+      "box": [
+        126,
+        407,
+        476,
+        430
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9717,
+      "box": [
+        125,
+        430,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2014.09–2017.07",
+      "score": 0.9734,
+      "box": [
+        115,
+        472,
+        704,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9696,
+      "box": [
+        125,
+        496,
+        393,
+        522
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9842,
+      "box": [
+        125,
+        521,
+        402,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2010.01–2012.11",
+      "score": 0.9744,
+      "box": [
+        114,
+        563,
+        737,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9752,
+      "box": [
+        124,
+        588,
+        489,
+        614
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9935,
+      "box": [
+        126,
+        613,
+        442,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Maple Ridge High School, 2007",
+      "score": 0.9929,
+      "box": [
+        116,
+        725,
+        944,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9948,
+      "box": [
+        133,
+        748,
+        524,
+        770
+      ]
+    }
+  ]
+}

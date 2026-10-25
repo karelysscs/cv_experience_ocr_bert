@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_06525",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.022,
+  "mean_conf": 0.9783,
+  "lines": [
+    {
+      "text": "TAMARA VANCE",
+      "score": 0.9728,
+      "box": [
+        114,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-231-410-2465 |tamara.vance@example.com",
+      "score": 0.9765,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Beginnings School, 2020.02–2023.01",
+      "score": 0.9813,
+      "box": [
+        115,
+        290,
+        856,
+        314
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9911,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2017.03–2020.02",
+      "score": 0.9555,
+      "box": [
+        116,
+        382,
+        814,
+        405
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9604,
+      "box": [
+        125,
+        406,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9795,
+      "box": [
+        127,
+        432,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Futures School, 2013.01–2015.12",
+      "score": 0.9922,
+      "box": [
+        115,
+        472,
+        828,
+        495
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9873,
+      "box": [
+        126,
+        498,
+        667,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9678,
+      "box": [
+        126,
+        521,
+        422,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Ridge School, 2009.02–2012.02",
+      "score": 0.962,
+      "box": [
+        116,
+        565,
+        827,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9854,
+      "box": [
+        125,
+        589,
+        400,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9572,
+      "box": [
+        127,
+        615,
+        388,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Highpoint University, 2003",
+      "score": 0.9632,
+      "box": [
+        114,
+        723,
+        659,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9867,
+      "box": [
+        133,
+        749,
+        546,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning design",
+      "score": 0.9967,
+      "box": [
+        135,
+        774,
+        631,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_11071",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.053,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "STEPHEN STEVENS",
+      "score": 0.9747,
+      "box": [
+        116,
+        90,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-819-879-9026 |stephen.stevens@example.com",
+      "score": 0.9757,
+      "box": [
+        116,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2019.12–2023.01",
+      "score": 0.9913,
+      "box": [
+        115,
+        290,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9815,
+      "box": [
+        127,
+        315,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9922,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers,FirmStep Builders, 2016.11–2019.12",
+      "score": 0.9895,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9728,
+      "box": [
+        125,
+        406,
+        407,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9669,
+      "box": [
+        126,
+        431,
+        466,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2012.07–2015.08",
+      "score": 0.9826,
+      "box": [
+        115,
+        472,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared job site layouts",
+      "score": 0.9853,
+      "box": [
+        127,
+        499,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9562,
+      "box": [
+        125,
+        521,
+        405,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2008.12–2012.01",
+      "score": 0.9845,
+      "box": [
+        114,
+        563,
+        694,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9776,
+      "box": [
+        126,
+        590,
+        435,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9702,
+      "box": [
+        125,
+        613,
+        425,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Meadowfield High School, 2001",
+      "score": 0.9905,
+      "box": [
+        116,
+        725,
+        942,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9647,
+      "box": [
+        132,
+        748,
+        676,
+        773
+      ]
+    }
+  ]
+}

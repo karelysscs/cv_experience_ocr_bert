@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_60691",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9772,
+  "lines": [
+    {
+      "text": "JAMES GRIMES",
+      "score": 0.9705,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA |+1-339-811-6123 |james.grimes@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2022.05–2023.01",
+      "score": 0.9743,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9583,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9751,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Stoneview High School, 2022",
+      "score": 0.9791,
+      "box": [
+        116,
+        449,
+        857,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scaffolding assembly",
+      "score": 0.9835,
+      "box": [
+        132,
+        472,
+        573,
+        497
+      ]
+    }
+  ]
+}

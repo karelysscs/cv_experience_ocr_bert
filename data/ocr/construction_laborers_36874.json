@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_36874",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.076,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "DANIEL CARSON",
+      "score": 0.9611,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-577-266-2027|daniel.carson@example.com",
+      "score": 0.9913,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2020.05–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        289,
+        675,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9595,
+      "box": [
+        126,
+        314,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Line Co., 2017.09–2020.05",
+      "score": 0.9677,
+      "box": [
+        115,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9771,
+      "box": [
+        125,
+        405,
+        484,
+        432
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9849,
+      "box": [
+        126,
+        430,
+        552,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2014.03–2016.12",
+      "score": 0.9775,
+      "box": [
+        115,
+        472,
+        678,
+        496
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9801,
+      "box": [
+        126,
+        496,
+        403,
+        521
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9827,
+      "box": [
+        126,
+        521,
+        415,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2010.11–2013.08",
+      "score": 0.9883,
+      "box": [
+        115,
+        563,
+        738,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9847,
+      "box": [
+        125,
+        588,
+        489,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9663,
+      "box": [
+        126,
+        613,
+        555,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Golden Hills High School, 2002",
+      "score": 0.9824,
+      "box": [
+        116,
+        725,
+        865,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.9657,
+      "box": [
+        132,
+        748,
+        666,
+        773
+      ]
+    }
+  ]
+}

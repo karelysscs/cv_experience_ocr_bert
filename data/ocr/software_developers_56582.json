@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_56582",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.94,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "JOHN THOMAS",
+      "score": 0.9931,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-682-619-6833 |john.thomas@example.com",
+      "score": 0.9757,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2020.02–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9785,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9798,
+      "box": [
+        125,
+        338,
+        309,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2017.02–2020.02",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        651,
+        406
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9764,
+      "box": [
+        126,
+        406,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9917,
+      "box": [
+        126,
+        431,
+        499,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Tech, 2014.02–2017.02",
+      "score": 0.9823,
+      "box": [
+        114,
+        471,
+        642,
+        496
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9678,
+      "box": [
+        125,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.984,
+      "box": [
+        126,
+        521,
+        401,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Systems, 2011.02–2014.02",
+      "score": 0.979,
+      "box": [
+        115,
+        563,
+        678,
+        589
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9693,
+      "box": [
+        126,
+        589,
+        418,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9681,
+      "box": [
+        126,
+        613,
+        620,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Pioneer University, 2010",
+      "score": 0.9903,
+      "box": [
+        115,
+        724,
+        436,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakview University, 2008",
+      "score": 0.9783,
+      "box": [
+        114,
+        747,
+        461,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9915,
+      "box": [
+        132,
+        772,
+        558,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9807,
+      "box": [
+        134,
+        799,
+        600,
+        823
+      ]
+    }
+  ]
+}

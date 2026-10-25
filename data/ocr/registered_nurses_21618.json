@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21618",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JOANNA BOWEN",
+      "score": 0.993,
+      "box": [
+        116,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-608-457-1116 |joanna.bowen@example.com",
+      "score": 0.9783,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2018.08–2023.01",
+      "score": 0.9876,
+      "box": [
+        115,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9878,
+      "box": [
+        127,
+        315,
+        548,
+        338
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9536,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2014.03–2018.08",
+      "score": 0.986,
+      "box": [
+        115,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9728,
+      "box": [
+        125,
+        406,
+        471,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9807,
+      "box": [
+        126,
+        431,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2009.10–2014.03",
+      "score": 0.974,
+      "box": [
+        116,
+        473,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.992,
+      "box": [
+        126,
+        498,
+        410,
+        521
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9704,
+      "box": [
+        126,
+        521,
+        431,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Nursing Services, 2005.04–2009.10",
+      "score": 0.9644,
+      "box": [
+        116,
+        565,
+        724,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9741,
+      "box": [
+        126,
+        590,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9748,
+      "box": [
+        126,
+        614,
+        389,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Cedarfield University, 2008",
+      "score": 0.9875,
+      "box": [
+        115,
+        725,
+        713,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9899,
+      "box": [
+        132,
+        747,
+        519,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9904,
+      "box": [
+        133,
+        774,
+        550,
+        797
+      ]
+    }
+  ]
+}

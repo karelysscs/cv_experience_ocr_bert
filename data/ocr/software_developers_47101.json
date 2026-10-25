@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_47101",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.808,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "LIAM HORN",
+      "score": 0.9656,
+      "box": [
+        116,
+        90,
+        308,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA|+1-995-601-4746|liam.horn@example.com",
+      "score": 0.9884,
+      "box": [
+        115,
+        150,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9742,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2020.07–2023.01",
+      "score": 0.99,
+      "box": [
+        116,
+        290,
+        638,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9746,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9879,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Crestline University, 2023",
+      "score": 0.9783,
+      "box": [
+        116,
+        449,
+        607,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9818,
+      "box": [
+        133,
+        474,
+        607,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.9882,
+      "box": [
+        135,
+        500,
+        601,
+        520
+      ]
+    }
+  ]
+}

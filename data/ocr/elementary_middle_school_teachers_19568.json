@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_19568",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "DEBRA SHAFFER",
+      "score": 0.9671,
+      "box": [
+        117,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-448-514-5623 |debra.shaffer@example.com",
+      "score": 0.9775,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2019.04–2021.8",
+      "score": 0.9717,
+      "box": [
+        114,
+        289,
+        859,
+        314
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9853,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.971,
+      "box": [
+        126,
+        339,
+        562,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2015.05–2017.10",
+      "score": 0.9839,
+      "box": [
+        115,
+        381,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9813,
+      "box": [
+        126,
+        406,
+        496,
+        431
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9814,
+      "box": [
+        125,
+        431,
+        667,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Applied Child Studies, Crestwood University, 2004",
+      "score": 0.9808,
+      "box": [
+        115,
+        541,
+        672,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Seabreeze University, 2002",
+      "score": 0.9853,
+      "box": [
+        115,
+        566,
+        682,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of educational goal setting",
+      "score": 0.9905,
+      "box": [
+        133,
+        591,
+        598,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9802,
+      "box": [
+        133,
+        616,
+        541,
+        639
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_23761",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.927,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "TESS BARKER",
+      "score": 0.962,
+      "box": [
+        113,
+        87,
+        359,
+        123
+      ]
+    },
+    {
+      "text": "ME, USA|+1-919-337-4536 |tess.barker@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2020.06–2023.01",
+      "score": 0.9494,
+      "box": [
+        116,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9844,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9968,
+      "box": [
+        127,
+        340,
+        509,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2017.11–2020.06",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        872,
+        406
+      ]
+    },
+    {
+      "text": "- Developed behavior management plans",
+      "score": 0.9812,
+      "box": [
+        126,
+        406,
+        511,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9828,
+      "box": [
+        126,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2015.04–2017.11",
+      "score": 0.9781,
+      "box": [
+        115,
+        472,
+        864,
+        496
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9802,
+      "box": [
+        127,
+        499,
+        369,
+        520
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9701,
+      "box": [
+        127,
+        522,
+        463,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Ironwood University, 2013",
+      "score": 0.9712,
+      "box": [
+        115,
+        632,
+        685,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9767,
+      "box": [
+        132,
+        656,
+        546,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional pacing",
+      "score": 0.984,
+      "box": [
+        133,
+        681,
+        557,
+        706
+      ]
+    }
+  ]
+}

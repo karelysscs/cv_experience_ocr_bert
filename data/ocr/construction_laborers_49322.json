@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_49322",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "KURT GOODWIN",
+      "score": 0.9851,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-711-909-4008|kurt.goodwin@example.com",
+      "score": 0.9724,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardStone Builders, 2021.06–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9846,
+      "box": [
+        125,
+        313,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9797,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2019.11–2021.06",
+      "score": 0.9957,
+      "box": [
+        116,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9879,
+      "box": [
+        125,
+        406,
+        541,
+        431
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9901,
+      "box": [
+        125,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Windcrest High School, 2020",
+      "score": 0.9708,
+      "box": [
+        115,
+        540,
+        844,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of structural support systems",
+      "score": 0.9879,
+      "box": [
+        133,
+        565,
+        586,
+        590
+      ]
+    }
+  ]
+}

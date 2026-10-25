@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_00449",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.906,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "LATOYA LOPEZ",
+      "score": 0.9877,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-293-239-5564 |latoya.lopez@example.com",
+      "score": 0.9531,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hands School, 2020.06–2022.03",
+      "score": 0.9925,
+      "box": [
+        115,
+        289,
+        835,
+        314
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9908,
+      "box": [
+        126,
+        315,
+        535,
+        338
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9892,
+      "box": [
+        127,
+        340,
+        490,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2017.06–2019.04",
+      "score": 0.9933,
+      "box": [
+        115,
+        381,
+        877,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.98,
+      "box": [
+        126,
+        407,
+        339,
+        429
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.966,
+      "box": [
+        125,
+        432,
+        398,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Willowstone University, 2011",
+      "score": 0.9853,
+      "box": [
+        115,
+        540,
+        729,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Springdale University, 2009",
+      "score": 0.9701,
+      "box": [
+        115,
+        565,
+        668,
+        588
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9824,
+      "box": [
+        133,
+        591,
+        551,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9878,
+      "box": [
+        134,
+        615,
+        649,
+        638
+      ]
+    }
+  ]
+}

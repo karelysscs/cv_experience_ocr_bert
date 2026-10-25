@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_25453",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "ELIZABETH CAIN",
+      "score": 0.987,
+      "box": [
+        117,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-271-400-9706 |elizabeth.cain@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2021.01–2023.01",
+      "score": 0.9908,
+      "box": [
+        115,
+        290,
+        735,
+        312
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.962,
+      "box": [
+        125,
+        313,
+        459,
+        338
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2016.08–2018.09",
+      "score": 0.9879,
+      "box": [
+        115,
+        382,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9792,
+      "box": [
+        125,
+        406,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9825,
+      "box": [
+        125,
+        430,
+        362,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, High Meadow University, 2009",
+      "score": 0.9826,
+      "box": [
+        114,
+        539,
+        654,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9899,
+      "box": [
+        134,
+        566,
+        636,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business performance analysis",
+      "score": 0.9901,
+      "box": [
+        132,
+        590,
+        665,
+        615
+      ]
+    }
+  ]
+}

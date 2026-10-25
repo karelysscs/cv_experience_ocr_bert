@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_50262",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.792,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "KEITH KELLER",
+      "score": 0.9743,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-480-221-5995|keith.keller@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2019.12–2022.01",
+      "score": 0.9965,
+      "box": [
+        116,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9751,
+      "box": [
+        127,
+        315,
+        604,
+        338
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9564,
+      "box": [
+        126,
+        339,
+        389,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Redfield University, 2009",
+      "score": 0.9926,
+      "box": [
+        115,
+        449,
+        458,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9863,
+      "box": [
+        133,
+        474,
+        584,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in software engineering",
+      "score": 0.997,
+      "box": [
+        134,
+        499,
+        583,
+        522
+      ]
+    }
+  ]
+}

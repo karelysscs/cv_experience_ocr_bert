@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_13873",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9866,
+  "lines": [
+    {
+      "text": "ASHLI POLLARD",
+      "score": 0.9771,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-370-767-4520 |ashli.pollard@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        152,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2021.04–2023.01",
+      "score": 0.9911,
+      "box": [
+        116,
+        290,
+        732,
+        313
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9881,
+      "box": [
+        126,
+        314,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9667,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Brookhaven University, 2019",
+      "score": 0.9936,
+      "box": [
+        115,
+        449,
+        789,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9915,
+      "box": [
+        133,
+        474,
+        635,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9909,
+      "box": [
+        133,
+        497,
+        507,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_45362",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.832,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "THOMAS GROSS",
+      "score": 0.9742,
+      "box": [
+        115,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-394-530-4649|thomas.gross@example.com",
+      "score": 0.9893,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2022.02–2023.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "-Checked inventory of supplies",
+      "score": 0.991,
+      "box": [
+        125,
+        313,
+        421,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.963,
+      "box": [
+        126,
+        339,
+        511,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Silverfield High School, 2021",
+      "score": 0.9815,
+      "box": [
+        116,
+        449,
+        989,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9794,
+      "box": [
+        134,
+        475,
+        713,
+        495
+      ]
+    }
+  ]
+}

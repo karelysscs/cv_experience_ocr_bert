@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_31803",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.969,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "JONATHAN POWERS",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-340-694-8049 |jonathan.powers@example.com",
+      "score": 0.9849,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2019.01–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        290,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.978,
+      "box": [
+        126,
+        314,
+        478,
+        339
+      ]
+    },
+    {
+      "text": "– Managed workforce allocation",
+      "score": 0.9484,
+      "box": [
+        127,
+        340,
+        420,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2015.01–2019.01",
+      "score": 0.9932,
+      "box": [
+        116,
+        382,
+        673,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9831,
+      "box": [
+        125,
+        405,
+        439,
+        432
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9822,
+      "box": [
+        125,
+        430,
+        550,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2010.12–2015.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        471,
+        705,
+        496
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9876,
+      "box": [
+        125,
+        498,
+        383,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9966,
+      "box": [
+        127,
+        522,
+        430,
+        544
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Construction, 2004.05–2008.06",
+      "score": 0.9838,
+      "box": [
+        115,
+        564,
+        727,
+        587
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9861,
+      "box": [
+        125,
+        588,
+        489,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9874,
+      "box": [
+        126,
+        613,
+        416,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Infrastructure, Edgewood University, 2001",
+      "score": 0.9763,
+      "box": [
+        114,
+        723,
+        814,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9473,
+      "box": [
+        132,
+        748,
+        604,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9813,
+      "box": [
+        133,
+        772,
+        541,
+        797
+      ]
+    }
+  ]
+}

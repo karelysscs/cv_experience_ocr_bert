@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_06558",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.875,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "JUSTIN SLOAN",
+      "score": 0.9807,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-263-913-5319 |justin.sloan@example.com",
+      "score": 0.982,
+      "box": [
+        117,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2020.12–2023.01",
+      "score": 0.9799,
+      "box": [
+        114,
+        289,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9773,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9913,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2016.12–2019.02",
+      "score": 0.9934,
+      "box": [
+        115,
+        382,
+        753,
+        405
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9753,
+      "box": [
+        126,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9741,
+      "box": [
+        126,
+        432,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Cedarview University, 2011",
+      "score": 0.9847,
+      "box": [
+        115,
+        541,
+        712,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9908,
+      "box": [
+        133,
+        565,
+        650,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9873,
+      "box": [
+        134,
+        592,
+        613,
+        612
+      ]
+    }
+  ]
+}

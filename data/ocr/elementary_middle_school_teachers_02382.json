@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_02382",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.947,
+  "mean_conf": 0.9826,
+  "lines": [
+    {
+      "text": "KATELYN FRENCH",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-373-359-3948 |katelyn.french@example.com",
+      "score": 0.9929,
+      "box": [
+        116,
+        152,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2019.12–2023.01",
+      "score": 0.988,
+      "box": [
+        116,
+        290,
+        810,
+        314
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9823,
+      "box": [
+        125,
+        313,
+        482,
+        339
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9771,
+      "box": [
+        126,
+        339,
+        511,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2016.10–2019.12",
+      "score": 0.9918,
+      "box": [
+        116,
+        382,
+        884,
+        406
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9714,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9694,
+      "box": [
+        127,
+        432,
+        421,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2013.08–201.10",
+      "score": 0.983,
+      "box": [
+        115,
+        471,
+        856,
+        496
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9826,
+      "box": [
+        125,
+        496,
+        667,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.979,
+      "box": [
+        126,
+        521,
+        588,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Fairfield University, 2012",
+      "score": 0.9727,
+      "box": [
+        115,
+        631,
+        603,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9736,
+      "box": [
+        133,
+        658,
+        608,
+        681
+      ]
+    },
+    {
+      "text": "• Studied foundational instructional design",
+      "score": 0.988,
+      "box": [
+        133,
+        681,
+        522,
+        706
+      ]
+    }
+  ]
+}

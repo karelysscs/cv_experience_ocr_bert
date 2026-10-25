@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_43918",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.889,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "RYAN BRIDGES",
+      "score": 0.9587,
+      "box": [
+        115,
+        88,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA|+1-298-828-2995 |ryan.bridges@example.com",
+      "score": 0.9713,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2020.05–2023.01",
+      "score": 0.9884,
+      "box": [
+        116,
+        291,
+        644,
+        311
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9717,
+      "box": [
+        125,
+        313,
+        488,
+        337
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9842,
+      "box": [
+        126,
+        338,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2015.04–2018.01",
+      "score": 0.9943,
+      "box": [
+        116,
+        382,
+        715,
+        405
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9553,
+      "box": [
+        126,
+        406,
+        474,
+        430
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9778,
+      "box": [
+        126,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Brookridge High School, 2007",
+      "score": 0.9932,
+      "box": [
+        116,
+        541,
+        870,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency procedures",
+      "score": 0.9823,
+      "box": [
+        134,
+        566,
+        555,
+        589
+      ]
+    }
+  ]
+}

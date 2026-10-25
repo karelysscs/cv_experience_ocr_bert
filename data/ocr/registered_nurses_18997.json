@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18997",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "SYLVIA LEWIS",
+      "score": 0.9684,
+      "box": [
+        115,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-700-896-5380|sylvia.lewis@example.com",
+      "score": 0.9844,
+      "box": [
+        116,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2020.10–2023.01",
+      "score": 0.9791,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9873,
+      "box": [
+        126,
+        314,
+        552,
+        339
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9785,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Spring Nursing, 2017.08–2019.11",
+      "score": 0.9941,
+      "box": [
+        116,
+        383,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9933,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9893,
+      "box": [
+        126,
+        432,
+        522,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2014.09–2016.12",
+      "score": 0.9919,
+      "box": [
+        116,
+        473,
+        717,
+        496
+      ]
+    },
+    {
+      "text": "-Monitored oxygen therapy",
+      "score": 0.9815,
+      "box": [
+        125,
+        496,
+        384,
+        523
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9703,
+      "box": [
+        126,
+        522,
+        443,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Management, North Ridge University, 2008",
+      "score": 0.9815,
+      "box": [
+        114,
+        631,
+        821,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.9917,
+      "box": [
+        133,
+        656,
+        549,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient counseling",
+      "score": 0.9929,
+      "box": [
+        135,
+        683,
+        557,
+        706
+      ]
+    }
+  ]
+}

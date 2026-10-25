@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_24629",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.904,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "ALEXIS JEFFERSON",
+      "score": 0.9893,
+      "box": [
+        117,
+        90,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-746-316-6003|alexis.jefferson@example.com",
+      "score": 0.9699,
+      "box": [
+        115,
+        150,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9884,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial, 2020.11–2023.01",
+      "score": 0.9836,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9873,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9595,
+      "box": [
+        126,
+        338,
+        323,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2018.09–2020.11",
+      "score": 0.9838,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.9792,
+      "box": [
+        126,
+        406,
+        511,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9829,
+      "box": [
+        126,
+        430,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2016.06–2018.09",
+      "score": 0.9826,
+      "box": [
+        114,
+        471,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9682,
+      "box": [
+        127,
+        498,
+        546,
+        521
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9676,
+      "box": [
+        126,
+        521,
+        371,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Fairhill University, 2020",
+      "score": 0.9692,
+      "box": [
+        114,
+        631,
+        684,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.9871,
+      "box": [
+        132,
+        656,
+        627,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of accounts payable",
+      "score": 0.9805,
+      "box": [
+        133,
+        681,
+        541,
+        706
+      ]
+    }
+  ]
+}

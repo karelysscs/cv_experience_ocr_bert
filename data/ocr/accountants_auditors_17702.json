@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_17702",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.965,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "CARL MCKEE",
+      "score": 0.9917,
+      "box": [
+        116,
+        88,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-503-880-3822|carl.mckee@example.com",
+      "score": 0.9904,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2020.07–2023.01",
+      "score": 0.9619,
+      "box": [
+        115,
+        289,
+        739,
+        312
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9827,
+      "box": [
+        125,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9702,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2017.12–2020.07",
+      "score": 0.9862,
+      "box": [
+        115,
+        382,
+        680,
+        405
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9853,
+      "box": [
+        125,
+        406,
+        488,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9646,
+      "box": [
+        127,
+        432,
+        350,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2013.02–2015.09",
+      "score": 0.9816,
+      "box": [
+        115,
+        472,
+        747,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9835,
+      "box": [
+        125,
+        496,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "-Filed financial documents",
+      "score": 0.9937,
+      "box": [
+        125,
+        521,
+        379,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Management Information Systems, Brightwater University, 2008",
+      "score": 0.9743,
+      "box": [
+        114,
+        631,
+        895,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.989,
+      "box": [
+        133,
+        656,
+        641,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9971,
+      "box": [
+        134,
+        681,
+        685,
+        706
+      ]
+    }
+  ]
+}

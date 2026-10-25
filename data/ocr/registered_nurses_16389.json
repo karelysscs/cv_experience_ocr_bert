@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_16389",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.791,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "MARVIN CARR",
+      "score": 0.9738,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-225-929-6575|marvin.carr@example.com",
+      "score": 0.9875,
+      "box": [
+        116,
+        151,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassionate Path Medical, 2021.05–2023.01",
+      "score": 0.9881,
+      "box": [
+        116,
+        290,
+        746,
+        313
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.961,
+      "box": [
+        127,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9835,
+      "box": [
+        126,
+        339,
+        453,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Management, Silver Ridge University, 2023",
+      "score": 0.9594,
+      "box": [
+        114,
+        446,
+        837,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of health records management",
+      "score": 0.9885,
+      "box": [
+        132,
+        472,
+        603,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9811,
+      "box": [
+        134,
+        499,
+        545,
+        522
+      ]
+    }
+  ]
+}

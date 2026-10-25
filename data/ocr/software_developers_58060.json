@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58060",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.764,
+  "mean_conf": 0.9879,
+  "lines": [
+    {
+      "text": "JAKE KIM",
+      "score": 0.9869,
+      "box": [
+        115,
+        90,
+        278,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-773-661-8888|jake.kim@example.com",
+      "score": 0.9915,
+      "box": [
+        115,
+        150,
+        621,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2020.05–2021.04",
+      "score": 0.9915,
+      "box": [
+        116,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9937,
+      "box": [
+        126,
+        315,
+        386,
+        338
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.994,
+      "box": [
+        126,
+        339,
+        340,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverside University, 2012",
+      "score": 0.9861,
+      "box": [
+        115,
+        449,
+        469,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9595,
+      "box": [
+        132,
+        473,
+        554,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9922,
+      "box": [
+        133,
+        498,
+        598,
+        523
+      ]
+    }
+  ]
+}

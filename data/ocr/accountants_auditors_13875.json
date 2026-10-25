@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_13875",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.939,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "DESIREE LI",
+      "score": 0.968,
+      "box": [
+        115,
+        88,
+        306,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-908-768-2663|desiree.li@example.com",
+      "score": 0.9724,
+      "box": [
+        115,
+        150,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2019.10–2023.01",
+      "score": 0.9834,
+      "box": [
+        114,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9726,
+      "box": [
+        126,
+        314,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9815,
+      "box": [
+        126,
+        339,
+        512,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2016.06–2019.10",
+      "score": 0.9813,
+      "box": [
+        115,
+        381,
+        683,
+        406
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9731,
+      "box": [
+        126,
+        406,
+        429,
+        432
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9821,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2013.02–2016.06",
+      "score": 0.9813,
+      "box": [
+        114,
+        471,
+        687,
+        496
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9705,
+      "box": [
+        125,
+        498,
+        399,
+        521
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9704,
+      "box": [
+        126,
+        521,
+        461,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2006.10–2010.02",
+      "score": 0.9945,
+      "box": [
+        115,
+        565,
+        693,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9913,
+      "box": [
+        127,
+        591,
+        390,
+        611
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9801,
+      "box": [
+        127,
+        615,
+        403,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Elm Valley University, 2006",
+      "score": 0.9667,
+      "box": [
+        115,
+        725,
+        704,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9816,
+      "box": [
+        132,
+        748,
+        586,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9918,
+      "box": [
+        134,
+        774,
+        509,
+        797
+      ]
+    }
+  ]
+}

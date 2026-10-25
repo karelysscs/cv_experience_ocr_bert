@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_35200",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.798,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "LOGAN COBB",
+      "score": 0.9645,
+      "box": [
+        115,
+        90,
+        346,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-467-732-6599|logan.cobb@example.com",
+      "score": 0.9925,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2020.11–2023.01",
+      "score": 0.9939,
+      "box": [
+        115,
+        290,
+        700,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9747,
+      "box": [
+        127,
+        315,
+        358,
+        339
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9658,
+      "box": [
+        125,
+        338,
+        379,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Brookstone University, 2022",
+      "score": 0.9849,
+      "box": [
+        115,
+        449,
+        728,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of business process analysis",
+      "score": 0.9909,
+      "box": [
+        132,
+        472,
+        585,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonprofit financial management",
+      "score": 0.985,
+      "box": [
+        133,
+        497,
+        681,
+        523
+      ]
+    }
+  ]
+}

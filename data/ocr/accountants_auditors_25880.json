@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_25880",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.007,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "KATHRYN KLINE",
+      "score": 0.9803,
+      "box": [
+        116,
+        90,
+        391,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA|+1-364-769-9520 |kathryn.kline@example.com",
+      "score": 0.9836,
+      "box": [
+        115,
+        150,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2019.05–2023.01",
+      "score": 0.9901,
+      "box": [
+        114,
+        288,
+        762,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9777,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9907,
+      "box": [
+        126,
+        338,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2015.09–2019.05",
+      "score": 0.9669,
+      "box": [
+        114,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9872,
+      "box": [
+        126,
+        406,
+        556,
+        431
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9922,
+      "box": [
+        126,
+        430,
+        433,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2012.01–2015.09",
+      "score": 0.984,
+      "box": [
+        114,
+        471,
+        755,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9856,
+      "box": [
+        124,
+        496,
+        459,
+        521
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.983,
+      "box": [
+        126,
+        521,
+        403,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2008.05–2012.01",
+      "score": 0.9819,
+      "box": [
+        115,
+        565,
+        793,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9897,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9641,
+      "box": [
+        125,
+        613,
+        401,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Applied Finance, High Meadow University, 2010",
+      "score": 0.9738,
+      "box": [
+        114,
+        723,
+        759,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Elmwood University, 2006",
+      "score": 0.9657,
+      "box": [
+        114,
+        747,
+        651,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.981,
+      "box": [
+        132,
+        772,
+        588,
+        798
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of enterprise systems",
+      "score": 0.9905,
+      "box": [
+        132,
+        798,
+        554,
+        823
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_08880",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "JOSE KELLER",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-359-293-1257 |jose.keller@example.com",
+      "score": 0.9735,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2020.01–2021.",
+      "score": 0.9743,
+      "box": [
+        116,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9704,
+      "box": [
+        126,
+        315,
+        412,
+        337
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9881,
+      "box": [
+        126,
+        339,
+        413,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Stoneview University, 2012",
+      "score": 0.9657,
+      "box": [
+        116,
+        450,
+        657,
+        470
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Sunnyside University, 2010",
+      "score": 0.9802,
+      "box": [
+        114,
+        472,
+        686,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9878,
+      "box": [
+        134,
+        499,
+        625,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9873,
+      "box": [
+        135,
+        524,
+        689,
+        547
+      ]
+    }
+  ]
+}

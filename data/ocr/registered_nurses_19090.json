@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_19090",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.982,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "KATIE LARSON",
+      "score": 0.985,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-993-623-7070 |katie.larson@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2019.12–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        289,
+        680,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9689,
+      "box": [
+        125,
+        313,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Nursing, 2016.11–2019.12",
+      "score": 0.9907,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9771,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9808,
+      "box": [
+        126,
+        431,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2013.10–2016.11",
+      "score": 0.9834,
+      "box": [
+        116,
+        472,
+        656,
+        496
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.992,
+      "box": [
+        126,
+        498,
+        413,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.982,
+      "box": [
+        126,
+        521,
+        452,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2010.09–2013.10",
+      "score": 0.984,
+      "box": [
+        116,
+        565,
+        732,
+        588
+      ]
+    },
+    {
+      "text": "-Performed wound dressing changes",
+      "score": 0.9822,
+      "box": [
+        124,
+        588,
+        476,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9655,
+      "box": [
+        126,
+        613,
+        387,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Sciences, Autumn Ridge University, 2010",
+      "score": 0.9813,
+      "box": [
+        115,
+        723,
+        755,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9914,
+      "box": [
+        133,
+        749,
+        602,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9837,
+      "box": [
+        135,
+        774,
+        607,
+        797
+      ]
+    }
+  ]
+}

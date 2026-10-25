@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_38050",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.824,
+  "mean_conf": 0.9786,
+  "lines": [
+    {
+      "text": "JARED CHEN",
+      "score": 0.955,
+      "box": [
+        115,
+        90,
+        336,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-741-912-5712 |jared.chen@example.com",
+      "score": 0.9818,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2021.04–2022.06",
+      "score": 0.9644,
+      "box": [
+        115,
+        290,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9796,
+      "box": [
+        125,
+        313,
+        420,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9891,
+      "box": [
+        126,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Pineview Ridge University, 2018",
+      "score": 0.9813,
+      "box": [
+        114,
+        447,
+        618,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9774,
+      "box": [
+        132,
+        472,
+        560,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in public sector accounting",
+      "score": 0.9775,
+      "box": [
+        133,
+        497,
+        613,
+        523
+      ]
+    }
+  ]
+}

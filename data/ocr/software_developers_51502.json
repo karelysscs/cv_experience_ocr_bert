@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_51502",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.754,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "NINA HUYNH",
+      "score": 0.9768,
+      "box": [
+        116,
+        90,
+        328,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-817-564-9795|nina.huynh@example.com",
+      "score": 0.9791,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2021.09–2022.03",
+      "score": 0.9866,
+      "box": [
+        115,
+        290,
+        638,
+        313
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9908,
+      "box": [
+        126,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9713,
+      "box": [
+        126,
+        339,
+        377,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehill University, 2011",
+      "score": 0.9883,
+      "box": [
+        115,
+        449,
+        460,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9715,
+      "box": [
+        132,
+        472,
+        599,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.9754,
+      "box": [
+        132,
+        497,
+        644,
+        523
+      ]
+    }
+  ]
+}

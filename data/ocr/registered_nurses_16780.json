@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_16780",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.951,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "LATASHA MASSEY",
+      "score": 0.9882,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-676-523-8371 |latasha.massey@example.com",
+      "score": 0.9883,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Care, 2019.03–2023.01",
+      "score": 0.9937,
+      "box": [
+        116,
+        289,
+        661,
+        313
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9782,
+      "box": [
+        126,
+        314,
+        447,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9837,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2015.05–2019.03",
+      "score": 0.9702,
+      "box": [
+        115,
+        381,
+        733,
+        406
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.986,
+      "box": [
+        125,
+        406,
+        534,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9731,
+      "box": [
+        126,
+        432,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2011.07–2015.05",
+      "score": 0.9694,
+      "box": [
+        114,
+        470,
+        718,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9935,
+      "box": [
+        125,
+        496,
+        509,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9712,
+      "box": [
+        126,
+        521,
+        499,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2007.09–2011.07",
+      "score": 0.9816,
+      "box": [
+        116,
+        565,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "-Provided catheter care",
+      "score": 0.9856,
+      "box": [
+        124,
+        588,
+        354,
+        613
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9609,
+      "box": [
+        127,
+        615,
+        494,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Riverside University, 206",
+      "score": 0.9734,
+      "box": [
+        114,
+        723,
+        553,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of mobility assistance",
+      "score": 0.9836,
+      "box": [
+        132,
+        747,
+        554,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in home health nursing basics",
+      "score": 0.9822,
+      "box": [
+        134,
+        772,
+        643,
+        798
+      ]
+    }
+  ]
+}

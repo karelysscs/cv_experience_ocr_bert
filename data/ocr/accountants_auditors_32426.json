@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_32426",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.897,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "MAGGIE BLAIR",
+      "score": 0.9581,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "NH, USA|+1-600-612-2479|maggie.blair@example.com",
+      "score": 0.9749,
+      "box": [
+        115,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2019.11–2023.01",
+      "score": 0.9791,
+      "box": [
+        114,
+        289,
+        697,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9827,
+      "box": [
+        126,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9651,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Advisors, 2016.08–2019.11",
+      "score": 0.9826,
+      "box": [
+        114,
+        381,
+        738,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9853,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9621,
+      "box": [
+        126,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2013.05–2016.08",
+      "score": 0.9935,
+      "box": [
+        115,
+        472,
+        711,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9802,
+      "box": [
+        125,
+        496,
+        382,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9922,
+      "box": [
+        126,
+        521,
+        419,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Clearview University, 2016",
+      "score": 0.9882,
+      "box": [
+        114,
+        631,
+        650,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.9856,
+      "box": [
+        134,
+        658,
+        547,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9889,
+      "box": [
+        134,
+        681,
+        600,
+        706
+      ]
+    }
+  ]
+}

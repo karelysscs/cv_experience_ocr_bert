@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_00785",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.01,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "MARCUS SIMS",
+      "score": 0.9905,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-920-408-8786|marcus.sims@example.com",
+      "score": 0.992,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2019.09–2023.01",
+      "score": 0.9895,
+      "box": [
+        116,
+        289,
+        854,
+        312
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9761,
+      "box": [
+        125,
+        313,
+        560,
+        338
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9856,
+      "box": [
+        126,
+        338,
+        464,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2016.05–2019.09",
+      "score": 0.9896,
+      "box": [
+        116,
+        382,
+        798,
+        406
+      ]
+    },
+    {
+      "text": "- Planned interdisciplinary lessons",
+      "score": 0.9743,
+      "box": [
+        125,
+        405,
+        446,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared unit assessments",
+      "score": 0.9718,
+      "box": [
+        126,
+        430,
+        396,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2011.01–2014.05",
+      "score": 0.984,
+      "box": [
+        114,
+        471,
+        891,
+        496
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.985,
+      "box": [
+        126,
+        498,
+        460,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9698,
+      "box": [
+        126,
+        521,
+        588,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Child and Family Studies, Skyview University, 2005",
+      "score": 0.978,
+      "box": [
+        115,
+        632,
+        681,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Springfield University, 2003",
+      "score": 0.9779,
+      "box": [
+        115,
+        658,
+        737,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional improvement methods",
+      "score": 0.9804,
+      "box": [
+        135,
+        684,
+        712,
+        704
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9828,
+      "box": [
+        133,
+        706,
+        584,
+        731
+      ]
+    }
+  ]
+}

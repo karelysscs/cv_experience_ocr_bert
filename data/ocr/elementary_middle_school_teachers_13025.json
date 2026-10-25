@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_13025",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.925,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "LAURA HESTER",
+      "score": 0.9836,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-613-227-8599|laura.hester@example.com",
+      "score": 0.9722,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2019.11–2022.06",
+      "score": 0.9823,
+      "box": [
+        116,
+        290,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9807,
+      "box": [
+        125,
+        313,
+        536,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9949,
+      "box": [
+        128,
+        341,
+        509,
+        361
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2016.04–2018.12",
+      "score": 0.9878,
+      "box": [
+        116,
+        382,
+        813,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9829,
+      "box": [
+        126,
+        407,
+        509,
+        430
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9627,
+      "box": [
+        125,
+        430,
+        427,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Riverdale University, 2010",
+      "score": 0.9859,
+      "box": [
+        115,
+        541,
+        642,
+        564
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9828,
+      "box": [
+        132,
+        564,
+        592,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of learner assessment",
+      "score": 0.9907,
+      "box": [
+        133,
+        590,
+        524,
+        613
+      ]
+    }
+  ]
+}

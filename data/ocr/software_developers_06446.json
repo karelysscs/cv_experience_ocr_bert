@@ -1,0 +1,193 @@
+{
+  "id": "software_developers_06446",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "ARNELL NOLAN",
+      "score": 0.9679,
+      "box": [
+        115,
+        88,
+        383,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-668-410-7176 | arnell.nolan@example.com",
+      "score": 0.9772,
+      "box": [
+        116,
+        151,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2020.04–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        288,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.971,
+      "box": [
+        127,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9891,
+      "box": [
+        126,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2017.07–2020.04",
+      "score": 0.991,
+      "box": [
+        115,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9667,
+      "box": [
+        125,
+        406,
+        377,
+        431
+      ]
+    },
+    {
+      "text": "-Built frontend components",
+      "score": 0.9781,
+      "box": [
+        125,
+        430,
+        385,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2014.09–2017.07",
+      "score": 0.9833,
+      "box": [
+        116,
+        472,
+        680,
+        496
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9956,
+      "box": [
+        126,
+        496,
+        340,
+        523
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9804,
+      "box": [
+        126,
+        521,
+        403,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, Aspen Grove University, 2014",
+      "score": 0.9874,
+      "box": [
+        115,
+        632,
+        498,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowway University, 2009",
+      "score": 0.9732,
+      "box": [
+        114,
+        656,
+        498,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.9894,
+      "box": [
+        132,
+        681,
+        495,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9816,
+      "box": [
+        132,
+        705,
+        579,
+        732
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stack and heap usage",
+      "score": 0.9717,
+      "box": [
+        132,
+        729,
+        583,
+        757
+      ]
+    }
+  ]
+}

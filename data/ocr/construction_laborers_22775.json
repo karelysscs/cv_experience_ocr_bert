@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_22775",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.025,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "JAMES MORRIS",
+      "score": 0.9941,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-875-531-3054 |james.morris@example.com",
+      "score": 0.9794,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2018.07–2023.01",
+      "score": 0.9774,
+      "box": [
+        115,
+        290,
+        690,
+        313
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9912,
+      "box": [
+        126,
+        315,
+        523,
+        338
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9859,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2014.01–2018.07",
+      "score": 0.9926,
+      "box": [
+        116,
+        382,
+        703,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9924,
+      "box": [
+        126,
+        407,
+        488,
+        430
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9801,
+      "box": [
+        125,
+        430,
+        549,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2009.06–2014.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        472,
+        749,
+        495
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9668,
+      "box": [
+        125,
+        496,
+        393,
+        522
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9882,
+      "box": [
+        125,
+        521,
+        396,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2004.11–2009.06",
+      "score": 0.969,
+      "box": [
+        114,
+        563,
+        674,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9805,
+      "box": [
+        124,
+        588,
+        485,
+        613
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9771,
+      "box": [
+        126,
+        614,
+        449,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Brookfield High School, 2004",
+      "score": 0.9891,
+      "box": [
+        116,
+        725,
+        1005,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural alignment",
+      "score": 0.9868,
+      "box": [
+        132,
+        747,
+        563,
+        772
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_61472",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.972,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "TARA KLINE",
+      "score": 0.9765,
+      "box": [
+        114,
+        90,
+        321,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA|+1-592-297-7427 |tara.kline@example.com",
+      "score": 0.9695,
+      "box": [
+        115,
+        150,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2018.06–2023.01",
+      "score": 0.9879,
+      "box": [
+        114,
+        289,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.976,
+      "box": [
+        127,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9613,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2013.11–2018.06",
+      "score": 0.9867,
+      "box": [
+        115,
+        381,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9733,
+      "box": [
+        126,
+        407,
+        462,
+        430
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9821,
+      "box": [
+        125,
+        432,
+        459,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2009.04–2013.11",
+      "score": 0.9678,
+      "box": [
+        115,
+        472,
+        682,
+        495
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9917,
+      "box": [
+        125,
+        496,
+        404,
+        522
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9852,
+      "box": [
+        125,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2004.08–2009.04",
+      "score": 0.981,
+      "box": [
+        115,
+        564,
+        648,
+        587
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9768,
+      "box": [
+        125,
+        589,
+        406,
+        615
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9869,
+      "box": [
+        125,
+        613,
+        361,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Coordination, Stoneview University, 2003",
+      "score": 0.9853,
+      "box": [
+        114,
+        723,
+        730,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of site safety protocols",
+      "score": 0.9922,
+      "box": [
+        132,
+        747,
+        526,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9896,
+      "box": [
+        134,
+        773,
+        708,
+        796
+      ]
+    }
+  ]
+}

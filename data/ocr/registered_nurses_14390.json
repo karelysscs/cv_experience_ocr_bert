@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_14390",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.959,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "KATHRYN SINGLETON",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        485,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-250-388-4715 |kathryn.singleton@example.com",
+      "score": 0.9915,
+      "box": [
+        116,
+        152,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2020.06–2023.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        289,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9639,
+      "box": [
+        125,
+        313,
+        520,
+        339
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9726,
+      "box": [
+        126,
+        339,
+        481,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2017.11–2020.06",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        778,
+        406
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.992,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9903,
+      "box": [
+        126,
+        430,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2015.04–2017.11",
+      "score": 0.9775,
+      "box": [
+        116,
+        472,
+        720,
+        496
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9707,
+      "box": [
+        125,
+        496,
+        467,
+        522
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9874,
+      "box": [
+        126,
+        522,
+        439,
+        544
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2010.03–2012.11",
+      "score": 0.994,
+      "box": [
+        116,
+        565,
+        663,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9752,
+      "box": [
+        125,
+        589,
+        420,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9752,
+      "box": [
+        127,
+        615,
+        437,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Meadowway University, 2008",
+      "score": 0.9781,
+      "box": [
+        114,
+        723,
+        707,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.968,
+      "box": [
+        132,
+        748,
+        538,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9858,
+      "box": [
+        133,
+        772,
+        551,
+        798
+      ]
+    }
+  ]
+}

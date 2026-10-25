@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_19107",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.991,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "SAMUEL SCHMIDT",
+      "score": 0.966,
+      "box": [
+        115,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-679-567-9734 | samuel.schmidt@example.com",
+      "score": 0.9758,
+      "box": [
+        116,
+        151,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2017.07–2023.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        288,
+        736,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9774,
+      "box": [
+        125,
+        314,
+        434,
+        337
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9893,
+      "box": [
+        126,
+        339,
+        544,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerCraft Builders, 2012.01–2017.07",
+      "score": 0.9822,
+      "box": [
+        115,
+        381,
+        699,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9855,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9815,
+      "box": [
+        125,
+        430,
+        394,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2006.06–2012.01",
+      "score": 0.987,
+      "box": [
+        115,
+        472,
+        671,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9848,
+      "box": [
+        125,
+        496,
+        483,
+        521
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9908,
+      "box": [
+        126,
+        521,
+        423,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TruePoint Construction, 2000.11–2006.06",
+      "score": 0.9759,
+      "box": [
+        114,
+        563,
+        722,
+        588
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9718,
+      "box": [
+        126,
+        590,
+        504,
+        613
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9804,
+      "box": [
+        126,
+        614,
+        398,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Supervision, Cedar Valley University, 2001",
+      "score": 0.9886,
+      "box": [
+        115,
+        723,
+        886,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9702,
+      "box": [
+        132,
+        748,
+        668,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9806,
+      "box": [
+        135,
+        774,
+        572,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "registered_nurses_21187",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.984,
+  "mean_conf": 0.9799,
+  "lines": [
+    {
+      "text": "ASHLEY RICE",
+      "score": 0.9796,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-819-883-1958 |ashley.rice@example.com",
+      "score": 0.9707,
+      "box": [
+        115,
+        150,
+        632,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Health Group, 2020.10–2023.01",
+      "score": 0.9783,
+      "box": [
+        116,
+        290,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9755,
+      "box": [
+        125,
+        313,
+        573,
+        338
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9716,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2018.07–2020.10",
+      "score": 0.993,
+      "box": [
+        116,
+        382,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9539,
+      "box": [
+        125,
+        406,
+        522,
+        431
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9743,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2016.03–2018.07",
+      "score": 0.9894,
+      "box": [
+        116,
+        472,
+        743,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9747,
+      "box": [
+        124,
+        496,
+        512,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9724,
+      "box": [
+        126,
+        521,
+        431,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Doctorate, General Nursing, Stonefield University, 2018",
+      "score": 0.9766,
+      "box": [
+        115,
+        632,
+        632,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Summit University, 2013",
+      "score": 0.99,
+      "box": [
+        114,
+        656,
+        723,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9986,
+      "box": [
+        134,
+        682,
+        493,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9786,
+      "box": [
+        132,
+        706,
+        629,
+        731
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.9783,
+      "box": [
+        132,
+        730,
+        553,
+        755
+      ]
+    }
+  ]
+}

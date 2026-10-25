@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_38600",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.872,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "SARAH SMITH",
+      "score": 0.9609,
+      "box": [
+        114,
+        88,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA|+1-200-973-1844|sarah.smith@example.com",
+      "score": 0.9942,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearPath Financial, 2021.07–2023.01",
+      "score": 0.9925,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9748,
+      "box": [
+        126,
+        314,
+        427,
+        339
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9774,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2020.01–2021.07",
+      "score": 0.9797,
+      "box": [
+        114,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9842,
+      "box": [
+        126,
+        406,
+        437,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9932,
+      "box": [
+        125,
+        431,
+        507,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Supply Chain Management, Sunfield University, 2020",
+      "score": 0.9885,
+      "box": [
+        115,
+        539,
+        799,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9626,
+      "box": [
+        132,
+        565,
+        647,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9909,
+      "box": [
+        133,
+        590,
+        593,
+        615
+      ]
+    }
+  ]
+}

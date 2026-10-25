@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_12108",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.999,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "JOSHUA HUBBARD",
+      "score": 0.9857,
+      "box": [
+        115,
+        88,
+        436,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-457-840-4091 |joshua.hubbard@example.com",
+      "score": 0.9705,
+      "box": [
+        116,
+        151,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2018.12–2023.01",
+      "score": 0.9841,
+      "box": [
+        114,
+        288,
+        704,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9908,
+      "box": [
+        126,
+        315,
+        435,
+        338
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9835,
+      "box": [
+        126,
+        340,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2014.10–2018.12",
+      "score": 0.9877,
+      "box": [
+        115,
+        382,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9875,
+      "box": [
+        126,
+        407,
+        481,
+        430
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9722,
+      "box": [
+        125,
+        431,
+        400,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2009.02–2013.04",
+      "score": 0.9751,
+      "box": [
+        115,
+        472,
+        649,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9778,
+      "box": [
+        124,
+        496,
+        338,
+        522
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9816,
+      "box": [
+        125,
+        520,
+        401,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2003.06–2007.08",
+      "score": 0.9655,
+      "box": [
+        114,
+        563,
+        726,
+        588
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9832,
+      "box": [
+        124,
+        588,
+        475,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9906,
+      "box": [
+        125,
+        613,
+        511,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        677,
+        267,
+        704
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Pebble Creek High School, 201",
+      "score": 0.989,
+      "box": [
+        116,
+        725,
+        888,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9875,
+      "box": [
+        133,
+        749,
+        612,
+        772
+      ]
+    }
+  ]
+}

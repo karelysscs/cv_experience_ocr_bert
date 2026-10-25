@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_00293",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.774,
+  "mean_conf": 0.9866,
+  "lines": [
+    {
+      "text": "ALEXAGILES",
+      "score": 0.9978,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-428-584-9641 | alexa.giles@example.com",
+      "score": 0.9789,
+      "box": [
+        116,
+        152,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2022.06–2023.01",
+      "score": 0.9811,
+      "box": [
+        115,
+        289,
+        658,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9882,
+      "box": [
+        127,
+        315,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        508,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Edgewood University, 2023",
+      "score": 0.9742,
+      "box": [
+        115,
+        449,
+        480,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of linear algebra",
+      "score": 0.9925,
+      "box": [
+        133,
+        474,
+        469,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9881,
+      "box": [
+        133,
+        497,
+        626,
+        524
+      ]
+    }
+  ]
+}

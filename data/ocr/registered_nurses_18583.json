@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_18583",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.843,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "JAYLIN KING",
+      "score": 0.9587,
+      "box": [
+        115,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-212-883-5539 |jaylin.king@example.com",
+      "score": 0.9721,
+      "box": [
+        116,
+        151,
+        621,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2021.04–2023.01",
+      "score": 0.988,
+      "box": [
+        115,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9745,
+      "box": [
+        125,
+        313,
+        504,
+        340
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.978,
+      "box": [
+        127,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2019.06–201.04",
+      "score": 0.9838,
+      "box": [
+        116,
+        382,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "-Prepared treatment rooms",
+      "score": 0.9969,
+      "box": [
+        125,
+        406,
+        388,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9851,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Pinehaven University, 2021",
+      "score": 0.9854,
+      "box": [
+        114,
+        539,
+        647,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9777,
+      "box": [
+        133,
+        565,
+        635,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9896,
+      "box": [
+        133,
+        590,
+        510,
+        615
+      ]
+    }
+  ]
+}

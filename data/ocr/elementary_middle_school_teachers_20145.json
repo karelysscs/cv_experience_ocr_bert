@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_20145",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.074,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "LAURIE MALONE",
+      "score": 0.9704,
+      "box": [
+        116,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-608-691-8464 |laurie.malone@example.com",
+      "score": 0.9657,
+      "box": [
+        117,
+        152,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2020.03–2023.01",
+      "score": 0.9736,
+      "box": [
+        116,
+        290,
+        886,
+        313
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9835,
+      "box": [
+        126,
+        314,
+        493,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9713,
+      "box": [
+        127,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2017.04–2020.03",
+      "score": 0.9881,
+      "box": [
+        115,
+        381,
+        858,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.988,
+      "box": [
+        127,
+        408,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9755,
+      "box": [
+        126,
+        431,
+        685,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2014.05–2017.04",
+      "score": 0.9899,
+      "box": [
+        115,
+        471,
+        878,
+        496
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9922,
+      "box": [
+        126,
+        498,
+        411,
+        521
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.989,
+      "box": [
+        126,
+        521,
+        516,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2008.11–2011.10",
+      "score": 0.9755,
+      "box": [
+        116,
+        565,
+        864,
+        588
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9727,
+      "box": [
+        128,
+        592,
+        369,
+        613
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9622,
+      "box": [
+        127,
+        615,
+        480,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Applied Education, Sunnyside University, 2005",
+      "score": 0.9789,
+      "box": [
+        115,
+        723,
+        801,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.9913,
+      "box": [
+        131,
+        747,
+        572,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9946,
+      "box": [
+        135,
+        774,
+        736,
+        796
+      ]
+    }
+  ]
+}

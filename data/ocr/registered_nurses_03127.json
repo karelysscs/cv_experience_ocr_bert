@@ -1,0 +1,153 @@
+{
+  "id": "registered_nurses_03127",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.893,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "ALYSE NGUYEN",
+      "score": 0.9815,
+      "box": [
+        117,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-214-941-3222 |alyse.nguyen@example.com",
+      "score": 0.9898,
+      "box": [
+        117,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Care Center, 2020.02–2022.03",
+      "score": 0.9898,
+      "box": [
+        116,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9715,
+      "box": [
+        126,
+        314,
+        397,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9826,
+      "box": [
+        127,
+        340,
+        568,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2017.03–2019.04",
+      "score": 0.9778,
+      "box": [
+        115,
+        381,
+        662,
+        406
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9683,
+      "box": [
+        126,
+        407,
+        480,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9665,
+      "box": [
+        125,
+        430,
+        387,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Health Care, Prairie Ridge University, 2009",
+      "score": 0.979,
+      "box": [
+        115,
+        541,
+        607,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Golden Meadow University, 2007",
+      "score": 0.9762,
+      "box": [
+        114,
+        564,
+        669,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic communication",
+      "score": 0.9964,
+      "box": [
+        135,
+        591,
+        638,
+        614
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical supervision",
+      "score": 0.9813,
+      "box": [
+        134,
+        616,
+        552,
+        638
+      ]
+    }
+  ]
+}

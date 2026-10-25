@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_26550",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "AMYCHEN",
+      "score": 0.9972,
+      "box": [
+        116,
+        90,
+        297,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-707-512-1451 |amy.chen@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9809,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCountFinancial, 2020.09–2021.10",
+      "score": 0.9632,
+      "box": [
+        116,
+        290,
+        690,
+        310
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9683,
+      "box": [
+        127,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9742,
+      "box": [
+        126,
+        338,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Cedarfield University, 2003",
+      "score": 0.991,
+      "box": [
+        115,
+        449,
+        805,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9885,
+      "box": [
+        134,
+        474,
+        686,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of operations management",
+      "score": 0.973,
+      "box": [
+        133,
+        497,
+        606,
+        523
+      ]
+    }
+  ]
+}

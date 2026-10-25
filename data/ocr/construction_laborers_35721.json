@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_35721",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.906,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "BRANDON SUTTON",
+      "score": 0.981,
+      "box": [
+        117,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-237-643-8589|brandon.sutton@example.com",
+      "score": 0.9892,
+      "box": [
+        115,
+        150,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2020.09–2023.01",
+      "score": 0.9794,
+      "box": [
+        115,
+        290,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9951,
+      "box": [
+        126,
+        314,
+        459,
+        337
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9682,
+      "box": [
+        127,
+        340,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2018.05–2020.09",
+      "score": 0.9915,
+      "box": [
+        116,
+        382,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9682,
+      "box": [
+        125,
+        406,
+        405,
+        431
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9857,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftBuild Group, 2013.04–2015.08",
+      "score": 0.9861,
+      "box": [
+        115,
+        471,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9748,
+      "box": [
+        125,
+        496,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9903,
+      "box": [
+        126,
+        521,
+        492,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Meadowcrest High School, 2013",
+      "score": 0.9928,
+      "box": [
+        116,
+        632,
+        944,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9839,
+      "box": [
+        133,
+        657,
+        592,
+        680
+      ]
+    }
+  ]
+}

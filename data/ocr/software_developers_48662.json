@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_48662",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "MATTHEW CROSS",
+      "score": 0.9842,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-491-300-9172 |matthew.cross@example.com",
+      "score": 0.978,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Labs, 2020.10–2023.01",
+      "score": 0.9957,
+      "box": [
+        116,
+        290,
+        639,
+        313
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9793,
+      "box": [
+        126,
+        314,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9898,
+      "box": [
+        126,
+        339,
+        566,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Software, 2018.06–2020.10",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        668,
+        406
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.9784,
+      "box": [
+        125,
+        406,
+        438,
+        431
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9572,
+      "box": [
+        125,
+        430,
+        361,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2014.03–2016.07",
+      "score": 0.9879,
+      "box": [
+        116,
+        472,
+        636,
+        496
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.984,
+      "box": [
+        126,
+        497,
+        347,
+        519
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9973,
+      "box": [
+        126,
+        521,
+        509,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenridge University, 2006",
+      "score": 0.9553,
+      "box": [
+        115,
+        632,
+        495,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.9898,
+      "box": [
+        133,
+        656,
+        669,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of deployment pipelines",
+      "score": 0.9803,
+      "box": [
+        133,
+        681,
+        575,
+        706
+      ]
+    }
+  ]
+}

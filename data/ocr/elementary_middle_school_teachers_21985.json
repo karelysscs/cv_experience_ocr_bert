@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_21985",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.011,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "TAMMIE BURNS",
+      "score": 0.9815,
+      "box": [
+        114,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-708-846-9870 |tammie.burns@example.com",
+      "score": 0.9861,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2020.06–2023.01",
+      "score": 0.9908,
+      "box": [
+        115,
+        289,
+        863,
+        314
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9858,
+      "box": [
+        125,
+        314,
+        516,
+        339
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9904,
+      "box": [
+        126,
+        339,
+        535,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2017.11–2020.06",
+      "score": 0.9885,
+      "box": [
+        115,
+        381,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9819,
+      "box": [
+        126,
+        406,
+        578,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9893,
+      "box": [
+        126,
+        431,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2015.04–2017.11",
+      "score": 0.9915,
+      "box": [
+        115,
+        472,
+        797,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9713,
+      "box": [
+        126,
+        497,
+        418,
+        519
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9815,
+      "box": [
+        127,
+        522,
+        403,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2012.09–2015.04",
+      "score": 0.9736,
+      "box": [
+        116,
+        565,
+        829,
+        588
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9776,
+      "box": [
+        126,
+        590,
+        492,
+        613
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9766,
+      "box": [
+        127,
+        615,
+        460,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Plainview University, 2012",
+      "score": 0.9739,
+      "box": [
+        116,
+        726,
+        598,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Willowcrest University, 2010",
+      "score": 0.9647,
+      "box": [
+        114,
+        747,
+        622,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure design",
+      "score": 0.9753,
+      "box": [
+        134,
+        774,
+        604,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9961,
+      "box": [
+        133,
+        799,
+        528,
+        821
+      ]
+    }
+  ]
+}

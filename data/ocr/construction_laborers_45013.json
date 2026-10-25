@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_45013",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "KYLE WOLFE",
+      "score": 0.9869,
+      "box": [
+        115,
+        88,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-978-464-9938|kyle.wolfe@example.com",
+      "score": 0.9883,
+      "box": [
+        115,
+        150,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9862,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkRight Contractors, 2020.07–2023.01",
+      "score": 0.9885,
+      "box": [
+        114,
+        288,
+        718,
+        314
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9744,
+      "box": [
+        125,
+        313,
+        407,
+        339
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterWorks Construction, 2015.10–2018.04",
+      "score": 0.9789,
+      "box": [
+        115,
+        381,
+        755,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9815,
+      "box": [
+        126,
+        407,
+        403,
+        430
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9848,
+      "box": [
+        125,
+        429,
+        402,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2012.07–2015.02",
+      "score": 0.9886,
+      "box": [
+        116,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9885,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9852,
+      "box": [
+        126,
+        521,
+        442,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Forest Ridge High School, 2004",
+      "score": 0.9783,
+      "box": [
+        116,
+        632,
+        881,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9852,
+      "box": [
+        132,
+        656,
+        529,
+        681
+      ]
+    }
+  ]
+}

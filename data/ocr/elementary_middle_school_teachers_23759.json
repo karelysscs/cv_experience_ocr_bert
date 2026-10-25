@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_23759",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.016,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "RYAN HOOVER",
+      "score": 0.9922,
+      "box": [
+        116,
+        90,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-204-715-2431 |ryan.hoover@example.com",
+      "score": 0.9851,
+      "box": [
+        116,
+        151,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9779,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2021.01–2023.01",
+      "score": 0.9699,
+      "box": [
+        116,
+        290,
+        797,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9841,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9895,
+      "box": [
+        127,
+        340,
+        536,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2018.12–2021.01",
+      "score": 0.9864,
+      "box": [
+        116,
+        382,
+        842,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9924,
+      "box": [
+        126,
+        406,
+        432,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9879,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2015.03–2017.04",
+      "score": 0.99,
+      "box": [
+        116,
+        472,
+        900,
+        496
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9668,
+      "box": [
+        127,
+        498,
+        572,
+        521
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9777,
+      "box": [
+        128,
+        523,
+        462,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Willow Ridge University, 2005",
+      "score": 0.9429,
+      "box": [
+        114,
+        631,
+        707,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Oakfield University, 2003",
+      "score": 0.9755,
+      "box": [
+        115,
+        658,
+        678,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9802,
+      "box": [
+        133,
+        683,
+        551,
+        706
+      ]
+    },
+    {
+      "text": "• Studied principles of academic scaffolding",
+      "score": 0.9777,
+      "box": [
+        132,
+        706,
+        536,
+        731
+      ]
+    }
+  ]
+}

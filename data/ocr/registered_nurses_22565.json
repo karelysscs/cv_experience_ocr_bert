@@ -1,0 +1,213 @@
+{
+  "id": "registered_nurses_22565",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "IRMA LEE",
+      "score": 0.9774,
+      "box": [
+        114,
+        88,
+        279,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-686-625-2848 |irma.lee@example.com",
+      "score": 0.9652,
+      "box": [
+        115,
+        150,
+        615,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2018.03–2023.01",
+      "score": 0.9884,
+      "box": [
+        115,
+        289,
+        720,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9806,
+      "box": [
+        125,
+        313,
+        471,
+        338
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9521,
+      "box": [
+        126,
+        338,
+        424,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2013.05–2018.03",
+      "score": 0.9891,
+      "box": [
+        115,
+        381,
+        689,
+        406
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9862,
+      "box": [
+        125,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9809,
+      "box": [
+        126,
+        431,
+        481,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2008.07–2013.05",
+      "score": 0.9927,
+      "box": [
+        116,
+        473,
+        690,
+        497
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.969,
+      "box": [
+        125,
+        498,
+        380,
+        521
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9723,
+      "box": [
+        126,
+        521,
+        449,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2003.09–2008.07",
+      "score": 0.9859,
+      "box": [
+        116,
+        564,
+        692,
+        587
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.98,
+      "box": [
+        126,
+        589,
+        442,
+        613
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9613,
+      "box": [
+        127,
+        613,
+        352,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Medical Assisting, Willowhaven University, 2006",
+      "score": 0.993,
+      "box": [
+        115,
+        725,
+        652,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Parkview University, 2004",
+      "score": 0.9894,
+      "box": [
+        114,
+        747,
+        669,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.99,
+      "box": [
+        133,
+        772,
+        680,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.9878,
+      "box": [
+        132,
+        798,
+        556,
+        823
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_38606",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "JACQUELINE OSBORNE",
+      "score": 0.9804,
+      "box": [
+        116,
+        90,
+        511,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-682-778-2839 |jacqueline.osborne@example.com",
+      "score": 0.9862,
+      "box": [
+        115,
+        150,
+        717,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2020.11–2023.01",
+      "score": 0.979,
+      "box": [
+        115,
+        290,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9611,
+      "box": [
+        126,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9815,
+      "box": [
+        127,
+        340,
+        436,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2017.01–2019.04",
+      "score": 0.9824,
+      "box": [
+        114,
+        381,
+        726,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9856,
+      "box": [
+        125,
+        406,
+        362,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9631,
+      "box": [
+        126,
+        430,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Forest Ridge University, 2010",
+      "score": 0.9874,
+      "box": [
+        115,
+        541,
+        679,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in lease accounting",
+      "score": 0.992,
+      "box": [
+        133,
+        565,
+        546,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9886,
+      "box": [
+        132,
+        590,
+        573,
+        615
+      ]
+    }
+  ]
+}

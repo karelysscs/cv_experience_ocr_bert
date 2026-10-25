@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_08150",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.877,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "ADAM LE",
+      "score": 0.9417,
+      "box": [
+        114,
+        88,
+        272,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-534-381-7387 |adam.le@example.com",
+      "score": 0.9718,
+      "box": [
+        116,
+        151,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2020.04–2023.01",
+      "score": 0.9941,
+      "box": [
+        116,
+        290,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "-Directed clinical quality improvement initiatives",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        573,
+        338
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9829,
+      "box": [
+        127,
+        340,
+        489,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2015.05–2018.03",
+      "score": 0.9927,
+      "box": [
+        115,
+        381,
+        690,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9799,
+      "box": [
+        125,
+        405,
+        531,
+        430
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9894,
+      "box": [
+        126,
+        431,
+        494,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Cedarview University, 2003",
+      "score": 0.9686,
+      "box": [
+        114,
+        539,
+        608,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9855,
+      "box": [
+        133,
+        565,
+        680,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.998,
+      "box": [
+        135,
+        591,
+        573,
+        614
+      ]
+    }
+  ]
+}

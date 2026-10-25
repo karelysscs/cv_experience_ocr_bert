@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18530",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.842,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "SARAHGREEN",
+      "score": 0.9988,
+      "box": [
+        115,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-955-617-7802 |sarah.green@example.com",
+      "score": 0.9849,
+      "box": [
+        116,
+        152,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2022.01–2022.05",
+      "score": 0.985,
+      "box": [
+        115,
+        290,
+        884,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9661,
+      "box": [
+        126,
+        313,
+        412,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9885,
+      "box": [
+        127,
+        340,
+        434,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Stonewood University, 2008",
+      "score": 0.9682,
+      "box": [
+        114,
+        447,
+        743,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in student motivation concepts",
+      "score": 0.9704,
+      "box": [
+        132,
+        472,
+        648,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9871,
+      "box": [
+        135,
+        500,
+        623,
+        520
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_45933",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.8,
+  "mean_conf": 0.9775,
+  "lines": [
+    {
+      "text": "JEREMY MYERS",
+      "score": 0.9696,
+      "box": [
+        116,
+        90,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-903-568-4608 |jeremy.myers@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2020.03–2023.01",
+      "score": 0.9734,
+      "box": [
+        115,
+        290,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9653,
+      "box": [
+        125,
+        314,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9672,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Amber Hills High School, 2021",
+      "score": 0.98,
+      "box": [
+        116,
+        449,
+        1017,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site leveling",
+      "score": 0.9807,
+      "box": [
+        132,
+        472,
+        487,
+        497
+      ]
+    }
+  ]
+}

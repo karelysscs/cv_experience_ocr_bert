@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_61425",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.983,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "CARLA WOOD",
+      "score": 0.9487,
+      "box": [
+        115,
+        88,
+        353,
+        122
+      ]
+    },
+    {
+      "text": "WY, USA|+1-940-926-7052|carla.wood@example.com",
+      "score": 0.9805,
+      "box": [
+        114,
+        150,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2020.05–2023.01",
+      "score": 0.9838,
+      "box": [
+        115,
+        290,
+        634,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9643,
+      "box": [
+        125,
+        313,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9887,
+      "box": [
+        126,
+        339,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2017.09–2020.05",
+      "score": 0.9877,
+      "box": [
+        115,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9856,
+      "box": [
+        126,
+        406,
+        422,
+        431
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9878,
+      "box": [
+        126,
+        430,
+        550,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2013.06–2016.03",
+      "score": 0.9841,
+      "box": [
+        115,
+        472,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9922,
+      "box": [
+        126,
+        498,
+        424,
+        521
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9612,
+      "box": [
+        126,
+        521,
+        508,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2009.11–2012.08",
+      "score": 0.9953,
+      "box": [
+        116,
+        565,
+        756,
+        589
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.986,
+      "box": [
+        125,
+        589,
+        489,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9801,
+      "box": [
+        127,
+        615,
+        583,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Welding Technology, Stonefield University, 2004",
+      "score": 0.9912,
+      "box": [
+        115,
+        723,
+        754,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.9578,
+      "box": [
+        132,
+        748,
+        571,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9947,
+      "box": [
+        134,
+        773,
+        645,
+        797
+      ]
+    }
+  ]
+}

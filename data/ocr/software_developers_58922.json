@@ -1,0 +1,133 @@
+{
+  "id": "software_developers_58922",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.846,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "KAITLIN KELLY",
+      "score": 0.984,
+      "box": [
+        116,
+        90,
+        369,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA|+1-340-828-3469|kaitlin.kelly@example.com",
+      "score": 0.9876,
+      "box": [
+        115,
+        150,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2021.06–2021.11",
+      "score": 0.9885,
+      "box": [
+        116,
+        290,
+        701,
+        313
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9886,
+      "box": [
+        127,
+        315,
+        501,
+        338
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9742,
+      "box": [
+        127,
+        340,
+        386,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Doctorate, Heritage University, 2013",
+      "score": 0.9781,
+      "box": [
+        116,
+        450,
+        453,
+        470
+      ]
+    },
+    {
+      "text": "Bachelor's, Hawthorne University, 2008",
+      "score": 0.9839,
+      "box": [
+        115,
+        474,
+        482,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.985,
+      "box": [
+        134,
+        498,
+        583,
+        521
+      ]
+    },
+    {
+      "text": "• Completed coursework in layered architecture",
+      "score": 0.9933,
+      "box": [
+        135,
+        524,
+        573,
+        547
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud services integration",
+      "score": 0.9726,
+      "box": [
+        133,
+        548,
+        624,
+        572
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_33549",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.783,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "JACOB BAKER",
+      "score": 0.9763,
+      "box": [
+        116,
+        90,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-266-209-1988 |jacob.baker@example.com",
+      "score": 0.9709,
+      "box": [
+        116,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2020.12–2023.01",
+      "score": 0.9822,
+      "box": [
+        115,
+        290,
+        695,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9903,
+      "box": [
+        126,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9756,
+      "box": [
+        127,
+        341,
+        365,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Havenwood University, 2023",
+      "score": 0.9871,
+      "box": [
+        115,
+        449,
+        764,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of financial ratio analysis",
+      "score": 0.9899,
+      "box": [
+        132,
+        472,
+        546,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9751,
+      "box": [
+        134,
+        499,
+        527,
+        522
+      ]
+    }
+  ]
+}

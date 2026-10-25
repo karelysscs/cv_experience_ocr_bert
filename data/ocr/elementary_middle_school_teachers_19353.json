@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_19353",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.894,
+  "mean_conf": 0.9863,
+  "lines": [
+    {
+      "text": "SONYA HARTMAN",
+      "score": 0.9678,
+      "box": [
+        116,
+        90,
+        415,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-785-616-9799|sonya.hartman@example.com",
+      "score": 0.9935,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9789,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2020.03–2023.01",
+      "score": 0.9822,
+      "box": [
+        116,
+        290,
+        884,
+        313
+      ]
+    },
+    {
+      "text": "-Directed curriculum revision cycles",
+      "score": 0.9973,
+      "box": [
+        125,
+        313,
+        464,
+        338
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        505,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2015.11–2018.09",
+      "score": 0.9751,
+      "box": [
+        116,
+        382,
+        860,
+        405
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.992,
+      "box": [
+        126,
+        407,
+        443,
+        429
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9824,
+      "box": [
+        126,
+        431,
+        462,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Horizon University, 2007",
+      "score": 0.9945,
+      "box": [
+        115,
+        541,
+        735,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Meadowland University, 2005",
+      "score": 0.9838,
+      "box": [
+        114,
+        565,
+        746,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson planning",
+      "score": 0.9875,
+      "box": [
+        132,
+        590,
+        486,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.9856,
+      "box": [
+        133,
+        615,
+        551,
+        640
+      ]
+    }
+  ]
+}

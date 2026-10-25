@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_24107",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "THEOPOLIS HARRIS",
+      "score": 0.9897,
+      "box": [
+        114,
+        87,
+        449,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA|+1-958-390-3376 |theopolis.harris@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.06–2023.01",
+      "score": 0.9697,
+      "box": [
+        114,
+        289,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9899,
+      "box": [
+        126,
+        314,
+        520,
+        339
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9857,
+      "box": [
+        126,
+        339,
+        361,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2017.10–2020.06",
+      "score": 0.9814,
+      "box": [
+        114,
+        381,
+        731,
+        406
+      ]
+    },
+    {
+      "text": "-Led internal audit functions",
+      "score": 0.989,
+      "box": [
+        126,
+        406,
+        392,
+        429
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9748,
+      "box": [
+        126,
+        431,
+        485,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2015.02–2017.10",
+      "score": 0.9817,
+      "box": [
+        114,
+        471,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9666,
+      "box": [
+        126,
+        498,
+        433,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9638,
+      "box": [
+        126,
+        522,
+        387,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2012.06–2015.02",
+      "score": 0.9855,
+      "box": [
+        115,
+        565,
+        719,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9789,
+      "box": [
+        125,
+        589,
+        366,
+        612
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.976,
+      "box": [
+        126,
+        613,
+        422,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Fairfield University, 2011",
+      "score": 0.9848,
+      "box": [
+        116,
+        725,
+        619,
+        744
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Forest Hill University, 2009",
+      "score": 0.9638,
+      "box": [
+        114,
+        747,
+        638,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting techniques",
+      "score": 0.9843,
+      "box": [
+        134,
+        774,
+        587,
+        796
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9932,
+      "box": [
+        133,
+        798,
+        649,
+        822
+      ]
+    }
+  ]
+}

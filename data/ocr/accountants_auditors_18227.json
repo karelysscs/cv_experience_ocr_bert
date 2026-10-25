@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_18227",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.801,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "FELISHIA WEAVER",
+      "score": 0.9738,
+      "box": [
+        116,
+        90,
+        426,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-563-372-2617 |felishia.weaver@example.com",
+      "score": 0.9815,
+      "box": [
+        116,
+        152,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2019.05–2021.12",
+      "score": 0.9889,
+      "box": [
+        115,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9756,
+      "box": [
+        125,
+        314,
+        510,
+        337
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9699,
+      "box": [
+        128,
+        341,
+        356,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Ridgeway University, 2015",
+      "score": 0.9949,
+      "box": [
+        115,
+        449,
+        747,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9869,
+      "box": [
+        133,
+        473,
+        567,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9872,
+      "box": [
+        133,
+        498,
+        582,
+        523
+      ]
+    }
+  ]
+}

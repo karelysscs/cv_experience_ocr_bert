@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_14009",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.981,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "LINDSEY CAIN",
+      "score": 0.9767,
+      "box": [
+        116,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-934-994-4610|lindsey.cain@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.982,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2020.01–2023.01",
+      "score": 0.9881,
+      "box": [
+        115,
+        290,
+        735,
+        312
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.986,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.984,
+      "box": [
+        126,
+        338,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2017.01–2020.01",
+      "score": 0.9931,
+      "box": [
+        115,
+        382,
+        691,
+        404
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9638,
+      "box": [
+        126,
+        406,
+        524,
+        431
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9745,
+      "box": [
+        126,
+        431,
+        450,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2013.12–2017.01",
+      "score": 0.9938,
+      "box": [
+        115,
+        472,
+        705,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9799,
+      "box": [
+        124,
+        496,
+        399,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9803,
+      "box": [
+        125,
+        521,
+        371,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2010.11–2013.12",
+      "score": 0.9931,
+      "box": [
+        116,
+        566,
+        707,
+        586
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9865,
+      "box": [
+        124,
+        589,
+        382,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9889,
+      "box": [
+        125,
+        612,
+        432,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Operations Management, Redwood University, 2008",
+      "score": 0.9751,
+      "box": [
+        115,
+        725,
+        692,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Oakview University, 206",
+      "score": 0.9672,
+      "box": [
+        114,
+        747,
+        642,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of audit sampling",
+      "score": 0.9785,
+      "box": [
+        132,
+        772,
+        476,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of taxation",
+      "score": 0.9858,
+      "box": [
+        132,
+        797,
+        416,
+        822
+      ]
+    }
+  ]
+}

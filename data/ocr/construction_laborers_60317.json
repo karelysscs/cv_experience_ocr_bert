@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_60317",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.814,
+  "mean_conf": 0.9858,
+  "lines": [
+    {
+      "text": "FRANCISCO FRANKLIN",
+      "score": 0.9853,
+      "box": [
+        116,
+        90,
+        496,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA|+1-259-202-3396|francisco.franklin@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        150,
+        694,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2020.10–2023.01",
+      "score": 0.9738,
+      "box": [
+        116,
+        291,
+        657,
+        311
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9936,
+      "box": [
+        126,
+        315,
+        583,
+        338
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Structural Technology, Hillside University, 2022",
+      "score": 0.9885,
+      "box": [
+        116,
+        449,
+        742,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.99,
+      "box": [
+        134,
+        475,
+        707,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9743,
+      "box": [
+        132,
+        497,
+        459,
+        523
+      ]
+    }
+  ]
+}

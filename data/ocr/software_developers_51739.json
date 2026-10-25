@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_51739",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.887,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "MINH WILEY",
+      "score": 0.949,
+      "box": [
+        114,
+        86,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-445-592-8988|minh.wiley@example.com",
+      "score": 0.983,
+      "box": [
+        115,
+        150,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2021.05–2023.01",
+      "score": 0.976,
+      "box": [
+        114,
+        289,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9717,
+      "box": [
+        126,
+        314,
+        465,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9722,
+      "box": [
+        127,
+        340,
+        499,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2018.05–2020.01",
+      "score": 0.9927,
+      "box": [
+        116,
+        382,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9774,
+      "box": [
+        126,
+        407,
+        423,
+        429
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9851,
+      "box": [
+        127,
+        432,
+        478,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Stonebrook University, 2013",
+      "score": 0.9838,
+      "box": [
+        116,
+        542,
+        469,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Golden Meadow University, 2011",
+      "score": 0.9677,
+      "box": [
+        115,
+        566,
+        532,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of collaborative development",
+      "score": 0.969,
+      "box": [
+        132,
+        590,
+        622,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of test-driven development",
+      "score": 0.987,
+      "box": [
+        134,
+        616,
+        566,
+        639
+      ]
+    }
+  ]
+}

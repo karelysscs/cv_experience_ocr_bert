@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_26200",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "DANIELYOUNG",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-566-679-7696 |daniel.young@example.com",
+      "score": 0.9765,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2020.09–2023.01",
+      "score": 0.9861,
+      "box": [
+        115,
+        290,
+        663,
+        312
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9782,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9793,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2017.10–2020.02",
+      "score": 0.9764,
+      "box": [
+        114,
+        381,
+        675,
+        405
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9848,
+      "box": [
+        126,
+        407,
+        409,
+        429
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9758,
+      "box": [
+        126,
+        430,
+        400,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2014.04–2016.09",
+      "score": 0.9843,
+      "box": [
+        115,
+        472,
+        677,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9833,
+      "box": [
+        125,
+        496,
+        422,
+        522
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9592,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Risk Management, Brookridge University, 2011",
+      "score": 0.9841,
+      "box": [
+        115,
+        632,
+        660,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial management",
+      "score": 0.991,
+      "box": [
+        132,
+        656,
+        584,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9974,
+      "box": [
+        136,
+        684,
+        599,
+        704
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_00757",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.02,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "NIKIA HANSON",
+      "score": 0.983,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-361-909-5518 |nikia.hanson@example.com",
+      "score": 0.9886,
+      "box": [
+        116,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2018.11–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        289,
+        886,
+        314
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9827,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9938,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2014.09–2018.11",
+      "score": 0.9834,
+      "box": [
+        115,
+        381,
+        837,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9864,
+      "box": [
+        126,
+        406,
+        497,
+        431
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9892,
+      "box": [
+        126,
+        431,
+        511,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2010.07–2014.09",
+      "score": 0.9865,
+      "box": [
+        115,
+        471,
+        843,
+        496
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9936,
+      "box": [
+        126,
+        498,
+        457,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9885,
+      "box": [
+        126,
+        521,
+        586,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2006.04–2010.07",
+      "score": 0.974,
+      "box": [
+        116,
+        565,
+        865,
+        588
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9877,
+      "box": [
+        126,
+        590,
+        530,
+        613
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9906,
+      "box": [
+        128,
+        616,
+        398,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Sunset Ridge University, 2010",
+      "score": 0.9707,
+      "box": [
+        115,
+        725,
+        781,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9918,
+      "box": [
+        133,
+        749,
+        529,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9649,
+      "box": [
+        135,
+        775,
+        538,
+        795
+      ]
+    }
+  ]
+}

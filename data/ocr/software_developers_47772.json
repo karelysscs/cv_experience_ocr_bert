@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_47772",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.926,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "ALEXANDER WATERS",
+      "score": 0.9761,
+      "box": [
+        117,
+        90,
+        479,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-919-390-7156 |alexander.waters@example.com",
+      "score": 0.9866,
+      "box": [
+        116,
+        152,
+        700,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9908,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2020.01–2023.01",
+      "score": 0.9853,
+      "box": [
+        114,
+        288,
+        655,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9865,
+      "box": [
+        126,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2016.12–2020.01",
+      "score": 0.986,
+      "box": [
+        115,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9798,
+      "box": [
+        126,
+        407,
+        373,
+        429
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9882,
+      "box": [
+        126,
+        430,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2012.11–2015.12",
+      "score": 0.9807,
+      "box": [
+        115,
+        471,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9767,
+      "box": [
+        125,
+        496,
+        463,
+        522
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9461,
+      "box": [
+        126,
+        521,
+        389,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2009.03–2012.04",
+      "score": 0.9631,
+      "box": [
+        114,
+        562,
+        659,
+        590
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9761,
+      "box": [
+        127,
+        590,
+        484,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9691,
+      "box": [
+        127,
+        615,
+        423,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Aspen Grove University, 205",
+      "score": 0.9787,
+      "box": [
+        115,
+        723,
+        582,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of modular design",
+      "score": 0.9867,
+      "box": [
+        132,
+        747,
+        484,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9698,
+      "box": [
+        133,
+        772,
+        585,
+        798
+      ]
+    }
+  ]
+}

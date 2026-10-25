@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_18647",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.005,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "MADELINE BELL",
+      "score": 0.9834,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-795-731-2911 |madeline.bell@example.com",
+      "score": 0.9828,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2019.10–2023.01",
+      "score": 0.9828,
+      "box": [
+        116,
+        290,
+        877,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.991,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9815,
+      "box": [
+        126,
+        339,
+        521,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2016.07–2019.10",
+      "score": 0.9884,
+      "box": [
+        116,
+        382,
+        880,
+        406
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9805,
+      "box": [
+        126,
+        406,
+        461,
+        431
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9919,
+      "box": [
+        127,
+        432,
+        502,
+        454
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2013.03–2016.07",
+      "score": 0.9871,
+      "box": [
+        115,
+        472,
+        831,
+        495
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9737,
+      "box": [
+        125,
+        497,
+        400,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.986,
+      "box": [
+        126,
+        521,
+        515,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2009.11–2013.03",
+      "score": 0.9815,
+      "box": [
+        116,
+        565,
+        892,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9749,
+      "box": [
+        125,
+        589,
+        406,
+        614
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9827,
+      "box": [
+        127,
+        615,
+        461,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Learning Studies, Greenridge University, 2010",
+      "score": 0.9879,
+      "box": [
+        115,
+        723,
+        877,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9786,
+      "box": [
+        132,
+        748,
+        540,
+        770
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9878,
+      "box": [
+        133,
+        772,
+        487,
+        798
+      ]
+    }
+  ]
+}

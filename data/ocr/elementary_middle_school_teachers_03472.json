@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_03472",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.885,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "JACOB HAMILTON",
+      "score": 0.9867,
+      "box": [
+        116,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-954-975-5937 |jacob.hamilton@example.com",
+      "score": 0.9798,
+      "box": [
+        117,
+        152,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2020.04–2023.01",
+      "score": 0.9841,
+      "box": [
+        116,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9805,
+      "box": [
+        126,
+        314,
+        496,
+        339
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9877,
+      "box": [
+        126,
+        339,
+        443,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Professional degree, General Education, Granite Hill University, 2023",
+      "score": 0.9706,
+      "box": [
+        114,
+        447,
+        757,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Skycrest University, 2019",
+      "score": 0.9741,
+      "box": [
+        114,
+        472,
+        663,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.9847,
+      "box": [
+        135,
+        500,
+        538,
+        520
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.9822,
+      "box": [
+        133,
+        523,
+        587,
+        548
+      ]
+    }
+  ]
+}

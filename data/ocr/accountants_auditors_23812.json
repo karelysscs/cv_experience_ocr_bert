@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_23812",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.963,
+  "mean_conf": 0.9755,
+  "lines": [
+    {
+      "text": "NICHOLAS MEYER",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "ME, USA|+1-640-223-5478 |nicholas.meyer@example.com",
+      "score": 0.9531,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2018.11–2023.01",
+      "score": 0.9771,
+      "box": [
+        114,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9743,
+      "box": [
+        126,
+        314,
+        449,
+        337
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        516,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2014.08–2018.11",
+      "score": 0.9791,
+      "box": [
+        114,
+        381,
+        744,
+        406
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9764,
+      "box": [
+        127,
+        407,
+        450,
+        430
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9759,
+      "box": [
+        125,
+        430,
+        529,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2010.05–2014.08",
+      "score": 0.9524,
+      "box": [
+        113,
+        470,
+        764,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9724,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9728,
+      "box": [
+        126,
+        521,
+        437,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2006.02–2010.05",
+      "score": 0.9662,
+      "box": [
+        116,
+        565,
+        732,
+        589
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9831,
+      "box": [
+        126,
+        590,
+        511,
+        613
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9856,
+      "box": [
+        127,
+        615,
+        453,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Silverwood University, 2007",
+      "score": 0.9697,
+      "box": [
+        114,
+        723,
+        667,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial forecasting",
+      "score": 0.9764,
+      "box": [
+        133,
+        749,
+        526,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9764,
+      "box": [
+        133,
+        772,
+        558,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_57026",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "SAMANTHA BANKS",
+      "score": 0.9751,
+      "box": [
+        116,
+        90,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-237-927-7680 |samantha.banks@example.com",
+      "score": 0.98,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Financial, 2019.09–2021.11",
+      "score": 0.9764,
+      "box": [
+        114,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9717,
+      "box": [
+        126,
+        315,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9848,
+      "box": [
+        127,
+        340,
+        437,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2016.12–2019.03",
+      "score": 0.9864,
+      "box": [
+        114,
+        381,
+        696,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9855,
+      "box": [
+        125,
+        406,
+        362,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9658,
+      "box": [
+        125,
+        430,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Forest Hill University, 2013",
+      "score": 0.9756,
+      "box": [
+        114,
+        539,
+        647,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.9793,
+      "box": [
+        134,
+        566,
+        558,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of financial management",
+      "score": 0.9914,
+      "box": [
+        132,
+        590,
+        585,
+        615
+      ]
+    }
+  ]
+}

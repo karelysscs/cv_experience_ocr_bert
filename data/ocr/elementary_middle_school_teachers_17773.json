@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_17773",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.819,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "RAE CALDWELL",
+      "score": 0.9657,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-445-918-1068 |rae.caldwell@example.com",
+      "score": 0.983,
+      "box": [
+        116,
+        152,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9826,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2020.05–2023.01",
+      "score": 0.9714,
+      "box": [
+        116,
+        290,
+        850,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9902,
+      "box": [
+        126,
+        315,
+        565,
+        338
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9752,
+      "box": [
+        126,
+        339,
+        399,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Silver Creek University, 2021",
+      "score": 0.9812,
+      "box": [
+        115,
+        449,
+        640,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9786,
+      "box": [
+        132,
+        472,
+        488,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9805,
+      "box": [
+        132,
+        499,
+        545,
+        522
+      ]
+    }
+  ]
+}

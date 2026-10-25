@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_00539",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.839,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "STEVEN DONALDSON",
+      "score": 0.9744,
+      "box": [
+        116,
+        90,
+        475,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA |+1-243-232-8928 | steven.donaldson@example.com",
+      "score": 0.9759,
+      "box": [
+        116,
+        152,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2021.04–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        718,
+        313
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9633,
+      "box": [
+        126,
+        314,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9939,
+      "box": [
+        126,
+        339,
+        405,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Construction, Brookridge University, 2023",
+      "score": 0.9723,
+      "box": [
+        116,
+        449,
+        833,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9683,
+      "box": [
+        132,
+        472,
+        611,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural framing techniques",
+      "score": 0.9772,
+      "box": [
+        133,
+        497,
+        647,
+        523
+      ]
+    }
+  ]
+}

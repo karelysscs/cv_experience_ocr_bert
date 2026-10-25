@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_20896",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.816,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "JOHN MARSH",
+      "score": 0.9668,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-412-892-7991 |john.marsh@example.com",
+      "score": 0.9824,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2021.06–2023.01",
+      "score": 0.9838,
+      "box": [
+        116,
+        290,
+        660,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9813,
+      "box": [
+        127,
+        315,
+        494,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9872,
+      "box": [
+        126,
+        339,
+        487,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Medical Assisting, Valley View University, 2023",
+      "score": 0.9756,
+      "box": [
+        115,
+        447,
+        804,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9868,
+      "box": [
+        132,
+        472,
+        606,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing workflow management",
+      "score": 0.9853,
+      "box": [
+        133,
+        498,
+        673,
+        523
+      ]
+    }
+  ]
+}

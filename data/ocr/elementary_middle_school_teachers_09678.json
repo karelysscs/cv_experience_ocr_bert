@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_09678",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.9775,
+  "lines": [
+    {
+      "text": "RASHID ODOM",
+      "score": 0.966,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-593-426-2715 |rashid.odom@example.com",
+      "score": 0.9636,
+      "box": [
+        117,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2021.07–2023.01",
+      "score": 0.9792,
+      "box": [
+        116,
+        290,
+        810,
+        312
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9879,
+      "box": [
+        126,
+        315,
+        668,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9696,
+      "box": [
+        126,
+        339,
+        645,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Rockland University, 2022",
+      "score": 0.9694,
+      "box": [
+        115,
+        449,
+        713,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concept-based instruction",
+      "score": 0.9761,
+      "box": [
+        132,
+        472,
+        618,
+        496
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9867,
+      "box": [
+        134,
+        499,
+        689,
+        522
+      ]
+    }
+  ]
+}

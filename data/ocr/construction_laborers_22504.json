@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_22504",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.888,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "TORI SCHMIDT",
+      "score": 0.9699,
+      "box": [
+        113,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA|+1-941-256-5084 |tori.schmidt@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2018.06–2021.05",
+      "score": 0.9801,
+      "box": [
+        114,
+        288,
+        735,
+        313
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9749,
+      "box": [
+        126,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9624,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2015.01–2017.12",
+      "score": 0.9888,
+      "box": [
+        115,
+        382,
+        675,
+        405
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9865,
+      "box": [
+        126,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9882,
+      "box": [
+        126,
+        432,
+        425,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Highpoint High School, 2008",
+      "score": 0.9814,
+      "box": [
+        116,
+        540,
+        914,
+        563
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.984,
+      "box": [
+        132,
+        564,
+        559,
+        589
+      ]
+    }
+  ]
+}

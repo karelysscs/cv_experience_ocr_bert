@@ -1,0 +1,223 @@
+{
+  "id": "software_developers_04203",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9781,
+  "lines": [
+    {
+      "text": "ERIC WU",
+      "score": 0.9244,
+      "box": [
+        115,
+        88,
+        266,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-567-200-4633 |eric.wu@example.com",
+      "score": 0.9811,
+      "box": [
+        116,
+        150,
+        607,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2020.02–2023.01",
+      "score": 0.9795,
+      "box": [
+        115,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9746,
+      "box": [
+        126,
+        315,
+        416,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9924,
+      "box": [
+        126,
+        338,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2017.03–2020.02",
+      "score": 0.9892,
+      "box": [
+        116,
+        382,
+        620,
+        406
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9865,
+      "box": [
+        126,
+        406,
+        428,
+        431
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9786,
+      "box": [
+        127,
+        432,
+        407,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Dataforge Systems, 2014.04–2017.03",
+      "score": 0.9753,
+      "box": [
+        114,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9654,
+      "box": [
+        125,
+        496,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented caching srategies",
+      "score": 0.9567,
+      "box": [
+        126,
+        521,
+        437,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2011.04–2014.04",
+      "score": 0.9895,
+      "box": [
+        115,
+        563,
+        671,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9774,
+      "box": [
+        125,
+        588,
+        507,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9916,
+      "box": [
+        125,
+        613,
+        413,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Doctorate, Clearway University, 2012",
+      "score": 0.9807,
+      "box": [
+        114,
+        723,
+        463,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Wildflower University, 207",
+      "score": 0.9806,
+      "box": [
+        115,
+        748,
+        478,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9964,
+      "box": [
+        132,
+        772,
+        631,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9539,
+      "box": [
+        132,
+        798,
+        539,
+        823
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming paradigms",
+      "score": 0.9821,
+      "box": [
+        132,
+        822,
+        605,
+        848
+      ]
+    }
+  ]
+}

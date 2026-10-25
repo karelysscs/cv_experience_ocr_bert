@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_02021",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9855,
+  "lines": [
+    {
+      "text": "JAYNIE PIERCE",
+      "score": 0.9773,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-771-814-4378|jaynie.pierce@example.com",
+      "score": 0.9958,
+      "box": [
+        116,
+        151,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9773,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.12–2023.01",
+      "score": 0.9842,
+      "box": [
+        114,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9818,
+      "box": [
+        125,
+        314,
+        508,
+        338
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        521,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2016.05–2018.07",
+      "score": 0.9911,
+      "box": [
+        115,
+        381,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9819,
+      "box": [
+        126,
+        407,
+        398,
+        429
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9797,
+      "box": [
+        125,
+        431,
+        561,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Springfield University, 2012",
+      "score": 0.992,
+      "box": [
+        115,
+        541,
+        661,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Pinehaven University, 2010",
+      "score": 0.9813,
+      "box": [
+        114,
+        564,
+        715,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9778,
+      "box": [
+        135,
+        592,
+        629,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9861,
+      "box": [
+        134,
+        616,
+        602,
+        639
+      ]
+    }
+  ]
+}

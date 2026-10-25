@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_05586",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.809,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "ADAMLU",
+      "score": 0.9978,
+      "box": [
+        115,
+        88,
+        274,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-962-385-4292 |adam.lu@example.com",
+      "score": 0.9842,
+      "box": [
+        117,
+        150,
+        615,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9876,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2021.05–2023.01",
+      "score": 0.9908,
+      "box": [
+        114,
+        288,
+        647,
+        314
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9777,
+      "box": [
+        125,
+        314,
+        395,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9927,
+      "box": [
+        126,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2019.09–2021.05",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9866,
+      "box": [
+        125,
+        406,
+        364,
+        431
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.975,
+      "box": [
+        125,
+        429,
+        385,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Forestfield University, 2023",
+      "score": 0.9704,
+      "box": [
+        115,
+        541,
+        460,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillview University, 2021",
+      "score": 0.9653,
+      "box": [
+        115,
+        566,
+        451,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.9903,
+      "box": [
+        131,
+        590,
+        501,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9818,
+      "box": [
+        132,
+        614,
+        574,
+        640
+      ]
+    }
+  ]
+}

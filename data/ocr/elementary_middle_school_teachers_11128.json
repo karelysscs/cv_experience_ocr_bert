@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_11128",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.004,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "SHAIWEBER",
+      "score": 0.9976,
+      "box": [
+        115,
+        90,
+        332,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-854-290-9401 | shai.weber@example.com",
+      "score": 0.9692,
+      "box": [
+        116,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2020.04–2023.01",
+      "score": 0.9815,
+      "box": [
+        116,
+        290,
+        876,
+        313
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9918,
+      "box": [
+        126,
+        314,
+        539,
+        339
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9798,
+      "box": [
+        126,
+        339,
+        505,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures School, 2017.07–2020.04",
+      "score": 0.9877,
+      "box": [
+        116,
+        382,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9648,
+      "box": [
+        127,
+        407,
+        400,
+        430
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9827,
+      "box": [
+        127,
+        432,
+        479,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2014.09–2017.07",
+      "score": 0.9737,
+      "box": [
+        116,
+        472,
+        812,
+        495
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9874,
+      "box": [
+        125,
+        496,
+        667,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9779,
+      "box": [
+        127,
+        522,
+        655,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Fairway University, 2022",
+      "score": 0.9776,
+      "box": [
+        114,
+        631,
+        736,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Clearview University, 2020",
+      "score": 0.9836,
+      "box": [
+        114,
+        656,
+        676,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.968,
+      "box": [
+        132,
+        681,
+        488,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9851,
+      "box": [
+        133,
+        706,
+        670,
+        730
+      ]
+    }
+  ]
+}

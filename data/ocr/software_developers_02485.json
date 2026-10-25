@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_02485",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.841,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "SHAWN HEBERT",
+      "score": 0.977,
+      "box": [
+        116,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA|+1-698-358-1942|shawn.hebert@example.com",
+      "score": 0.9921,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2020.03–2023.01",
+      "score": 0.971,
+      "box": [
+        114,
+        288,
+        631,
+        314
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.978,
+      "box": [
+        125,
+        313,
+        400,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2015.06–2018.04",
+      "score": 0.995,
+      "box": [
+        116,
+        382,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9862,
+      "box": [
+        126,
+        407,
+        347,
+        429
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.977,
+      "box": [
+        126,
+        430,
+        562,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Oakridge University, 2014",
+      "score": 0.9854,
+      "box": [
+        116,
+        541,
+        610,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in full-stack development",
+      "score": 0.9527,
+      "box": [
+        132,
+        565,
+        597,
+        588
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9884,
+      "box": [
+        134,
+        592,
+        502,
+        612
+      ]
+    }
+  ]
+}

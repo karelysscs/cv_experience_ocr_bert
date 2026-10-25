@@ -1,0 +1,193 @@
+{
+  "id": "accountants_auditors_12612",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.989,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "WENDELL FLETCHER",
+      "score": 0.9715,
+      "box": [
+        116,
+        90,
+        470,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-984-671-9907 |wendell.fletcher@example.com",
+      "score": 0.9872,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9899,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2019.11–2023.01",
+      "score": 0.9829,
+      "box": [
+        115,
+        290,
+        685,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9868,
+      "box": [
+        126,
+        313,
+        515,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9785,
+      "box": [
+        127,
+        340,
+        485,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2016.09–2019.11",
+      "score": 0.9767,
+      "box": [
+        116,
+        381,
+        709,
+        405
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9937,
+      "box": [
+        126,
+        407,
+        509,
+        430
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9874,
+      "box": [
+        127,
+        432,
+        512,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2013.07–2016.09",
+      "score": 0.9743,
+      "box": [
+        114,
+        471,
+        693,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.975,
+      "box": [
+        125,
+        496,
+        433,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9805,
+      "box": [
+        127,
+        522,
+        378,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2008.12–2012.03",
+      "score": 0.9665,
+      "box": [
+        115,
+        565,
+        792,
+        588
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9954,
+      "box": [
+        126,
+        590,
+        453,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9766,
+      "box": [
+        127,
+        615,
+        507,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Administrative Studies, Ridgeway High School, 2000",
+      "score": 0.9914,
+      "box": [
+        116,
+        725,
+        863,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9912,
+      "box": [
+        133,
+        749,
+        526,
+        772
+      ]
+    }
+  ]
+}

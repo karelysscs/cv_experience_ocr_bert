@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_18018",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.849,
+  "mean_conf": 0.9801,
+  "lines": [
+    {
+      "text": "DANA ZHANG",
+      "score": 0.9514,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-719-917-6796|dana.zhang@example.com",
+      "score": 0.9921,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2019.07–2022.03",
+      "score": 0.9887,
+      "box": [
+        115,
+        290,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "-Directed accounting leadership initiatives",
+      "score": 0.9724,
+      "box": [
+        125,
+        313,
+        520,
+        338
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9706,
+      "box": [
+        127,
+        339,
+        392,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2015.12–2018.08",
+      "score": 0.9849,
+      "box": [
+        114,
+        381,
+        693,
+        405
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9691,
+      "box": [
+        125,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.996,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Pebble Creek University, 2012",
+      "score": 0.9728,
+      "box": [
+        114,
+        539,
+        712,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9933,
+      "box": [
+        134,
+        566,
+        541,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in budgeting and forecasting",
+      "score": 0.9668,
+      "box": [
+        135,
+        591,
+        628,
+        615
+      ]
+    }
+  ]
+}

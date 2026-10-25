@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_57265",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.755,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "JESSICA CASE",
+      "score": 0.9651,
+      "box": [
+        116,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-539-732-6538 |jessica.case@example.com",
+      "score": 0.9746,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2020.04–2022.01",
+      "score": 0.9919,
+      "box": [
+        116,
+        290,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9853,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9598,
+      "box": [
+        127,
+        340,
+        382,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Goldenwood University, 2012",
+      "score": 0.9633,
+      "box": [
+        116,
+        449,
+        642,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9928,
+      "box": [
+        131,
+        472,
+        547,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9951,
+      "box": [
+        133,
+        498,
+        583,
+        521
+      ]
+    }
+  ]
+}

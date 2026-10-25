@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_23144",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.83,
+  "mean_conf": 0.9756,
+  "lines": [
+    {
+      "text": "KENLI MARSHALL",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        415,
+        120
+      ]
+    },
+    {
+      "text": "LA, USA|+1-528-745-3025 |kenli.marshall@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2022.10–2023.01",
+      "score": 0.9855,
+      "box": [
+        115,
+        289,
+        798,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9553,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.953,
+      "box": [
+        126,
+        338,
+        411,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Forest Hill University, 2021",
+      "score": 0.9812,
+      "box": [
+        114,
+        447,
+        672,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.946,
+      "box": [
+        132,
+        472,
+        660,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9885,
+      "box": [
+        133,
+        498,
+        581,
+        520
+      ]
+    }
+  ]
+}

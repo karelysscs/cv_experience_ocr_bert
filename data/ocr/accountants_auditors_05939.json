@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_05939",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.88,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "ERIN KAUR",
+      "score": 0.9736,
+      "box": [
+        115,
+        88,
+        305,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-703-647-4183|erin.kaur@example.com",
+      "score": 0.9675,
+      "box": [
+        117,
+        150,
+        621,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2021.01–2023.01",
+      "score": 0.9922,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.97,
+      "box": [
+        126,
+        315,
+        503,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9868,
+      "box": [
+        126,
+        339,
+        486,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2016.02–2018.02",
+      "score": 0.982,
+      "box": [
+        114,
+        381,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9915,
+      "box": [
+        125,
+        406,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9682,
+      "box": [
+        125,
+        431,
+        440,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Rockland University, 2009",
+      "score": 0.9666,
+      "box": [
+        114,
+        539,
+        686,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9917,
+      "box": [
+        133,
+        565,
+        555,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of forensic accounting",
+      "score": 0.9932,
+      "box": [
+        132,
+        590,
+        558,
+        615
+      ]
+    }
+  ]
+}

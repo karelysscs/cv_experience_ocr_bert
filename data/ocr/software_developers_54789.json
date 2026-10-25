@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_54789",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.814,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "SCOTTLE",
+      "score": 0.9961,
+      "box": [
+        114,
+        88,
+        286,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-334-639-8184 | scott.le@example.com",
+      "score": 0.9675,
+      "box": [
+        115,
+        151,
+        606,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2019.06–2021.07",
+      "score": 0.9918,
+      "box": [
+        115,
+        290,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9849,
+      "box": [
+        125,
+        313,
+        433,
+        339
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9619,
+      "box": [
+        125,
+        338,
+        368,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2016.02–2018.04",
+      "score": 0.9922,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9844,
+      "box": [
+        126,
+        407,
+        479,
+        430
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9603,
+      "box": [
+        125,
+        430,
+        375,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Skycrest University, 2010",
+      "score": 0.9711,
+      "box": [
+        115,
+        541,
+        443,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinecrest University, 2008",
+      "score": 0.9617,
+      "box": [
+        115,
+        566,
+        469,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9827,
+      "box": [
+        134,
+        591,
+        538,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9784,
+      "box": [
+        133,
+        616,
+        504,
+        639
+      ]
+    }
+  ]
+}

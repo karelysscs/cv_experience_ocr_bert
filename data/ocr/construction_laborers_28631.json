@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_28631",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "LEVI DENNIS",
+      "score": 0.9536,
+      "box": [
+        115,
+        90,
+        328,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-983-249-8473 |levi.dennis@example.com",
+      "score": 0.9798,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2020.03–2023.01",
+      "score": 0.9755,
+      "box": [
+        115,
+        289,
+        668,
+        312
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9838,
+      "box": [
+        127,
+        316,
+        459,
+        336
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        488,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2016.07–2019.06",
+      "score": 0.9774,
+      "box": [
+        115,
+        381,
+        698,
+        406
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9746,
+      "box": [
+        126,
+        407,
+        521,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9702,
+      "box": [
+        127,
+        432,
+        483,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2013.02–2016.01",
+      "score": 0.9875,
+      "box": [
+        115,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9682,
+      "box": [
+        125,
+        496,
+        416,
+        521
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9894,
+      "box": [
+        126,
+        521,
+        406,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Golden Hills University, 206",
+      "score": 0.9622,
+      "box": [
+        115,
+        631,
+        808,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.9787,
+      "box": [
+        132,
+        656,
+        501,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.9811,
+      "box": [
+        134,
+        681,
+        497,
+        706
+      ]
+    }
+  ]
+}

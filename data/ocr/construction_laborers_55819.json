@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_55819",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.785,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "VICTOR SCHWARTZ",
+      "score": 0.9736,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "VT, USA|+1-571-527-8503|victor.schwartz@example.com",
+      "score": 0.9806,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2017.05–2020.01",
+      "score": 0.9845,
+      "box": [
+        115,
+        290,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9803,
+      "box": [
+        126,
+        314,
+        540,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9667,
+      "box": [
+        126,
+        339,
+        583,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        116,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Lakewood High School, 2015",
+      "score": 0.9834,
+      "box": [
+        116,
+        449,
+        813,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic waterproofing",
+      "score": 0.9846,
+      "box": [
+        133,
+        473,
+        570,
+        498
+      ]
+    }
+  ]
+}

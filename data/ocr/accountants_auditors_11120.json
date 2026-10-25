@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_11120",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.777,
+  "mean_conf": 0.9853,
+  "lines": [
+    {
+      "text": "SARAH BERNARD",
+      "score": 0.9661,
+      "box": [
+        115,
+        90,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA|+1-285-911-1141 |sarah.bernard@example.com",
+      "score": 0.9875,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2019.07–2020.10",
+      "score": 0.9965,
+      "box": [
+        115,
+        290,
+        680,
+        313
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9891,
+      "box": [
+        126,
+        313,
+        411,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9866,
+      "box": [
+        126,
+        339,
+        402,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Silverlake University, 2008",
+      "score": 0.9842,
+      "box": [
+        114,
+        447,
+        696,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9904,
+      "box": [
+        133,
+        474,
+        545,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9694,
+      "box": [
+        134,
+        499,
+        524,
+        523
+      ]
+    }
+  ]
+}

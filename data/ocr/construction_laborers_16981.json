@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_16981",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.829,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "QUADARIUS BOWERS",
+      "score": 0.9746,
+      "box": [
+        117,
+        90,
+        479,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-260-958-2134|quadarius.bowers@example.com",
+      "score": 0.9767,
+      "box": [
+        117,
+        152,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2021.10–2023.01",
+      "score": 0.993,
+      "box": [
+        116,
+        291,
+        745,
+        311
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9743,
+      "box": [
+        127,
+        315,
+        426,
+        339
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9746,
+      "box": [
+        126,
+        339,
+        416,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Pineview High School, 2021",
+      "score": 0.9903,
+      "box": [
+        116,
+        449,
+        835,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building maintenance basics",
+      "score": 0.9769,
+      "box": [
+        133,
+        474,
+        652,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_25946",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.97,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "JESSIE HUDSON",
+      "score": 0.9927,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-207-687-6719 |jessie.hudson@example.com",
+      "score": 0.9907,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Financial, 2019.11–2023.01",
+      "score": 0.9783,
+      "box": [
+        114,
+        289,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9812,
+      "box": [
+        126,
+        314,
+        484,
+        337
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9892,
+      "box": [
+        127,
+        340,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2016.09–2019.11",
+      "score": 0.9953,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9851,
+      "box": [
+        126,
+        407,
+        392,
+        429
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9751,
+      "box": [
+        126,
+        431,
+        456,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2013.07–2016.09",
+      "score": 0.9692,
+      "box": [
+        114,
+        471,
+        698,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9853,
+      "box": [
+        125,
+        496,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "– Managed accounting system updates",
+      "score": 0.9755,
+      "box": [
+        127,
+        523,
+        487,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2009.03–2012.05",
+      "score": 0.9891,
+      "box": [
+        115,
+        565,
+        753,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9721,
+      "box": [
+        126,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9794,
+      "box": [
+        126,
+        614,
+        422,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Financial Services, Windfield University, 205",
+      "score": 0.9885,
+      "box": [
+        115,
+        725,
+        629,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Pinecrest University, 2003",
+      "score": 0.9683,
+      "box": [
+        114,
+        747,
+        742,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.9792,
+      "box": [
+        132,
+        772,
+        646,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9899,
+      "box": [
+        134,
+        799,
+        540,
+        822
+      ]
+    }
+  ]
+}

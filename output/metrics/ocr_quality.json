@@ -1,0 +1,22 @@
+{
+  "n": 4000,
+  "cer_mean": 0.004,
+  "cer_median": 0.0037,
+  "wer_mean": 0.0273,
+  "wer_median": 0.025,
+  "share_years_correct": 0.9796,
+  "share_date_ranges_correct": 0.9681,
+  "share_cvs_all_years_correct": 0.8835,
+  "worst_10_ids_by_cer": [
+    "construction_laborers_49761",
+    "software_developers_44571",
+    "elementary_middle_school_teachers_15270",
+    "software_developers_04381",
+    "software_developers_58477",
+    "software_developers_57236",
+    "elementary_middle_school_teachers_21954",
+    "accountants_auditors_25396",
+    "software_developers_05350",
+    "software_developers_58773"
+  ]
+}

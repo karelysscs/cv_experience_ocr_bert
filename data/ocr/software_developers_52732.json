@@ -1,0 +1,103 @@
+{
+  "id": "software_developers_52732",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.797,
+  "mean_conf": 0.9769,
+  "lines": [
+    {
+      "text": "WARRENVILLANUEVA",
+      "score": 0.9994,
+      "box": [
+        116,
+        90,
+        489,
+        120
+      ]
+    },
+    {
+      "text": "TX, USA|+1-304-451-3827|warren.villanueva@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9727,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2022.08–2023.01",
+      "score": 0.9928,
+      "box": [
+        115,
+        290,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9518,
+      "box": [
+        127,
+        315,
+        374,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.963,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Lakeview High School, 2021",
+      "score": 0.9679,
+      "box": [
+        116,
+        449,
+        638,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.9621,
+      "box": [
+        132,
+        473,
+        626,
+        498
+      ]
+    }
+  ]
+}

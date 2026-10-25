@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_21680",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.935,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "STEFANBECK",
+      "score": 0.9988,
+      "box": [
+        115,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-272-390-7591 | stefan.beck@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Builders, 2020.09–2023.01",
+      "score": 0.9797,
+      "box": [
+        114,
+        288,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "-Directed site safety audits",
+      "score": 0.9864,
+      "box": [
+        125,
+        313,
+        382,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9691,
+      "box": [
+        126,
+        339,
+        532,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2018.05–2020.09",
+      "score": 0.9851,
+      "box": [
+        115,
+        381,
+        734,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9668,
+      "box": [
+        125,
+        406,
+        508,
+        430
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9834,
+      "box": [
+        125,
+        430,
+        447,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2016.01–2018.05",
+      "score": 0.9791,
+      "box": [
+        115,
+        471,
+        700,
+        496
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9831,
+      "box": [
+        125,
+        496,
+        406,
+        521
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9938,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Trades, Meadowfield University, 2015",
+      "score": 0.9655,
+      "box": [
+        115,
+        631,
+        841,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic carpentry",
+      "score": 0.946,
+      "box": [
+        132,
+        656,
+        531,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.9847,
+      "box": [
+        134,
+        681,
+        666,
+        707
+      ]
+    }
+  ]
+}

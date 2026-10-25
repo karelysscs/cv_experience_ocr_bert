@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_27593",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.9861,
+  "lines": [
+    {
+      "text": "JASON RODGERS",
+      "score": 0.9879,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-749-388-6130 |jason.rodgers@example.com",
+      "score": 0.9855,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftStone Builders, 2021.01–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9888,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9658,
+      "box": [
+        127,
+        340,
+        462,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2017.09–2019.10",
+      "score": 0.9875,
+      "box": [
+        116,
+        382,
+        664,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9899,
+      "box": [
+        125,
+        405,
+        431,
+        430
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9858,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2015.01–2017.02",
+      "score": 0.9918,
+      "box": [
+        115,
+        471,
+        735,
+        496
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9854,
+      "box": [
+        125,
+        496,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.982,
+      "box": [
+        127,
+        523,
+        415,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Stonebridge High School, 2002",
+      "score": 0.9818,
+      "box": [
+        116,
+        633,
+        769,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9908,
+      "box": [
+        133,
+        658,
+        675,
+        681
+      ]
+    }
+  ]
+}

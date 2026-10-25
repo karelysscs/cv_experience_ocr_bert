@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_56877",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.821,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "JOEL CASE",
+      "score": 0.9833,
+      "box": [
+        116,
+        90,
+        308,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-883-790-9640 |joel.case@example.com",
+      "score": 0.9844,
+      "box": [
+        115,
+        150,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9868,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybyte Solutions, 2020.09–2023.01",
+      "score": 0.9779,
+      "box": [
+        114,
+        289,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9582,
+      "box": [
+        125,
+        313,
+        374,
+        339
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9685,
+      "box": [
+        126,
+        339,
+        407,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2018.05–2020.09",
+      "score": 0.9929,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9835,
+      "box": [
+        125,
+        406,
+        621,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9749,
+      "box": [
+        126,
+        430,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairfield University, 2023",
+      "score": 0.9726,
+      "box": [
+        115,
+        541,
+        455,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9881,
+      "box": [
+        132,
+        565,
+        511,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9934,
+      "box": [
+        133,
+        591,
+        571,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_13642",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "PATRICKGRAY",
+      "score": 0.9985,
+      "box": [
+        114,
+        88,
+        375,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-555-967-8073 |patrick.gray@example.com",
+      "score": 0.9848,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2019.10–2023.01",
+      "score": 0.9766,
+      "box": [
+        115,
+        290,
+        717,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9773,
+      "box": [
+        127,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9757,
+      "box": [
+        126,
+        338,
+        446,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2016.07–2019.10",
+      "score": 0.9826,
+      "box": [
+        116,
+        382,
+        686,
+        405
+      ]
+    },
+    {
+      "text": "- Measured and cut advanced materials",
+      "score": 0.975,
+      "box": [
+        126,
+        407,
+        495,
+        429
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9823,
+      "box": [
+        127,
+        432,
+        392,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2011.11–2015.03",
+      "score": 0.9869,
+      "box": [
+        115,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9807,
+      "box": [
+        127,
+        499,
+        511,
+        519
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9782,
+      "box": [
+        126,
+        521,
+        435,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Maplewood High School, 2006",
+      "score": 0.9909,
+      "box": [
+        115,
+        631,
+        889,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9725,
+      "box": [
+        132,
+        656,
+        592,
+        681
+      ]
+    }
+  ]
+}

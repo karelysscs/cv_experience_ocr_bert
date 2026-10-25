@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_11918",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.885,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "JUSTIN REED",
+      "score": 0.9662,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-869-307-1587 |justin.reed@example.com",
+      "score": 0.9755,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmCraft Construction, 2019.10–2023.01",
+      "score": 0.9816,
+      "box": [
+        114,
+        289,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9805,
+      "box": [
+        126,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.972,
+      "box": [
+        126,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Group, 2015.12–2019.03",
+      "score": 0.981,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9815,
+      "box": [
+        125,
+        406,
+        447,
+        432
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9704,
+      "box": [
+        126,
+        430,
+        391,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Works, 2012.01–2015.05",
+      "score": 0.9955,
+      "box": [
+        115,
+        472,
+        659,
+        495
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9751,
+      "box": [
+        125,
+        495,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9854,
+      "box": [
+        126,
+        521,
+        440,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Cedarfield High School, 2009",
+      "score": 0.9932,
+      "box": [
+        115,
+        631,
+        915,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic paving techniques",
+      "score": 0.9669,
+      "box": [
+        132,
+        656,
+        613,
+        681
+      ]
+    }
+  ]
+}

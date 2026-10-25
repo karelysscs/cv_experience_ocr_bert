@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_06006",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.932,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "LESLIE YU",
+      "score": 0.9747,
+      "box": [
+        114,
+        88,
+        292,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-416-891-3245 |leslie.yu@example.com",
+      "score": 0.9709,
+      "box": [
+        116,
+        150,
+        616,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, WonderWorks Academy, 2020.04–2023.01",
+      "score": 0.9825,
+      "box": [
+        116,
+        290,
+        861,
+        313
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9905,
+      "box": [
+        126,
+        315,
+        476,
+        338
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9694,
+      "box": [
+        126,
+        339,
+        533,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2017.07–2020.04",
+      "score": 0.9717,
+      "box": [
+        116,
+        382,
+        862,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9848,
+      "box": [
+        126,
+        406,
+        516,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9794,
+      "box": [
+        127,
+        433,
+        568,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures School, 2012.07–2015.04",
+      "score": 0.9858,
+      "box": [
+        116,
+        472,
+        838,
+        496
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.987,
+      "box": [
+        126,
+        497,
+        409,
+        519
+      ]
+    },
+    {
+      "text": "-Managed classroom supplies",
+      "score": 0.9755,
+      "box": [
+        126,
+        522,
+        411,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Driftwood University, 2003",
+      "score": 0.9882,
+      "box": [
+        115,
+        632,
+        653,
+        655
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.985,
+      "box": [
+        132,
+        656,
+        693,
+        682
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9938,
+      "box": [
+        135,
+        683,
+        533,
+        706
+      ]
+    }
+  ]
+}

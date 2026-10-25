@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_25639",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.765,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "JOVANNY WATTS",
+      "score": 0.9885,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA|+1-891-396-1568 |jovanny.watts@example.com",
+      "score": 0.9807,
+      "box": [
+        116,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2020.11–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "– Maintained supporting documentation",
+      "score": 0.9651,
+      "box": [
+        127,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9782,
+      "box": [
+        128,
+        341,
+        368,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Pineview University, 222",
+      "score": 0.9743,
+      "box": [
+        114,
+        447,
+        650,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9699,
+      "box": [
+        132,
+        473,
+        534,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9908,
+      "box": [
+        133,
+        498,
+        566,
+        522
+      ]
+    }
+  ]
+}

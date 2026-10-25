@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_49447",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.805,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "WILLIAMSHEPPARD",
+      "score": 0.9985,
+      "box": [
+        116,
+        90,
+        453,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-557-962-4056 |william.sheppard@example.com",
+      "score": 0.9681,
+      "box": [
+        115,
+        150,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9823,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardStone Builders, 2021.09–2023.01",
+      "score": 0.9796,
+      "box": [
+        116,
+        291,
+        687,
+        311
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9847,
+      "box": [
+        126,
+        314,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.968,
+      "box": [
+        126,
+        339,
+        555,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Greenfield Ridge High School, 2021",
+      "score": 0.9795,
+      "box": [
+        116,
+        449,
+        980,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of framing methods",
+      "score": 0.9884,
+      "box": [
+        133,
+        474,
+        497,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_32496",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.978,
+  "mean_conf": 0.9818,
+  "lines": [
+    {
+      "text": "LAUREL NORMAN",
+      "score": 0.9917,
+      "box": [
+        116,
+        90,
+        413,
+        120
+      ]
+    },
+    {
+      "text": "NH, USA|+1-796-283-4329|laurel.norman@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2017.12–2023.01",
+      "score": 0.9731,
+      "box": [
+        114,
+        289,
+        764,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        527,
+        339
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9808,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Services, 2012.11–2017.12",
+      "score": 0.9903,
+      "box": [
+        116,
+        381,
+        688,
+        405
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9871,
+      "box": [
+        127,
+        407,
+        518,
+        430
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.981,
+      "box": [
+        126,
+        430,
+        515,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2007.10–2012.11",
+      "score": 0.9786,
+      "box": [
+        115,
+        472,
+        737,
+        495
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.978,
+      "box": [
+        125,
+        496,
+        442,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9645,
+      "box": [
+        126,
+        522,
+        387,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2002.08–2007.10",
+      "score": 0.9855,
+      "box": [
+        115,
+        565,
+        680,
+        588
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9774,
+      "box": [
+        125,
+        589,
+        414,
+        614
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9765,
+      "box": [
+        127,
+        615,
+        418,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Crestview University, 2004",
+      "score": 0.9827,
+      "box": [
+        115,
+        723,
+        613,
+        745
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9804,
+      "box": [
+        133,
+        749,
+        641,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.983,
+      "box": [
+        136,
+        775,
+        562,
+        795
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_54504",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.827,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "MICHAEL HODGE",
+      "score": 0.9923,
+      "box": [
+        116,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-428-886-7840|michael.hodge@example.com",
+      "score": 0.9737,
+      "box": [
+        115,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2020.06–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        289,
+        672,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.966,
+      "box": [
+        125,
+        338,
+        368,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2017.10–2020.06",
+      "score": 0.9878,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9904,
+      "box": [
+        125,
+        406,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9926,
+      "box": [
+        126,
+        430,
+        407,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Highpoint University, 2019",
+      "score": 0.9883,
+      "box": [
+        115,
+        541,
+        469,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.959,
+      "box": [
+        132,
+        565,
+        587,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in SQL and data querying",
+      "score": 0.9862,
+      "box": [
+        133,
+        590,
+        604,
+        616
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_25992",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.951,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "ERIC HULL",
+      "score": 0.9728,
+      "box": [
+        115,
+        88,
+        298,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA|+1-209-713-9012 |eric.hull@example.com",
+      "score": 0.9826,
+      "box": [
+        115,
+        151,
+        616,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9833,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2020.07–2023.01",
+      "score": 0.9928,
+      "box": [
+        115,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "-Led financial data standardization",
+      "score": 0.9627,
+      "box": [
+        126,
+        314,
+        452,
+        336
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9896,
+      "box": [
+        126,
+        338,
+        508,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2018.01–2020.07",
+      "score": 0.9861,
+      "box": [
+        114,
+        381,
+        793,
+        406
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9888,
+      "box": [
+        126,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9646,
+      "box": [
+        127,
+        433,
+        379,
+        452
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Trusted Ledger Group, 2013.10–2016.04",
+      "score": 0.9709,
+      "box": [
+        115,
+        472,
+        706,
+        496
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9886,
+      "box": [
+        126,
+        497,
+        450,
+        519
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.994,
+      "box": [
+        126,
+        521,
+        453,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Cloverfield University, 2002",
+      "score": 0.974,
+      "box": [
+        114,
+        631,
+        684,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9902,
+      "box": [
+        133,
+        657,
+        557,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9834,
+      "box": [
+        135,
+        681,
+        646,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_35484",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "MAXWELL ENGLISH",
+      "score": 0.9911,
+      "box": [
+        116,
+        90,
+        444,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-248-284-8389|maxwell.english@example.com",
+      "score": 0.9639,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.973,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2020.01–2023.01",
+      "score": 0.9797,
+      "box": [
+        116,
+        291,
+        668,
+        311
+      ]
+    },
+    {
+      "text": "-Maintained tool storage areas",
+      "score": 0.9731,
+      "box": [
+        125,
+        314,
+        419,
+        339
+      ]
+    },
+    {
+      "text": "-Performed basic sanding and painting",
+      "score": 0.9804,
+      "box": [
+        126,
+        338,
+        491,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Forest Ridge High School, 2020",
+      "score": 0.9892,
+      "box": [
+        116,
+        449,
+        1031,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.9763,
+      "box": [
+        134,
+        474,
+        629,
+        497
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_14369",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.807,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "SHAYLA BUCHANAN",
+      "score": 0.9765,
+      "box": [
+        116,
+        90,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-306-961-6193|shayla.buchanan@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        151,
+        693,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2020.06–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        289,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9841,
+      "box": [
+        126,
+        314,
+        574,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9722,
+      "box": [
+        127,
+        339,
+        572,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2017.10–2020.06",
+      "score": 0.9783,
+      "box": [
+        115,
+        381,
+        630,
+        406
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.988,
+      "box": [
+        126,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9501,
+      "box": [
+        127,
+        432,
+        476,
+        453
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2013.05–2016.01",
+      "score": 0.9918,
+      "box": [
+        116,
+        472,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9915,
+      "box": [
+        126,
+        498,
+        453,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9581,
+      "box": [
+        126,
+        522,
+        398,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Human Biology, Brookhaven University, 2012",
+      "score": 0.9905,
+      "box": [
+        114,
+        631,
+        725,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of safety protocols",
+      "score": 0.9822,
+      "box": [
+        133,
+        656,
+        488,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9812,
+      "box": [
+        134,
+        682,
+        601,
+        705
+      ]
+    }
+  ]
+}

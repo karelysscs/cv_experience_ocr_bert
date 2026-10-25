@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_14349",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.799,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "VIOLET MCLEAN",
+      "score": 0.9861,
+      "box": [
+        116,
+        90,
+        392,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-850-795-9170 |violet.mclean@example.com",
+      "score": 0.9785,
+      "box": [
+        115,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing, 2020.10–2023.01",
+      "score": 0.9901,
+      "box": [
+        116,
+        290,
+        635,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.987,
+      "box": [
+        127,
+        315,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9651,
+      "box": [
+        127,
+        340,
+        531,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Northview University, 2021",
+      "score": 0.9837,
+      "box": [
+        115,
+        449,
+        625,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.982,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of community health nursing",
+      "score": 0.9896,
+      "box": [
+        133,
+        497,
+        617,
+        523
+      ]
+    }
+  ]
+}

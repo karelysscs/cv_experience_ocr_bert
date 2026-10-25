@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_60238",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.784,
+  "mean_conf": 0.9763,
+  "lines": [
+    {
+      "text": "SERGIO BUCKLEY",
+      "score": 0.9693,
+      "box": [
+        116,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-568-490-2967|sergio.buckley@example.com",
+      "score": 0.9914,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9758,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2021.01–2023.01",
+      "score": 0.9867,
+      "box": [
+        115,
+        290,
+        653,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9684,
+      "box": [
+        126,
+        314,
+        555,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9654,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Masonry, Riverstone University, 2023",
+      "score": 0.971,
+      "box": [
+        116,
+        449,
+        715,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic rigging techniques",
+      "score": 0.9543,
+      "box": [
+        132,
+        473,
+        614,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9821,
+      "box": [
+        133,
+        498,
+        529,
+        523
+      ]
+    }
+  ]
+}

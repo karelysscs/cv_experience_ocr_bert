@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_32622",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.981,
+  "mean_conf": 0.9793,
+  "lines": [
+    {
+      "text": "SHAWN LYNCH",
+      "score": 0.9584,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "NH, USA|+1-895-824-6855 |shawn.lynch@example.com",
+      "score": 0.9675,
+      "box": [
+        115,
+        150,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2020.06–2023.01",
+      "score": 0.9744,
+      "box": [
+        114,
+        288,
+        694,
+        313
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9583,
+      "box": [
+        125,
+        313,
+        407,
+        338
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9902,
+      "box": [
+        126,
+        338,
+        449,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2017.10–2020.6",
+      "score": 0.9737,
+      "box": [
+        115,
+        382,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9918,
+      "box": [
+        126,
+        407,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9694,
+      "box": [
+        125,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2015.02–2017.10",
+      "score": 0.9871,
+      "box": [
+        115,
+        472,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9909,
+      "box": [
+        126,
+        498,
+        346,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9679,
+      "box": [
+        126,
+        521,
+        444,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForce Construction, 2010.06–2013.02",
+      "score": 0.9802,
+      "box": [
+        114,
+        563,
+        728,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9656,
+      "box": [
+        125,
+        588,
+        484,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9869,
+      "box": [
+        126,
+        613,
+        498,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Clearwood High School, 1997",
+      "score": 0.9896,
+      "box": [
+        116,
+        725,
+        871,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9917,
+      "box": [
+        132,
+        747,
+        465,
+        772
+      ]
+    }
+  ]
+}

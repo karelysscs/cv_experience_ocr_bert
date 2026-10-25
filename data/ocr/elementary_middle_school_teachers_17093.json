@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_17093",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9846,
+  "lines": [
+    {
+      "text": "MALIKA STARK",
+      "score": 0.9761,
+      "box": [
+        116,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA|+1-248-737-3881 |malika.stark@example.com",
+      "score": 0.9917,
+      "box": [
+        116,
+        152,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2020.06–2023.01",
+      "score": 0.9886,
+      "box": [
+        116,
+        290,
+        811,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9567,
+      "box": [
+        127,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.963,
+      "box": [
+        127,
+        340,
+        536,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2017.11–2020.06",
+      "score": 0.9917,
+      "box": [
+        115,
+        381,
+        812,
+        406
+      ]
+    },
+    {
+      "text": "- Aligned instruction with benchmarks",
+      "score": 0.9974,
+      "box": [
+        126,
+        406,
+        475,
+        431
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9771,
+      "box": [
+        126,
+        431,
+        415,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2013.07–2016.03",
+      "score": 0.9887,
+      "box": [
+        115,
+        471,
+        832,
+        496
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9876,
+      "box": [
+        126,
+        498,
+        460,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9848,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Lakeview University, 2006",
+      "score": 0.9919,
+      "box": [
+        114,
+        631,
+        699,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional alignment",
+      "score": 0.9809,
+      "box": [
+        132,
+        656,
+        550,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9982,
+      "box": [
+        134,
+        681,
+        547,
+        705
+      ]
+    }
+  ]
+}

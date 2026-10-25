@@ -1,0 +1,163 @@
+{
+  "id": "elementary_middle_school_teachers_17937",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.924,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "CAYCETANG",
+      "score": 0.9986,
+      "box": [
+        115,
+        88,
+        340,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA|+1-217-940-6932|cayce.tang@example.com",
+      "score": 0.9914,
+      "box": [
+        116,
+        151,
+        630,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2020.04–2023.01",
+      "score": 0.9881,
+      "box": [
+        115,
+        289,
+        818,
+        314
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9848,
+      "box": [
+        126,
+        314,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9834,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kindlewood School, 2017.06–2020.04",
+      "score": 0.9611,
+      "box": [
+        116,
+        382,
+        815,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9673,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9895,
+      "box": [
+        126,
+        432,
+        458,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Teaching Foundations, Fairview Ridge University, 220",
+      "score": 0.9714,
+      "box": [
+        114,
+        540,
+        730,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Silverview University, 2015",
+      "score": 0.9872,
+      "box": [
+        115,
+        566,
+        683,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of student support systems",
+      "score": 0.9836,
+      "box": [
+        132,
+        590,
+        568,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of academic progress tracking",
+      "score": 0.9791,
+      "box": [
+        132,
+        615,
+        596,
+        640
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.9901,
+      "box": [
+        133,
+        640,
+        656,
+        666
+      ]
+    }
+  ]
+}

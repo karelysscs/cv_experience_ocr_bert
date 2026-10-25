@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_26852",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9789,
+  "lines": [
+    {
+      "text": "JESUS WELCH",
+      "score": 0.9655,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-353-460-2616 |jesus.welch@example.com",
+      "score": 0.9841,
+      "box": [
+        115,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2020.11–2023.01",
+      "score": 0.9694,
+      "box": [
+        115,
+        289,
+        686,
+        312
+      ]
+    },
+    {
+      "text": "-Coordinated large-scale material logistics",
+      "score": 0.9833,
+      "box": [
+        125,
+        313,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9547,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2018.08–2020.11",
+      "score": 0.9939,
+      "box": [
+        116,
+        382,
+        677,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9894,
+      "box": [
+        125,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9936,
+      "box": [
+        126,
+        431,
+        481,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Rolling Hills High School, 2018",
+      "score": 0.9729,
+      "box": [
+        116,
+        541,
+        950,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9589,
+      "box": [
+        133,
+        565,
+        571,
+        588
+      ]
+    }
+  ]
+}

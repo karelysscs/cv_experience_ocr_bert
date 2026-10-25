@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_54580",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "ROWDY ODOM",
+      "score": 0.9672,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "TX,USA|+1-931-514-9085|rowdy.odom@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        150,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongEdge Builders, 2021.02–2023.01",
+      "score": 0.982,
+      "box": [
+        114,
+        289,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9808,
+      "box": [
+        126,
+        315,
+        488,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9824,
+      "box": [
+        126,
+        338,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2019.02–2021.02",
+      "score": 0.976,
+      "box": [
+        116,
+        382,
+        731,
+        405
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9823,
+      "box": [
+        126,
+        406,
+        439,
+        431
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.969,
+      "box": [
+        126,
+        432,
+        474,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Stonehill High School, 2020",
+      "score": 0.978,
+      "box": [
+        115,
+        540,
+        831,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9725,
+      "box": [
+        132,
+        564,
+        565,
+        589
+      ]
+    }
+  ]
+}

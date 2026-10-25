@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_52460",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.874,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "KYLE MORTON",
+      "score": 0.9892,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-245-864-3420|kyle.morton@example.com",
+      "score": 0.9702,
+      "box": [
+        115,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9787,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2020.10–2023.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9759,
+      "box": [
+        125,
+        313,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9536,
+      "box": [
+        126,
+        339,
+        452,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeLine Construction, 2016.10–2019.01",
+      "score": 0.988,
+      "box": [
+        115,
+        382,
+        723,
+        404
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9877,
+      "box": [
+        125,
+        406,
+        489,
+        431
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9777,
+      "box": [
+        126,
+        430,
+        372,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Masonry, Clear Ridge University, 2013",
+      "score": 0.9747,
+      "box": [
+        115,
+        539,
+        726,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction inspection reporting",
+      "score": 0.9726,
+      "box": [
+        132,
+        565,
+        689,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.9975,
+      "box": [
+        134,
+        591,
+        659,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_23169",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.06,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "TONEKA ODONNELL",
+      "score": 0.9665,
+      "box": [
+        113,
+        87,
+        456,
+        123
+      ]
+    },
+    {
+      "text": "LA, USA|+1-935-890-5472 |toneka.odonnell@example.com",
+      "score": 0.99,
+      "box": [
+        116,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9791,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2020.03–2023.01",
+      "score": 0.984,
+      "box": [
+        116,
+        290,
+        856,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9857,
+      "box": [
+        125,
+        313,
+        497,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9746,
+      "box": [
+        127,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2017.05–2020.03",
+      "score": 0.974,
+      "box": [
+        116,
+        382,
+        862,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.958,
+      "box": [
+        126,
+        406,
+        601,
+        432
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9918,
+      "box": [
+        126,
+        431,
+        504,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2013.04–2016.02",
+      "score": 0.9815,
+      "box": [
+        116,
+        472,
+        834,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9801,
+      "box": [
+        125,
+        496,
+        432,
+        521
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9865,
+      "box": [
+        127,
+        523,
+        545,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2009.03–2012.02",
+      "score": 0.9877,
+      "box": [
+        116,
+        564,
+        847,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and workshets",
+      "score": 0.9899,
+      "box": [
+        127,
+        590,
+        588,
+        613
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9928,
+      "box": [
+        126,
+        614,
+        560,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Windridge University, 207",
+      "score": 0.9947,
+      "box": [
+        115,
+        725,
+        633,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Silverlake University, 2005",
+      "score": 0.9843,
+      "box": [
+        114,
+        747,
+        714,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9916,
+      "box": [
+        133,
+        774,
+        529,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.9767,
+      "box": [
+        132,
+        797,
+        587,
+        823
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_48626",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.827,
+  "mean_conf": 0.9779,
+  "lines": [
+    {
+      "text": "SEANWYATT",
+      "score": 0.999,
+      "box": [
+        115,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-416-798-6240 |sean.wyatt@example.com",
+      "score": 0.9827,
+      "box": [
+        115,
+        150,
+        639,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9873,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2019.09–2022.01",
+      "score": 0.9745,
+      "box": [
+        115,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9746,
+      "box": [
+        125,
+        313,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9815,
+      "box": [
+        126,
+        338,
+        374,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2016.04–2018.08",
+      "score": 0.9865,
+      "box": [
+        115,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9595,
+      "box": [
+        125,
+        405,
+        386,
+        430
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9786,
+      "box": [
+        124,
+        429,
+        414,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestfield University, 2015",
+      "score": 0.9512,
+      "box": [
+        115,
+        540,
+        478,
+        563
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency management",
+      "score": 0.9871,
+      "box": [
+        132,
+        565,
+        584,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of modular design",
+      "score": 0.9522,
+      "box": [
+        132,
+        590,
+        483,
+        615
+      ]
+    }
+  ]
+}

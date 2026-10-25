@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_15557",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.985,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "JASON KLEIN",
+      "score": 0.977,
+      "box": [
+        115,
+        88,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "GA,USA|+1-866-581-9109|jason.klein@example.com",
+      "score": 0.9819,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2019.03–2023.01",
+      "score": 0.9751,
+      "box": [
+        114,
+        288,
+        654,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9893,
+      "box": [
+        126,
+        315,
+        465,
+        338
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9766,
+      "box": [
+        127,
+        340,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workline Builders, 2015.05–2019.03",
+      "score": 0.9733,
+      "box": [
+        114,
+        381,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9922,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9892,
+      "box": [
+        126,
+        432,
+        467,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2011.06–2015.5",
+      "score": 0.9771,
+      "box": [
+        114,
+        471,
+        750,
+        496
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9973,
+      "box": [
+        126,
+        498,
+        396,
+        521
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9667,
+      "box": [
+        125,
+        521,
+        380,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2005.04–2009.03",
+      "score": 0.9752,
+      "box": [
+        114,
+        563,
+        699,
+        588
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9882,
+      "box": [
+        125,
+        590,
+        406,
+        613
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9741,
+      "box": [
+        125,
+        613,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Pinefield High School, 1998",
+      "score": 0.9877,
+      "box": [
+        116,
+        725,
+        842,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of temporary structures",
+      "score": 0.9596,
+      "box": [
+        132,
+        747,
+        571,
+        773
+      ]
+    }
+  ]
+}

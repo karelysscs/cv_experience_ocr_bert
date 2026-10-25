@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_17594",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.974,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "KIARA MATHIS",
+      "score": 0.9914,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-317-253-8009 |kiara.mathis@example.com",
+      "score": 0.9871,
+      "box": [
+        116,
+        152,
+        642,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2020.10–2023.01",
+      "score": 0.9695,
+      "box": [
+        116,
+        290,
+        840,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9845,
+      "box": [
+        127,
+        315,
+        553,
+        338
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9685,
+      "box": [
+        127,
+        340,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2018.07–2020.10",
+      "score": 0.9746,
+      "box": [
+        115,
+        381,
+        805,
+        406
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.98,
+      "box": [
+        127,
+        406,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9785,
+      "box": [
+        126,
+        431,
+        667,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Steps Academy, 2016.03–2018.07",
+      "score": 0.9808,
+      "box": [
+        114,
+        471,
+        871,
+        496
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9934,
+      "box": [
+        125,
+        496,
+        414,
+        522
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9893,
+      "box": [
+        127,
+        523,
+        433,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Prairie Ridge University, 2014",
+      "score": 0.9854,
+      "box": [
+        115,
+        631,
+        718,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Hillside University, 2012",
+      "score": 0.9763,
+      "box": [
+        114,
+        656,
+        643,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9874,
+      "box": [
+        132,
+        681,
+        597,
+        705
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9732,
+      "box": [
+        133,
+        707,
+        632,
+        730
+      ]
+    }
+  ]
+}

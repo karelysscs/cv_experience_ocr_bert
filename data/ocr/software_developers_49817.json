@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_49817",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.928,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "JAMES WU",
+      "score": 0.9705,
+      "box": [
+        115,
+        90,
+        297,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-917-354-7847|james.wu@example.com",
+      "score": 0.9813,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9859,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2020.07–2023.01",
+      "score": 0.9737,
+      "box": [
+        116,
+        290,
+        683,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9795,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9802,
+      "box": [
+        127,
+        340,
+        424,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2017.12–2020.07",
+      "score": 0.9842,
+      "box": [
+        115,
+        381,
+        639,
+        406
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9841,
+      "box": [
+        126,
+        406,
+        431,
+        432
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9757,
+      "box": [
+        126,
+        430,
+        461,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2015.05–2017.12",
+      "score": 0.9835,
+      "box": [
+        115,
+        471,
+        685,
+        496
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9845,
+      "box": [
+        126,
+        498,
+        431,
+        521
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        392,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2011.07–2014.02",
+      "score": 0.982,
+      "box": [
+        115,
+        563,
+        649,
+        588
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.981,
+      "box": [
+        125,
+        589,
+        495,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9872,
+      "box": [
+        126,
+        614,
+        620,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakway University, 204",
+      "score": 0.9895,
+      "box": [
+        115,
+        725,
+        456,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9801,
+      "box": [
+        132,
+        747,
+        547,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9731,
+      "box": [
+        134,
+        774,
+        547,
+        797
+      ]
+    }
+  ]
+}

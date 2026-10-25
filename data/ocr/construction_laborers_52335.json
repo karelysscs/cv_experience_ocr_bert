@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_52335",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.974,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "FRANK PUGH",
+      "score": 0.9553,
+      "box": [
+        114,
+        88,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-460-333-9910|frank.pugh@example.com",
+      "score": 0.9737,
+      "box": [
+        115,
+        150,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2020.02–2023.01",
+      "score": 0.9736,
+      "box": [
+        114,
+        288,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9869,
+      "box": [
+        125,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9833,
+      "box": [
+        126,
+        338,
+        406,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2017.03–2020.02",
+      "score": 0.9651,
+      "box": [
+        116,
+        382,
+        738,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9852,
+      "box": [
+        125,
+        406,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9861,
+      "box": [
+        125,
+        429,
+        532,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2014.04–2017.03",
+      "score": 0.9859,
+      "box": [
+        115,
+        472,
+        720,
+        496
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9813,
+      "box": [
+        125,
+        497,
+        342,
+        519
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9892,
+      "box": [
+        125,
+        521,
+        424,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workforce Construction, 2009.06–2012.5",
+      "score": 0.9793,
+      "box": [
+        114,
+        563,
+        727,
+        588
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9662,
+      "box": [
+        124,
+        588,
+        440,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9794,
+      "box": [
+        125,
+        613,
+        492,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Summit High School, 2006",
+      "score": 0.9761,
+      "box": [
+        116,
+        725,
+        843,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic surveying tools",
+      "score": 0.9844,
+      "box": [
+        133,
+        749,
+        584,
+        772
+      ]
+    }
+  ]
+}

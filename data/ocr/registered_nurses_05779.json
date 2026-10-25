@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_05779",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.929,
+  "mean_conf": 0.9888,
+  "lines": [
+    {
+      "text": "ABIGAILLYONS",
+      "score": 0.999,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-800-483-7489 |abigail.lyons@example.com",
+      "score": 0.9841,
+      "box": [
+        116,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9778,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2019.12–2022.06",
+      "score": 0.9875,
+      "box": [
+        115,
+        289,
+        697,
+        314
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9875,
+      "box": [
+        126,
+        313,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.987,
+      "box": [
+        126,
+        339,
+        568,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2016.11–2019.05",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9844,
+      "box": [
+        125,
+        406,
+        365,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9922,
+      "box": [
+        126,
+        431,
+        473,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Riverway University, 2013",
+      "score": 0.9794,
+      "box": [
+        115,
+        541,
+        623,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9906,
+      "box": [
+        133,
+        565,
+        644,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.998,
+      "box": [
+        134,
+        590,
+        607,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_19466",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.878,
+  "mean_conf": 0.9774,
+  "lines": [
+    {
+      "text": "HANNAH ARMSTRONG",
+      "score": 0.9688,
+      "box": [
+        116,
+        90,
+        490,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-213-638-1367 |hannah.armstrong@example.com",
+      "score": 0.9896,
+      "box": [
+        116,
+        152,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2021.01–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        290,
+        827,
+        313
+      ]
+    },
+    {
+      "text": "-Recorded student feedback",
+      "score": 0.9668,
+      "box": [
+        126,
+        315,
+        397,
+        335
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9663,
+      "box": [
+        127,
+        340,
+        484,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        266,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Lakeview University, 2022",
+      "score": 0.9574,
+      "box": [
+        115,
+        449,
+        640,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in introductory child psychology",
+      "score": 0.969,
+      "box": [
+        132,
+        471,
+        656,
+        499
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning environments",
+      "score": 0.9893,
+      "box": [
+        133,
+        497,
+        585,
+        522
+      ]
+    }
+  ]
+}

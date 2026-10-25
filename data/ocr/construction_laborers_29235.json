@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_29235",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.929,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "RAYMUNDO DUNCAN",
+      "score": 0.9799,
+      "box": [
+        116,
+        90,
+        468,
+        120
+      ]
+    },
+    {
+      "text": "MN, USA|+1-326-809-4005 |raymundo.duncan@example.com",
+      "score": 0.9729,
+      "box": [
+        115,
+        150,
+        712,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9765,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2020.09–2023.01",
+      "score": 0.9901,
+      "box": [
+        115,
+        290,
+        717,
+        312
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9687,
+      "box": [
+        126,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        549,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2018.04–2020.09",
+      "score": 0.9822,
+      "box": [
+        116,
+        382,
+        738,
+        405
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9791,
+      "box": [
+        125,
+        406,
+        361,
+        432
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9853,
+      "box": [
+        126,
+        431,
+        556,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Industrial Technology, Autumn Ridge University, 2019",
+      "score": 0.993,
+      "box": [
+        115,
+        540,
+        801,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete mixing",
+      "score": 0.9923,
+      "box": [
+        132,
+        565,
+        525,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plumbing concepts",
+      "score": 0.9719,
+      "box": [
+        133,
+        590,
+        618,
+        615
+      ]
+    }
+  ]
+}

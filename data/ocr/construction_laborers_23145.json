@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_23145",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.794,
+  "mean_conf": 0.977,
+  "lines": [
+    {
+      "text": "TYLER LANDRY",
+      "score": 0.948,
+      "box": [
+        115,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-910-439-9496 |tyler.landry@example.com",
+      "score": 0.9723,
+      "box": [
+        116,
+        151,
+        640,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2018.11–2021.10",
+      "score": 0.9841,
+      "box": [
+        114,
+        289,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9836,
+      "box": [
+        126,
+        314,
+        557,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9555,
+      "box": [
+        126,
+        339,
+        440,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Crestview High School, 2017",
+      "score": 0.9828,
+      "box": [
+        116,
+        449,
+        828,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction site coordination",
+      "score": 0.9888,
+      "box": [
+        132,
+        472,
+        649,
+        496
+      ]
+    }
+  ]
+}

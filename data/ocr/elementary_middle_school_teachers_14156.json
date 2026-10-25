@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_14156",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.048,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "TORY DUNN",
+      "score": 0.9843,
+      "box": [
+        114,
+        90,
+        317,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-920-644-2106|tory.dunn@example.com",
+      "score": 0.9862,
+      "box": [
+        116,
+        152,
+        623,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Horizons School, 2019.11–2023.01",
+      "score": 0.9826,
+      "box": [
+        116,
+        290,
+        853,
+        313
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9689,
+      "box": [
+        126,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9943,
+      "box": [
+        128,
+        340,
+        504,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2016.08–2019.11",
+      "score": 0.9884,
+      "box": [
+        116,
+        382,
+        819,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9888,
+      "box": [
+        127,
+        408,
+        508,
+        431
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9842,
+      "box": [
+        126,
+        430,
+        549,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2013.05–2016.08",
+      "score": 0.9905,
+      "box": [
+        115,
+        471,
+        873,
+        496
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9872,
+      "box": [
+        127,
+        498,
+        475,
+        521
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.979,
+      "box": [
+        127,
+        523,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2007.07–2010.10",
+      "score": 0.9818,
+      "box": [
+        116,
+        565,
+        863,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9844,
+      "box": [
+        127,
+        591,
+        466,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9816,
+      "box": [
+        126,
+        614,
+        406,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Foundations of Learning, Willowgate University, 2004",
+      "score": 0.9697,
+      "box": [
+        115,
+        725,
+        700,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Oakway University, 2002",
+      "score": 0.9644,
+      "box": [
+        115,
+        749,
+        645,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.991,
+      "box": [
+        132,
+        774,
+        531,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of group learning dynamics",
+      "score": 0.9832,
+      "box": [
+        132,
+        798,
+        606,
+        822
+      ]
+    }
+  ]
+}

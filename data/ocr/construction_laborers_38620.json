@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_38620",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.857,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "SHAQUILLE ROBINSON",
+      "score": 0.9834,
+      "box": [
+        116,
+        90,
+        500,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-415-330-4249|shaquille.robinson@example.com",
+      "score": 0.9668,
+      "box": [
+        115,
+        150,
+        709,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9892,
+      "box": [
+        116,
+        243,
+        315,
+        267
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStep Builders, 2020.07–2022.04",
+      "score": 0.9744,
+      "box": [
+        115,
+        290,
+        673,
+        312
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9628,
+      "box": [
+        126,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9849,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2018.02–2019.12",
+      "score": 0.9811,
+      "box": [
+        115,
+        381,
+        672,
+        405
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9621,
+      "box": [
+        126,
+        407,
+        441,
+        430
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9759,
+      "box": [
+        125,
+        430,
+        418,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Structural Technology, Havenwood University, 2016",
+      "score": 0.9885,
+      "box": [
+        114,
+        539,
+        706,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.9591,
+      "box": [
+        133,
+        566,
+        575,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of trench safety",
+      "score": 0.9898,
+      "box": [
+        132,
+        590,
+        498,
+        615
+      ]
+    }
+  ]
+}

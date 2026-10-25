@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_29194",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.003,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "GAMALIEL BECK",
+      "score": 0.9912,
+      "box": [
+        117,
+        90,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA|+1-442-715-4041 |gamaliel.beck@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2019.02–2023.01",
+      "score": 0.9799,
+      "box": [
+        114,
+        289,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9843,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9735,
+      "box": [
+        127,
+        340,
+        475,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2015.03–2019.02",
+      "score": 0.9959,
+      "box": [
+        116,
+        382,
+        734,
+        404
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9759,
+      "box": [
+        126,
+        407,
+        479,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9826,
+      "box": [
+        126,
+        430,
+        477,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2010.09–2014.09",
+      "score": 0.9762,
+      "box": [
+        114,
+        471,
+        725,
+        496
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9851,
+      "box": [
+        125,
+        496,
+        475,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9539,
+      "box": [
+        125,
+        521,
+        405,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2005.05–2009.05",
+      "score": 0.9822,
+      "box": [
+        114,
+        563,
+        717,
+        588
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9973,
+      "box": [
+        126,
+        590,
+        406,
+        613
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9694,
+      "box": [
+        126,
+        613,
+        424,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Skyview High School, 1997",
+      "score": 0.9845,
+      "box": [
+        116,
+        725,
+        840,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.9868,
+      "box": [
+        134,
+        750,
+        540,
+        770
+      ]
+    }
+  ]
+}

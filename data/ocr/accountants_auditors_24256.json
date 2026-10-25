@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_24256",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "JOSE AHMED",
+      "score": 0.9934,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-761-215-9452|jose.ahmed@example.com",
+      "score": 0.9848,
+      "box": [
+        115,
+        150,
+        653,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2021.05–2023.01",
+      "score": 0.9709,
+      "box": [
+        114,
+        289,
+        691,
+        313
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9543,
+      "box": [
+        127,
+        315,
+        456,
+        338
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9631,
+      "box": [
+        126,
+        339,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2019.09–2021.05",
+      "score": 0.9931,
+      "box": [
+        115,
+        382,
+        705,
+        405
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9703,
+      "box": [
+        125,
+        407,
+        449,
+        430
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9866,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Meadowview University, 2021",
+      "score": 0.9861,
+      "box": [
+        115,
+        541,
+        691,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9787,
+      "box": [
+        133,
+        565,
+        634,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9892,
+      "box": [
+        133,
+        590,
+        641,
+        615
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_55517",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.047,
+  "mean_conf": 0.9785,
+  "lines": [
+    {
+      "text": "WYATT DECKER",
+      "score": 0.9599,
+      "box": [
+        116,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA|+1-387-486-3323 |wyatt.decker@example.com",
+      "score": 0.984,
+      "box": [
+        116,
+        151,
+        657,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Services, 2020.04–2023.01",
+      "score": 0.9699,
+      "box": [
+        114,
+        288,
+        731,
+        313
+      ]
+    },
+    {
+      "text": "– Managed large-scale installations",
+      "score": 0.9622,
+      "box": [
+        127,
+        315,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9851,
+      "box": [
+        126,
+        339,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildForce Contractors, 2017.06–2020.04",
+      "score": 0.9732,
+      "box": [
+        115,
+        381,
+        722,
+        405
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9884,
+      "box": [
+        127,
+        408,
+        399,
+        428
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9852,
+      "box": [
+        126,
+        430,
+        443,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Services, 2014.08–2017.6",
+      "score": 0.9822,
+      "box": [
+        114,
+        471,
+        712,
+        496
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9807,
+      "box": [
+        125,
+        496,
+        520,
+        521
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9784,
+      "box": [
+        127,
+        522,
+        396,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2008.11–2011.09",
+      "score": 0.9718,
+      "box": [
+        115,
+        563,
+        732,
+        588
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9891,
+      "box": [
+        125,
+        588,
+        541,
+        614
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9729,
+      "box": [
+        126,
+        615,
+        366,
+        635
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Evergreen High School, 2004",
+      "score": 0.9755,
+      "box": [
+        116,
+        725,
+        858,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.9708,
+      "box": [
+        132,
+        747,
+        592,
+        772
+      ]
+    }
+  ]
+}

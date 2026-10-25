@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21848",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.956,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "REBECCA DANIEL",
+      "score": 0.9817,
+      "box": [
+        116,
+        90,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-645-429-1565 |rebecca.daniel@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2020.04–2023.01",
+      "score": 0.9782,
+      "box": [
+        115,
+        289,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9753,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.993,
+      "box": [
+        126,
+        339,
+        437,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Nursing Services, 2017.06–2020.04",
+      "score": 0.9825,
+      "box": [
+        115,
+        381,
+        754,
+        406
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9878,
+      "box": [
+        126,
+        406,
+        470,
+        432
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9795,
+      "box": [
+        126,
+        430,
+        466,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIWay Nursing Services, 2014.08–2017.06",
+      "score": 0.9733,
+      "box": [
+        116,
+        473,
+        721,
+        497
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9866,
+      "box": [
+        126,
+        498,
+        399,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.978,
+      "box": [
+        126,
+        521,
+        522,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2011.10–2014.08",
+      "score": 0.9877,
+      "box": [
+        116,
+        565,
+        672,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9952,
+      "box": [
+        126,
+        590,
+        437,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9667,
+      "box": [
+        127,
+        615,
+        409,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Health, Riverstone Ridge University, 2009",
+      "score": 0.9852,
+      "box": [
+        114,
+        723,
+        765,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of oxygen therapy",
+      "score": 0.9899,
+      "box": [
+        132,
+        748,
+        485,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9869,
+      "box": [
+        134,
+        774,
+        602,
+        797
+      ]
+    }
+  ]
+}

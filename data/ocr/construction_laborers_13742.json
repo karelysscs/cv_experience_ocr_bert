@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_13742",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.013,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "JOSHUA HOBBS",
+      "score": 0.9883,
+      "box": [
+        115,
+        88,
+        389,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA|+1-522-602-5381 |joshua.hobbs@example.com",
+      "score": 0.9748,
+      "box": [
+        116,
+        151,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Builders, 2020.02–2023.01",
+      "score": 0.9777,
+      "box": [
+        114,
+        288,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9503,
+      "box": [
+        125,
+        313,
+        421,
+        338
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9925,
+      "box": [
+        126,
+        340,
+        465,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2017.03–2020.02",
+      "score": 0.9821,
+      "box": [
+        114,
+        380,
+        691,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9914,
+      "box": [
+        126,
+        407,
+        465,
+        430
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9697,
+      "box": [
+        125,
+        430,
+        372,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2014.04–2017.03",
+      "score": 0.9734,
+      "box": [
+        114,
+        470,
+        664,
+        496
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9668,
+      "box": [
+        125,
+        497,
+        414,
+        519
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9822,
+      "box": [
+        125,
+        521,
+        397,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2010.04–013.03",
+      "score": 0.9826,
+      "box": [
+        114,
+        563,
+        687,
+        588
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.982,
+      "box": [
+        124,
+        588,
+        475,
+        613
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9671,
+      "box": [
+        124,
+        612,
+        477,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Masonry, Silver Creek University, 2004",
+      "score": 0.9587,
+      "box": [
+        114,
+        723,
+        587,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9944,
+      "box": [
+        131,
+        747,
+        540,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9837,
+      "box": [
+        133,
+        772,
+        555,
+        797
+      ]
+    }
+  ]
+}

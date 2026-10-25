@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_03919",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.004,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "KEVIN HUDSON",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        375,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-458-513-8402 |kevin.hudson@example.com",
+      "score": 0.9923,
+      "box": [
+        117,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2020.06–2023.01",
+      "score": 0.9668,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9749,
+      "box": [
+        126,
+        314,
+        507,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9871,
+      "box": [
+        126,
+        339,
+        497,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2017.11–2020.06",
+      "score": 0.9861,
+      "box": [
+        115,
+        381,
+        840,
+        406
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9914,
+      "box": [
+        126,
+        406,
+        510,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9854,
+      "box": [
+        126,
+        433,
+        514,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2015.03–2017.11",
+      "score": 0.9917,
+      "box": [
+        115,
+        471,
+        899,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.995,
+      "box": [
+        125,
+        496,
+        460,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9862,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Northway University, 2021",
+      "score": 0.9864,
+      "box": [
+        115,
+        632,
+        691,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional improvement methods",
+      "score": 0.9647,
+      "box": [
+        134,
+        658,
+        713,
+        681
+      ]
+    },
+    {
+      "text": "• Studied foundational pedagogy concepts",
+      "score": 0.979,
+      "box": [
+        134,
+        681,
+        525,
+        707
+      ]
+    }
+  ]
+}

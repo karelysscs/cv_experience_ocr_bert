@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_16034",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.834,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "ROBIN REILLY",
+      "score": 0.9783,
+      "box": [
+        116,
+        90,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-208-777-1315|robin.reilly@example.com",
+      "score": 0.9785,
+      "box": [
+        116,
+        151,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2020.04–2022.06",
+      "score": 0.9733,
+      "box": [
+        116,
+        290,
+        865,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9638,
+      "box": [
+        125,
+        314,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9643,
+      "box": [
+        126,
+        339,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Skyview University, 2012",
+      "score": 0.9777,
+      "box": [
+        114,
+        447,
+        684,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9834,
+      "box": [
+        133,
+        474,
+        605,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning design",
+      "score": 0.9854,
+      "box": [
+        133,
+        498,
+        631,
+        523
+      ]
+    }
+  ]
+}

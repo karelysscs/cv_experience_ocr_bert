@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_47415",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.95,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "ALISON TRAN",
+      "score": 0.9612,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA|+1-853-471-8994 |alison.tran@example.com",
+      "score": 0.9826,
+      "box": [
+        116,
+        152,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9882,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2017.11–2023.01",
+      "score": 0.9874,
+      "box": [
+        115,
+        289,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9918,
+      "box": [
+        126,
+        314,
+        558,
+        339
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9683,
+      "box": [
+        126,
+        338,
+        388,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2012.09–2017.11",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        675,
+        406
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.983,
+      "box": [
+        125,
+        405,
+        368,
+        432
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9892,
+      "box": [
+        126,
+        430,
+        449,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2007.06–2012.09",
+      "score": 0.9711,
+      "box": [
+        116,
+        472,
+        653,
+        496
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9855,
+      "box": [
+        126,
+        497,
+        347,
+        519
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9628,
+      "box": [
+        126,
+        521,
+        449,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2002.03–2007.06",
+      "score": 0.9717,
+      "box": [
+        115,
+        563,
+        641,
+        588
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9644,
+      "box": [
+        126,
+        590,
+        424,
+        613
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9883,
+      "box": [
+        126,
+        614,
+        346,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit Ridge University, 2007",
+      "score": 0.9903,
+      "box": [
+        115,
+        724,
+        513,
+        746
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9882,
+      "box": [
+        133,
+        749,
+        713,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9762,
+      "box": [
+        135,
+        774,
+        620,
+        797
+      ]
+    }
+  ]
+}

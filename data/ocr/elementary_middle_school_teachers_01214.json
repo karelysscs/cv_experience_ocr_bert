@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_01214",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.053,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "BLAKE BLANCHARD",
+      "score": 0.9808,
+      "box": [
+        117,
+        90,
+        455,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-921-411-7088|blake.blanchard@example.com",
+      "score": 0.9857,
+      "box": [
+        115,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2019.06–2023.01",
+      "score": 0.9668,
+      "box": [
+        116,
+        290,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9808,
+      "box": [
+        126,
+        314,
+        487,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.974,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2015.11–2019.06",
+      "score": 0.9745,
+      "box": [
+        115,
+        381,
+        814,
+        406
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9694,
+      "box": [
+        126,
+        406,
+        562,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.993,
+      "box": [
+        126,
+        431,
+        507,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2012.04–2015.11",
+      "score": 0.981,
+      "box": [
+        114,
+        471,
+        861,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9606,
+      "box": [
+        126,
+        498,
+        505,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9697,
+      "box": [
+        126,
+        522,
+        426,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2008.09–2012.04",
+      "score": 0.9781,
+      "box": [
+        116,
+        565,
+        800,
+        588
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9794,
+      "box": [
+        126,
+        589,
+        463,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9643,
+      "box": [
+        127,
+        615,
+        645,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Briar Ridge University, 2010",
+      "score": 0.9793,
+      "box": [
+        114,
+        723,
+        760,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9884,
+      "box": [
+        133,
+        748,
+        599,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic curriculum planning",
+      "score": 0.9864,
+      "box": [
+        135,
+        774,
+        623,
+        797
+      ]
+    }
+  ]
+}

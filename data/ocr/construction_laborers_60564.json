@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_60564",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.864,
+  "mean_conf": 0.9866,
+  "lines": [
+    {
+      "text": "MICHAEL REYES",
+      "score": 0.9885,
+      "box": [
+        116,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-769-429-3514|michael.reyes@example.com",
+      "score": 0.9898,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9855,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2020.08–2023.01",
+      "score": 0.9842,
+      "box": [
+        115,
+        290,
+        718,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        446,
+        338
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        522,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2018.03–2020.08",
+      "score": 0.9882,
+      "box": [
+        116,
+        382,
+        694,
+        405
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9924,
+      "box": [
+        126,
+        407,
+        407,
+        430
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9763,
+      "box": [
+        126,
+        431,
+        504,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Redwood High School, 2016",
+      "score": 0.9726,
+      "box": [
+        115,
+        540,
+        745,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of site drainage",
+      "score": 0.993,
+      "box": [
+        133,
+        565,
+        461,
+        590
+      ]
+    }
+  ]
+}

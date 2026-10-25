@@ -1,0 +1,103 @@
+{
+  "id": "software_developers_49688",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.743,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "SENORA HARVEY",
+      "score": 0.965,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-221-427-8882|senora.harvey@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        671,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Tech, 2022.05–2023.01",
+      "score": 0.98,
+      "box": [
+        115,
+        289,
+        627,
+        312
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9763,
+      "box": [
+        127,
+        316,
+        485,
+        339
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9718,
+      "box": [
+        127,
+        341,
+        390,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Larkspur High School, 2023",
+      "score": 0.9786,
+      "box": [
+        116,
+        449,
+        634,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9862,
+      "box": [
+        134,
+        474,
+        530,
+        498
+      ]
+    }
+  ]
+}

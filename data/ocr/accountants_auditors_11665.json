@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_11665",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "JAMES GILL",
+      "score": 0.9785,
+      "box": [
+        114,
+        88,
+        320,
+        122
+      ]
+    },
+    {
+      "text": "DC,USA|+1-466-498-3211|james.gill@example.com",
+      "score": 0.9761,
+      "box": [
+        115,
+        150,
+        629,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.983,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2020.10–2023.01",
+      "score": 0.9891,
+      "box": [
+        115,
+        290,
+        724,
+        312
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9689,
+      "box": [
+        125,
+        313,
+        505,
+        339
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9765,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2015.08–2017.11",
+      "score": 0.9845,
+      "box": [
+        115,
+        382,
+        721,
+        405
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9955,
+      "box": [
+        126,
+        408,
+        435,
+        431
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9705,
+      "box": [
+        125,
+        430,
+        371,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Canyon View University, 2013",
+      "score": 0.983,
+      "box": [
+        115,
+        541,
+        590,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9795,
+      "box": [
+        132,
+        565,
+        586,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of continuous auditing",
+      "score": 0.9845,
+      "box": [
+        133,
+        590,
+        521,
+        615
+      ]
+    }
+  ]
+}

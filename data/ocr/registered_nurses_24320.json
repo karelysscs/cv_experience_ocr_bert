@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_24320",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.881,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "JENNIFER SCHULTZ",
+      "score": 0.987,
+      "box": [
+        116,
+        90,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA|+1-533-734-1982|jennifer.schultz@example.com",
+      "score": 0.9913,
+      "box": [
+        115,
+        150,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2019.04–2021.02",
+      "score": 0.9762,
+      "box": [
+        116,
+        290,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.971,
+      "box": [
+        126,
+        314,
+        424,
+        337
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9756,
+      "box": [
+        126,
+        339,
+        463,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Nursing Services, 2016.09–2018.07",
+      "score": 0.9907,
+      "box": [
+        115,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.982,
+      "box": [
+        126,
+        407,
+        531,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.974,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Stonehill University, 2005",
+      "score": 0.986,
+      "box": [
+        114,
+        539,
+        757,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9834,
+      "box": [
+        133,
+        566,
+        511,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of hematologic nursing basics",
+      "score": 0.9847,
+      "box": [
+        134,
+        591,
+        594,
+        614
+      ]
+    }
+  ]
+}

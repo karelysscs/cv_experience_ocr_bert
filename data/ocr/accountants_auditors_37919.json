@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_37919",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9786,
+  "lines": [
+    {
+      "text": "SAMUEL LAM",
+      "score": 0.9709,
+      "box": [
+        115,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-332-313-7676|samuel.lam@example.com",
+      "score": 0.9939,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9829,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2020.07–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        289,
+        699,
+        312
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9652,
+      "box": [
+        127,
+        315,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9676,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Prairie View University, 2022",
+      "score": 0.974,
+      "box": [
+        114,
+        447,
+        585,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9924,
+      "box": [
+        133,
+        474,
+        563,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9483,
+      "box": [
+        134,
+        500,
+        549,
+        520
+      ]
+    }
+  ]
+}

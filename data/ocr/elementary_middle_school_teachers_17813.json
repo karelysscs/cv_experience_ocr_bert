@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_17813",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.927,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "ROBERT SPEARS",
+      "score": 0.976,
+      "box": [
+        116,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-302-282-7754 |robert.spears@example.com",
+      "score": 0.991,
+      "box": [
+        116,
+        152,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2020.09–2023.01",
+      "score": 0.9812,
+      "box": [
+        116,
+        290,
+        863,
+        314
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9812,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9837,
+      "box": [
+        126,
+        339,
+        431,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2018.05–2020.09",
+      "score": 0.9922,
+      "box": [
+        116,
+        382,
+        859,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9701,
+      "box": [
+        127,
+        408,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked long-term student progress",
+      "score": 0.9771,
+      "box": [
+        126,
+        430,
+        473,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2015.12–2018.05",
+      "score": 0.9918,
+      "box": [
+        115,
+        471,
+        861,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained classroom bulletin boards",
+      "score": 0.9764,
+      "box": [
+        126,
+        497,
+        485,
+        519
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9816,
+      "box": [
+        126,
+        522,
+        408,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Hillcrest University, 2020",
+      "score": 0.9671,
+      "box": [
+        114,
+        631,
+        697,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.9705,
+      "box": [
+        132,
+        656,
+        567,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of academic scaffolding",
+      "score": 0.9779,
+      "box": [
+        134,
+        681,
+        536,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_11843",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "HORACIO FOSTER",
+      "score": 0.9875,
+      "box": [
+        115,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-290-884-7075 |horacio.foster@example.com",
+      "score": 0.9735,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2020.10–2023.01",
+      "score": 0.9672,
+      "box": [
+        114,
+        289,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9778,
+      "box": [
+        126,
+        313,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "-Managed subcontractor coordination",
+      "score": 0.9479,
+      "box": [
+        126,
+        339,
+        479,
+        362
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stoneway Construction, 2017.04–2019.07",
+      "score": 0.9884,
+      "box": [
+        115,
+        381,
+        723,
+        406
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.969,
+      "box": [
+        125,
+        406,
+        392,
+        431
+      ]
+    },
+    {
+      "text": "-Installed concrete reinforcements",
+      "score": 0.9883,
+      "box": [
+        126,
+        432,
+        448,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2014.02–2016.05",
+      "score": 0.984,
+      "box": [
+        116,
+        472,
+        650,
+        495
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9905,
+      "box": [
+        125,
+        496,
+        465,
+        521
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9789,
+      "box": [
+        127,
+        522,
+        483,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Redwood High School, 208",
+      "score": 0.9863,
+      "box": [
+        116,
+        632,
+        989,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9805,
+      "box": [
+        132,
+        656,
+        666,
+        681
+      ]
+    }
+  ]
+}

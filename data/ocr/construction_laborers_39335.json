@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_39335",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.87,
+  "mean_conf": 0.9765,
+  "lines": [
+    {
+      "text": "JEREMIAH WILCOX",
+      "score": 0.9883,
+      "box": [
+        116,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA |+1-974-738-5307 |jeremiah.wilcox@example.com",
+      "score": 0.9766,
+      "box": [
+        116,
+        151,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyBuild Co., 2021.01–2023.01",
+      "score": 0.9761,
+      "box": [
+        115,
+        290,
+        656,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9379,
+      "box": [
+        125,
+        313,
+        443,
+        339
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9571,
+      "box": [
+        126,
+        339,
+        394,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2019.01–2021.01",
+      "score": 0.9744,
+      "box": [
+        116,
+        382,
+        702,
+        405
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9846,
+      "box": [
+        125,
+        405,
+        380,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9665,
+      "box": [
+        126,
+        429,
+        405,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2015.01–2017.01",
+      "score": 0.9872,
+      "box": [
+        115,
+        472,
+        713,
+        495
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.97,
+      "box": [
+        126,
+        497,
+        406,
+        520
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9644,
+      "box": [
+        125,
+        521,
+        475,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Oakview High School, 2013",
+      "score": 0.9882,
+      "box": [
+        115,
+        631,
+        865,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of building envelope basics",
+      "score": 0.9898,
+      "box": [
+        132,
+        656,
+        570,
+        681
+      ]
+    }
+  ]
+}

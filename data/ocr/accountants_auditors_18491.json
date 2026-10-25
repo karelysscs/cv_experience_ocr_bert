@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_18491",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.978,
+  "mean_conf": 0.98,
+  "lines": [
+    {
+      "text": "BETTINA HUYNH",
+      "score": 0.961,
+      "box": [
+        116,
+        90,
+        391,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-46-479-6331 |bettina.huynh@example.com",
+      "score": 0.9849,
+      "box": [
+        116,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9811,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2018.01–2023.01",
+      "score": 0.9822,
+      "box": [
+        114,
+        288,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9857,
+      "box": [
+        126,
+        314,
+        467,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9762,
+      "box": [
+        126,
+        339,
+        527,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2013.01–2018.01",
+      "score": 0.9772,
+      "box": [
+        114,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9803,
+      "box": [
+        126,
+        406,
+        512,
+        431
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9903,
+      "box": [
+        125,
+        431,
+        513,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2007.12–2013.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        471,
+        714,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9875,
+      "box": [
+        126,
+        497,
+        406,
+        519
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9911,
+      "box": [
+        126,
+        521,
+        422,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2002.11–2007.12",
+      "score": 0.9765,
+      "box": [
+        115,
+        564,
+        714,
+        587
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9923,
+      "box": [
+        127,
+        591,
+        404,
+        611
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9726,
+      "box": [
+        126,
+        613,
+        490,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Finance, Crossfield University, 2006",
+      "score": 0.9782,
+      "box": [
+        114,
+        723,
+        691,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Northcrest University, 2004",
+      "score": 0.9703,
+      "box": [
+        114,
+        747,
+        564,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9571,
+      "box": [
+        132,
+        772,
+        540,
+        796
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9772,
+      "box": [
+        132,
+        797,
+        539,
+        822
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_03914",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.981,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "ASHLEYCHEN",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-701-849-3408 |ashley.chen@example.com",
+      "score": 0.9775,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2019.09–2023.01",
+      "score": 0.9805,
+      "box": [
+        116,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.982,
+      "box": [
+        127,
+        315,
+        489,
+        338
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9853,
+      "box": [
+        127,
+        339,
+        548,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2016.05–2019.09",
+      "score": 0.988,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.988,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9906,
+      "box": [
+        126,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2013.01–2016.05",
+      "score": 0.9882,
+      "box": [
+        116,
+        473,
+        740,
+        497
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9967,
+      "box": [
+        125,
+        496,
+        440,
+        521
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9906,
+      "box": [
+        126,
+        522,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2009.09–2013.01",
+      "score": 0.9893,
+      "box": [
+        116,
+        565,
+        734,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.938,
+      "box": [
+        125,
+        589,
+        372,
+        614
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9735,
+      "box": [
+        127,
+        615,
+        480,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Oakview University, 2013",
+      "score": 0.9737,
+      "box": [
+        114,
+        723,
+        712,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of end-of-life care",
+      "score": 0.9771,
+      "box": [
+        132,
+        747,
+        519,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9619,
+      "box": [
+        132,
+        772,
+        621,
+        797
+      ]
+    }
+  ]
+}

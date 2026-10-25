@@ -1,0 +1,143 @@
+{
+  "id": "construction_laborers_52130",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "TANNER WANG",
+      "score": 0.96,
+      "box": [
+        112,
+        87,
+        373,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA|+1-646-648-3168|tanner.wang@example.com",
+      "score": 0.9802,
+      "box": [
+        115,
+        150,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9853,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.10–223.01",
+      "score": 0.9781,
+      "box": [
+        114,
+        289,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9776,
+      "box": [
+        127,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9733,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardFrame Builders, 2018.06–220.10",
+      "score": 0.978,
+      "box": [
+        115,
+        381,
+        695,
+        405
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9801,
+      "box": [
+        125,
+        406,
+        361,
+        432
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.98,
+      "box": [
+        126,
+        432,
+        445,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Skills, Hawthorne University, 2021",
+      "score": 0.9822,
+      "box": [
+        116,
+        541,
+        742,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9898,
+      "box": [
+        132,
+        564,
+        607,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9844,
+      "box": [
+        133,
+        590,
+        540,
+        615
+      ]
+    }
+  ]
+}

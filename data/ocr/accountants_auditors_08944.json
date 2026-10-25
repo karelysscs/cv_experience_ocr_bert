@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_08944",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.89,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "RUSSELL LU",
+      "score": 0.9866,
+      "box": [
+        116,
+        90,
+        328,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-850-410-2684 |russell.lu@example.com",
+      "score": 0.9668,
+      "box": [
+        116,
+        150,
+        624,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2020.01–2023.01",
+      "score": 0.9803,
+      "box": [
+        114,
+        289,
+        793,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.979,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9916,
+      "box": [
+        126,
+        338,
+        547,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2017.01–2020.01",
+      "score": 0.9686,
+      "box": [
+        115,
+        382,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9689,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9786,
+      "box": [
+        125,
+        430,
+        370,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2013.12–2017.01",
+      "score": 0.9813,
+      "box": [
+        114,
+        471,
+        802,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9717,
+      "box": [
+        125,
+        496,
+        423,
+        522
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9882,
+      "box": [
+        126,
+        521,
+        550,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Silverview University, 2015",
+      "score": 0.9726,
+      "box": [
+        115,
+        631,
+        566,
+        654
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9884,
+      "box": [
+        133,
+        656,
+        628,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9838,
+      "box": [
+        133,
+        681,
+        557,
+        706
+      ]
+    }
+  ]
+}

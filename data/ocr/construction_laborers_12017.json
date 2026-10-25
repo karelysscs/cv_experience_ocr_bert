@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_12017",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.931,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "MARIO HARRISON",
+      "score": 0.9884,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-914-768-8794 |mario.harrison@example.com",
+      "score": 0.9815,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2021.01–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9867,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9598,
+      "box": [
+        127,
+        340,
+        447,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2019.01–2021.01",
+      "score": 0.9958,
+      "box": [
+        116,
+        382,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9697,
+      "box": [
+        125,
+        405,
+        410,
+        431
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9854,
+      "box": [
+        126,
+        430,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2014.03–2016.04",
+      "score": 0.988,
+      "box": [
+        116,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9811,
+      "box": [
+        127,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9839,
+      "box": [
+        126,
+        521,
+        489,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Estimating, Granite Hill University, 2011",
+      "score": 0.9689,
+      "box": [
+        114,
+        630,
+        794,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9835,
+      "box": [
+        133,
+        657,
+        708,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9663,
+      "box": [
+        133,
+        681,
+        610,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_02500",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.792,
+  "mean_conf": 0.9859,
+  "lines": [
+    {
+      "text": "NATALIE MORSE",
+      "score": 0.9701,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-366-523-3676|natalie.morse@example.com",
+      "score": 0.9878,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9822,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Health Group, 2020.08–2023.01",
+      "score": 0.9949,
+      "box": [
+        116,
+        290,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9886,
+      "box": [
+        125,
+        314,
+        494,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9838,
+      "box": [
+        126,
+        339,
+        390,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Brightwater University, 2021",
+      "score": 0.9803,
+      "box": [
+        114,
+        447,
+        685,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9906,
+      "box": [
+        132,
+        472,
+        557,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of intravenous therapy",
+      "score": 0.9823,
+      "box": [
+        132,
+        497,
+        562,
+        523
+      ]
+    }
+  ]
+}

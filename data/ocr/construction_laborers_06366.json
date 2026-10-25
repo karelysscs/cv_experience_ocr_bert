@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_06366",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.801,
+  "mean_conf": 0.9766,
+  "lines": [
+    {
+      "text": "GAVIN FORD",
+      "score": 0.9611,
+      "box": [
+        115,
+        88,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-258-478-4939 |gavin.ford@example.com",
+      "score": 0.9737,
+      "box": [
+        116,
+        151,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9806,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2021.03–2023.01",
+      "score": 0.9833,
+      "box": [
+        115,
+        290,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9483,
+      "box": [
+        126,
+        315,
+        360,
+        339
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9636,
+      "box": [
+        127,
+        340,
+        445,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Brighton High School, 2021",
+      "score": 0.9933,
+      "box": [
+        116,
+        449,
+        886,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9875,
+      "box": [
+        133,
+        474,
+        612,
+        497
+      ]
+    }
+  ]
+}

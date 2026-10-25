@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_36938",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.91,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "KARRIE CHOI",
+      "score": 0.9798,
+      "box": [
+        116,
+        90,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA|+1-932-973-5259|karrie.choi@example.com",
+      "score": 0.9856,
+      "box": [
+        115,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.08–2023.01",
+      "score": 0.9753,
+      "box": [
+        114,
+        289,
+        664,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9792,
+      "box": [
+        126,
+        314,
+        514,
+        339
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9801,
+      "box": [
+        126,
+        339,
+        511,
+        362
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Trusted Ledger Group, 2016.10–2019.03",
+      "score": 0.9766,
+      "box": [
+        114,
+        381,
+        705,
+        406
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9839,
+      "box": [
+        126,
+        406,
+        403,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9966,
+      "box": [
+        126,
+        431,
+        431,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2013.10–2016.04",
+      "score": 0.986,
+      "box": [
+        114,
+        471,
+        701,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9789,
+      "box": [
+        125,
+        496,
+        382,
+        522
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9831,
+      "box": [
+        127,
+        522,
+        414,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Harvest University, 2006",
+      "score": 0.9812,
+      "box": [
+        116,
+        632,
+        656,
+        655
+      ]
+    },
+    {
+      "text": "• Studied principles of social responsibility reporting",
+      "score": 0.9841,
+      "box": [
+        133,
+        657,
+        609,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9964,
+      "box": [
+        135,
+        681,
+        681,
+        707
+      ]
+    }
+  ]
+}

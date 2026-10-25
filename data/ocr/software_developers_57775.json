@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_57775",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.934,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "MICAH ZHANG",
+      "score": 0.9843,
+      "box": [
+        116,
+        90,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-426-942-4437|micah.zhang@example.com",
+      "score": 0.9927,
+      "box": [
+        114,
+        150,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2019.02–2023.01",
+      "score": 0.9812,
+      "box": [
+        114,
+        288,
+        624,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.979,
+      "box": [
+        127,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        431,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Labs, 2015.03–2019.02",
+      "score": 0.9909,
+      "box": [
+        115,
+        381,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9851,
+      "box": [
+        126,
+        406,
+        538,
+        431
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9908,
+      "box": [
+        126,
+        432,
+        415,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Tech, 2011.04–2015.03",
+      "score": 0.9879,
+      "box": [
+        114,
+        471,
+        644,
+        496
+      ]
+    },
+    {
+      "text": "-Built feature management systems",
+      "score": 0.9836,
+      "box": [
+        124,
+        496,
+        463,
+        522
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.98,
+      "box": [
+        125,
+        521,
+        362,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2007.04–2011.04",
+      "score": 0.9916,
+      "box": [
+        114,
+        563,
+        639,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9579,
+      "box": [
+        125,
+        590,
+        410,
+        613
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9771,
+      "box": [
+        126,
+        613,
+        385,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakview University, 2009",
+      "score": 0.9519,
+      "box": [
+        114,
+        723,
+        461,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in requirements engineering",
+      "score": 0.9715,
+      "box": [
+        132,
+        748,
+        625,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.9835,
+      "box": [
+        133,
+        772,
+        645,
+        798
+      ]
+    }
+  ]
+}

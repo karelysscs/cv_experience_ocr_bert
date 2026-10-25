@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_30723",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.878,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "DARREN ANDERSON",
+      "score": 0.9735,
+      "box": [
+        116,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-391-520-3866|darren.anderson@example.com",
+      "score": 0.9904,
+      "box": [
+        115,
+        150,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.978,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2019.11–2022.07",
+      "score": 0.9772,
+      "box": [
+        115,
+        290,
+        703,
+        312
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9883,
+      "box": [
+        126,
+        315,
+        525,
+        338
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.982,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2016.08–2019.05",
+      "score": 0.9869,
+      "box": [
+        114,
+        381,
+        708,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9704,
+      "box": [
+        125,
+        404,
+        362,
+        431
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9856,
+      "box": [
+        125,
+        431,
+        480,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Havenwood University, 2009",
+      "score": 0.9684,
+      "box": [
+        114,
+        539,
+        578,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9927,
+      "box": [
+        134,
+        566,
+        541,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9945,
+      "box": [
+        135,
+        591,
+        599,
+        614
+      ]
+    }
+  ]
+}

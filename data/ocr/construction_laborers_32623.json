@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_32623",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.85,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "JAMES WALLS",
+      "score": 0.9737,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "NH, USA|+1-243-658-3238|james.walls@example.com",
+      "score": 0.9658,
+      "box": [
+        115,
+        150,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2019.07–2022.06",
+      "score": 0.9681,
+      "box": [
+        115,
+        289,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.972,
+      "box": [
+        128,
+        316,
+        372,
+        337
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.989,
+      "box": [
+        126,
+        339,
+        503,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Stone Valley University, 2010",
+      "score": 0.9792,
+      "box": [
+        116,
+        449,
+        908,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9782,
+      "box": [
+        133,
+        475,
+        588,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of equipment operation",
+      "score": 0.9756,
+      "box": [
+        133,
+        497,
+        569,
+        522
+      ]
+    }
+  ]
+}

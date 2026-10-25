@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_43728",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.909,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "CURTIS GILMORE",
+      "score": 0.99,
+      "box": [
+        117,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA |+1-256-836-6689| curtis.gilmore@example.com",
+      "score": 0.9739,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Builders, 2020.04–2023.01",
+      "score": 0.9854,
+      "box": [
+        114,
+        289,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "-Directed installation methodologies",
+      "score": 0.9757,
+      "box": [
+        125,
+        313,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9737,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2015.08–2018.05",
+      "score": 0.9805,
+      "box": [
+        114,
+        381,
+        716,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9782,
+      "box": [
+        125,
+        406,
+        386,
+        431
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9838,
+      "box": [
+        125,
+        430,
+        418,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2012.02–2014.12",
+      "score": 0.9835,
+      "box": [
+        116,
+        472,
+        650,
+        495
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9846,
+      "box": [
+        126,
+        498,
+        400,
+        521
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9832,
+      "box": [
+        126,
+        521,
+        556,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Coordination, Brighton High School, 2001",
+      "score": 0.9912,
+      "box": [
+        116,
+        632,
+        882,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction safety documentation",
+      "score": 0.9784,
+      "box": [
+        132,
+        656,
+        706,
+        681
+      ]
+    }
+  ]
+}

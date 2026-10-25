@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_21527",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.864,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "NATALIE SHAFFER",
+      "score": 0.9873,
+      "box": [
+        116,
+        90,
+        430,
+        120
+      ]
+    },
+    {
+      "text": "KS, USA|+1-651-661-4267 |natalie.shaffer@example.com",
+      "score": 0.9914,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2020.11–2023.01",
+      "score": 0.9896,
+      "box": [
+        116,
+        290,
+        741,
+        313
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.969,
+      "box": [
+        126,
+        315,
+        445,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9654,
+      "box": [
+        127,
+        340,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2018.09–2020.11",
+      "score": 0.9768,
+      "box": [
+        116,
+        382,
+        730,
+        405
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9815,
+      "box": [
+        125,
+        406,
+        527,
+        431
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9853,
+      "box": [
+        125,
+        431,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Technology, Fairfield University, 2022",
+      "score": 0.984,
+      "box": [
+        114,
+        540,
+        771,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in acute care nursing",
+      "score": 0.9639,
+      "box": [
+        132,
+        565,
+        561,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of gastrointestinal nursing",
+      "score": 0.981,
+      "box": [
+        132,
+        590,
+        556,
+        615
+      ]
+    }
+  ]
+}

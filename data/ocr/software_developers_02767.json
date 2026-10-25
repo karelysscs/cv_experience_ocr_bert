@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_02767",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.833,
+  "mean_conf": 0.9796,
+  "lines": [
+    {
+      "text": "NICHOLAS CHOI",
+      "score": 0.9674,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-923-266-7344 |nicholas.choi@example.com",
+      "score": 0.9944,
+      "box": [
+        117,
+        151,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.02–2023.01",
+      "score": 0.9885,
+      "box": [
+        115,
+        289,
+        642,
+        313
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9822,
+      "box": [
+        127,
+        315,
+        454,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9731,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2017.02–2020.02",
+      "score": 0.986,
+      "box": [
+        115,
+        381,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9699,
+      "box": [
+        125,
+        405,
+        332,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9663,
+      "box": [
+        126,
+        430,
+        417,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Fairview University, 2021",
+      "score": 0.9843,
+      "box": [
+        115,
+        541,
+        439,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Maple Ridge University, 2019",
+      "score": 0.9696,
+      "box": [
+        115,
+        566,
+        499,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9627,
+      "box": [
+        132,
+        590,
+        557,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of database design",
+      "score": 0.9919,
+      "box": [
+        133,
+        615,
+        495,
+        640
+      ]
+    }
+  ]
+}

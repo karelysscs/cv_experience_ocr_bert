@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_43544",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.012,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "KYLE ONEILL",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "OK, USA|+1-761-947-3836|kyle.oneill@example.com",
+      "score": 0.9918,
+      "box": [
+        116,
+        150,
+        633,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TruePoint Construction, 2019.07–2023.01",
+      "score": 0.9793,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.949,
+      "box": [
+        125,
+        313,
+        452,
+        338
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9828,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardrock Builders, 2015.12–2019.07",
+      "score": 0.9889,
+      "box": [
+        116,
+        382,
+        674,
+        405
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9748,
+      "box": [
+        124,
+        405,
+        488,
+        430
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9833,
+      "box": [
+        125,
+        430,
+        421,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2012.05–2015.12",
+      "score": 0.967,
+      "box": [
+        115,
+        472,
+        649,
+        495
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9793,
+      "box": [
+        125,
+        496,
+        365,
+        521
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9875,
+      "box": [
+        125,
+        521,
+        397,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2006.01–2009.08",
+      "score": 0.974,
+      "box": [
+        114,
+        563,
+        705,
+        588
+      ]
+    },
+    {
+      "text": "-Marked measurements on materials",
+      "score": 0.9945,
+      "box": [
+        125,
+        588,
+        474,
+        612
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9916,
+      "box": [
+        125,
+        613,
+        441,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Lakeside High School, 2003",
+      "score": 0.9959,
+      "box": [
+        116,
+        725,
+        845,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction site coordination",
+      "score": 0.9726,
+      "box": [
+        133,
+        748,
+        648,
+        770
+      ]
+    }
+  ]
+}

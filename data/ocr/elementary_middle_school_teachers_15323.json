@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_15323",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "MARY BUTLER",
+      "score": 0.9825,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-598-477-5648|mary.butler@example.com",
+      "score": 0.9739,
+      "box": [
+        116,
+        151,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9828,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2020.08–2023.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.985,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9831,
+      "box": [
+        126,
+        339,
+        502,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2015.08–2018.02",
+      "score": 0.9604,
+      "box": [
+        116,
+        382,
+        814,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9938,
+      "box": [
+        126,
+        406,
+        458,
+        430
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9962,
+      "box": [
+        126,
+        431,
+        518,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Applied Education, Stoneview University, 2004",
+      "score": 0.9706,
+      "box": [
+        115,
+        541,
+        638,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Crestline University, 2002",
+      "score": 0.9845,
+      "box": [
+        114,
+        565,
+        711,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.994,
+      "box": [
+        132,
+        590,
+        597,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9818,
+      "box": [
+        133,
+        615,
+        708,
+        640
+      ]
+    }
+  ]
+}

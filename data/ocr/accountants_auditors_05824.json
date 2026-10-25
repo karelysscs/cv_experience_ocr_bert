@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_05824",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9777,
+  "lines": [
+    {
+      "text": "NANCY TODD",
+      "score": 0.9613,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-986-669-1926 |nancy.todd@example.com",
+      "score": 0.9784,
+      "box": [
+        116,
+        150,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Accounting, 2018.11–2023.01",
+      "score": 0.9841,
+      "box": [
+        114,
+        289,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "-Directed financial reporting processes",
+      "score": 0.9864,
+      "box": [
+        125,
+        314,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9441,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2014.09–2018.11",
+      "score": 0.9741,
+      "box": [
+        114,
+        381,
+        720,
+        406
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9751,
+      "box": [
+        125,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9698,
+      "box": [
+        126,
+        430,
+        391,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2010.06–2014.09",
+      "score": 0.992,
+      "box": [
+        115,
+        472,
+        731,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9766,
+      "box": [
+        125,
+        496,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9752,
+      "box": [
+        125,
+        521,
+        368,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2006.03–2010.06",
+      "score": 0.9892,
+      "box": [
+        115,
+        564,
+        686,
+        587
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9913,
+      "box": [
+        125,
+        589,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9702,
+      "box": [
+        126,
+        613,
+        409,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Commerce, Fieldstone University, 2009",
+      "score": 0.9855,
+      "box": [
+        115,
+        723,
+        670,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in regulatory reporting",
+      "score": 0.9626,
+      "box": [
+        132,
+        748,
+        571,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting case analysis",
+      "score": 0.9811,
+      "box": [
+        134,
+        772,
+        622,
+        798
+      ]
+    }
+  ]
+}

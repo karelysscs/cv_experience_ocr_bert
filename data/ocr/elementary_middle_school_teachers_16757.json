@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_16757",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.038,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "KATIE LU",
+      "score": 0.9749,
+      "box": [
+        114,
+        88,
+        273,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA|+1-325-633-4081 |katie.lu@example.com",
+      "score": 0.9722,
+      "box": [
+        115,
+        150,
+        600,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9831,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2019.12–2023.01",
+      "score": 0.9882,
+      "box": [
+        116,
+        290,
+        834,
+        313
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9874,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2016.11–2019.12",
+      "score": 0.9904,
+      "box": [
+        116,
+        382,
+        843,
+        406
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9751,
+      "box": [
+        126,
+        405,
+        511,
+        430
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9881,
+      "box": [
+        126,
+        430,
+        523,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2013.10–2016.11",
+      "score": 0.9831,
+      "box": [
+        116,
+        472,
+        871,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9882,
+      "box": [
+        127,
+        498,
+        516,
+        521
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9831,
+      "box": [
+        126,
+        521,
+        517,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2008.03–2011.04",
+      "score": 0.9734,
+      "box": [
+        116,
+        565,
+        813,
+        588
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9926,
+      "box": [
+        126,
+        589,
+        518,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9784,
+      "box": [
+        127,
+        615,
+        656,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Northview University, 2006",
+      "score": 0.9812,
+      "box": [
+        115,
+        725,
+        663,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Stonebridge University, 2004",
+      "score": 0.9683,
+      "box": [
+        114,
+        747,
+        735,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9855,
+      "box": [
+        133,
+        773,
+        564,
+        796
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9915,
+      "box": [
+        132,
+        797,
+        489,
+        822
+      ]
+    }
+  ]
+}

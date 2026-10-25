@@ -1,0 +1,16 @@
+{
+  "min_conf": 0.8,
+  "n_cvs": 4000,
+  "n_cvs_masked": 0,
+  "share_cvs_masked": 0.0,
+  "cvs_masked_by_pattern": {
+    "total_experience": 0,
+    "experience_colon": 0,
+    "decade": 0,
+    "age": 0,
+    "birth": 0
+  },
+  "n_cvs_masked_reference": 0,
+  "lines_dropped_low_conf": 0,
+  "lines_total": 57656
+}

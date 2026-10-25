@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_12012",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.862,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "AUTUMN THOMAS",
+      "score": 0.965,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-655-669-6297|autumn.thomas@example.com",
+      "score": 0.9797,
+      "box": [
+        115,
+        150,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9707,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2022.05–2023.01",
+      "score": 0.9841,
+      "box": [
+        115,
+        290,
+        857,
+        313
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9768,
+      "box": [
+        125,
+        313,
+        409,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9873,
+      "box": [
+        126,
+        339,
+        442,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Stonebrook University, 2021",
+      "score": 0.9723,
+      "box": [
+        114,
+        447,
+        666,
+        471
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9779,
+      "box": [
+        132,
+        472,
+        726,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom management techniques",
+      "score": 0.9862,
+      "box": [
+        133,
+        497,
+        719,
+        523
+      ]
+    }
+  ]
+}

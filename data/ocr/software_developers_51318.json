@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_51318",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.771,
+  "mean_conf": 0.9764,
+  "lines": [
+    {
+      "text": "MATHEW ALLISON",
+      "score": 0.9668,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-595-867-5422|mathew.allison@example.com",
+      "score": 0.963,
+      "box": [
+        115,
+        150,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2018.11–2021.07",
+      "score": 0.9725,
+      "box": [
+        115,
+        289,
+        641,
+        312
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9794,
+      "box": [
+        125,
+        313,
+        376,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9844,
+      "box": [
+        127,
+        340,
+        422,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowhaven University, 2008",
+      "score": 0.9522,
+      "box": [
+        115,
+        449,
+        498,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9801,
+      "box": [
+        132,
+        472,
+        506,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9831,
+      "box": [
+        132,
+        497,
+        585,
+        523
+      ]
+    }
+  ]
+}

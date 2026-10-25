@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_18686",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.845,
+  "mean_conf": 0.9807,
+  "lines": [
+    {
+      "text": "WILLIE WALLER",
+      "score": 0.9668,
+      "box": [
+        116,
+        90,
+        384,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA|+1-378-272-2694 |willie.waller@example.com",
+      "score": 0.979,
+      "box": [
+        116,
+        152,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures School, 2020.11–202.03",
+      "score": 0.9681,
+      "box": [
+        116,
+        290,
+        838,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9817,
+      "box": [
+        126,
+        314,
+        716,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9811,
+      "box": [
+        126,
+        338,
+        406,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Clear Ridge University, 2018",
+      "score": 0.9822,
+      "box": [
+        115,
+        449,
+        750,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9848,
+      "box": [
+        134,
+        475,
+        652,
+        495
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9858,
+      "box": [
+        132,
+        496,
+        532,
+        524
+      ]
+    }
+  ]
+}

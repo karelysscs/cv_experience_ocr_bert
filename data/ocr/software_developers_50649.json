@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_50649",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.905,
+  "mean_conf": 0.9813,
+  "lines": [
+    {
+      "text": "TIMOTHY PETERSON",
+      "score": 0.9865,
+      "box": [
+        115,
+        90,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-943-952-4909|timothy.peterson@example.com",
+      "score": 0.9842,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9858,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpoint Software, 2020.10–2023.01",
+      "score": 0.994,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.973,
+      "box": [
+        125,
+        313,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9907,
+      "box": [
+        126,
+        339,
+        433,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2018.07–2020.10",
+      "score": 0.9695,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9739,
+      "box": [
+        126,
+        406,
+        426,
+        432
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9684,
+      "box": [
+        125,
+        429,
+        372,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2016.04–2018.07",
+      "score": 0.9886,
+      "box": [
+        116,
+        472,
+        644,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9688,
+      "box": [
+        126,
+        498,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9836,
+      "box": [
+        126,
+        521,
+        502,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowhaven University, 2020",
+      "score": 0.97,
+      "box": [
+        115,
+        632,
+        499,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in inversion of control",
+      "score": 0.9761,
+      "box": [
+        134,
+        659,
+        564,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9892,
+      "box": [
+        134,
+        681,
+        614,
+        706
+      ]
+    }
+  ]
+}

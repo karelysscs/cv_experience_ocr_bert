@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_48604",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.884,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "LAQUAVIOUS LOWE",
+      "score": 0.9884,
+      "box": [
+        116,
+        90,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-209-513-9276 |laquavious.lowe@example.com",
+      "score": 0.9667,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9875,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2020.11–2023.01",
+      "score": 0.988,
+      "box": [
+        115,
+        290,
+        720,
+        313
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9837,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.993,
+      "box": [
+        126,
+        339,
+        371,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Builders, 2018.09–2020.11",
+      "score": 0.9848,
+      "box": [
+        116,
+        382,
+        692,
+        405
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9727,
+      "box": [
+        125,
+        405,
+        453,
+        430
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9572,
+      "box": [
+        125,
+        430,
+        368,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2016.06–2018.09",
+      "score": 0.9854,
+      "box": [
+        116,
+        472,
+        732,
+        496
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9876,
+      "box": [
+        125,
+        496,
+        361,
+        523
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9744,
+      "box": [
+        126,
+        521,
+        476,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Summit Ridge High School, 2016",
+      "score": 0.995,
+      "box": [
+        115,
+        631,
+        883,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9674,
+      "box": [
+        132,
+        656,
+        624,
+        681
+      ]
+    }
+  ]
+}

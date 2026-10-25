@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_22383",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.898,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "MADISON DIAZ",
+      "score": 0.9887,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-462-399-8928 |madison.diaz@example.com",
+      "score": 0.953,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2021.06–2023.01",
+      "score": 0.9724,
+      "box": [
+        115,
+        290,
+        854,
+        313
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9751,
+      "box": [
+        125,
+        314,
+        431,
+        339
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9844,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures School, 2019.11–2021.06",
+      "score": 0.9924,
+      "box": [
+        115,
+        381,
+        865,
+        406
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9702,
+      "box": [
+        126,
+        406,
+        413,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9847,
+      "box": [
+        125,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Child Studies, Rivercrest University, 2023",
+      "score": 0.9718,
+      "box": [
+        114,
+        539,
+        764,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in social studies education",
+      "score": 0.9894,
+      "box": [
+        133,
+        566,
+        611,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of group learning dynamics",
+      "score": 0.9846,
+      "box": [
+        132,
+        590,
+        607,
+        614
+      ]
+    }
+  ]
+}

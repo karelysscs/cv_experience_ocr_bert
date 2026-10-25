@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_36823",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.975,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "JENNIFER WRIGHT",
+      "score": 0.9757,
+      "box": [
+        116,
+        90,
+        428,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA|+1-766-237-5106|jennifer.wright@example.com",
+      "score": 0.9892,
+      "box": [
+        115,
+        150,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2018.11–2023.01",
+      "score": 0.98,
+      "box": [
+        115,
+        290,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9658,
+      "box": [
+        126,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9832,
+      "box": [
+        128,
+        340,
+        478,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2014.09–2018.11",
+      "score": 0.9759,
+      "box": [
+        114,
+        381,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9871,
+      "box": [
+        126,
+        406,
+        514,
+        431
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9685,
+      "box": [
+        126,
+        431,
+        524,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2010.07–2014.09",
+      "score": 0.9861,
+      "box": [
+        114,
+        471,
+        747,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9686,
+      "box": [
+        125,
+        496,
+        421,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9785,
+      "box": [
+        126,
+        521,
+        432,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2006.05–2010.07",
+      "score": 0.983,
+      "box": [
+        116,
+        566,
+        693,
+        586
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9638,
+      "box": [
+        126,
+        590,
+        409,
+        612
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9666,
+      "box": [
+        126,
+        613,
+        369,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Riverstone Ridge University, 208",
+      "score": 0.979,
+      "box": [
+        114,
+        723,
+        720,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.997,
+      "box": [
+        134,
+        749,
+        621,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9806,
+      "box": [
+        135,
+        774,
+        572,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_27182",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.002,
+  "mean_conf": 0.9781,
+  "lines": [
+    {
+      "text": "KENNETH LANE",
+      "score": 0.9739,
+      "box": [
+        116,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-956-439-4782| kenneth.lane@example.com",
+      "score": 0.9715,
+      "box": [
+        116,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2019.11–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        290,
+        663,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9642,
+      "box": [
+        125,
+        313,
+        532,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9956,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2016.08–2019.11",
+      "score": 0.9852,
+      "box": [
+        115,
+        381,
+        720,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.988,
+      "box": [
+        125,
+        406,
+        491,
+        431
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9898,
+      "box": [
+        126,
+        432,
+        467,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverBuild Co., 2013.05–2016.08",
+      "score": 0.9663,
+      "box": [
+        115,
+        472,
+        636,
+        495
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9826,
+      "box": [
+        125,
+        496,
+        452,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9459,
+      "box": [
+        126,
+        521,
+        392,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongEdge Builders, 2009.01–2012.04",
+      "score": 0.9814,
+      "box": [
+        116,
+        565,
+        700,
+        588
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9874,
+      "box": [
+        125,
+        589,
+        503,
+        614
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9672,
+      "box": [
+        125,
+        613,
+        392,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Amber Hills High School, 1999",
+      "score": 0.9906,
+      "box": [
+        116,
+        725,
+        860,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural anchoring",
+      "score": 0.9471,
+      "box": [
+        132,
+        748,
+        572,
+        773
+      ]
+    }
+  ]
+}

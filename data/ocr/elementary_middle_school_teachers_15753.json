@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_15753",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.92,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "JORDAN DENNIS",
+      "score": 0.9942,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-649-297-4672 |jordan.dennis@example.com",
+      "score": 0.9668,
+      "box": [
+        116,
+        151,
+        667,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, WonderWorks Academy, 2018.08–2021.02",
+      "score": 0.9834,
+      "box": [
+        115,
+        290,
+        863,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9808,
+      "box": [
+        127,
+        315,
+        507,
+        338
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9942,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2015.07–2018.02",
+      "score": 0.9785,
+      "box": [
+        115,
+        381,
+        839,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9843,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9655,
+      "box": [
+        125,
+        432,
+        398,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Developmental Studies, Willowcrest University, 2014",
+      "score": 0.9705,
+      "box": [
+        114,
+        540,
+        695,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Brightfield Ridge University, 2012",
+      "score": 0.9885,
+      "box": [
+        115,
+        566,
+        715,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9898,
+      "box": [
+        135,
+        592,
+        604,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson planning",
+      "score": 0.994,
+      "box": [
+        133,
+        615,
+        486,
+        640
+      ]
+    }
+  ]
+}

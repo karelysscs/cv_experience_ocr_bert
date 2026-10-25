@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_13902",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "JAMES FITZPATRICK",
+      "score": 0.9915,
+      "box": [
+        116,
+        90,
+        461,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-303-357-1775 |james.fitzpatrick@example.com",
+      "score": 0.9846,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9785,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2020.09–2023.01",
+      "score": 0.9903,
+      "box": [
+        115,
+        290,
+        711,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9829,
+      "box": [
+        126,
+        315,
+        491,
+        338
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9969,
+      "box": [
+        128,
+        341,
+        487,
+        361
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2018.04–2020.09",
+      "score": 0.9894,
+      "box": [
+        116,
+        382,
+        681,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.991,
+      "box": [
+        125,
+        406,
+        440,
+        431
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9435,
+      "box": [
+        126,
+        431,
+        477,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Clear Spring High School, 2019",
+      "score": 0.9734,
+      "box": [
+        115,
+        540,
+        773,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of environmental safety",
+      "score": 0.9919,
+      "box": [
+        133,
+        565,
+        534,
+        590
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_20874",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.891,
+  "mean_conf": 0.9832,
+  "lines": [
+    {
+      "text": "JAMIE CHRISTIAN",
+      "score": 0.98,
+      "box": [
+        116,
+        90,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-865-349-6355|jamie.christian@example.com",
+      "score": 0.9888,
+      "box": [
+        115,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2020.05–2023.01",
+      "score": 0.9857,
+      "box": [
+        116,
+        290,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9917,
+      "box": [
+        126,
+        315,
+        436,
+        338
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9584,
+      "box": [
+        126,
+        339,
+        489,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2015.05–2018.01",
+      "score": 0.9883,
+      "box": [
+        116,
+        382,
+        704,
+        405
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9853,
+      "box": [
+        126,
+        407,
+        489,
+        430
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9788,
+      "box": [
+        126,
+        431,
+        531,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2012.01–2014.10",
+      "score": 0.9589,
+      "box": [
+        116,
+        472,
+        626,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9819,
+      "box": [
+        125,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9794,
+      "box": [
+        126,
+        521,
+        479,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Pine Valley University, 2010",
+      "score": 0.9849,
+      "box": [
+        114,
+        631,
+        677,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9896,
+      "box": [
+        135,
+        659,
+        608,
+        679
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9969,
+      "box": [
+        134,
+        681,
+        625,
+        706
+      ]
+    }
+  ]
+}

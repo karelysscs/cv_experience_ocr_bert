@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_01275",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.73,
+  "mean_conf": 0.9808,
+  "lines": [
+    {
+      "text": "SAMANTHA HULL",
+      "score": 0.9736,
+      "box": [
+        115,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-819-731-8479|samantha.hull@example.com",
+      "score": 0.9523,
+      "box": [
+        115,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Health Services, 2021.02–2022.06",
+      "score": 0.9892,
+      "box": [
+        116,
+        290,
+        730,
+        313
+      ]
+    },
+    {
+      "text": "– Monitored patient skin condition",
+      "score": 0.9822,
+      "box": [
+        127,
+        315,
+        437,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9966,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Greenway University, 204",
+      "score": 0.9864,
+      "box": [
+        115,
+        449,
+        623,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9715,
+      "box": [
+        133,
+        473,
+        607,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9761,
+      "box": [
+        134,
+        499,
+        583,
+        522
+      ]
+    }
+  ]
+}

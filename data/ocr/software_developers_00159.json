@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_00159",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.945,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "STEPHENLITTLE",
+      "score": 0.9991,
+      "box": [
+        115,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA|+1-226-501-2650 |stephen.little@example.com",
+      "score": 0.9828,
+      "box": [
+        116,
+        151,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.986,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Dataforge Systems, 2020.06–2023.01",
+      "score": 0.9873,
+      "box": [
+        115,
+        289,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "-Defined data governance policies",
+      "score": 0.9719,
+      "box": [
+        125,
+        312,
+        450,
+        340
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9716,
+      "box": [
+        126,
+        338,
+        368,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2017.10–2020.06",
+      "score": 0.9881,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9792,
+      "box": [
+        125,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9814,
+      "box": [
+        126,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2015.02–2017.10",
+      "score": 0.9602,
+      "box": [
+        115,
+        471,
+        671,
+        496
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9587,
+      "box": [
+        125,
+        496,
+        351,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9738,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2012.06–2015.02",
+      "score": 0.9861,
+      "box": [
+        115,
+        563,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9785,
+      "box": [
+        126,
+        590,
+        422,
+        613
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9817,
+      "box": [
+        126,
+        613,
+        508,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwood University, 010",
+      "score": 0.975,
+      "box": [
+        114,
+        723,
+        486,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.9843,
+      "box": [
+        133,
+        749,
+        598,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.983,
+      "box": [
+        134,
+        773,
+        503,
+        795
+      ]
+    }
+  ]
+}

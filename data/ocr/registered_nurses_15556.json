@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_15556",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.872,
+  "mean_conf": 0.9773,
+  "lines": [
+    {
+      "text": "JILLIAN KIRBY",
+      "score": 0.9827,
+      "box": [
+        116,
+        89,
+        359,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA|+1-324-532-2666 |jilian.kirby@example.com",
+      "score": 0.9373,
+      "box": [
+        117,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2020.03–2023.01",
+      "score": 0.983,
+      "box": [
+        115,
+        289,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9823,
+      "box": [
+        127,
+        315,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9852,
+      "box": [
+        126,
+        339,
+        567,
+        362
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2016.02–2019.01",
+      "score": 0.995,
+      "box": [
+        116,
+        382,
+        724,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9807,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.979,
+      "box": [
+        127,
+        432,
+        465,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Some college (no degree), Patient Services, Meadowland University, 203",
+      "score": 0.965,
+      "box": [
+        116,
+        541,
+        804,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.9674,
+      "box": [
+        133,
+        566,
+        536,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9701,
+      "box": [
+        133,
+        591,
+        536,
+        614
+      ]
+    }
+  ]
+}

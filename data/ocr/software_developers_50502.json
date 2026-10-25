@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_50502",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.799,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "BRYAN PHAN",
+      "score": 0.9518,
+      "box": [
+        116,
+        90,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-411-541-2804|bryan.phan@example.com",
+      "score": 0.9787,
+      "box": [
+        115,
+        150,
+        643,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2020.12–2021.09",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9846,
+      "box": [
+        127,
+        315,
+        390,
+        339
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.968,
+      "box": [
+        127,
+        341,
+        403,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Fairview University, 2012",
+      "score": 0.994,
+      "box": [
+        115,
+        449,
+        441,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldstone University, 2010",
+      "score": 0.9864,
+      "box": [
+        115,
+        474,
+        478,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9909,
+      "box": [
+        133,
+        498,
+        600,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of system design",
+      "score": 0.9842,
+      "box": [
+        133,
+        523,
+        475,
+        548
+      ]
+    }
+  ]
+}

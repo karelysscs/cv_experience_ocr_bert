@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_02406",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.699,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "TAYLER RUSSO",
+      "score": 0.968,
+      "box": [
+        114,
+        90,
+        380,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-748-434-4302 |tayler.russo@example.com",
+      "score": 0.9768,
+      "box": [
+        116,
+        152,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9814,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2021.06–223.01",
+      "score": 0.9763,
+      "box": [
+        116,
+        290,
+        734,
+        313
+      ]
+    },
+    {
+      "text": "-Monitored oxygen therapy",
+      "score": 0.9877,
+      "box": [
+        125,
+        314,
+        384,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9824,
+      "box": [
+        127,
+        340,
+        431,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Nursing, Pebble Creek University, 2022",
+      "score": 0.9883,
+      "box": [
+        116,
+        449,
+        743,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in suctioning techniques",
+      "score": 0.9919,
+      "box": [
+        133,
+        474,
+        591,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in transition of care basics",
+      "score": 0.9851,
+      "box": [
+        134,
+        499,
+        609,
+        522
+      ]
+    }
+  ]
+}

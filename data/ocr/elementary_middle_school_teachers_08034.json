@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_08034",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.018,
+  "mean_conf": 0.9812,
+  "lines": [
+    {
+      "text": "JASMINE DAVENPORT",
+      "score": 0.9888,
+      "box": [
+        116,
+        90,
+        486,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA|+1-981-330-6170 |jasmine.davenport@example.com",
+      "score": 0.9782,
+      "box": [
+        117,
+        152,
+        712,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9792,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2020.07–2023.01",
+      "score": 0.9925,
+      "box": [
+        115,
+        289,
+        877,
+        314
+      ]
+    },
+    {
+      "text": "-Directed instructional benchmarking",
+      "score": 0.9928,
+      "box": [
+        126,
+        315,
+        473,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9896,
+      "box": [
+        126,
+        339,
+        577,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2018.01–2020.07",
+      "score": 0.9763,
+      "box": [
+        116,
+        382,
+        811,
+        406
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9819,
+      "box": [
+        126,
+        406,
+        497,
+        431
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9745,
+      "box": [
+        126,
+        430,
+        488,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2015.07–2018.01",
+      "score": 0.9921,
+      "box": [
+        115,
+        471,
+        876,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9758,
+      "box": [
+        127,
+        498,
+        480,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9624,
+      "box": [
+        127,
+        523,
+        515,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2011.03–2013.09",
+      "score": 0.9804,
+      "box": [
+        116,
+        565,
+        859,
+        588
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9582,
+      "box": [
+        125,
+        589,
+        427,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9686,
+      "box": [
+        127,
+        615,
+        565,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, North Ridge University, 2010",
+      "score": 0.9815,
+      "box": [
+        115,
+        725,
+        705,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of educational planning",
+      "score": 0.9865,
+      "box": [
+        132,
+        747,
+        533,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9843,
+      "box": [
+        133,
+        773,
+        588,
+        795
+      ]
+    }
+  ]
+}

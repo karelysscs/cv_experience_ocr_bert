@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_01462",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.948,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "ABBY MOSES",
+      "score": 0.9572,
+      "box": [
+        116,
+        90,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-353-906-1075|abby.moses@example.com",
+      "score": 0.9787,
+      "box": [
+        116,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2020.06–2023.01",
+      "score": 0.9699,
+      "box": [
+        116,
+        290,
+        652,
+        314
+      ]
+    },
+    {
+      "text": "-Managed care delivery innovation",
+      "score": 0.9744,
+      "box": [
+        126,
+        314,
+        453,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2017.11–2020.06",
+      "score": 0.9646,
+      "box": [
+        115,
+        381,
+        711,
+        406
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9901,
+      "box": [
+        126,
+        406,
+        454,
+        431
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9901,
+      "box": [
+        126,
+        430,
+        425,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelISpring Nursing Services, 2015.03–2017.11",
+      "score": 0.9873,
+      "box": [
+        116,
+        473,
+        739,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.988,
+      "box": [
+        125,
+        496,
+        445,
+        521
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9764,
+      "box": [
+        126,
+        521,
+        492,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Medical Group, 2012.07–2015.03",
+      "score": 0.9852,
+      "box": [
+        116,
+        565,
+        710,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9896,
+      "box": [
+        125,
+        588,
+        390,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9908,
+      "box": [
+        125,
+        613,
+        531,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Parkview University, 2011",
+      "score": 0.9716,
+      "box": [
+        114,
+        723,
+        669,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of oxygen therapy",
+      "score": 0.9858,
+      "box": [
+        132,
+        747,
+        485,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9698,
+      "box": [
+        133,
+        772,
+        582,
+        797
+      ]
+    }
+  ]
+}

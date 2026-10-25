@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_06513",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.024,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "ANTHONY MACK",
+      "score": 0.9877,
+      "box": [
+        117,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-488-853-8940 |anthony.mack@example.com",
+      "score": 0.9928,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9851,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2018.04–2023.01",
+      "score": 0.9812,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9673,
+      "box": [
+        126,
+        313,
+        452,
+        339
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9822,
+      "box": [
+        126,
+        338,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorWorks Construction, 2013.07–2018.04",
+      "score": 0.989,
+      "box": [
+        115,
+        381,
+        757,
+        405
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9793,
+      "box": [
+        125,
+        405,
+        484,
+        431
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9585,
+      "box": [
+        126,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2008.10–2013.07",
+      "score": 0.9941,
+      "box": [
+        115,
+        472,
+        736,
+        495
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9723,
+      "box": [
+        125,
+        496,
+        418,
+        521
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9937,
+      "box": [
+        126,
+        521,
+        434,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2003.12–2008.10",
+      "score": 0.9923,
+      "box": [
+        116,
+        565,
+        662,
+        588
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9779,
+      "box": [
+        126,
+        590,
+        465,
+        613
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9934,
+      "box": [
+        126,
+        614,
+        417,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Engineering Technology, Stonecrest University, 2005",
+      "score": 0.9715,
+      "box": [
+        116,
+        725,
+        983,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of structural support systems",
+      "score": 0.9915,
+      "box": [
+        132,
+        748,
+        586,
+        773
+      ]
+    },
+    {
+      "text": "• Completed coursework in building maintenance basics",
+      "score": 0.9926,
+      "box": [
+        135,
+        774,
+        651,
+        797
+      ]
+    }
+  ]
+}

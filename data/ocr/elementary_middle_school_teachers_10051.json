@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_10051",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.866,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "NICOLE JENNINGS",
+      "score": 0.985,
+      "box": [
+        116,
+        90,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-291-243-1792|nicole.jennings@example.com",
+      "score": 0.9721,
+      "box": [
+        117,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2022.10–2023.01",
+      "score": 0.971,
+      "box": [
+        116,
+        290,
+        847,
+        313
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9921,
+      "box": [
+        126,
+        315,
+        484,
+        338
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9827,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Lakeside University, 2023",
+      "score": 0.9878,
+      "box": [
+        115,
+        449,
+        703,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Greenfield Ridge University, 2021",
+      "score": 0.9696,
+      "box": [
+        114,
+        472,
+        731,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of inclusive education",
+      "score": 0.995,
+      "box": [
+        135,
+        500,
+        518,
+        520
+      ]
+    },
+    {
+      "text": "• Completed coursework in student motivation concepts",
+      "score": 0.9765,
+      "box": [
+        134,
+        523,
+        648,
+        548
+      ]
+    }
+  ]
+}

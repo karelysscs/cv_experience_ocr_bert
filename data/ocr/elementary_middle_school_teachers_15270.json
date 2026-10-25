@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_15270",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.922,
+  "mean_conf": 0.9757,
+  "lines": [
+    {
+      "text": "SOLOMONWADE",
+      "score": 0.9984,
+      "box": [
+        113,
+        87,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA |+1-364-302-1757 | solomon.wade@example.com",
+      "score": 0.9657,
+      "box": [
+        116,
+        151,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9523,
+      "box": [
+        114,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2020.12–202.01",
+      "score": 0.988,
+      "box": [
+        115,
+        289,
+        849,
+        312
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9517,
+      "box": [
+        125,
+        313,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9797,
+      "box": [
+        126,
+        339,
+        517,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Education Basics, Meadowview University, 2022",
+      "score": 0.9706,
+      "box": [
+        114,
+        447,
+        655,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, EIm Ridge University, 220",
+      "score": 0.9501,
+      "box": [
+        114,
+        472,
+        723,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9919,
+      "box": [
+        134,
+        499,
+        661,
+        522
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9854,
+      "box": [
+        134,
+        523,
+        555,
+        545
+      ]
+    }
+  ]
+}

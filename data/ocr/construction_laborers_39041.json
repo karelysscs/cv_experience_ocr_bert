@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_39041",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.791,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "SAMUEL HENDRIX",
+      "score": 0.9862,
+      "box": [
+        116,
+        90,
+        419,
+        120
+      ]
+    },
+    {
+      "text": "NC, USA |+1-367-910-9510| samuel.hendrix@example.com",
+      "score": 0.9785,
+      "box": [
+        116,
+        152,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2020.11–2022.01",
+      "score": 0.9766,
+      "box": [
+        115,
+        290,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9627,
+      "box": [
+        126,
+        314,
+        555,
+        339
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9626,
+      "box": [
+        126,
+        339,
+        360,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Silverlake High School, 2018",
+      "score": 0.9859,
+      "box": [
+        116,
+        449,
+        865,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in drywall installation basics",
+      "score": 0.9834,
+      "box": [
+        133,
+        474,
+        624,
+        497
+      ]
+    }
+  ]
+}

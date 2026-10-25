@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_17946",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.75,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "LINZIE WELLS",
+      "score": 0.9811,
+      "box": [
+        116,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-958-938-8549 |linzie.wells@example.com",
+      "score": 0.9704,
+      "box": [
+        116,
+        151,
+        629,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2022.02–2022.07",
+      "score": 0.9833,
+      "box": [
+        116,
+        290,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9754,
+      "box": [
+        125,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9978,
+      "box": [
+        126,
+        339,
+        483,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Mental Health Studies, Harvest University, 2010",
+      "score": 0.9846,
+      "box": [
+        114,
+        447,
+        748,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9661,
+      "box": [
+        132,
+        472,
+        552,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9901,
+      "box": [
+        133,
+        497,
+        500,
+        522
+      ]
+    }
+  ]
+}

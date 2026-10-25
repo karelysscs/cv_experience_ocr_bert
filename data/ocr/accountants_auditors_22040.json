@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_22040",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.856,
+  "mean_conf": 0.9864,
+  "lines": [
+    {
+      "text": "CRYSTAL MCDOWELL",
+      "score": 0.9806,
+      "box": [
+        115,
+        87,
+        482,
+        123
+      ]
+    },
+    {
+      "text": "KS, USA|+1-543-713-4043 |crystal.mcdowell@example.com",
+      "score": 0.9894,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9798,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2021.02–2023.01",
+      "score": 0.9917,
+      "box": [
+        115,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9893,
+      "box": [
+        126,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9855,
+      "box": [
+        127,
+        340,
+        549,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Goldenfield University, 2023",
+      "score": 0.9941,
+      "box": [
+        115,
+        449,
+        779,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Larkspur University, 221",
+      "score": 0.9721,
+      "box": [
+        114,
+        472,
+        641,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.981,
+      "box": [
+        134,
+        499,
+        547,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9887,
+      "box": [
+        134,
+        523,
+        681,
+        548
+      ]
+    }
+  ]
+}

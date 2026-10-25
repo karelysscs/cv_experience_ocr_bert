@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_48360",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.909,
+  "mean_conf": 0.9861,
+  "lines": [
+    {
+      "text": "PETERVINCENT",
+      "score": 0.9992,
+      "box": [
+        115,
+        90,
+        386,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA|+1-440-450-9601 |peter.vincent@example.com",
+      "score": 0.9843,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForm Construction, 2020.04–2023.01",
+      "score": 0.9847,
+      "box": [
+        114,
+        289,
+        721,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9815,
+      "box": [
+        126,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9783,
+      "box": [
+        126,
+        338,
+        467,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2017.07–2020.04",
+      "score": 0.9944,
+      "box": [
+        116,
+        382,
+        720,
+        405
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9842,
+      "box": [
+        125,
+        406,
+        475,
+        431
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9835,
+      "box": [
+        126,
+        432,
+        449,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2011.09–2014.07",
+      "score": 0.9903,
+      "box": [
+        116,
+        472,
+        656,
+        495
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.977,
+      "box": [
+        125,
+        495,
+        361,
+        522
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9713,
+      "box": [
+        126,
+        521,
+        552,
+        545
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9966,
+      "box": [
+        115,
+        585,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Evergreen High School, 1999",
+      "score": 0.9905,
+      "box": [
+        115,
+        631,
+        907,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9915,
+      "box": [
+        133,
+        657,
+        626,
+        680
+      ]
+    }
+  ]
+}

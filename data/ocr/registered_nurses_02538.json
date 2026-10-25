@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_02538",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.783,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "REGINALD DOYLE",
+      "score": 0.9718,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-736-378-1333 |reginald.doyle@example.com",
+      "score": 0.9704,
+      "box": [
+        116,
+        152,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9838,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2022.01–2023.01",
+      "score": 0.9923,
+      "box": [
+        115,
+        289,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9681,
+      "box": [
+        126,
+        314,
+        373,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.978,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Northfield University, 2023",
+      "score": 0.9763,
+      "box": [
+        115,
+        449,
+        635,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient mobility",
+      "score": 0.9865,
+      "box": [
+        132,
+        472,
+        518,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of endocrine nursing",
+      "score": 0.9842,
+      "box": [
+        132,
+        497,
+        507,
+        523
+      ]
+    }
+  ]
+}

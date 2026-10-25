@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_15506",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.05,
+  "mean_conf": 0.9844,
+  "lines": [
+    {
+      "text": "KAYLA ROBERSON",
+      "score": 0.9898,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-344-540-1440|kayla.roberson@example.com",
+      "score": 0.9817,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2020.07–2023.01",
+      "score": 0.9758,
+      "box": [
+        115,
+        290,
+        832,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9896,
+      "box": [
+        126,
+        315,
+        467,
+        338
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9689,
+      "box": [
+        127,
+        340,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2018.01–2020.07",
+      "score": 0.9942,
+      "box": [
+        116,
+        382,
+        835,
+        406
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.988,
+      "box": [
+        126,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.986,
+      "box": [
+        126,
+        430,
+        543,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2015.07–2018.01",
+      "score": 0.9902,
+      "box": [
+        115,
+        472,
+        824,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9585,
+      "box": [
+        126,
+        498,
+        586,
+        521
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9903,
+      "box": [
+        126,
+        522,
+        479,
+        545
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2013.01–2015.07",
+      "score": 0.9716,
+      "box": [
+        116,
+        565,
+        834,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9956,
+      "box": [
+        127,
+        591,
+        398,
+        611
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9852,
+      "box": [
+        126,
+        613,
+        411,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child Development, Valley View University, 2014",
+      "score": 0.9798,
+      "box": [
+        115,
+        725,
+        658,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Brightwood University, 2012",
+      "score": 0.9784,
+      "box": [
+        115,
+        749,
+        728,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional communication",
+      "score": 0.9967,
+      "box": [
+        133,
+        775,
+        598,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9886,
+      "box": [
+        132,
+        798,
+        726,
+        823
+      ]
+    }
+  ]
+}

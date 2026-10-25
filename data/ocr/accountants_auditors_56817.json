@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_56817",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.818,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "ISABELLE DONOVAN",
+      "score": 0.9879,
+      "box": [
+        113,
+        87,
+        464,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-443-985-3365|isabelle.donovan@example.com",
+      "score": 0.9873,
+      "box": [
+        115,
+        150,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2021.03–2023.01",
+      "score": 0.9856,
+      "box": [
+        116,
+        291,
+        702,
+        311
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9847,
+      "box": [
+        127,
+        315,
+        453,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.953,
+      "box": [
+        127,
+        340,
+        367,
+        361
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Investment Management, Clearfield University, 2023",
+      "score": 0.9939,
+      "box": [
+        116,
+        449,
+        789,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.978,
+      "box": [
+        134,
+        475,
+        614,
+        495
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional judgment",
+      "score": 0.9903,
+      "box": [
+        133,
+        497,
+        585,
+        522
+      ]
+    }
+  ]
+}

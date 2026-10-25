@@ -1,0 +1,203 @@
+{
+  "id": "elementary_middle_school_teachers_22046",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.019,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "JOHN WRIGHT",
+      "score": 0.9803,
+      "box": [
+        116,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-667-634-7734 |john.wright@example.com",
+      "score": 0.9705,
+      "box": [
+        116,
+        151,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2020.02–2023.01",
+      "score": 0.9676,
+      "box": [
+        116,
+        290,
+        798,
+        313
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9894,
+      "box": [
+        127,
+        315,
+        512,
+        338
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9845,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Steps School, 2017.03–220.02",
+      "score": 0.9814,
+      "box": [
+        115,
+        381,
+        841,
+        406
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.976,
+      "box": [
+        126,
+        406,
+        536,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9946,
+      "box": [
+        126,
+        430,
+        569,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kindlewood School, 2014.04–2017.03",
+      "score": 0.9856,
+      "box": [
+        114,
+        471,
+        815,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9846,
+      "box": [
+        126,
+        496,
+        515,
+        522
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9872,
+      "box": [
+        126,
+        521,
+        412,
+        547
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2009.01–2012.01",
+      "score": 0.9797,
+      "box": [
+        116,
+        565,
+        860,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9936,
+      "box": [
+        125,
+        589,
+        458,
+        612
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9899,
+      "box": [
+        127,
+        614,
+        409,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Bachelor's, General Studies, Edgewood University, 2007",
+      "score": 0.9625,
+      "box": [
+        114,
+        723,
+        641,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.9686,
+      "box": [
+        132,
+        747,
+        568,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9825,
+      "box": [
+        134,
+        773,
+        636,
+        798
+      ]
+    }
+  ]
+}

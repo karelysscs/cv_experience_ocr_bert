@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_24392",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.806,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "PATRICIASTAFFORD",
+      "score": 0.999,
+      "box": [
+        115,
+        90,
+        464,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA|+1-318-277-9107 |patricia.stafford@example.com",
+      "score": 0.9869,
+      "box": [
+        116,
+        152,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9819,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2021.09–2022.03",
+      "score": 0.9712,
+      "box": [
+        116,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9863,
+      "box": [
+        126,
+        314,
+        484,
+        339
+      ]
+    },
+    {
+      "text": "– Maintained infection control protocols",
+      "score": 0.9657,
+      "box": [
+        127,
+        340,
+        487,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Rehabilitation Sciences, Fairview University, 202",
+      "score": 0.9804,
+      "box": [
+        116,
+        449,
+        766,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in renal nursing basics",
+      "score": 0.9901,
+      "box": [
+        133,
+        474,
+        576,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in fatigue management basics",
+      "score": 0.9852,
+      "box": [
+        134,
+        499,
+        644,
+        522
+      ]
+    }
+  ]
+}

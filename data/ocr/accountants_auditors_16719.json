@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_16719",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.994,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "TIMOTHY SHAW",
+      "score": 0.9783,
+      "box": [
+        115,
+        90,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-431-540-3742 |timothy.shaw@example.com",
+      "score": 0.9818,
+      "box": [
+        116,
+        152,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9803,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2020.02–2023.01",
+      "score": 0.971,
+      "box": [
+        114,
+        289,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9718,
+      "box": [
+        127,
+        315,
+        480,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.987,
+      "box": [
+        127,
+        339,
+        495,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2017.02–2020.02",
+      "score": 0.9846,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9897,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9746,
+      "box": [
+        126,
+        431,
+        457,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2014.02–2017.02",
+      "score": 0.9843,
+      "box": [
+        114,
+        471,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9764,
+      "box": [
+        125,
+        496,
+        437,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.964,
+      "box": [
+        126,
+        521,
+        510,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2011.02–2014.02",
+      "score": 0.9869,
+      "box": [
+        116,
+        565,
+        704,
+        588
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9819,
+      "box": [
+        127,
+        591,
+        436,
+        614
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9917,
+      "box": [
+        126,
+        613,
+        550,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Accounting, Riverside University, 2009",
+      "score": 0.9841,
+      "box": [
+        116,
+        725,
+        737,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of nonprofit accounting",
+      "score": 0.9883,
+      "box": [
+        132,
+        747,
+        529,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of cost management",
+      "score": 0.9884,
+      "box": [
+        133,
+        774,
+        508,
+        797
+      ]
+    }
+  ]
+}

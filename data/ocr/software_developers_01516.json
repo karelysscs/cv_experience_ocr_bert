@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_01516",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.886,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "ANDREW TRUONG",
+      "score": 0.9717,
+      "box": [
+        117,
+        90,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-943-719-6536|andrew.truong@example.com",
+      "score": 0.9937,
+      "box": [
+        116,
+        152,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.988,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpoint Software, 2020.07–2023.01",
+      "score": 0.9943,
+      "box": [
+        116,
+        290,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9839,
+      "box": [
+        127,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9693,
+      "box": [
+        126,
+        339,
+        460,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2017.12–2020.07",
+      "score": 0.9767,
+      "box": [
+        115,
+        381,
+        655,
+        406
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9875,
+      "box": [
+        126,
+        406,
+        375,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9709,
+      "box": [
+        126,
+        430,
+        384,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2014.02–216.09",
+      "score": 0.9766,
+      "box": [
+        116,
+        472,
+        682,
+        496
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9964,
+      "box": [
+        126,
+        498,
+        374,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9825,
+      "box": [
+        126,
+        521,
+        436,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Pineview Ridge University, 2009",
+      "score": 0.9877,
+      "box": [
+        115,
+        632,
+        507,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Westfield University, 207",
+      "score": 0.9667,
+      "box": [
+        115,
+        657,
+        467,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of scalability concepts",
+      "score": 0.9834,
+      "box": [
+        132,
+        681,
+        559,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in programming in Python",
+      "score": 0.9604,
+      "box": [
+        133,
+        706,
+        605,
+        732
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "registered_nurses_04110",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.78,
+  "mean_conf": 0.9854,
+  "lines": [
+    {
+      "text": "JAZMINE ONEAL",
+      "score": 0.977,
+      "box": [
+        116,
+        90,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-644-887-2997 |jazmine.oneal@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        152,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2020.08–2020.12",
+      "score": 0.9754,
+      "box": [
+        116,
+        290,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9948,
+      "box": [
+        126,
+        315,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9813,
+      "box": [
+        128,
+        341,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Health Technologgy, Havenwood High School, 2017",
+      "score": 0.9785,
+      "box": [
+        116,
+        449,
+        848,
+        473
+      ]
+    },
+    {
+      "text": "• Studied principles of disease prevention",
+      "score": 0.9905,
+      "box": [
+        133,
+        474,
+        517,
+        497
+      ]
+    }
+  ]
+}

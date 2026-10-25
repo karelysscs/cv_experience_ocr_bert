@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_61397",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.802,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "COLE ADAMS",
+      "score": 0.968,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA|+1-791-950-4187|cole.adams@example.com",
+      "score": 0.9659,
+      "box": [
+        114,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9793,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2021.06–2023.01",
+      "score": 0.9925,
+      "box": [
+        116,
+        291,
+        715,
+        311
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9909,
+      "box": [
+        126,
+        313,
+        449,
+        337
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9797,
+      "box": [
+        127,
+        340,
+        553,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Silver Ridge High School, 2021",
+      "score": 0.9917,
+      "box": [
+        116,
+        449,
+        857,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of equipment calibration",
+      "score": 0.9722,
+      "box": [
+        132,
+        474,
+        539,
+        497
+      ]
+    }
+  ]
+}

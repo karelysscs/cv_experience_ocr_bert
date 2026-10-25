@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_14157",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.939,
+  "mean_conf": 0.9865,
+  "lines": [
+    {
+      "text": "MOLLY CARPENTER",
+      "score": 0.9904,
+      "box": [
+        117,
+        90,
+        451,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA|+1-629-673-9898 |molly.carpenter@example.com",
+      "score": 0.9781,
+      "box": [
+        116,
+        152,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9758,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2020.12–2023.01",
+      "score": 0.9702,
+      "box": [
+        116,
+        290,
+        827,
+        313
+      ]
+    },
+    {
+      "text": "-Directed cross-grade curriculum alignment",
+      "score": 0.9968,
+      "box": [
+        125,
+        314,
+        536,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        562,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2018.11–2020.12",
+      "score": 0.9843,
+      "box": [
+        115,
+        381,
+        820,
+        406
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9857,
+      "box": [
+        126,
+        407,
+        408,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9896,
+      "box": [
+        126,
+        430,
+        416,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Golden Meadow University, 2022",
+      "score": 0.9897,
+      "box": [
+        114,
+        539,
+        757,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Sunfield University, 2020",
+      "score": 0.9906,
+      "box": [
+        115,
+        566,
+        719,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson structure dsign",
+      "score": 0.9916,
+      "box": [
+        133,
+        590,
+        604,
+        614
+      ]
+    },
+    {
+      "text": "• Completed coursework in social studies education",
+      "score": 0.9921,
+      "box": [
+        134,
+        616,
+        611,
+        639
+      ]
+    }
+  ]
+}

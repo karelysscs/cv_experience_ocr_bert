@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_07872",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.919,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "JOSHUA ADAMS",
+      "score": 0.9806,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-971-206-6852 |joshua.adams@example.com",
+      "score": 0.9906,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9825,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2018.09–220.12",
+      "score": 0.9885,
+      "box": [
+        115,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9724,
+      "box": [
+        125,
+        314,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.984,
+      "box": [
+        127,
+        340,
+        504,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2015.10–2018.01",
+      "score": 0.9584,
+      "box": [
+        116,
+        382,
+        811,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9837,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9809,
+      "box": [
+        125,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Crestwood University, 2015",
+      "score": 0.9761,
+      "box": [
+        115,
+        541,
+        610,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Sagewood University, 2013",
+      "score": 0.9956,
+      "box": [
+        115,
+        566,
+        704,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9962,
+      "box": [
+        133,
+        590,
+        670,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.957,
+      "box": [
+        134,
+        615,
+        551,
+        639
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_15767",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.852,
+  "mean_conf": 0.9848,
+  "lines": [
+    {
+      "text": "REBECCA OBRIEN",
+      "score": 0.9702,
+      "box": [
+        116,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-930-370-2911 |rebecca.obrien@example.com",
+      "score": 0.9754,
+      "box": [
+        116,
+        151,
+        680,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2019.08–2021.09",
+      "score": 0.9949,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9848,
+      "box": [
+        126,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9933,
+      "box": [
+        126,
+        339,
+        397,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2016.06–2018.08",
+      "score": 0.9947,
+      "box": [
+        116,
+        382,
+        730,
+        405
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9797,
+      "box": [
+        126,
+        407,
+        410,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9894,
+      "box": [
+        125,
+        430,
+        399,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Patient Care, Oakwood University, 2013",
+      "score": 0.9847,
+      "box": [
+        114,
+        539,
+        675,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9686,
+      "box": [
+        133,
+        566,
+        493,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9872,
+      "box": [
+        134,
+        591,
+        625,
+        614
+      ]
+    }
+  ]
+}

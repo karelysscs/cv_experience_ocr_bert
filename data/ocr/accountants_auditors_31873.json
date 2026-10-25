@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_31873",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.013,
+  "mean_conf": 0.986,
+  "lines": [
+    {
+      "text": "MICHAEL HARDIN",
+      "score": 0.9933,
+      "box": [
+        116,
+        90,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "NE, USA|+1-703-264-3034 |michael.hardin@example.com",
+      "score": 0.9929,
+      "box": [
+        116,
+        152,
+        677,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2020.04–2023.01",
+      "score": 0.9805,
+      "box": [
+        114,
+        289,
+        741,
+        314
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9772,
+      "box": [
+        127,
+        315,
+        505,
+        338
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9777,
+      "box": [
+        127,
+        340,
+        553,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2017.07–2020.04",
+      "score": 0.9886,
+      "box": [
+        115,
+        381,
+        716,
+        406
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9797,
+      "box": [
+        127,
+        407,
+        451,
+        430
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9862,
+      "box": [
+        126,
+        430,
+        529,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2014.02–2016.12",
+      "score": 0.9871,
+      "box": [
+        114,
+        471,
+        756,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9899,
+      "box": [
+        125,
+        496,
+        432,
+        521
+      ]
+    },
+    {
+      "text": "-Managed accounts receivable cycles",
+      "score": 0.9787,
+      "box": [
+        126,
+        522,
+        481,
+        545
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2010.03–2013.01",
+      "score": 0.9877,
+      "box": [
+        116,
+        565,
+        724,
+        588
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9739,
+      "box": [
+        125,
+        589,
+        573,
+        614
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9916,
+      "box": [
+        126,
+        614,
+        413,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Edgewood University, 2008",
+      "score": 0.9836,
+      "box": [
+        115,
+        725,
+        671,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Crossfield University, 2006",
+      "score": 0.9872,
+      "box": [
+        115,
+        749,
+        674,
+        772
+      ]
+    },
+    {
+      "text": "• Studied principles of financial planning",
+      "score": 0.9892,
+      "box": [
+        132,
+        772,
+        503,
+        798
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance measurement",
+      "score": 0.9912,
+      "box": [
+        133,
+        798,
+        640,
+        823
+      ]
+    }
+  ]
+}

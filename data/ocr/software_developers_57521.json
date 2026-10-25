@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_57521",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.975,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "CLARENCE PATEL",
+      "score": 0.9527,
+      "box": [
+        117,
+        90,
+        423,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-942-360-3087 |clarence.patel@example.com",
+      "score": 0.9925,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9895,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2020.05–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        628,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-team technical alignment",
+      "score": 0.9968,
+      "box": [
+        125,
+        314,
+        471,
+        339
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9622,
+      "box": [
+        128,
+        341,
+        327,
+        362
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2017.08–2020.05",
+      "score": 0.9868,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9843,
+      "box": [
+        125,
+        405,
+        374,
+        431
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9613,
+      "box": [
+        125,
+        429,
+        352,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2014.11–2017.08",
+      "score": 0.9719,
+      "box": [
+        114,
+        471,
+        673,
+        496
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9737,
+      "box": [
+        125,
+        496,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed pull requets",
+      "score": 0.9741,
+      "box": [
+        125,
+        521,
+        359,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2009.08–2012.05",
+      "score": 0.9873,
+      "box": [
+        114,
+        563,
+        646,
+        589
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9934,
+      "box": [
+        125,
+        589,
+        628,
+        615
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9563,
+      "box": [
+        125,
+        613,
+        416,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Highland University, 2005",
+      "score": 0.9921,
+      "box": [
+        116,
+        726,
+        444,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearfield University, 2003",
+      "score": 0.9915,
+      "box": [
+        115,
+        749,
+        469,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9891,
+      "box": [
+        133,
+        774,
+        575,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.989,
+      "box": [
+        134,
+        799,
+        736,
+        822
+      ]
+    }
+  ]
+}

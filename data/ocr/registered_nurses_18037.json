@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_18037",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.775,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "JASMINE NORRIS",
+      "score": 0.9858,
+      "box": [
+        116,
+        90,
+        405,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-995-495-7460 |jasmine.norris@example.com",
+      "score": 0.9858,
+      "box": [
+        116,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9818,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2021.03–2023.01",
+      "score": 0.9745,
+      "box": [
+        116,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9792,
+      "box": [
+        126,
+        315,
+        399,
+        338
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9802,
+      "box": [
+        127,
+        340,
+        443,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Autumn Ridge University, 2023",
+      "score": 0.9903,
+      "box": [
+        115,
+        449,
+        711,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9722,
+      "box": [
+        132,
+        472,
+        598,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of public health nursing",
+      "score": 0.9936,
+      "box": [
+        133,
+        497,
+        570,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_58148",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.88,
+  "mean_conf": 0.9766,
+  "lines": [
+    {
+      "text": "KEVEN WILSON",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-656-456-5042 |keven.wilson@example.com",
+      "score": 0.964,
+      "box": [
+        114,
+        150,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2020.09–2023.01",
+      "score": 0.9808,
+      "box": [
+        116,
+        290,
+        639,
+        312
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9722,
+      "box": [
+        126,
+        314,
+        538,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9727,
+      "box": [
+        126,
+        339,
+        513,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2017.11–2020.03",
+      "score": 0.9717,
+      "box": [
+        115,
+        381,
+        667,
+        406
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9909,
+      "box": [
+        126,
+        406,
+        458,
+        431
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9704,
+      "box": [
+        126,
+        430,
+        374,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2014.01–2016.05",
+      "score": 0.9897,
+      "box": [
+        116,
+        472,
+        632,
+        495
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9485,
+      "box": [
+        125,
+        496,
+        386,
+        522
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9776,
+      "box": [
+        128,
+        523,
+        462,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9759,
+      "box": [
+        115,
+        585,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestview University, 2009",
+      "score": 0.9945,
+      "box": [
+        115,
+        632,
+        473,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in load balancing basics",
+      "score": 0.9871,
+      "box": [
+        134,
+        658,
+        589,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of operating systems",
+      "score": 0.9698,
+      "box": [
+        134,
+        681,
+        511,
+        707
+      ]
+    }
+  ]
+}

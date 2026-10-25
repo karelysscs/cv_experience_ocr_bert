@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_58848",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "SHELBY HOOVER",
+      "score": 0.9886,
+      "box": [
+        116,
+        90,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-343-944-6562|shelby.hoover@example.com",
+      "score": 0.9918,
+      "box": [
+        115,
+        150,
+        675,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2020.12–2023.01",
+      "score": 0.9878,
+      "box": [
+        115,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9781,
+      "box": [
+        126,
+        314,
+        388,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9675,
+      "box": [
+        127,
+        339,
+        466,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2018.11–2020.12",
+      "score": 0.9872,
+      "box": [
+        115,
+        381,
+        665,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9886,
+      "box": [
+        126,
+        406,
+        420,
+        431
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9712,
+      "box": [
+        126,
+        431,
+        399,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2016.09–2018.11",
+      "score": 0.9855,
+      "box": [
+        116,
+        472,
+        646,
+        496
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9891,
+      "box": [
+        127,
+        498,
+        377,
+        522
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9787,
+      "box": [
+        126,
+        521,
+        418,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Master's, Brookside University, 2015",
+      "score": 0.9737,
+      "box": [
+        115,
+        631,
+        455,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverwood University, 2013",
+      "score": 0.9832,
+      "box": [
+        114,
+        656,
+        483,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in server-side development",
+      "score": 0.9894,
+      "box": [
+        133,
+        683,
+        619,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9765,
+      "box": [
+        133,
+        706,
+        618,
+        732
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_23139",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.929,
+  "mean_conf": 0.9817,
+  "lines": [
+    {
+      "text": "VICTORIA MORAN",
+      "score": 0.9906,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-828-246-6476 |victoria.moran@example.com",
+      "score": 0.9735,
+      "box": [
+        116,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2020.12–2023.01",
+      "score": 0.9771,
+      "box": [
+        116,
+        290,
+        874,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9616,
+      "box": [
+        126,
+        313,
+        496,
+        338
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9723,
+      "box": [
+        126,
+        339,
+        511,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Grove School, 2018.11–2020.12",
+      "score": 0.9857,
+      "box": [
+        116,
+        382,
+        844,
+        406
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9899,
+      "box": [
+        126,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9814,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2016.10–2018.11",
+      "score": 0.9799,
+      "box": [
+        116,
+        472,
+        889,
+        496
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9759,
+      "box": [
+        125,
+        496,
+        428,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9941,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Ridgeway University, 2015",
+      "score": 0.9846,
+      "box": [
+        115,
+        632,
+        645,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9913,
+      "box": [
+        134,
+        658,
+        551,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9691,
+      "box": [
+        134,
+        682,
+        540,
+        704
+      ]
+    }
+  ]
+}

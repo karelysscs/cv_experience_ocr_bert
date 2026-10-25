@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_17189",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.001,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "BRENDONWISE",
+      "score": 0.9988,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-536-265-3827 |brendon.wise@example.com",
+      "score": 0.9943,
+      "box": [
+        116,
+        152,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.06–2023.01",
+      "score": 0.9802,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9866,
+      "box": [
+        125,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9889,
+      "box": [
+        126,
+        339,
+        435,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2017.11–2020.06",
+      "score": 0.9844,
+      "box": [
+        116,
+        382,
+        731,
+        405
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.957,
+      "box": [
+        126,
+        407,
+        452,
+        430
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9658,
+      "box": [
+        126,
+        432,
+        381,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2014.04–2016.11",
+      "score": 0.983,
+      "box": [
+        115,
+        472,
+        735,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.976,
+      "box": [
+        124,
+        496,
+        443,
+        521
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9933,
+      "box": [
+        126,
+        522,
+        431,
+        545
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2010.05–2013.01",
+      "score": 0.9801,
+      "box": [
+        115,
+        564,
+        653,
+        588
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9713,
+      "box": [
+        125,
+        589,
+        435,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9631,
+      "box": [
+        125,
+        612,
+        556,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Highland High School, 2004",
+      "score": 0.9867,
+      "box": [
+        116,
+        725,
+        728,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9747,
+      "box": [
+        134,
+        749,
+        712,
+        769
+      ]
+    }
+  ]
+}

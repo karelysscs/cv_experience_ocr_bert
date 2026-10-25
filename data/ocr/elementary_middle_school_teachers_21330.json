@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_21330",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9785,
+  "lines": [
+    {
+      "text": "SARAH LEONARD",
+      "score": 0.9669,
+      "box": [
+        116,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-960-473-8127 |sarah.leonard@example.com",
+      "score": 0.9753,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Valley School, 2020.02–2023.01",
+      "score": 0.9816,
+      "box": [
+        115,
+        289,
+        810,
+        314
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9817,
+      "box": [
+        125,
+        313,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9821,
+      "box": [
+        126,
+        339,
+        507,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2015.01–2017.12",
+      "score": 0.9643,
+      "box": [
+        116,
+        382,
+        813,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9554,
+      "box": [
+        125,
+        407,
+        386,
+        430
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.986,
+      "box": [
+        126,
+        432,
+        450,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Westfield University, 2012",
+      "score": 0.9936,
+      "box": [
+        115,
+        541,
+        691,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9872,
+      "box": [
+        132,
+        564,
+        546,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9652,
+      "box": [
+        133,
+        591,
+        531,
+        615
+      ]
+    }
+  ]
+}

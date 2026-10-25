@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_49020",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.953,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "JERMAINE ROGERS",
+      "score": 0.9957,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA|+1-642-846-2256 |jermaine.rogers@example.com",
+      "score": 0.9899,
+      "box": [
+        115,
+        150,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9839,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2018.05–2023.01",
+      "score": 0.9737,
+      "box": [
+        114,
+        289,
+        626,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9794,
+      "box": [
+        127,
+        315,
+        461,
+        338
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2013.09–2018.05",
+      "score": 0.9875,
+      "box": [
+        115,
+        381,
+        638,
+        406
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9718,
+      "box": [
+        126,
+        406,
+        327,
+        429
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9799,
+      "box": [
+        126,
+        431,
+        515,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2009.01–2013.09",
+      "score": 0.989,
+      "box": [
+        115,
+        471,
+        621,
+        496
+      ]
+    },
+    {
+      "text": "-Built frontend components",
+      "score": 0.9799,
+      "box": [
+        124,
+        496,
+        385,
+        521
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9715,
+      "box": [
+        126,
+        522,
+        351,
+        544
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2004.04–2009.01",
+      "score": 0.9838,
+      "box": [
+        115,
+        563,
+        653,
+        588
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9862,
+      "box": [
+        126,
+        589,
+        346,
+        612
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9743,
+      "box": [
+        127,
+        615,
+        422,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Brookway University, 2002",
+      "score": 0.9741,
+      "box": [
+        115,
+        723,
+        617,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in debugging techniques",
+      "score": 0.9951,
+      "box": [
+        133,
+        749,
+        594,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9796,
+      "box": [
+        133,
+        772,
+        539,
+        797
+      ]
+    }
+  ]
+}

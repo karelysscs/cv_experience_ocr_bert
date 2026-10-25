@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_06106",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.795,
+  "mean_conf": 0.976,
+  "lines": [
+    {
+      "text": "TONI YANG",
+      "score": 0.9454,
+      "box": [
+        113,
+        88,
+        305,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA|+1-417-988-7688|toni.yang@example.com",
+      "score": 0.9768,
+      "box": [
+        116,
+        151,
+        626,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2018.04–2020.02",
+      "score": 0.9882,
+      "box": [
+        116,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9848,
+      "box": [
+        126,
+        315,
+        420,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9441,
+      "box": [
+        127,
+        340,
+        410,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Fairfield University, 2009",
+      "score": 0.9774,
+      "box": [
+        114,
+        447,
+        629,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in human anatomy and physiology",
+      "score": 0.9659,
+      "box": [
+        132,
+        472,
+        682,
+        499
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.998,
+      "box": [
+        133,
+        498,
+        539,
+        520
+      ]
+    }
+  ]
+}

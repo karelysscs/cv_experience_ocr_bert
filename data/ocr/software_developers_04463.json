@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_04463",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.761,
+  "mean_conf": 0.977,
+  "lines": [
+    {
+      "text": "ANTONIO AUSTIN",
+      "score": 0.9907,
+      "box": [
+        117,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-831-913-9609 |antonio.austin@example.com",
+      "score": 0.9686,
+      "box": [
+        117,
+        151,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.11–2022.07",
+      "score": 0.9643,
+      "box": [
+        115,
+        289,
+        641,
+        312
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9391,
+      "box": [
+        125,
+        314,
+        355,
+        339
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9894,
+      "box": [
+        126,
+        339,
+        415,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Hawthorne University, 2017",
+      "score": 0.9784,
+      "box": [
+        115,
+        449,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in virtual reality basics",
+      "score": 0.9889,
+      "box": [
+        133,
+        474,
+        572,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of agile methodologies",
+      "score": 0.9678,
+      "box": [
+        133,
+        497,
+        565,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_44792",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "ANDREWRICH",
+      "score": 0.997,
+      "box": [
+        115,
+        88,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-930-639-6057 |andrew.rich@example.com",
+      "score": 0.9847,
+      "box": [
+        115,
+        150,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9881,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2020.04–2023.01",
+      "score": 0.981,
+      "box": [
+        114,
+        289,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9798,
+      "box": [
+        125,
+        313,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9816,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2017.07–220.04",
+      "score": 0.9862,
+      "box": [
+        115,
+        381,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9901,
+      "box": [
+        125,
+        406,
+        438,
+        432
+      ]
+    },
+    {
+      "text": "- Defined APl standards",
+      "score": 0.981,
+      "box": [
+        127,
+        433,
+        351,
+        453
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2014.10–2017.07",
+      "score": 0.9794,
+      "box": [
+        115,
+        472,
+        667,
+        496
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9733,
+      "box": [
+        125,
+        497,
+        376,
+        521
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9737,
+      "box": [
+        125,
+        521,
+        384,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2011.12–2014.10",
+      "score": 0.9815,
+      "box": [
+        114,
+        563,
+        666,
+        588
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9694,
+      "box": [
+        126,
+        590,
+        382,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9805,
+      "box": [
+        126,
+        615,
+        423,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2009",
+      "score": 0.9609,
+      "box": [
+        114,
+        723,
+        474,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9667,
+      "box": [
+        132,
+        748,
+        620,
+        771
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9779,
+      "box": [
+        133,
+        773,
+        502,
+        795
+      ]
+    }
+  ]
+}

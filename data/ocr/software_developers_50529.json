@@ -1,0 +1,183 @@
+{
+  "id": "software_developers_50529",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.872,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "DAVID SLOAN",
+      "score": 0.958,
+      "box": [
+        115,
+        88,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA|+1-984-899-7775|david.sloan@example.com",
+      "score": 0.9837,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2020.10–2023.01",
+      "score": 0.9725,
+      "box": [
+        114,
+        288,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "-Built core libraries",
+      "score": 0.9605,
+      "box": [
+        124,
+        312,
+        309,
+        338
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9845,
+      "box": [
+        127,
+        340,
+        477,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2018.07–2020.10",
+      "score": 0.9827,
+      "box": [
+        115,
+        381,
+        682,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.98,
+      "box": [
+        126,
+        407,
+        449,
+        431
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9776,
+      "box": [
+        125,
+        430,
+        384,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2016.04–2018.07",
+      "score": 0.9872,
+      "box": [
+        115,
+        472,
+        638,
+        495
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9932,
+      "box": [
+        126,
+        498,
+        374,
+        521
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9697,
+      "box": [
+        127,
+        523,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        267,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Rosewood University, 2017",
+      "score": 0.9927,
+      "box": [
+        115,
+        632,
+        462,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyline University, 2015",
+      "score": 0.9646,
+      "box": [
+        114,
+        656,
+        449,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9946,
+      "box": [
+        134,
+        683,
+        575,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in query performance tuning",
+      "score": 0.9892,
+      "box": [
+        133,
+        706,
+        626,
+        732
+      ]
+    }
+  ]
+}

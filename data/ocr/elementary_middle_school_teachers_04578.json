@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_04578",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.93,
+  "mean_conf": 0.9805,
+  "lines": [
+    {
+      "text": "TIMOTHY KIM",
+      "score": 0.9522,
+      "box": [
+        113,
+        87,
+        340,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-988-328-9840 |timothy.kim@example.com",
+      "score": 0.9782,
+      "box": [
+        116,
+        150,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.01–2023.01",
+      "score": 0.9928,
+      "box": [
+        115,
+        289,
+        825,
+        314
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9876,
+      "box": [
+        126,
+        315,
+        490,
+        338
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9846,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2017.01–2020.01",
+      "score": 0.9828,
+      "box": [
+        116,
+        382,
+        798,
+        405
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9773,
+      "box": [
+        126,
+        406,
+        396,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked long-term student progress",
+      "score": 0.9928,
+      "box": [
+        126,
+        430,
+        473,
+        456
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2012.01–2015.01",
+      "score": 0.9882,
+      "box": [
+        115,
+        471,
+        827,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9586,
+      "box": [
+        126,
+        497,
+        492,
+        522
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9776,
+      "box": [
+        126,
+        521,
+        413,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Silver Creek University, 2008",
+      "score": 0.9766,
+      "box": [
+        114,
+        631,
+        796,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.9794,
+      "box": [
+        132,
+        656,
+        587,
+        681
+      ]
+    },
+    {
+      "text": "• Studied foundational instructional design",
+      "score": 0.9811,
+      "box": [
+        133,
+        681,
+        523,
+        706
+      ]
+    }
+  ]
+}

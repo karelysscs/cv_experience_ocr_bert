@@ -1,0 +1,213 @@
+{
+  "id": "accountants_auditors_06830",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.035,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "MARY GOLDEN",
+      "score": 0.9731,
+      "box": [
+        116,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-866-744-3137 |mary.golden@example.com",
+      "score": 0.9686,
+      "box": [
+        116,
+        150,
+        656,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2020.05–2023.01",
+      "score": 0.9789,
+      "box": [
+        115,
+        290,
+        706,
+        312
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9658,
+      "box": [
+        126,
+        314,
+        502,
+        339
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9693,
+      "box": [
+        126,
+        339,
+        517,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2017.09–2020.05",
+      "score": 0.9806,
+      "box": [
+        115,
+        381,
+        728,
+        406
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9849,
+      "box": [
+        126,
+        406,
+        517,
+        431
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9819,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2015.01–2017.09",
+      "score": 0.9829,
+      "box": [
+        114,
+        471,
+        793,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9688,
+      "box": [
+        126,
+        499,
+        332,
+        520
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9824,
+      "box": [
+        126,
+        522,
+        426,
+        544
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Group, 2012.04–2015.01",
+      "score": 0.9862,
+      "box": [
+        116,
+        564,
+        673,
+        587
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9763,
+      "box": [
+        125,
+        589,
+        474,
+        614
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9828,
+      "box": [
+        126,
+        614,
+        378,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Financial Analysis, Skycrest University, 2012",
+      "score": 0.9777,
+      "box": [
+        115,
+        725,
+        621,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Foxwood University, 2010",
+      "score": 0.9698,
+      "box": [
+        114,
+        747,
+        643,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9962,
+      "box": [
+        133,
+        773,
+        550,
+        795
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9809,
+      "box": [
+        133,
+        799,
+        640,
+        822
+      ]
+    }
+  ]
+}

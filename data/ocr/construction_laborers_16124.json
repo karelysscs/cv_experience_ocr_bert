@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_16124",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.8,
+  "mean_conf": 0.979,
+  "lines": [
+    {
+      "text": "JAKE NASH",
+      "score": 0.9742,
+      "box": [
+        115,
+        90,
+        312,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA|+1-803-248-7419 |jake.nash@example.com",
+      "score": 0.9634,
+      "box": [
+        116,
+        151,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9799,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2018.05–2020.05",
+      "score": 0.9798,
+      "box": [
+        115,
+        290,
+        696,
+        313
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9592,
+      "box": [
+        126,
+        315,
+        372,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9844,
+      "box": [
+        126,
+        339,
+        425,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Brightfield Secondary School, 2017",
+      "score": 0.9872,
+      "box": [
+        116,
+        449,
+        903,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9841,
+      "box": [
+        132,
+        474,
+        613,
+        497
+      ]
+    }
+  ]
+}

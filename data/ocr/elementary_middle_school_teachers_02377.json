@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_02377",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.902,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "MACKENZIE MOSES",
+      "score": 0.9906,
+      "box": [
+        116,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-637-337-8763 |mackenzie.moses@example.com",
+      "score": 0.9849,
+      "box": [
+        116,
+        152,
+        708,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2021.03–2023.01",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        870,
+        313
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9482,
+      "box": [
+        125,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9836,
+      "box": [
+        126,
+        339,
+        510,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2019.04–2021.03",
+      "score": 0.9761,
+      "box": [
+        116,
+        382,
+        800,
+        405
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9671,
+      "box": [
+        126,
+        406,
+        466,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.996,
+      "box": [
+        126,
+        432,
+        459,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Applied Child Studies, Rivercrest University, 222",
+      "score": 0.9791,
+      "box": [
+        115,
+        541,
+        667,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Elm Ridge University, 2020",
+      "score": 0.9815,
+      "box": [
+        114,
+        565,
+        708,
+        590
+      ]
+    },
+    {
+      "text": "• Studied foundational instructional design",
+      "score": 0.9769,
+      "box": [
+        132,
+        590,
+        523,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of special education awareness",
+      "score": 0.994,
+      "box": [
+        132,
+        615,
+        646,
+        640
+      ]
+    }
+  ]
+}

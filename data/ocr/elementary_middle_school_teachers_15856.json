@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_15856",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.9,
+  "mean_conf": 0.983,
+  "lines": [
+    {
+      "text": "MELISSA ADAMS",
+      "score": 0.9891,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA |+1-754-450-1837|melissa.adams@example.com",
+      "score": 0.9829,
+      "box": [
+        116,
+        151,
+        681,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9836,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2020.01–2022.04",
+      "score": 0.9892,
+      "box": [
+        116,
+        290,
+        878,
+        313
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9682,
+      "box": [
+        126,
+        314,
+        521,
+        339
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9928,
+      "box": [
+        127,
+        340,
+        442,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2017.03–2019.07",
+      "score": 0.9591,
+      "box": [
+        116,
+        382,
+        799,
+        405
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9925,
+      "box": [
+        126,
+        406,
+        517,
+        432
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9803,
+      "box": [
+        126,
+        432,
+        399,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Child and Family Studies, Highpoint University, 2006",
+      "score": 0.9728,
+      "box": [
+        115,
+        541,
+        693,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Stonecrest University, 2004",
+      "score": 0.982,
+      "box": [
+        114,
+        565,
+        718,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in literacy development",
+      "score": 0.9822,
+      "box": [
+        134,
+        590,
+        582,
+        615
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of special education awareness",
+      "score": 0.9888,
+      "box": [
+        133,
+        615,
+        646,
+        640
+      ]
+    }
+  ]
+}

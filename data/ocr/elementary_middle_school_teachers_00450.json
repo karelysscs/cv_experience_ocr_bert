@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_00450",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.892,
+  "mean_conf": 0.9837,
+  "lines": [
+    {
+      "text": "RUSSELL HAMMOND",
+      "score": 0.9907,
+      "box": [
+        116,
+        90,
+        460,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-610-942-5565 |russell.hammond@example.com",
+      "score": 0.9812,
+      "box": [
+        116,
+        152,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9775,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2020.07–2023.01",
+      "score": 0.973,
+      "box": [
+        116,
+        290,
+        845,
+        313
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9774,
+      "box": [
+        126,
+        315,
+        474,
+        339
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9964,
+      "box": [
+        127,
+        340,
+        509,
+        362
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2016.12–2019.06",
+      "score": 0.9869,
+      "box": [
+        115,
+        381,
+        873,
+        406
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.966,
+      "box": [
+        125,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9935,
+      "box": [
+        126,
+        431,
+        492,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Clearwood University, 2013",
+      "score": 0.9817,
+      "box": [
+        115,
+        540,
+        675,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, Goldenfield University, 2011",
+      "score": 0.9921,
+      "box": [
+        115,
+        566,
+        697,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.988,
+      "box": [
+        132,
+        590,
+        550,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9692,
+      "box": [
+        135,
+        616,
+        551,
+        639
+      ]
+    }
+  ]
+}

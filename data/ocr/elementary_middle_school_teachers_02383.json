@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_02383",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.916,
+  "mean_conf": 0.9803,
+  "lines": [
+    {
+      "text": "BRANDY BOOTH",
+      "score": 0.9741,
+      "box": [
+        116,
+        90,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-399-711-2883|brandy.booth@example.com",
+      "score": 0.9928,
+      "box": [
+        115,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9816,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2020.10–2023.01",
+      "score": 0.966,
+      "box": [
+        116,
+        290,
+        851,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9912,
+      "box": [
+        126,
+        314,
+        508,
+        339
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9768,
+      "box": [
+        126,
+        339,
+        562,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2018.07–2020.10",
+      "score": 0.978,
+      "box": [
+        116,
+        382,
+        834,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9901,
+      "box": [
+        126,
+        406,
+        480,
+        431
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9672,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2013.09–2016.01",
+      "score": 0.9853,
+      "box": [
+        115,
+        472,
+        842,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9622,
+      "box": [
+        125,
+        496,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Supervised classroom activitties",
+      "score": 0.9772,
+      "box": [
+        127,
+        522,
+        434,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Oakridge University, 2002",
+      "score": 0.98,
+      "box": [
+        114,
+        631,
+        690,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9874,
+      "box": [
+        132,
+        656,
+        590,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9761,
+      "box": [
+        135,
+        682,
+        551,
+        705
+      ]
+    }
+  ]
+}

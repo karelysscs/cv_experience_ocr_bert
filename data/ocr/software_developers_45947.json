@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_45947",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.779,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "JOSEPH LAM",
+      "score": 0.9853,
+      "box": [
+        116,
+        90,
+        335,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-612-973-7185|joseph.lam@example.com",
+      "score": 0.9911,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2020.07–2021.12",
+      "score": 0.9913,
+      "box": [
+        115,
+        290,
+        651,
+        313
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9745,
+      "box": [
+        127,
+        315,
+        485,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9818,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Silverwood University, 2009",
+      "score": 0.9968,
+      "box": [
+        115,
+        449,
+        465,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwater University, 2007",
+      "score": 0.9543,
+      "box": [
+        115,
+        474,
+        488,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in continuous integration",
+      "score": 0.9898,
+      "box": [
+        133,
+        498,
+        594,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9682,
+      "box": [
+        134,
+        524,
+        501,
+        548
+      ]
+    }
+  ]
+}

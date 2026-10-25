@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_34075",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.907,
+  "mean_conf": 0.9842,
+  "lines": [
+    {
+      "text": "DERRICKCAIN",
+      "score": 0.9972,
+      "box": [
+        115,
+        88,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA |+1-372-395-2427 | derrick.cain@example.com",
+      "score": 0.9457,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9857,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2020.12–2023.01",
+      "score": 0.9945,
+      "box": [
+        115,
+        290,
+        675,
+        313
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9704,
+      "box": [
+        126,
+        315,
+        427,
+        338
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9847,
+      "box": [
+        126,
+        339,
+        551,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2018.05–2020.06",
+      "score": 0.9873,
+      "box": [
+        116,
+        382,
+        730,
+        405
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9818,
+      "box": [
+        125,
+        407,
+        519,
+        430
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9808,
+      "box": [
+        127,
+        432,
+        392,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2015.09–2017.11",
+      "score": 0.9809,
+      "box": [
+        116,
+        472,
+        703,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9888,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9908,
+      "box": [
+        126,
+        520,
+        416,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Clearwood High School, 2010",
+      "score": 0.9918,
+      "box": [
+        116,
+        632,
+        871,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9831,
+      "box": [
+        133,
+        658,
+        621,
+        681
+      ]
+    }
+  ]
+}

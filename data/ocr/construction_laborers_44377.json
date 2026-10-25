@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_44377",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9863,
+  "lines": [
+    {
+      "text": "SEAN MICHAEL",
+      "score": 0.9745,
+      "box": [
+        115,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA|+1-548-431-5007 | sean.michael@example.com",
+      "score": 0.9817,
+      "box": [
+        116,
+        151,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2020.07–2023.01",
+      "score": 0.9915,
+      "box": [
+        115,
+        290,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9838,
+      "box": [
+        126,
+        315,
+        481,
+        338
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9838,
+      "box": [
+        127,
+        340,
+        458,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2017.05–2019.11",
+      "score": 0.9922,
+      "box": [
+        116,
+        382,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.988,
+      "box": [
+        125,
+        405,
+        451,
+        430
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9929,
+      "box": [
+        127,
+        432,
+        402,
+        454
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2014.03–2016.10",
+      "score": 0.9917,
+      "box": [
+        116,
+        472,
+        715,
+        495
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9852,
+      "box": [
+        125,
+        496,
+        540,
+        521
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9764,
+      "box": [
+        126,
+        521,
+        503,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Heritage High School, 2011",
+      "score": 0.9905,
+      "box": [
+        116,
+        632,
+        846,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.9792,
+      "box": [
+        132,
+        656,
+        504,
+        681
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_40997",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.812,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "DEVONLYONS",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "ND, USA|+1-764-917-1924|devon.lyons@example.com",
+      "score": 0.9781,
+      "box": [
+        115,
+        150,
+        654,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2020.04–2021.12",
+      "score": 0.9886,
+      "box": [
+        115,
+        290,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9584,
+      "box": [
+        125,
+        313,
+        417,
+        339
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9689,
+      "box": [
+        127,
+        340,
+        405,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Willowcrest High School, 2017",
+      "score": 0.9799,
+      "box": [
+        116,
+        449,
+        879,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in drywall installation basics",
+      "score": 0.9772,
+      "box": [
+        133,
+        474,
+        623,
+        497
+      ]
+    }
+  ]
+}

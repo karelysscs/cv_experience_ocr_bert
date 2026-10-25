@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_19146",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.961,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "JOCELYN BUCKLEY",
+      "score": 0.968,
+      "box": [
+        117,
+        90,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-707-320-5079 |jocelyn.buckley@example.com",
+      "score": 0.9915,
+      "box": [
+        116,
+        152,
+        671,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9781,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2020.08–2023.01",
+      "score": 0.9688,
+      "box": [
+        116,
+        290,
+        805,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9805,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9876,
+      "box": [
+        126,
+        339,
+        448,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2015.12–2018.06",
+      "score": 0.9934,
+      "box": [
+        115,
+        381,
+        816,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9939,
+      "box": [
+        126,
+        406,
+        493,
+        431
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9959,
+      "box": [
+        126,
+        431,
+        460,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, North Ridge University, 2013",
+      "score": 0.9867,
+      "box": [
+        115,
+        541,
+        821,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9725,
+      "box": [
+        133,
+        566,
+        631,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9732,
+      "box": [
+        134,
+        592,
+        540,
+        612
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_27529",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.859,
+  "mean_conf": 0.9852,
+  "lines": [
+    {
+      "text": "JACOB JOHNS",
+      "score": 0.9691,
+      "box": [
+        116,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA|+1-461-685-2825 |jacob.johns@example.com",
+      "score": 0.982,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9827,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2020.11–2023.01",
+      "score": 0.997,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9883,
+      "box": [
+        127,
+        315,
+        554,
+        338
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9837,
+      "box": [
+        126,
+        339,
+        556,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2018.09–2020.11",
+      "score": 0.9928,
+      "box": [
+        115,
+        382,
+        700,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9754,
+      "box": [
+        126,
+        407,
+        490,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9956,
+      "box": [
+        126,
+        432,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Taxation, North Ridge University, 2020",
+      "score": 0.9703,
+      "box": [
+        115,
+        540,
+        565,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Vista University, 2018",
+      "score": 0.9841,
+      "box": [
+        114,
+        565,
+        628,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.9815,
+      "box": [
+        133,
+        590,
+        577,
+        614
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9922,
+      "box": [
+        133,
+        615,
+        551,
+        640
+      ]
+    }
+  ]
+}

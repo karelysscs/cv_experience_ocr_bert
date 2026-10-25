@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_53828",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.923,
+  "mean_conf": 0.9784,
+  "lines": [
+    {
+      "text": "JEREMY WOODARD",
+      "score": 0.9743,
+      "box": [
+        116,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-321-656-2525 |jeremy.woodard@example.com",
+      "score": 0.9709,
+      "box": [
+        115,
+        150,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2020.08–2023.01",
+      "score": 0.9854,
+      "box": [
+        116,
+        290,
+        659,
+        313
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9801,
+      "box": [
+        126,
+        315,
+        380,
+        338
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9617,
+      "box": [
+        126,
+        339,
+        513,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2018.02–2020.08",
+      "score": 0.9847,
+      "box": [
+        116,
+        382,
+        634,
+        405
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9509,
+      "box": [
+        125,
+        406,
+        431,
+        431
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9848,
+      "box": [
+        126,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2015.08–2018.02",
+      "score": 0.9861,
+      "box": [
+        116,
+        472,
+        646,
+        495
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9844,
+      "box": [
+        126,
+        498,
+        485,
+        521
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9775,
+      "box": [
+        127,
+        523,
+        414,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield Ridge University, 2018",
+      "score": 0.9899,
+      "box": [
+        115,
+        632,
+        535,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9706,
+      "box": [
+        132,
+        656,
+        714,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in accessibility standards",
+      "score": 0.9731,
+      "box": [
+        134,
+        681,
+        598,
+        706
+      ]
+    }
+  ]
+}

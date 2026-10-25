@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_23187",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.809,
+  "mean_conf": 0.9831,
+  "lines": [
+    {
+      "text": "SHELBY CUMMINGS",
+      "score": 0.9714,
+      "box": [
+        116,
+        90,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA|+1-871-647-8852 |shelby.cummings@example.com",
+      "score": 0.9839,
+      "box": [
+        116,
+        152,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9762,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2020.05–2023.01",
+      "score": 0.9849,
+      "box": [
+        115,
+        289,
+        833,
+        314
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9848,
+      "box": [
+        126,
+        314,
+        480,
+        339
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9863,
+      "box": [
+        126,
+        339,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Willowview University, 220",
+      "score": 0.9657,
+      "box": [
+        115,
+        449,
+        663,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9953,
+      "box": [
+        133,
+        473,
+        546,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of reading comprehension strategies",
+      "score": 0.984,
+      "box": [
+        132,
+        497,
+        693,
+        523
+      ]
+    }
+  ]
+}

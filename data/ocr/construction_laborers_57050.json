@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_57050",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.935,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "PRESTONWEBSTER",
+      "score": 0.9986,
+      "box": [
+        116,
+        90,
+        454,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-735-856-3724 |preston.webster@example.com",
+      "score": 0.9899,
+      "box": [
+        115,
+        150,
+        688,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2020.08–2023.01",
+      "score": 0.9902,
+      "box": [
+        114,
+        289,
+        718,
+        314
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9756,
+      "box": [
+        127,
+        315,
+        394,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9817,
+      "box": [
+        126,
+        339,
+        491,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2018.03–2020.08",
+      "score": 0.9804,
+      "box": [
+        115,
+        381,
+        710,
+        406
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9627,
+      "box": [
+        126,
+        407,
+        342,
+        429
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9802,
+      "box": [
+        126,
+        430,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2015.10–2018.03",
+      "score": 0.9881,
+      "box": [
+        116,
+        472,
+        719,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9888,
+      "box": [
+        125,
+        496,
+        565,
+        521
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9775,
+      "box": [
+        126,
+        521,
+        399,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9991,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Logistics, Riverfield University, 2016",
+      "score": 0.9823,
+      "box": [
+        114,
+        631,
+        763,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9667,
+      "box": [
+        132,
+        656,
+        624,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9646,
+      "box": [
+        134,
+        681,
+        529,
+        706
+      ]
+    }
+  ]
+}

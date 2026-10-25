@@ -1,0 +1,113 @@
+{
+  "id": "registered_nurses_18358",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.782,
+  "mean_conf": 0.9829,
+  "lines": [
+    {
+      "text": "TAYLOR NEAL",
+      "score": 0.9731,
+      "box": [
+        114,
+        90,
+        356,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-517-850-2322|taylor.neal@example.com",
+      "score": 0.992,
+      "box": [
+        116,
+        152,
+        625,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2020.05–2023.01",
+      "score": 0.9795,
+      "box": [
+        116,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "-Maintained infection control protocols",
+      "score": 0.9786,
+      "box": [
+        125,
+        313,
+        487,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9549,
+      "box": [
+        126,
+        339,
+        436,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Windridge University, 2022",
+      "score": 0.9912,
+      "box": [
+        115,
+        448,
+        676,
+        473
+      ]
+    },
+    {
+      "text": "• Completed coursework in pressure injury prevention",
+      "score": 0.9898,
+      "box": [
+        133,
+        473,
+        629,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9896,
+      "box": [
+        134,
+        499,
+        582,
+        522
+      ]
+    }
+  ]
+}

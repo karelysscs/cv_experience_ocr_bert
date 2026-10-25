@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_14102",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.035,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "SAMANTHA WILCOX",
+      "score": 0.9707,
+      "box": [
+        116,
+        90,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-898-824-9819|samantha.wilcox@example.com",
+      "score": 0.9912,
+      "box": [
+        115,
+        150,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9837,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2020.05–2023.01",
+      "score": 0.9894,
+      "box": [
+        115,
+        290,
+        829,
+        313
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9786,
+      "box": [
+        125,
+        314,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9866,
+      "box": [
+        127,
+        340,
+        531,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2017.09–2020.05",
+      "score": 0.9856,
+      "box": [
+        116,
+        382,
+        820,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9866,
+      "box": [
+        127,
+        408,
+        507,
+        431
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9974,
+      "box": [
+        127,
+        431,
+        402,
+        453
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Field School, 2014.01–2016.09",
+      "score": 0.978,
+      "box": [
+        116,
+        472,
+        849,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9693,
+      "box": [
+        127,
+        498,
+        493,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9767,
+      "box": [
+        127,
+        523,
+        656,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Skycrest University, 2011",
+      "score": 0.9759,
+      "box": [
+        115,
+        632,
+        669,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9928,
+      "box": [
+        133,
+        656,
+        642,
+        680
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.962,
+      "box": [
+        134,
+        681,
+        548,
+        706
+      ]
+    }
+  ]
+}

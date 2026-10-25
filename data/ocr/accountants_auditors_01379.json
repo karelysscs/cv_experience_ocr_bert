@@ -1,0 +1,153 @@
+{
+  "id": "accountants_auditors_01379",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.903,
+  "mean_conf": 0.9795,
+  "lines": [
+    {
+      "text": "DANIEL SULLIVAN",
+      "score": 0.9755,
+      "box": [
+        116,
+        90,
+        419,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-614-437-5183|daniel.sullivan@example.com",
+      "score": 0.9783,
+      "box": [
+        116,
+        151,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9815,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.08–223.01",
+      "score": 0.9813,
+      "box": [
+        114,
+        289,
+        663,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9785,
+      "box": [
+        125,
+        313,
+        323,
+        340
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9539,
+      "box": [
+        126,
+        339,
+        525,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2015.05–2017.10",
+      "score": 0.9826,
+      "box": [
+        114,
+        381,
+        712,
+        406
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9974,
+      "box": [
+        126,
+        407,
+        413,
+        430
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9771,
+      "box": [
+        125,
+        432,
+        368,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Cost Accounting, Skyview University, 210",
+      "score": 0.9604,
+      "box": [
+        115,
+        541,
+        603,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Pinewood University, 2008",
+      "score": 0.9676,
+      "box": [
+        115,
+        566,
+        569,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.997,
+      "box": [
+        135,
+        592,
+        536,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in governmental accounting basics",
+      "score": 0.9843,
+      "box": [
+        133,
+        615,
+        686,
+        641
+      ]
+    }
+  ]
+}

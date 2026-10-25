@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_05508",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.033,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "CAMILLE DYER",
+      "score": 0.9913,
+      "box": [
+        117,
+        90,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-392-910-5120 |camille.dyer@example.com",
+      "score": 0.9871,
+      "box": [
+        117,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9805,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2017.12–202.01",
+      "score": 0.9855,
+      "box": [
+        116,
+        290,
+        807,
+        314
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9742,
+      "box": [
+        126,
+        314,
+        550,
+        339
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9825,
+      "box": [
+        126,
+        339,
+        461,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2012.11–2017.12",
+      "score": 0.988,
+      "box": [
+        116,
+        382,
+        863,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9757,
+      "box": [
+        127,
+        408,
+        497,
+        431
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9655,
+      "box": [
+        126,
+        430,
+        497,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2007.10–2012.11",
+      "score": 0.9829,
+      "box": [
+        116,
+        472,
+        805,
+        496
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9784,
+      "box": [
+        126,
+        498,
+        458,
+        521
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9729,
+      "box": [
+        127,
+        523,
+        667,
+        546
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2002.09–2007.10",
+      "score": 0.9708,
+      "box": [
+        116,
+        565,
+        850,
+        588
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9495,
+      "box": [
+        127,
+        590,
+        463,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9768,
+      "box": [
+        127,
+        615,
+        417,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Summit Ridge University, 2004",
+      "score": 0.9803,
+      "box": [
+        115,
+        725,
+        711,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Clearfield University, 2002",
+      "score": 0.9783,
+      "box": [
+        114,
+        747,
+        587,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9891,
+      "box": [
+        134,
+        774,
+        625,
+        797
+      ]
+    },
+    {
+      "text": "•Completed coursework in academic content planning",
+      "score": 0.9861,
+      "box": [
+        132,
+        798,
+        637,
+        823
+      ]
+    }
+  ]
+}

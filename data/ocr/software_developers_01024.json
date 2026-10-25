@@ -1,0 +1,153 @@
+{
+  "id": "software_developers_01024",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.862,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "DANIELLECHANG",
+      "score": 0.9989,
+      "box": [
+        115,
+        88,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA|+1-582-489-6649|danielle.chang@example.com",
+      "score": 0.9702,
+      "box": [
+        115,
+        150,
+        673,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9776,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2020.12–2023.01",
+      "score": 0.9796,
+      "box": [
+        115,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9773,
+      "box": [
+        127,
+        315,
+        558,
+        338
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.977,
+      "box": [
+        126,
+        339,
+        441,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2018.10–2020.12",
+      "score": 0.9877,
+      "box": [
+        116,
+        382,
+        661,
+        405
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9895,
+      "box": [
+        126,
+        406,
+        530,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9917,
+      "box": [
+        126,
+        431,
+        502,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Meadowridge Valley University, 2018",
+      "score": 0.9461,
+      "box": [
+        115,
+        540,
+        550,
+        563
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowridge University, 2016",
+      "score": 0.9825,
+      "box": [
+        115,
+        566,
+        508,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in load balancing basics",
+      "score": 0.9833,
+      "box": [
+        133,
+        590,
+        589,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in machine learning basics",
+      "score": 0.9923,
+      "box": [
+        133,
+        615,
+        613,
+        640
+      ]
+    }
+  ]
+}

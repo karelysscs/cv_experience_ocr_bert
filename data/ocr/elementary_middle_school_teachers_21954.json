@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_21954",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.981,
+  "lines": [
+    {
+      "text": "DELPHINEWISE",
+      "score": 0.9989,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-372-754-2776 |delphine.wise@example.com",
+      "score": 0.9897,
+      "box": [
+        115,
+        150,
+        666,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9813,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2019.09–22.02",
+      "score": 0.9882,
+      "box": [
+        115,
+        290,
+        826,
+        313
+      ]
+    },
+    {
+      "text": "-Collected student assignments",
+      "score": 0.9762,
+      "box": [
+        125,
+        314,
+        428,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9822,
+      "box": [
+        127,
+        340,
+        400,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Youth Development, Oakridge University, 2008",
+      "score": 0.9682,
+      "box": [
+        114,
+        447,
+        642,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Amber Hills University, 2006",
+      "score": 0.9636,
+      "box": [
+        114,
+        472,
+        624,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9644,
+      "box": [
+        133,
+        499,
+        615,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of classroom engagement",
+      "score": 0.9794,
+      "box": [
+        132,
+        522,
+        597,
+        548
+      ]
+    }
+  ]
+}

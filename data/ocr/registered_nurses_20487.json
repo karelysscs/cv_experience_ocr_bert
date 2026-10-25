@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_20487",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.875,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "KATHLEEN ZHANG",
+      "score": 0.9824,
+      "box": [
+        116,
+        90,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-508-638-8923 |kathleen.zhang@example.com",
+      "score": 0.9833,
+      "box": [
+        116,
+        150,
+        674,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.981,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2018.08–2023.01",
+      "score": 0.9904,
+      "box": [
+        115,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9699,
+      "box": [
+        125,
+        313,
+        453,
+        339
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9831,
+      "box": [
+        127,
+        339,
+        552,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2014.02–2018.08",
+      "score": 0.9936,
+      "box": [
+        116,
+        383,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9619,
+      "box": [
+        125,
+        406,
+        397,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9874,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2009.08–2014.02",
+      "score": 0.984,
+      "box": [
+        114,
+        470,
+        710,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9917,
+      "box": [
+        125,
+        496,
+        497,
+        521
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9866,
+      "box": [
+        126,
+        522,
+        530,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2005.02–2009.08",
+      "score": 0.989,
+      "box": [
+        116,
+        565,
+        671,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9885,
+      "box": [
+        125,
+        589,
+        472,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9876,
+      "box": [
+        126,
+        614,
+        401,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Fieldview University, 2009",
+      "score": 0.9745,
+      "box": [
+        114,
+        723,
+        654,
+        747
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9882,
+      "box": [
+        132,
+        747,
+        510,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of pharmacology",
+      "score": 0.9902,
+      "box": [
+        133,
+        772,
+        472,
+        798
+      ]
+    }
+  ]
+}

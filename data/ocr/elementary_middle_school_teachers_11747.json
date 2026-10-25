@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_11747",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.832,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "SARAH CHERRY",
+      "score": 0.9619,
+      "box": [
+        115,
+        90,
+        388,
+        120
+      ]
+    },
+    {
+      "text": "DC, USA|+1-920-939-2673|sarah.cherry@example.com",
+      "score": 0.9903,
+      "box": [
+        116,
+        151,
+        658,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9808,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2020.12–2022.0",
+      "score": 0.99,
+      "box": [
+        116,
+        290,
+        875,
+        313
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9713,
+      "box": [
+        125,
+        314,
+        414,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9736,
+      "box": [
+        126,
+        339,
+        459,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985,
+      "box": [
+        115,
+        403,
+        268,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Basic Education Studies, Meadowview University, 2008",
+      "score": 0.982,
+      "box": [
+        115,
+        447,
+        881,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.985,
+      "box": [
+        132,
+        472,
+        587,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom discipline strategies",
+      "score": 0.9895,
+      "box": [
+        133,
+        498,
+        672,
+        523
+      ]
+    }
+  ]
+}

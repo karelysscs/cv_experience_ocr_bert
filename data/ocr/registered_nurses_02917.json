@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_02917",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.887,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "SHANTIA SHAH",
+      "score": 0.9699,
+      "box": [
+        116,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-811-928-8106 |shantia.shah@example.com",
+      "score": 0.981,
+      "box": [
+        117,
+        151,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2020.04–2023.01",
+      "score": 0.9879,
+      "box": [
+        116,
+        290,
+        724,
+        313
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9566,
+      "box": [
+        126,
+        313,
+        425,
+        338
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.965,
+      "box": [
+        126,
+        339,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2017.07–2020.04",
+      "score": 0.9843,
+      "box": [
+        115,
+        381,
+        697,
+        406
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9882,
+      "box": [
+        126,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9805,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2014.10–2017.07",
+      "score": 0.9832,
+      "box": [
+        116,
+        473,
+        724,
+        496
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9855,
+      "box": [
+        125,
+        496,
+        418,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9915,
+      "box": [
+        126,
+        521,
+        399,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Studies, Goldenfield University, 2012",
+      "score": 0.9749,
+      "box": [
+        114,
+        631,
+        646,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9792,
+      "box": [
+        133,
+        657,
+        572,
+        680
+      ]
+    },
+    {
+      "text": "• Completed coursework in oncology nursing basics",
+      "score": 0.9932,
+      "box": [
+        134,
+        681,
+        612,
+        706
+      ]
+    }
+  ]
+}

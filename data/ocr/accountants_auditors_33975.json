@@ -1,0 +1,223 @@
+{
+  "id": "accountants_auditors_33975",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.995,
+  "mean_conf": 0.9787,
+  "lines": [
+    {
+      "text": "MICHAEL YANG",
+      "score": 0.9637,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-568-231-4367 |michael.yang@example.com",
+      "score": 0.9738,
+      "box": [
+        116,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2020.07–2023.01",
+      "score": 0.9883,
+      "box": [
+        114,
+        289,
+        715,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9865,
+      "box": [
+        126,
+        313,
+        428,
+        340
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9766,
+      "box": [
+        126,
+        339,
+        494,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2018.01–2020.07",
+      "score": 0.986,
+      "box": [
+        114,
+        381,
+        774,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9836,
+      "box": [
+        127,
+        407,
+        437,
+        430
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.991,
+      "box": [
+        126,
+        431,
+        513,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2015.07–2018.01",
+      "score": 0.9836,
+      "box": [
+        114,
+        471,
+        754,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9689,
+      "box": [
+        126,
+        498,
+        430,
+        521
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9751,
+      "box": [
+        126,
+        521,
+        463,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2011.07–2014.01",
+      "score": 0.9897,
+      "box": [
+        115,
+        565,
+        692,
+        588
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9807,
+      "box": [
+        124,
+        588,
+        420,
+        614
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9536,
+      "box": [
+        126,
+        614,
+        356,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Doctorate, General Business, Fieldstone University, 2009",
+      "score": 0.9754,
+      "box": [
+        115,
+        725,
+        647,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Stonehill University, 204",
+      "score": 0.9647,
+      "box": [
+        114,
+        747,
+        642,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9851,
+      "box": [
+        132,
+        772,
+        510,
+        797
+      ]
+    },
+    {
+      "text": "• Studied principles of reconciliation procedures",
+      "score": 0.9828,
+      "box": [
+        134,
+        799,
+        574,
+        822
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9638,
+      "box": [
+        133,
+        823,
+        646,
+        848
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_03759",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.902,
+  "mean_conf": 0.984,
+  "lines": [
+    {
+      "text": "ANGELA RYAN",
+      "score": 0.9778,
+      "box": [
+        117,
+        90,
+        364,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-571-612-9916 |angela.ryan@example.com",
+      "score": 0.9893,
+      "box": [
+        117,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9854,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2020.08–2023.01",
+      "score": 0.9797,
+      "box": [
+        116,
+        290,
+        697,
+        313
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9865,
+      "box": [
+        126,
+        315,
+        482,
+        338
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9868,
+      "box": [
+        126,
+        339,
+        458,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Center, 2017.09–2020.02",
+      "score": 0.979,
+      "box": [
+        115,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "-Provided wound care management",
+      "score": 0.9824,
+      "box": [
+        125,
+        405,
+        467,
+        432
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9889,
+      "box": [
+        126,
+        430,
+        413,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2014.07–2017.01",
+      "score": 0.9845,
+      "box": [
+        116,
+        472,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9629,
+      "box": [
+        124,
+        496,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9876,
+      "box": [
+        126,
+        521,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Fairmont University, 2004",
+      "score": 0.9795,
+      "box": [
+        114,
+        630,
+        622,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9911,
+      "box": [
+        132,
+        656,
+        555,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9834,
+      "box": [
+        134,
+        682,
+        536,
+        705
+      ]
+    }
+  ]
+}

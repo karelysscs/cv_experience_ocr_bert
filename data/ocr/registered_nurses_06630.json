@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_06630",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.871,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "JACOB VU",
+      "score": 0.9498,
+      "box": [
+        113,
+        86,
+        292,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA|+1-651-793-6755 |jacob.vu@example.com",
+      "score": 0.9753,
+      "box": [
+        116,
+        151,
+        619,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9864,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2020.08–2023.01",
+      "score": 0.9889,
+      "box": [
+        115,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9575,
+      "box": [
+        126,
+        314,
+        530,
+        339
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.968,
+      "box": [
+        127,
+        340,
+        426,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2018.03–2020.08",
+      "score": 0.9916,
+      "box": [
+        115,
+        381,
+        732,
+        406
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9735,
+      "box": [
+        125,
+        406,
+        400,
+        431
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9872,
+      "box": [
+        126,
+        430,
+        412,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2015.09–2018.03",
+      "score": 0.9919,
+      "box": [
+        116,
+        473,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "-Maintained supply inventory",
+      "score": 0.9883,
+      "box": [
+        125,
+        495,
+        402,
+        523
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9876,
+      "box": [
+        126,
+        521,
+        484,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Pinecrest University, 2016",
+      "score": 0.9902,
+      "box": [
+        114,
+        631,
+        660,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9928,
+      "box": [
+        133,
+        657,
+        624,
+        680
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of respiratory nursing",
+      "score": 0.9616,
+      "box": [
+        133,
+        681,
+        551,
+        706
+      ]
+    }
+  ]
+}

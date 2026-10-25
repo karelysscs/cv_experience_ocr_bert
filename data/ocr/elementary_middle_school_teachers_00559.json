@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_00559",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.911,
+  "mean_conf": 0.9802,
+  "lines": [
+    {
+      "text": "STEPHAINE FULLER",
+      "score": 0.9874,
+      "box": [
+        116,
+        90,
+        449,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA|+1-765-537-9774 | stephaine.fuller@example.com",
+      "score": 0.957,
+      "box": [
+        116,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9777,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2020.08–2023.01",
+      "score": 0.9864,
+      "box": [
+        115,
+        289,
+        845,
+        312
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9939,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9828,
+      "box": [
+        126,
+        338,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2015.04–2017.10",
+      "score": 0.9663,
+      "box": [
+        116,
+        382,
+        799,
+        405
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9856,
+      "box": [
+        125,
+        406,
+        645,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.976,
+      "box": [
+        126,
+        430,
+        411,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.998,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Greenway University, 2013",
+      "score": 0.985,
+      "box": [
+        115,
+        541,
+        724,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9731,
+      "box": [
+        134,
+        566,
+        600,
+        589
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9732,
+      "box": [
+        134,
+        592,
+        540,
+        612
+      ]
+    }
+  ]
+}

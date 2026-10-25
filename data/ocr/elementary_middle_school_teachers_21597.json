@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_21597",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.0,
+  "mean_conf": 0.9821,
+  "lines": [
+    {
+      "text": "KATHERINE BURKE",
+      "score": 0.989,
+      "box": [
+        116,
+        90,
+        440,
+        120
+      ]
+    },
+    {
+      "text": "KS, USA|+1-901-219-2138 |katherine.burke@example.com",
+      "score": 0.9872,
+      "box": [
+        115,
+        150,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9804,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2020.05–2023.01",
+      "score": 0.984,
+      "box": [
+        116,
+        289,
+        874,
+        312
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9791,
+      "box": [
+        127,
+        315,
+        504,
+        338
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9744,
+      "box": [
+        126,
+        339,
+        560,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures School, 2017.08–2020.05",
+      "score": 0.9913,
+      "box": [
+        115,
+        381,
+        839,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9809,
+      "box": [
+        127,
+        406,
+        421,
+        430
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.989,
+      "box": [
+        125,
+        430,
+        517,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Steps Academy, 2013.06–2016.03",
+      "score": 0.98,
+      "box": [
+        114,
+        471,
+        849,
+        496
+      ]
+    },
+    {
+      "text": "-Tracked student participation",
+      "score": 0.9632,
+      "box": [
+        125,
+        496,
+        411,
+        521
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9641,
+      "box": [
+        126,
+        521,
+        413,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Shoreline University, 2008",
+      "score": 0.9727,
+      "box": [
+        115,
+        632,
+        693,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Briarwood University, 2006",
+      "score": 0.9851,
+      "box": [
+        114,
+        656,
+        674,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9841,
+      "box": [
+        133,
+        681,
+        604,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional modeling",
+      "score": 0.9915,
+      "box": [
+        133,
+        706,
+        591,
+        731
+      ]
+    }
+  ]
+}

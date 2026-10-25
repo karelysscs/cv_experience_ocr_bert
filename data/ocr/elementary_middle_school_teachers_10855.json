@@ -1,0 +1,213 @@
+{
+  "id": "elementary_middle_school_teachers_10855",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.07,
+  "mean_conf": 0.9823,
+  "lines": [
+    {
+      "text": "CHRISTINA BLACKBURN",
+      "score": 0.99,
+      "box": [
+        117,
+        90,
+        521,
+        120
+      ]
+    },
+    {
+      "text": "CT, USA |+1-735-751-4740|christina.blackburn@example.com",
+      "score": 0.9623,
+      "box": [
+        117,
+        151,
+        714,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2019.09–2023.01",
+      "score": 0.9763,
+      "box": [
+        116,
+        290,
+        832,
+        313
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9825,
+      "box": [
+        125,
+        313,
+        497,
+        338
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9892,
+      "box": [
+        126,
+        339,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2016.05–2019.09",
+      "score": 0.9928,
+      "box": [
+        115,
+        381,
+        900,
+        406
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9887,
+      "box": [
+        126,
+        406,
+        467,
+        431
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9935,
+      "box": [
+        126,
+        431,
+        448,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2012.12–2016.05",
+      "score": 0.9779,
+      "box": [
+        114,
+        471,
+        858,
+        496
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9844,
+      "box": [
+        125,
+        496,
+        432,
+        521
+      ]
+    },
+    {
+      "text": "– Maintained academic records",
+      "score": 0.9573,
+      "box": [
+        126,
+        522,
+        415,
+        544
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2009.07–2012.12",
+      "score": 0.9789,
+      "box": [
+        116,
+        565,
+        827,
+        588
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9811,
+      "box": [
+        125,
+        589,
+        645,
+        613
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.989,
+      "box": [
+        127,
+        614,
+        427,
+        637
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        679,
+        266,
+        703
+      ]
+    },
+    {
+      "text": "Master's, Basic Education Studies, Greenridge University, 2013",
+      "score": 0.9694,
+      "box": [
+        115,
+        724,
+        702,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Briarwood University, 2011",
+      "score": 0.9762,
+      "box": [
+        115,
+        749,
+        681,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9893,
+      "box": [
+        133,
+        772,
+        726,
+        798
+      ]
+    },
+    {
+      "text": "• Studied principles of academic progress tracking",
+      "score": 0.988,
+      "box": [
+        132,
+        798,
+        596,
+        823
+      ]
+    }
+  ]
+}

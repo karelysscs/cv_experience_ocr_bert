@@ -1,0 +1,133 @@
+{
+  "id": "construction_laborers_51719",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.876,
+  "mean_conf": 0.9792,
+  "lines": [
+    {
+      "text": "LANE SHELTON",
+      "score": 0.9829,
+      "box": [
+        116,
+        90,
+        379,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-336-675-5855|lane.shelton@example.com",
+      "score": 0.9754,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9795,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2021.03–2023.01",
+      "score": 0.9757,
+      "box": [
+        115,
+        290,
+        673,
+        313
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9749,
+      "box": [
+        125,
+        313,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9791,
+      "box": [
+        127,
+        340,
+        465,
+        363
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2017.08–2019.07",
+      "score": 0.9772,
+      "box": [
+        115,
+        381,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9727,
+      "box": [
+        125,
+        406,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9732,
+      "box": [
+        126,
+        430,
+        426,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Technology, Seabreeze High School, 2012",
+      "score": 0.9803,
+      "box": [
+        116,
+        541,
+        854,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of load handling",
+      "score": 0.9813,
+      "box": [
+        133,
+        565,
+        466,
+        590
+      ]
+    }
+  ]
+}

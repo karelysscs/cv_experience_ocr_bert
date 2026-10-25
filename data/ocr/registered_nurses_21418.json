@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_21418",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.98,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "ANNOWENS",
+      "score": 0.9967,
+      "box": [
+        115,
+        88,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA|+1-486-201-2701 |ann.owens@example.com",
+      "score": 0.9816,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2019.05–2023.01",
+      "score": 0.9865,
+      "box": [
+        115,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9675,
+      "box": [
+        126,
+        314,
+        466,
+        339
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9911,
+      "box": [
+        126,
+        339,
+        425,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2015.09–2019.05",
+      "score": 0.9845,
+      "box": [
+        115,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9886,
+      "box": [
+        126,
+        406,
+        506,
+        431
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9886,
+      "box": [
+        126,
+        430,
+        503,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Health Group, 2011.01–2014.09",
+      "score": 0.9797,
+      "box": [
+        114,
+        470,
+        716,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9726,
+      "box": [
+        125,
+        496,
+        444,
+        521
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9835,
+      "box": [
+        127,
+        523,
+        410,
+        546
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2006.03–2009.11",
+      "score": 0.9852,
+      "box": [
+        116,
+        565,
+        708,
+        588
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9911,
+      "box": [
+        126,
+        590,
+        411,
+        613
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9689,
+      "box": [
+        127,
+        615,
+        435,
+        638
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Sciences, Brighton University, 2004",
+      "score": 0.9782,
+      "box": [
+        114,
+        723,
+        700,
+        747
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9907,
+      "box": [
+        133,
+        747,
+        605,
+        771
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9922,
+      "box": [
+        135,
+        775,
+        623,
+        795
+      ]
+    }
+  ]
+}

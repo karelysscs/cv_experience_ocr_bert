@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_17563",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.825,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "SYDNEY BARR",
+      "score": 0.9668,
+      "box": [
+        115,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-390-621-7452 |sydney.barr@example.com",
+      "score": 0.9809,
+      "box": [
+        116,
+        152,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9812,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, WonderWorks Academy, 2020.10–2023.01",
+      "score": 0.9898,
+      "box": [
+        115,
+        290,
+        861,
+        313
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9871,
+      "box": [
+        126,
+        315,
+        428,
+        338
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9688,
+      "box": [
+        127,
+        340,
+        370,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Golden Hills University, 2018",
+      "score": 0.9523,
+      "box": [
+        115,
+        449,
+        673,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9899,
+      "box": [
+        133,
+        474,
+        602,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of numeracy development",
+      "score": 0.9821,
+      "box": [
+        132,
+        497,
+        598,
+        522
+      ]
+    }
+  ]
+}

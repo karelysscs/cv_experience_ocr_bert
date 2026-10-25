@@ -1,0 +1,143 @@
+{
+  "id": "software_developers_58483",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.858,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "KYLE CASE",
+      "score": 0.9473,
+      "box": [
+        115,
+        88,
+        311,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA|+1-931-571-4049|kyle.case@example.com",
+      "score": 0.9813,
+      "box": [
+        114,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2018.09–2021.04",
+      "score": 0.9919,
+      "box": [
+        114,
+        288,
+        639,
+        314
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9803,
+      "box": [
+        126,
+        315,
+        443,
+        338
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9821,
+      "box": [
+        126,
+        339,
+        428,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2014.12–2017.07",
+      "score": 0.9756,
+      "box": [
+        114,
+        381,
+        637,
+        406
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9819,
+      "box": [
+        126,
+        407,
+        375,
+        430
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9896,
+      "box": [
+        125,
+        430,
+        627,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookfield University, 2012",
+      "score": 0.9763,
+      "box": [
+        115,
+        541,
+        475,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of race condition handling",
+      "score": 0.9625,
+      "box": [
+        131,
+        564,
+        593,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of API development",
+      "score": 0.9798,
+      "box": [
+        133,
+        591,
+        540,
+        614
+      ]
+    }
+  ]
+}

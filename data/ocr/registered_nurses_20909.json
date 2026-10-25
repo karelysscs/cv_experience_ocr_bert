@@ -1,0 +1,203 @@
+{
+  "id": "registered_nurses_20909",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.968,
+  "mean_conf": 0.9875,
+  "lines": [
+    {
+      "text": "DANAPIERCE",
+      "score": 0.9981,
+      "box": [
+        116,
+        90,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-339-865-6806|dana.pierce@example.com",
+      "score": 0.9885,
+      "box": [
+        116,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2020.06–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        289,
+        700,
+        314
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9846,
+      "box": [
+        126,
+        314,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9806,
+      "box": [
+        126,
+        339,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2017.11–2020.06",
+      "score": 0.9847,
+      "box": [
+        115,
+        381,
+        725,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9932,
+      "box": [
+        126,
+        406,
+        567,
+        432
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9824,
+      "box": [
+        126,
+        431,
+        470,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2014.02–2016.09",
+      "score": 0.9939,
+      "box": [
+        116,
+        473,
+        716,
+        496
+      ]
+    },
+    {
+      "text": "-Provided catheter and ostomy care",
+      "score": 0.9902,
+      "box": [
+        125,
+        496,
+        466,
+        522
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9881,
+      "box": [
+        126,
+        521,
+        492,
+        547
+      ]
+    },
+    {
+      "text": "Registered Nurses, WelIHands Medical Group, 2010.07–2013.02",
+      "score": 0.9926,
+      "box": [
+        116,
+        565,
+        719,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9905,
+      "box": [
+        125,
+        589,
+        483,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9828,
+      "box": [
+        126,
+        613,
+        409,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Briar Ridge University, 2002",
+      "score": 0.969,
+      "box": [
+        114,
+        723,
+        650,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in first aid principles",
+      "score": 0.9852,
+      "box": [
+        133,
+        749,
+        551,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9898,
+      "box": [
+        135,
+        774,
+        624,
+        797
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_20747",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.873,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "SARA MORSE",
+      "score": 0.9595,
+      "box": [
+        115,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA|+1-234-703-4547 | sara.morse@example.com",
+      "score": 0.9805,
+      "box": [
+        116,
+        150,
+        637,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2019.08–2021.08",
+      "score": 0.9804,
+      "box": [
+        115,
+        289,
+        737,
+        314
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9791,
+      "box": [
+        125,
+        313,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9834,
+      "box": [
+        126,
+        339,
+        516,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2016.05–2018.06",
+      "score": 0.9871,
+      "box": [
+        115,
+        381,
+        709,
+        406
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9909,
+      "box": [
+        125,
+        405,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9873,
+      "box": [
+        126,
+        430,
+        471,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Willowgate University, 2007",
+      "score": 0.9604,
+      "box": [
+        114,
+        539,
+        692,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of interdisciplinary care",
+      "score": 0.9859,
+      "box": [
+        132,
+        564,
+        570,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9864,
+      "box": [
+        135,
+        591,
+        589,
+        614
+      ]
+    }
+  ]
+}

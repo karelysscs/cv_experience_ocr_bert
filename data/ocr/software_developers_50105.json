@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_50105",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.816,
+  "mean_conf": 0.9834,
+  "lines": [
+    {
+      "text": "NEELEY POLLARD",
+      "score": 0.9787,
+      "box": [
+        116,
+        90,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-811-831-7783|neeley.pollard@example.com",
+      "score": 0.9705,
+      "box": [
+        115,
+        150,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearfield Labs, 2019.02–2021.08",
+      "score": 0.9906,
+      "box": [
+        115,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9691,
+      "box": [
+        127,
+        315,
+        403,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9883,
+      "box": [
+        126,
+        339,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Windfield University, 2014",
+      "score": 0.9735,
+      "box": [
+        115,
+        449,
+        449,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2012",
+      "score": 0.9867,
+      "box": [
+        115,
+        474,
+        489,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.9843,
+      "box": [
+        133,
+        498,
+        617,
+        523
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9921,
+      "box": [
+        133,
+        523,
+        497,
+        548
+      ]
+    }
+  ]
+}

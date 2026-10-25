@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_57410",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.805,
+  "mean_conf": 0.982,
+  "lines": [
+    {
+      "text": "TOMMIE BENSON",
+      "score": 0.9758,
+      "box": [
+        115,
+        90,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-257-349-8519|tommie.benson@example.com",
+      "score": 0.9931,
+      "box": [
+        115,
+        150,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2020.08–2023.01",
+      "score": 0.9938,
+      "box": [
+        116,
+        290,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9828,
+      "box": [
+        126,
+        314,
+        376,
+        339
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9625,
+      "box": [
+        126,
+        339,
+        352,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakridge University, 2018",
+      "score": 0.9819,
+      "box": [
+        115,
+        449,
+        466,
+        472
+      ]
+    },
+    {
+      "text": "•Completed coursework in schema design",
+      "score": 0.9697,
+      "box": [
+        132,
+        473,
+        530,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9773,
+      "box": [
+        134,
+        499,
+        538,
+        522
+      ]
+    }
+  ]
+}

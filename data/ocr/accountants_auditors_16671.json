@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_16671",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9798,
+  "lines": [
+    {
+      "text": "SUMMER MEDINA",
+      "score": 0.9719,
+      "box": [
+        116,
+        90,
+        408,
+        120
+      ]
+    },
+    {
+      "text": "HI, USA|+1-713-861-6318 | summer.medina@example.com",
+      "score": 0.9798,
+      "box": [
+        116,
+        152,
+        682,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.98,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2019.12–2023.01",
+      "score": 0.992,
+      "box": [
+        115,
+        289,
+        763,
+        313
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9854,
+      "box": [
+        125,
+        313,
+        433,
+        338
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9787,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2015.11–2018.12",
+      "score": 0.9829,
+      "box": [
+        115,
+        382,
+        684,
+        405
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9675,
+      "box": [
+        126,
+        407,
+        407,
+        429
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9783,
+      "box": [
+        127,
+        432,
+        425,
+        454
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2011.07–2014.08",
+      "score": 0.9799,
+      "box": [
+        114,
+        471,
+        685,
+        495
+      ]
+    },
+    {
+      "text": "-Maintained supporting documentation",
+      "score": 0.9756,
+      "box": [
+        125,
+        496,
+        490,
+        521
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.978,
+      "box": [
+        126,
+        521,
+        550,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Parkview University, 2010",
+      "score": 0.9825,
+      "box": [
+        115,
+        632,
+        552,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9808,
+      "box": [
+        134,
+        658,
+        620,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of social responsibility reporting",
+      "score": 0.964,
+      "box": [
+        134,
+        681,
+        610,
+        707
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_18284",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.934,
+  "mean_conf": 0.9835,
+  "lines": [
+    {
+      "text": "REBECCA THOMPSON",
+      "score": 0.9825,
+      "box": [
+        117,
+        90,
+        485,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-422-633-5691 |rebecca.thompson@example.com",
+      "score": 0.977,
+      "box": [
+        117,
+        152,
+        701,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2020.10–2023.01",
+      "score": 0.9867,
+      "box": [
+        116,
+        290,
+        705,
+        313
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9841,
+      "box": [
+        126,
+        313,
+        501,
+        339
+      ]
+    },
+    {
+      "text": "- Established clinical best pratices",
+      "score": 0.9869,
+      "box": [
+        126,
+        339,
+        453,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2017.02–2019.05",
+      "score": 0.9883,
+      "box": [
+        115,
+        381,
+        721,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9749,
+      "box": [
+        125,
+        406,
+        423,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9928,
+      "box": [
+        127,
+        432,
+        457,
+        454
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2013.12–201.03",
+      "score": 0.9892,
+      "box": [
+        116,
+        473,
+        707,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9914,
+      "box": [
+        125,
+        496,
+        473,
+        521
+      ]
+    },
+    {
+      "text": "– Monitored intravenous lines",
+      "score": 0.9645,
+      "box": [
+        127,
+        522,
+        397,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Management, Brightfield University, 202",
+      "score": 0.9642,
+      "box": [
+        114,
+        631,
+        752,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing research basics",
+      "score": 0.9877,
+      "box": [
+        134,
+        658,
+        610,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9862,
+      "box": [
+        134,
+        681,
+        634,
+        707
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "elementary_middle_school_teachers_15750",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.926,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "JENNIFER FOWLER",
+      "score": 0.9781,
+      "box": [
+        116,
+        90,
+        437,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA |+1-858-486-1412|jennifer.fowler@example.com",
+      "score": 0.9799,
+      "box": [
+        116,
+        151,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9769,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2020.09–2023.01",
+      "score": 0.9739,
+      "box": [
+        116,
+        290,
+        813,
+        313
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9767,
+      "box": [
+        126,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9904,
+      "box": [
+        127,
+        340,
+        535,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2018.04–2020.09",
+      "score": 0.9912,
+      "box": [
+        115,
+        381,
+        891,
+        406
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9602,
+      "box": [
+        127,
+        408,
+        571,
+        431
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9806,
+      "box": [
+        125,
+        431,
+        441,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9979,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Teaching Foundations, Rockland University, 2023",
+      "score": 0.9876,
+      "box": [
+        116,
+        542,
+        666,
+        562
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Hillview University, 2022",
+      "score": 0.9818,
+      "box": [
+        114,
+        564,
+        714,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9845,
+      "box": [
+        133,
+        590,
+        643,
+        615
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9944,
+      "box": [
+        133,
+        615,
+        708,
+        640
+      ]
+    }
+  ]
+}

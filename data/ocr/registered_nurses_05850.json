@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_05850",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.934,
+  "mean_conf": 0.9851,
+  "lines": [
+    {
+      "text": "GABRIELA MOODY",
+      "score": 0.9935,
+      "box": [
+        117,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA|+1-739-918-3178 |gabriela.moody@example.com",
+      "score": 0.9782,
+      "box": [
+        117,
+        151,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9843,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2020.12–2023.01",
+      "score": 0.9902,
+      "box": [
+        116,
+        290,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9843,
+      "box": [
+        127,
+        315,
+        474,
+        338
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9875,
+      "box": [
+        126,
+        339,
+        469,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2018.11–2020.12",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9825,
+      "box": [
+        126,
+        406,
+        447,
+        431
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9921,
+      "box": [
+        126,
+        431,
+        457,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2016.09–2018.11",
+      "score": 0.9862,
+      "box": [
+        115,
+        471,
+        717,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.975,
+      "box": [
+        126,
+        498,
+        466,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9864,
+      "box": [
+        127,
+        522,
+        529,
+        544
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9984,
+      "box": [
+        114,
+        584,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Management, Northcrest University, 2016",
+      "score": 0.9761,
+      "box": [
+        114,
+        631,
+        807,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in critical care basics",
+      "score": 0.9725,
+      "box": [
+        133,
+        656,
+        560,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of nursing assessment",
+      "score": 0.9893,
+      "box": [
+        134,
+        681,
+        528,
+        706
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_16739",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.856,
+  "mean_conf": 0.9751,
+  "lines": [
+    {
+      "text": "HELEN MADDEN",
+      "score": 0.96,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "HI, USA|+1-327-997-9212 | helen.madden@example.com",
+      "score": 0.9764,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9783,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2022.05–2023.01",
+      "score": 0.9795,
+      "box": [
+        116,
+        290,
+        871,
+        313
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9484,
+      "box": [
+        126,
+        313,
+        411,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9769,
+      "box": [
+        126,
+        339,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Applied Child Studies, Sunnyside University, 2023",
+      "score": 0.9806,
+      "box": [
+        115,
+        447,
+        831,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.966,
+      "box": [
+        133,
+        474,
+        693,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9869,
+      "box": [
+        134,
+        499,
+        689,
+        522
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+Model,occupation,n,MAE
+Median,accountants_auditors,119,3.8037
+Median,construction_laborers,120,3.6745
+Median,elementary_middle_school_teachers,120,3.4896
+Median,registered_nurses,120,3.2211
+Median,software_developers,121,3.3343
+TF-IDF + Ridge,accountants_auditors,119,0.8478
+TF-IDF + Ridge,construction_laborers,120,0.8194
+TF-IDF + Ridge,elementary_middle_school_teachers,120,0.8301
+TF-IDF + Ridge,registered_nurses,120,0.7572
+TF-IDF + Ridge,software_developers,121,0.8013
+Embeddings + Ridge,accountants_auditors,119,1.0947
+Embeddings + Ridge,construction_laborers,120,1.163
+Embeddings + Ridge,elementary_middle_school_teachers,120,1.3476
+Embeddings + Ridge,registered_nurses,120,0.8894
+Embeddings + Ridge,software_developers,121,1.0931
+Rule-based dates (bonus),accountants_auditors,119,0.2459
+Rule-based dates (bonus),construction_laborers,120,0.1731
+Rule-based dates (bonus),elementary_middle_school_teachers,120,0.396
+Rule-based dates (bonus),registered_nurses,120,0.234
+Rule-based dates (bonus),software_developers,121,0.256
+Fine-tuned BERT,accountants_auditors,119,0.2302
+Fine-tuned BERT,construction_laborers,120,0.2364
+Fine-tuned BERT,elementary_middle_school_teachers,120,0.255
+Fine-tuned BERT,registered_nurses,120,0.224
+Fine-tuned BERT,software_developers,121,0.1982

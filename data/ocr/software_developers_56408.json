@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_56408",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.75,
+  "mean_conf": 0.9828,
+  "lines": [
+    {
+      "text": "JOSHUA SHORT",
+      "score": 0.9709,
+      "box": [
+        116,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-293-605-2056 |joshua.short@example.com",
+      "score": 0.9821,
+      "box": [
+        116,
+        150,
+        652,
+        174
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9848,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2018.12–2021.11",
+      "score": 0.9894,
+      "box": [
+        116,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.987,
+      "box": [
+        127,
+        315,
+        479,
+        338
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9811,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowgate University, 2008",
+      "score": 0.9705,
+      "box": [
+        114,
+        447,
+        482,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.983,
+      "box": [
+        133,
+        473,
+        486,
+        496
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of agile methodologies",
+      "score": 0.9806,
+      "box": [
+        132,
+        497,
+        565,
+        523
+      ]
+    }
+  ]
+}

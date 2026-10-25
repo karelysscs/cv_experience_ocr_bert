@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_13511",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.986,
+  "mean_conf": 0.9797,
+  "lines": [
+    {
+      "text": "JENNIFER BURTON",
+      "score": 0.9893,
+      "box": [
+        116,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA|+1-230-276-8390 |jennifer.burton@example.com",
+      "score": 0.977,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9867,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2019.10–2023.01",
+      "score": 0.9839,
+      "box": [
+        114,
+        289,
+        757,
+        314
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9752,
+      "box": [
+        125,
+        314,
+        458,
+        339
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9595,
+      "box": [
+        126,
+        338,
+        323,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2016.07–2019.10",
+      "score": 0.984,
+      "box": [
+        114,
+        381,
+        693,
+        406
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9813,
+      "box": [
+        125,
+        406,
+        424,
+        431
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9865,
+      "box": [
+        126,
+        431,
+        485,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2011.10–2015.01",
+      "score": 0.9877,
+      "box": [
+        114,
+        471,
+        713,
+        496
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9675,
+      "box": [
+        125,
+        497,
+        387,
+        519
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9638,
+      "box": [
+        126,
+        521,
+        398,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Financial, 2007.05–2010.09",
+      "score": 0.9722,
+      "box": [
+        114,
+        563,
+        741,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9697,
+      "box": [
+        125,
+        589,
+        356,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9832,
+      "box": [
+        125,
+        613,
+        474,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Woodview University, 2004",
+      "score": 0.9757,
+      "box": [
+        114,
+        723,
+        687,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9838,
+      "box": [
+        133,
+        749,
+        649,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal reporting systems",
+      "score": 0.9889,
+      "box": [
+        134,
+        772,
+        628,
+        797
+      ]
+    }
+  ]
+}

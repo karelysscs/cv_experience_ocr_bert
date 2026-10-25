@@ -1,0 +1,173 @@
+{
+  "id": "elementary_middle_school_teachers_21406",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.965,
+  "mean_conf": 0.9845,
+  "lines": [
+    {
+      "text": "SYDNEECRAWFORD",
+      "score": 0.9984,
+      "box": [
+        116,
+        90,
+        461,
+        120
+      ]
+    },
+    {
+      "text": "IA, USA|+1-623-716-5682 |sydnee.crawford@example.com",
+      "score": 0.9852,
+      "box": [
+        116,
+        152,
+        685,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9796,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2020.02–2023.",
+      "score": 0.9878,
+      "box": [
+        115,
+        289,
+        876,
+        314
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9904,
+      "box": [
+        125,
+        313,
+        560,
+        338
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.973,
+      "box": [
+        127,
+        341,
+        570,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds Academy, 2017.02–2020.02",
+      "score": 0.9872,
+      "box": [
+        115,
+        381,
+        834,
+        406
+      ]
+    },
+    {
+      "text": "- Developed science lesson plans",
+      "score": 0.9874,
+      "box": [
+        126,
+        406,
+        442,
+        431
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9756,
+      "box": [
+        126,
+        431,
+        482,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2014.02–2017.02",
+      "score": 0.9664,
+      "box": [
+        116,
+        472,
+        814,
+        495
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9669,
+      "box": [
+        125,
+        496,
+        411,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9976,
+      "box": [
+        126,
+        521,
+        460,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Fairview Ridge University, 2019",
+      "score": 0.967,
+      "box": [
+        114,
+        631,
+        756,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom learning outcomes",
+      "score": 0.9932,
+      "box": [
+        133,
+        658,
+        614,
+        681
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9966,
+      "box": [
+        134,
+        682,
+        720,
+        707
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "elementary_middle_school_teachers_18552",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.869,
+  "mean_conf": 0.977,
+  "lines": [
+    {
+      "text": "MARY FOX",
+      "score": 0.9481,
+      "box": [
+        116,
+        90,
+        296,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-695-298-4680 |mary.fox@example.com",
+      "score": 0.975,
+      "box": [
+        116,
+        152,
+        610,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9733,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2020.05–2023.01",
+      "score": 0.987,
+      "box": [
+        115,
+        290,
+        831,
+        313
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9823,
+      "box": [
+        127,
+        315,
+        509,
+        338
+      ]
+    },
+    {
+      "text": "-Maintained lesson documentation",
+      "score": 0.9607,
+      "box": [
+        127,
+        340,
+        452,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Learning Support Studies, Windfield University, 2021",
+      "score": 0.9918,
+      "box": [
+        115,
+        449,
+        694,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Clearway University, 2019",
+      "score": 0.965,
+      "box": [
+        114,
+        472,
+        705,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic instructional coaching",
+      "score": 0.9786,
+      "box": [
+        134,
+        499,
+        643,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9866,
+      "box": [
+        133,
+        523,
+        726,
+        548
+      ]
+    }
+  ]
+}

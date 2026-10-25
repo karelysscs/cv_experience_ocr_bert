@@ -1,0 +1,173 @@
+{
+  "id": "construction_laborers_56924",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.841,
+  "mean_conf": 0.976,
+  "lines": [
+    {
+      "text": "MARK MUELLER",
+      "score": 0.9914,
+      "box": [
+        116,
+        90,
+        389,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-812-423-3368|mark.mueller@example.com",
+      "score": 0.9917,
+      "box": [
+        114,
+        150,
+        660,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9869,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2021.01–2023.01",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9822,
+      "box": [
+        125,
+        313,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9491,
+      "box": [
+        126,
+        339,
+        394,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2018.12–2021.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9561,
+      "box": [
+        125,
+        406,
+        391,
+        431
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.968,
+      "box": [
+        125,
+        430,
+        347,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2015.08–2017.09",
+      "score": 0.9916,
+      "box": [
+        115,
+        472,
+        667,
+        495
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9853,
+      "box": [
+        125,
+        496,
+        361,
+        523
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9732,
+      "box": [
+        126,
+        521,
+        406,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9976,
+      "box": [
+        114,
+        584,
+        268,
+        614
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Trades, Westview University, 007",
+      "score": 0.9461,
+      "box": [
+        114,
+        629,
+        814,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.942,
+      "box": [
+        132,
+        656,
+        538,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction terminology",
+      "score": 0.985,
+      "box": [
+        134,
+        681,
+        615,
+        707
+      ]
+    }
+  ]
+}

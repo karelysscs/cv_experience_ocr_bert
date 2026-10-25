@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_45039",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.865,
+  "mean_conf": 0.9838,
+  "lines": [
+    {
+      "text": "RANDY CHANG",
+      "score": 0.9655,
+      "box": [
+        115,
+        88,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA|+1-946-797-4462 |randy.chang@example.com",
+      "score": 0.9811,
+      "box": [
+        115,
+        150,
+        655,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2020.09–2023.01",
+      "score": 0.9894,
+      "box": [
+        116,
+        290,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9911,
+      "box": [
+        126,
+        315,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9902,
+      "box": [
+        126,
+        338,
+        400,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2017.02–2019.07",
+      "score": 0.9848,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9694,
+      "box": [
+        125,
+        406,
+        483,
+        431
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.982,
+      "box": [
+        126,
+        430,
+        415,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2013.09–2016.02",
+      "score": 0.9909,
+      "box": [
+        116,
+        472,
+        666,
+        496
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9824,
+      "box": [
+        127,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9938,
+      "box": [
+        126,
+        521,
+        601,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenridge University, 2009",
+      "score": 0.9683,
+      "box": [
+        115,
+        632,
+        495,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in deadlock prevention",
+      "score": 0.9686,
+      "box": [
+        132,
+        656,
+        576,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer graphics basics",
+      "score": 0.9979,
+      "box": [
+        134,
+        681,
+        625,
+        706
+      ]
+    }
+  ]
+}

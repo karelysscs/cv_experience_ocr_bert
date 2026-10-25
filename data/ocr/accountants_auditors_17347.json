@@ -1,0 +1,123 @@
+{
+  "id": "accountants_auditors_17347",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.867,
+  "mean_conf": 0.9843,
+  "lines": [
+    {
+      "text": "JESSICA KENT",
+      "score": 0.9758,
+      "box": [
+        116,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-476-371-5922 |jessica.kent@example.com",
+      "score": 0.981,
+      "box": [
+        116,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9824,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2018.09–2021.01",
+      "score": 0.9843,
+      "box": [
+        115,
+        290,
+        751,
+        312
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9774,
+      "box": [
+        126,
+        314,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.983,
+      "box": [
+        126,
+        339,
+        546,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9986,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Public Accounting, Silverview University, 2008",
+      "score": 0.9838,
+      "box": [
+        115,
+        449,
+        633,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Willowbrook University, 2006",
+      "score": 0.9804,
+      "box": [
+        115,
+        474,
+        581,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of professional writing",
+      "score": 0.9952,
+      "box": [
+        134,
+        499,
+        557,
+        522
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning techniques",
+      "score": 0.985,
+      "box": [
+        134,
+        523,
+        625,
+        548
+      ]
+    }
+  ]
+}

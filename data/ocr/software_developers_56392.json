@@ -1,0 +1,173 @@
+{
+  "id": "software_developers_56392",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.879,
+  "mean_conf": 0.9765,
+  "lines": [
+    {
+      "text": "KYLE FOSTER",
+      "score": 0.9895,
+      "box": [
+        116,
+        90,
+        352,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-422-653-5379 |kyle.foster@example.com",
+      "score": 0.9736,
+      "box": [
+        115,
+        150,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.987,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2020.09–2023.01",
+      "score": 0.9729,
+      "box": [
+        114,
+        288,
+        667,
+        313
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9619,
+      "box": [
+        125,
+        313,
+        374,
+        339
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9549,
+      "box": [
+        127,
+        340,
+        407,
+        363
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Software, 2016.12–2019.04",
+      "score": 0.9797,
+      "box": [
+        114,
+        379,
+        669,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9848,
+      "box": [
+        126,
+        406,
+        414,
+        431
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9827,
+      "box": [
+        125,
+        429,
+        348,
+        454
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital, 2013.07–2015.12",
+      "score": 0.9808,
+      "box": [
+        116,
+        472,
+        665,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9668,
+      "box": [
+        126,
+        497,
+        424,
+        520
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9636,
+      "box": [
+        126,
+        521,
+        406,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookhaven University, 2011",
+      "score": 0.9776,
+      "box": [
+        115,
+        632,
+        491,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in code refactoring",
+      "score": 0.9568,
+      "box": [
+        132,
+        656,
+        539,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in software lifecycle models",
+      "score": 0.9931,
+      "box": [
+        134,
+        681,
+        622,
+        706
+      ]
+    }
+  ]
+}

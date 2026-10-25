@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_57357",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.763,
+  "mean_conf": 0.9895,
+  "lines": [
+    {
+      "text": "KRISTIANVALENTINE",
+      "score": 0.9995,
+      "box": [
+        116,
+        90,
+        474,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-293-207-6182 |kristian.valentine@example.com",
+      "score": 0.9822,
+      "box": [
+        115,
+        150,
+        696,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9832,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2022.12–2023.01",
+      "score": 0.9869,
+      "box": [
+        115,
+        290,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9807,
+      "box": [
+        125,
+        313,
+        360,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9906,
+      "box": [
+        126,
+        338,
+        449,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Greenwood Ridge High School, 2023",
+      "score": 0.99,
+      "box": [
+        116,
+        449,
+        920,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.994,
+      "box": [
+        133,
+        474,
+        504,
+        497
+      ]
+    }
+  ]
+}

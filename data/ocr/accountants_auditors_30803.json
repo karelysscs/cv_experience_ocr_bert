@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_30803",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.94,
+  "mean_conf": 0.9824,
+  "lines": [
+    {
+      "text": "KATHRYN HENDERSON",
+      "score": 0.9869,
+      "box": [
+        116,
+        90,
+        502,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA|+1-218-571-8889|kathryn.henderson@example.com",
+      "score": 0.9834,
+      "box": [
+        115,
+        150,
+        719,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9794,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2020.09–2023.01",
+      "score": 0.9662,
+      "box": [
+        114,
+        289,
+        743,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9648,
+      "box": [
+        126,
+        314,
+        519,
+        337
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        495,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2018.05–2020.09",
+      "score": 0.9801,
+      "box": [
+        114,
+        381,
+        803,
+        406
+      ]
+    },
+    {
+      "text": "- Developed internal audit programs",
+      "score": 0.9921,
+      "box": [
+        126,
+        406,
+        462,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9843,
+      "box": [
+        126,
+        431,
+        479,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2013.08–2015.12",
+      "score": 0.9932,
+      "box": [
+        115,
+        472,
+        706,
+        495
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9905,
+      "box": [
+        126,
+        498,
+        402,
+        521
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9712,
+      "box": [
+        126,
+        521,
+        382,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Clearwood University, 2004",
+      "score": 0.9772,
+      "box": [
+        114,
+        631,
+        716,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of financial statement preparation",
+      "score": 0.985,
+      "box": [
+        132,
+        656,
+        626,
+        681
+      ]
+    },
+    {
+      "text": "• Studied principles of quality control in auditing",
+      "score": 0.9892,
+      "box": [
+        135,
+        683,
+        571,
+        706
+      ]
+    }
+  ]
+}

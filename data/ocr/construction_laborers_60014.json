@@ -1,0 +1,103 @@
+{
+  "id": "construction_laborers_60014",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.828,
+  "mean_conf": 0.9819,
+  "lines": [
+    {
+      "text": "LOGAN SHERMAN",
+      "score": 0.9707,
+      "box": [
+        116,
+        90,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA|+1-934-258-3187|logan.sherman@example.com",
+      "score": 0.969,
+      "box": [
+        115,
+        150,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9784,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueFrame Construction, 2021.11–2023.01",
+      "score": 0.9951,
+      "box": [
+        116,
+        291,
+        732,
+        311
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9843,
+      "box": [
+        125,
+        314,
+        489,
+        339
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.975,
+      "box": [
+        126,
+        339,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Clearwood High School, 2022",
+      "score": 0.9755,
+      "box": [
+        116,
+        449,
+        885,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in equipment maintenance basics",
+      "score": 0.9906,
+      "box": [
+        133,
+        474,
+        677,
+        497
+      ]
+    }
+  ]
+}

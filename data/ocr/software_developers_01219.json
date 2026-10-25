@@ -1,0 +1,133 @@
+{
+  "id": "software_developers_01219",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.827,
+  "mean_conf": 0.9885,
+  "lines": [
+    {
+      "text": "NICKOLAS RIVERA",
+      "score": 0.9808,
+      "box": [
+        116,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA |+1-282-929-8118|nickolas.rivera@example.com",
+      "score": 0.9855,
+      "box": [
+        116,
+        151,
+        672,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9849,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2021.04–2023.01",
+      "score": 0.9936,
+      "box": [
+        116,
+        290,
+        664,
+        313
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9896,
+      "box": [
+        126,
+        314,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9921,
+      "box": [
+        126,
+        339,
+        559,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Skybyte Solutions, 2019.06–2021.04",
+      "score": 0.9854,
+      "box": [
+        115,
+        381,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.979,
+      "box": [
+        126,
+        406,
+        421,
+        431
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9922,
+      "box": [
+        126,
+        431,
+        422,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Cedarview High School, 2019",
+      "score": 0.9903,
+      "box": [
+        115,
+        540,
+        651,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9894,
+      "box": [
+        133,
+        565,
+        521,
+        590
+      ]
+    }
+  ]
+}

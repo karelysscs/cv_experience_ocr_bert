@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_02396",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.801,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "AMBER VAUGHAN",
+      "score": 0.9659,
+      "box": [
+        117,
+        90,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA|+1-470-284-5500 |amber.vaughan@example.com",
+      "score": 0.9909,
+      "box": [
+        116,
+        152,
+        686,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9817,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2019.10–202.01",
+      "score": 0.9903,
+      "box": [
+        116,
+        290,
+        638,
+        314
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9836,
+      "box": [
+        125,
+        313,
+        510,
+        339
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.979,
+      "box": [
+        128,
+        340,
+        454,
+        363
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2016.06–2019.10",
+      "score": 0.977,
+      "box": [
+        115,
+        381,
+        743,
+        406
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9745,
+      "box": [
+        126,
+        406,
+        472,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9957,
+      "box": [
+        127,
+        430,
+        422,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2011.12–2015.04",
+      "score": 0.9856,
+      "box": [
+        116,
+        472,
+        679,
+        496
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9581,
+      "box": [
+        125,
+        496,
+        373,
+        521
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9707,
+      "box": [
+        126,
+        521,
+        441,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Fairhill University, 2004",
+      "score": 0.9763,
+      "box": [
+        115,
+        632,
+        627,
+        655
+      ]
+    },
+    {
+      "text": "• Completed coursework in case management basics",
+      "score": 0.9942,
+      "box": [
+        134,
+        658,
+        626,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9813,
+      "box": [
+        134,
+        681,
+        598,
+        704
+      ]
+    }
+  ]
+}

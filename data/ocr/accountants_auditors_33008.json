@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_33008",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.789,
+  "mean_conf": 0.9833,
+  "lines": [
+    {
+      "text": "TYLER PATRICK",
+      "score": 0.9847,
+      "box": [
+        115,
+        90,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-504-662-3564 |tyler.patrick@example.com",
+      "score": 0.9747,
+      "box": [
+        116,
+        151,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9844,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2020.11–2023.01",
+      "score": 0.9874,
+      "box": [
+        114,
+        289,
+        743,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9818,
+      "box": [
+        126,
+        314,
+        440,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9784,
+      "box": [
+        126,
+        339,
+        490,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Golden Hills University, 2022",
+      "score": 0.9852,
+      "box": [
+        115,
+        449,
+        735,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tax planning",
+      "score": 0.9708,
+      "box": [
+        132,
+        472,
+        491,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in capital budgeting",
+      "score": 0.9872,
+      "box": [
+        134,
+        498,
+        547,
+        523
+      ]
+    }
+  ]
+}

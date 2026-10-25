@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_46880",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.915,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "TREVOR ARMSTRONG",
+      "score": 0.9938,
+      "box": [
+        115,
+        90,
+        484,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA|+1-337-485-4341 |trevor.armstrong@example.com",
+      "score": 0.9715,
+      "box": [
+        115,
+        150,
+        693,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.988,
+      "box": [
+        115,
+        241,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2020.03–2023.01",
+      "score": 0.9815,
+      "box": [
+        115,
+        290,
+        725,
+        313
+      ]
+    },
+    {
+      "text": "-Led cross-functional coordination",
+      "score": 0.991,
+      "box": [
+        126,
+        314,
+        448,
+        336
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9757,
+      "box": [
+        126,
+        339,
+        439,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2015.05–2018.03",
+      "score": 0.9947,
+      "box": [
+        116,
+        382,
+        648,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9633,
+      "box": [
+        126,
+        406,
+        445,
+        431
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9602,
+      "box": [
+        125,
+        429,
+        455,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2011.10–2014.09",
+      "score": 0.983,
+      "box": [
+        115,
+        472,
+        720,
+        495
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9938,
+      "box": [
+        125,
+        496,
+        441,
+        521
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9735,
+      "box": [
+        126,
+        521,
+        426,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        114,
+        584,
+        269,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Northcrest High School, 1998",
+      "score": 0.97,
+      "box": [
+        115,
+        631,
+        860,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete basics",
+      "score": 0.9853,
+      "box": [
+        133,
+        657,
+        535,
+        680
+      ]
+    }
+  ]
+}

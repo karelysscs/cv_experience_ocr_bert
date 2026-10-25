@@ -1,0 +1,183 @@
+{
+  "id": "elementary_middle_school_teachers_17706",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.008,
+  "mean_conf": 0.9816,
+  "lines": [
+    {
+      "text": "SARAH INGRAM",
+      "score": 0.9933,
+      "box": [
+        116,
+        90,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA|+1-791-868-8588|sarah.ingram@example.com",
+      "score": 0.984,
+      "box": [
+        116,
+        152,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2020.06–2023.01",
+      "score": 0.9922,
+      "box": [
+        116,
+        290,
+        845,
+        314
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9781,
+      "box": [
+        127,
+        315,
+        510,
+        338
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9812,
+      "box": [
+        127,
+        340,
+        562,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2017.03–2019.11",
+      "score": 0.9892,
+      "box": [
+        115,
+        381,
+        850,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9897,
+      "box": [
+        127,
+        408,
+        508,
+        431
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9815,
+      "box": [
+        127,
+        433,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2013.10–2016.06",
+      "score": 0.9827,
+      "box": [
+        115,
+        471,
+        872,
+        496
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9607,
+      "box": [
+        127,
+        498,
+        571,
+        521
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9734,
+      "box": [
+        127,
+        523,
+        509,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Southridge University, 2006",
+      "score": 0.9659,
+      "box": [
+        115,
+        632,
+        640,
+        655
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Willow Creek University, 2004",
+      "score": 0.9595,
+      "box": [
+        115,
+        658,
+        683,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.989,
+      "box": [
+        134,
+        683,
+        668,
+        706
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9886,
+      "box": [
+        134,
+        707,
+        693,
+        730
+      ]
+    }
+  ]
+}

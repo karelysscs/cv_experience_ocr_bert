@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58653",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.767,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "JACOB TANG",
+      "score": 0.96,
+      "box": [
+        116,
+        90,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-491-492-1560|jacob.tang@example.com",
+      "score": 0.9722,
+      "box": [
+        114,
+        150,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9846,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2020.06–2021.10",
+      "score": 0.9847,
+      "box": [
+        115,
+        290,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.958,
+      "box": [
+        126,
+        315,
+        424,
+        338
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9941,
+      "box": [
+        126,
+        339,
+        340,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinehaven University, 2018",
+      "score": 0.9685,
+      "box": [
+        115,
+        449,
+        481,
+        472
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of data analysis",
+      "score": 0.9797,
+      "box": [
+        132,
+        472,
+        501,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9812,
+      "box": [
+        132,
+        497,
+        490,
+        523
+      ]
+    }
+  ]
+}

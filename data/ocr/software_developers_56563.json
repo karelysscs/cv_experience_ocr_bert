@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_56563",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.938,
+  "mean_conf": 0.9809,
+  "lines": [
+    {
+      "text": "DANIEL PRICE",
+      "score": 0.9816,
+      "box": [
+        115,
+        88,
+        355,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA|+1-348-240-8833|daniel.price@example.com",
+      "score": 0.9909,
+      "box": [
+        114,
+        150,
+        647,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2020.06–2023.01",
+      "score": 0.981,
+      "box": [
+        114,
+        288,
+        676,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9718,
+      "box": [
+        126,
+        314,
+        465,
+        337
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9743,
+      "box": [
+        126,
+        338,
+        380,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2017.11–2020.06",
+      "score": 0.9832,
+      "box": [
+        115,
+        380,
+        662,
+        406
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9708,
+      "box": [
+        125,
+        405,
+        352,
+        430
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9827,
+      "box": [
+        126,
+        430,
+        428,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2015.04–2017.11",
+      "score": 0.9686,
+      "box": [
+        114,
+        471,
+        663,
+        496
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9816,
+      "box": [
+        126,
+        498,
+        391,
+        521
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9842,
+      "box": [
+        126,
+        521,
+        420,
+        546
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Solutions, 2012.08–2015.04",
+      "score": 0.9865,
+      "box": [
+        115,
+        563,
+        682,
+        589
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9792,
+      "box": [
+        125,
+        589,
+        530,
+        614
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9767,
+      "box": [
+        126,
+        614,
+        628,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Skyview University, 2011",
+      "score": 0.9841,
+      "box": [
+        115,
+        724,
+        439,
+        746
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestline University, 2009",
+      "score": 0.9765,
+      "box": [
+        114,
+        747,
+        464,
+        772
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of APl development",
+      "score": 0.9705,
+      "box": [
+        132,
+        772,
+        539,
+        797
+      ]
+    },
+    {
+      "text": "• Completed coursework in code review practices",
+      "score": 0.9889,
+      "box": [
+        134,
+        799,
+        590,
+        822
+      ]
+    }
+  ]
+}

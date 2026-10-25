@@ -1,0 +1,143 @@
+{
+  "id": "accountants_auditors_24360",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.9847,
+  "lines": [
+    {
+      "text": "LEONARD FRAZIER",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        437,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA| +1-338-733-4568 |leonard.frazier@example.com",
+      "score": 0.9789,
+      "box": [
+        115,
+        150,
+        678,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9841,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2019.02–2021.05",
+      "score": 0.9864,
+      "box": [
+        114,
+        289,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9832,
+      "box": [
+        125,
+        313,
+        478,
+        338
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9767,
+      "box": [
+        126,
+        339,
+        530,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2016.02–2018.05",
+      "score": 0.9872,
+      "box": [
+        114,
+        381,
+        689,
+        405
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9801,
+      "box": [
+        125,
+        406,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9874,
+      "box": [
+        127,
+        432,
+        453,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Willowgate University, 2013",
+      "score": 0.9756,
+      "box": [
+        115,
+        541,
+        683,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9876,
+      "box": [
+        133,
+        566,
+        545,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.9862,
+      "box": [
+        132,
+        590,
+        492,
+        613
+      ]
+    }
+  ]
+}

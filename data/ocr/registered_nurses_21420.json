@@ -1,0 +1,173 @@
+{
+  "id": "registered_nurses_21420",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.814,
+  "mean_conf": 0.9814,
+  "lines": [
+    {
+      "text": "SARAWHITE",
+      "score": 0.9987,
+      "box": [
+        115,
+        90,
+        329,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-247-867-3245 |sara.white@example.com",
+      "score": 0.9855,
+      "box": [
+        115,
+        150,
+        627,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9866,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2020.07–2023.01",
+      "score": 0.9707,
+      "box": [
+        115,
+        289,
+        662,
+        314
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9542,
+      "box": [
+        126,
+        314,
+        529,
+        339
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9911,
+      "box": [
+        126,
+        339,
+        425,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentlePath Nursing, 2017.12–2020.07",
+      "score": 0.9887,
+      "box": [
+        115,
+        381,
+        658,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9874,
+      "box": [
+        126,
+        406,
+        425,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9811,
+      "box": [
+        126,
+        431,
+        444,
+        455
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2015.05–2017.12",
+      "score": 0.9827,
+      "box": [
+        116,
+        472,
+        642,
+        496
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9853,
+      "box": [
+        125,
+        496,
+        442,
+        522
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9576,
+      "box": [
+        126,
+        521,
+        470,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Sciences, Skyview University, 2015",
+      "score": 0.9833,
+      "box": [
+        114,
+        631,
+        699,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9652,
+      "box": [
+        132,
+        656,
+        607,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.986,
+      "box": [
+        134,
+        681,
+        582,
+        706
+      ]
+    }
+  ]
+}

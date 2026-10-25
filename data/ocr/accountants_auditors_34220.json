@@ -1,0 +1,183 @@
+{
+  "id": "accountants_auditors_34220",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.899,
+  "mean_conf": 0.9815,
+  "lines": [
+    {
+      "text": "ZOLTAN JONES",
+      "score": 0.9868,
+      "box": [
+        115,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA|+1-406-924-1289 |zoltan.jones@example.com",
+      "score": 0.9888,
+      "box": [
+        116,
+        152,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9807,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2019.11–2023.01",
+      "score": 0.977,
+      "box": [
+        114,
+        289,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9823,
+      "box": [
+        126,
+        314,
+        528,
+        339
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9841,
+      "box": [
+        127,
+        340,
+        521,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2016.08–2019.11",
+      "score": 0.9835,
+      "box": [
+        114,
+        381,
+        714,
+        406
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9681,
+      "box": [
+        127,
+        406,
+        439,
+        430
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.979,
+      "box": [
+        126,
+        430,
+        463,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2013.05–2016.08",
+      "score": 0.9786,
+      "box": [
+        115,
+        472,
+        680,
+        496
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9667,
+      "box": [
+        126,
+        497,
+        414,
+        522
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9793,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "Master's, Cost Accounting, Harvest University, 2017",
+      "score": 0.9634,
+      "box": [
+        115,
+        631,
+        598,
+        654
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Highpoint University, 2015",
+      "score": 0.9902,
+      "box": [
+        115,
+        658,
+        565,
+        681
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9833,
+      "box": [
+        134,
+        683,
+        524,
+        706
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9953,
+      "box": [
+        133,
+        707,
+        550,
+        729
+      ]
+    }
+  ]
+}

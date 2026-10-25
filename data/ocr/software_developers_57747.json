@@ -1,0 +1,213 @@
+{
+  "id": "software_developers_57747",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.918,
+  "mean_conf": 0.9857,
+  "lines": [
+    {
+      "text": "NATHAN BRADY",
+      "score": 0.9838,
+      "box": [
+        116,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-929-931-9773 |nathan.brady@example.com",
+      "score": 0.9807,
+      "box": [
+        115,
+        150,
+        662,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.988,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2019.09–2023.01",
+      "score": 0.9915,
+      "box": [
+        114,
+        288,
+        667,
+        314
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9626,
+      "box": [
+        125,
+        313,
+        374,
+        338
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9917,
+      "box": [
+        126,
+        339,
+        477,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2016.05–2019.09",
+      "score": 0.9904,
+      "box": [
+        115,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9942,
+      "box": [
+        126,
+        406,
+        444,
+        431
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9831,
+      "box": [
+        126,
+        431,
+        476,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2013.01–2016.05",
+      "score": 0.993,
+      "box": [
+        115,
+        471,
+        640,
+        496
+      ]
+    },
+    {
+      "text": "- Developed reporting modules",
+      "score": 0.9739,
+      "box": [
+        125,
+        498,
+        414,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.976,
+      "box": [
+        126,
+        521,
+        419,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2009.08–2013.01",
+      "score": 0.9879,
+      "box": [
+        114,
+        563,
+        666,
+        588
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9893,
+      "box": [
+        124,
+        588,
+        364,
+        614
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9867,
+      "box": [
+        127,
+        615,
+        377,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Harvest University, 2010",
+      "score": 0.9929,
+      "box": [
+        115,
+        723,
+        435,
+        745
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2008",
+      "score": 0.9878,
+      "box": [
+        114,
+        747,
+        453,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9738,
+      "box": [
+        132,
+        774,
+        539,
+        797
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9873,
+      "box": [
+        133,
+        799,
+        578,
+        823
+      ]
+    }
+  ]
+}

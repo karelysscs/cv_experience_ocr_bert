@@ -1,0 +1,113 @@
+{
+  "id": "elementary_middle_school_teachers_21956",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.84,
+  "mean_conf": 0.9775,
+  "lines": [
+    {
+      "text": "RODNEY SMITH",
+      "score": 0.9749,
+      "box": [
+        116,
+        90,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA|+1-353-427-2907 |rodney.smith@example.com",
+      "score": 0.9753,
+      "box": [
+        116,
+        152,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2020.08–2023.01",
+      "score": 0.9728,
+      "box": [
+        116,
+        290,
+        818,
+        313
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9656,
+      "box": [
+        125,
+        314,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9671,
+      "box": [
+        127,
+        340,
+        370,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Associate's degree, Basic Education Studies, Woodcrest University, 2023",
+      "score": 0.9703,
+      "box": [
+        116,
+        449,
+        797,
+        472
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9831,
+      "box": [
+        133,
+        474,
+        629,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9875,
+      "box": [
+        133,
+        497,
+        669,
+        522
+      ]
+    }
+  ]
+}

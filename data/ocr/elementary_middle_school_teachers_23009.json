@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_23009",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.921,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "RANDI PARSONS",
+      "score": 0.9739,
+      "box": [
+        116,
+        90,
+        399,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA |+1-502-469-2792 |randi.parsons@example.com",
+      "score": 0.9638,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9786,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2020.03–2023.01",
+      "score": 0.974,
+      "box": [
+        116,
+        290,
+        836,
+        313
+      ]
+    },
+    {
+      "text": "-Directed instructional planning processes",
+      "score": 0.9829,
+      "box": [
+        125,
+        314,
+        522,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9746,
+      "box": [
+        126,
+        339,
+        504,
+        364
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2014.09–2017.07",
+      "score": 0.9699,
+      "box": [
+        116,
+        382,
+        840,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9882,
+      "box": [
+        126,
+        406,
+        479,
+        431
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9698,
+      "box": [
+        126,
+        430,
+        410,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        114,
+        492,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Developmental Studies, Elmwood University, 2012",
+      "score": 0.9805,
+      "box": [
+        116,
+        541,
+        836,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9822,
+      "box": [
+        133,
+        566,
+        689,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9795,
+      "box": [
+        133,
+        590,
+        487,
+        615
+      ]
+    }
+  ]
+}

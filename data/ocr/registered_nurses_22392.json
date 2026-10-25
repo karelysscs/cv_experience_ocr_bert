@@ -1,0 +1,143 @@
+{
+  "id": "registered_nurses_22392",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.84,
+  "mean_conf": 0.9827,
+  "lines": [
+    {
+      "text": "HOLLIE DEAN",
+      "score": 0.9827,
+      "box": [
+        115,
+        90,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA|+1-241-644-3736 |hollie.dean@example.com",
+      "score": 0.9805,
+      "box": [
+        115,
+        150,
+        641,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9802,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2021.04–2023.01",
+      "score": 0.9838,
+      "box": [
+        116,
+        290,
+        701,
+        313
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9717,
+      "box": [
+        125,
+        313,
+        481,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9808,
+      "box": [
+        127,
+        340,
+        457,
+        364
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2016.07–2018.04",
+      "score": 0.9834,
+      "box": [
+        116,
+        382,
+        671,
+        405
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9836,
+      "box": [
+        125,
+        406,
+        387,
+        431
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9681,
+      "box": [
+        126,
+        431,
+        397,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Sagewood University, 2006",
+      "score": 0.9954,
+      "box": [
+        116,
+        541,
+        723,
+        564
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9893,
+      "box": [
+        133,
+        566,
+        629,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.9771,
+      "box": [
+        134,
+        591,
+        554,
+        614
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "construction_laborers_39798",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.014,
+  "mean_conf": 0.9791,
+  "lines": [
+    {
+      "text": "SEAN FREEMAN",
+      "score": 0.9743,
+      "box": [
+        115,
+        90,
+        386,
+        120
+      ]
+    },
+    {
+      "text": "NC, USA|+1-278-708-1455|sean.freeman@example.com",
+      "score": 0.9755,
+      "box": [
+        115,
+        150,
+        670,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9881,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2018.04–2023.01",
+      "score": 0.9837,
+      "box": [
+        115,
+        290,
+        743,
+        312
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9825,
+      "box": [
+        127,
+        315,
+        524,
+        338
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9768,
+      "box": [
+        127,
+        339,
+        482,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2013.07–2018.04",
+      "score": 0.9914,
+      "box": [
+        116,
+        382,
+        679,
+        405
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9814,
+      "box": [
+        125,
+        406,
+        394,
+        431
+      ]
+    },
+    {
+      "text": "-Ledcross-functional coordination",
+      "score": 0.973,
+      "box": [
+        127,
+        432,
+        447,
+        453
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Contractors, 2008.09–2013.07",
+      "score": 0.9795,
+      "box": [
+        115,
+        472,
+        709,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9774,
+      "box": [
+        126,
+        498,
+        375,
+        521
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.973,
+      "box": [
+        126,
+        521,
+        368,
+        547
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2003.11–2008.09",
+      "score": 0.979,
+      "box": [
+        115,
+        565,
+        649,
+        588
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9838,
+      "box": [
+        125,
+        589,
+        555,
+        614
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.97,
+      "box": [
+        125,
+        614,
+        378,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9983,
+      "box": [
+        115,
+        677,
+        266,
+        704
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Infrastructure, Stoneview University, 2003",
+      "score": 0.9837,
+      "box": [
+        115,
+        723,
+        878,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic rigging techniques",
+      "score": 0.9566,
+      "box": [
+        132,
+        748,
+        614,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of wall systems",
+      "score": 0.9749,
+      "box": [
+        134,
+        773,
+        497,
+        796
+      ]
+    }
+  ]
+}

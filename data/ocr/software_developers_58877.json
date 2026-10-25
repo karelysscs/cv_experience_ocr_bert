@@ -1,0 +1,203 @@
+{
+  "id": "software_developers_58877",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.957,
+  "mean_conf": 0.9804,
+  "lines": [
+    {
+      "text": "MARK MURRAY",
+      "score": 0.99,
+      "box": [
+        116,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-365-896-5027|mark.murray@example.com",
+      "score": 0.9821,
+      "box": [
+        114,
+        150,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9877,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2019.03–2023.01",
+      "score": 0.982,
+      "box": [
+        115,
+        288,
+        683,
+        313
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9825,
+      "box": [
+        125,
+        313,
+        542,
+        338
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9571,
+      "box": [
+        125,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2015.04–2019.03",
+      "score": 0.9777,
+      "box": [
+        115,
+        381,
+        676,
+        406
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9813,
+      "box": [
+        125,
+        406,
+        513,
+        432
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9546,
+      "box": [
+        126,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2011.05–2015.04",
+      "score": 0.9861,
+      "box": [
+        116,
+        472,
+        639,
+        496
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9684,
+      "box": [
+        126,
+        498,
+        413,
+        521
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.984,
+      "box": [
+        126,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2007.06–2011.05",
+      "score": 0.9732,
+      "box": [
+        116,
+        564,
+        678,
+        588
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9776,
+      "box": [
+        125,
+        587,
+        318,
+        616
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9801,
+      "box": [
+        127,
+        615,
+        415,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenbrook University, 2005",
+      "score": 0.9872,
+      "box": [
+        115,
+        725,
+        501,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in technical writing",
+      "score": 0.9886,
+      "box": [
+        133,
+        749,
+        538,
+        773
+      ]
+    },
+    {
+      "text": "• Studied principles of microservices architecture",
+      "score": 0.9891,
+      "box": [
+        133,
+        772,
+        585,
+        797
+      ]
+    }
+  ]
+}

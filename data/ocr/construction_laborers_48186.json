@@ -1,0 +1,193 @@
+{
+  "id": "construction_laborers_48186",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 1.008,
+  "mean_conf": 0.9794,
+  "lines": [
+    {
+      "text": "FRANCISCO DAY",
+      "score": 0.9772,
+      "box": [
+        115,
+        88,
+        399,
+        122
+      ]
+    },
+    {
+      "text": "SD, USA|+1-298-386-6642 |francisco.day@example.com",
+      "score": 0.9838,
+      "box": [
+        116,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2019.09–2023.01",
+      "score": 0.9801,
+      "box": [
+        114,
+        288,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "-Managed subcontractor coordination",
+      "score": 0.9821,
+      "box": [
+        125,
+        314,
+        480,
+        337
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9929,
+      "box": [
+        126,
+        339,
+        421,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorFrame Construction, 2016.05–2019.09",
+      "score": 0.9861,
+      "box": [
+        115,
+        381,
+        758,
+        405
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9563,
+      "box": [
+        126,
+        407,
+        462,
+        430
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.969,
+      "box": [
+        125,
+        429,
+        446,
+        455
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2012.12–2016.05",
+      "score": 0.984,
+      "box": [
+        115,
+        472,
+        699,
+        496
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9857,
+      "box": [
+        125,
+        496,
+        454,
+        522
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9648,
+      "box": [
+        126,
+        521,
+        418,
+        546
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2009.07–2012.12",
+      "score": 0.9815,
+      "box": [
+        115,
+        565,
+        688,
+        588
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9723,
+      "box": [
+        126,
+        590,
+        504,
+        613
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9692,
+      "box": [
+        127,
+        615,
+        399,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        678,
+        268,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Sunrise High School, 2010",
+      "score": 0.9834,
+      "box": [
+        116,
+        725,
+        807,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9758,
+      "box": [
+        134,
+        750,
+        707,
+        770
+      ]
+    }
+  ]
+}

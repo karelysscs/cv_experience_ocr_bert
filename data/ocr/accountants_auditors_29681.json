@@ -1,0 +1,113 @@
+{
+  "id": "accountants_auditors_29681",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.8,
+  "mean_conf": 0.9822,
+  "lines": [
+    {
+      "text": "APRIL BUCK",
+      "score": 0.9609,
+      "box": [
+        116,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA|+1-310-999-6116 |april.buck@example.com",
+      "score": 0.9888,
+      "box": [
+        115,
+        150,
+        633,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2019.05–2022.01",
+      "score": 0.9747,
+      "box": [
+        114,
+        289,
+        764,
+        313
+      ]
+    },
+    {
+      "text": "-Filed financial documents",
+      "score": 0.9956,
+      "box": [
+        126,
+        314,
+        378,
+        337
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9905,
+      "box": [
+        126,
+        339,
+        456,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Evergreen University, 2010",
+      "score": 0.9649,
+      "box": [
+        114,
+        447,
+        570,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9896,
+      "box": [
+        132,
+        472,
+        526,
+        497
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9739,
+      "box": [
+        132,
+        497,
+        504,
+        524
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "accountants_auditors_20992",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.908,
+  "mean_conf": 0.9811,
+  "lines": [
+    {
+      "text": "PAOLACLARKE",
+      "score": 0.999,
+      "box": [
+        114,
+        88,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA|+1-208-481-6681 |paola.clarke@example.com",
+      "score": 0.9839,
+      "box": [
+        115,
+        150,
+        644,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9893,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2020.04–2023.01",
+      "score": 0.9957,
+      "box": [
+        115,
+        290,
+        688,
+        313
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9825,
+      "box": [
+        126,
+        314,
+        361,
+        339
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9832,
+      "box": [
+        126,
+        339,
+        514,
+        364
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2017.07–2020.04",
+      "score": 0.9857,
+      "box": [
+        114,
+        381,
+        694,
+        406
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9607,
+      "box": [
+        125,
+        407,
+        397,
+        430
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9654,
+      "box": [
+        125,
+        430,
+        349,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2014.10–2017.07",
+      "score": 0.9908,
+      "box": [
+        115,
+        472,
+        694,
+        495
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9879,
+      "box": [
+        125,
+        496,
+        456,
+        521
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9625,
+      "box": [
+        126,
+        521,
+        362,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        115,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Sunnyside University, 2012",
+      "score": 0.9735,
+      "box": [
+        114,
+        631,
+        697,
+        656
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting standards",
+      "score": 0.9614,
+      "box": [
+        132,
+        656,
+        541,
+        681
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9776,
+      "box": [
+        133,
+        681,
+        636,
+        706
+      ]
+    }
+  ]
+}

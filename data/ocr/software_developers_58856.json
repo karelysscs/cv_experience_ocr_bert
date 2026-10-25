@@ -1,0 +1,113 @@
+{
+  "id": "software_developers_58856",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.76,
+  "mean_conf": 0.9782,
+  "lines": [
+    {
+      "text": "ROBERT KAUR",
+      "score": 0.9792,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-542-744-5305|robert.kaur@example.com",
+      "score": 0.9722,
+      "box": [
+        115,
+        150,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Digital, 2022.05–2023.01",
+      "score": 0.9781,
+      "box": [
+        116,
+        290,
+        625,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9676,
+      "box": [
+        125,
+        313,
+        318,
+        340
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9824,
+      "box": [
+        126,
+        339,
+        332,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit Ridge University, 2020",
+      "score": 0.944,
+      "box": [
+        115,
+        449,
+        511,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9872,
+      "box": [
+        132,
+        473,
+        510,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of software usability",
+      "score": 0.9886,
+      "box": [
+        132,
+        497,
+        502,
+        523
+      ]
+    }
+  ]
+}

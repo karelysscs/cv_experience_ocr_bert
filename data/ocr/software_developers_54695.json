@@ -1,0 +1,163 @@
+{
+  "id": "software_developers_54695",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.851,
+  "mean_conf": 0.9825,
+  "lines": [
+    {
+      "text": "JOSE NIELSEN",
+      "score": 0.9915,
+      "box": [
+        116,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA|+1-759-400-8964 |jose.nielsen@example.com",
+      "score": 0.9767,
+      "box": [
+        115,
+        150,
+        649,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9863,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2020.02–2023.01",
+      "score": 0.9854,
+      "box": [
+        115,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9775,
+      "box": [
+        127,
+        315,
+        496,
+        338
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9867,
+      "box": [
+        126,
+        339,
+        444,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2015.08–218.08",
+      "score": 0.9807,
+      "box": [
+        115,
+        381,
+        650,
+        406
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9652,
+      "box": [
+        126,
+        406,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9817,
+      "box": [
+        127,
+        432,
+        414,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9982,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Doctorate, Evergreen University, 2013",
+      "score": 0.9653,
+      "box": [
+        115,
+        541,
+        472,
+        564
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearstone University, 2008",
+      "score": 0.9859,
+      "box": [
+        115,
+        566,
+        483,
+        589
+      ]
+    },
+    {
+      "text": "• Studied principles of graph algorithms",
+      "score": 0.9853,
+      "box": [
+        132,
+        590,
+        498,
+        615
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9886,
+      "box": [
+        132,
+        615,
+        510,
+        640
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9831,
+      "box": [
+        132,
+        640,
+        547,
+        666
+      ]
+    }
+  ]
+}

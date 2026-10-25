@@ -1,0 +1,113 @@
+{
+  "id": "construction_laborers_47235",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9841,
+  "lines": [
+    {
+      "text": "MICHAEL FRANK",
+      "score": 0.9897,
+      "box": [
+        116,
+        90,
+        397,
+        120
+      ]
+    },
+    {
+      "text": "SC, USA|+1-571-418-7118 |michael.frank@example.com",
+      "score": 0.9845,
+      "box": [
+        116,
+        152,
+        665,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9842,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronTrack Contractors, 2017.10–2020.02",
+      "score": 0.9759,
+      "box": [
+        115,
+        290,
+        711,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9697,
+      "box": [
+        126,
+        314,
+        367,
+        336
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9901,
+      "box": [
+        127,
+        340,
+        424,
+        362
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9987,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Services, Silver Ridge University, 2012",
+      "score": 0.9773,
+      "box": [
+        115,
+        447,
+        851,
+        472
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.9793,
+      "box": [
+        132,
+        472,
+        504,
+        497
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction cost basics",
+      "score": 0.9911,
+      "box": [
+        135,
+        500,
+        610,
+        520
+      ]
+    }
+  ]
+}

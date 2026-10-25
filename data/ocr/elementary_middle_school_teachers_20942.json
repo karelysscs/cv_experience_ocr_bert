@@ -1,0 +1,143 @@
+{
+  "id": "elementary_middle_school_teachers_20942",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.913,
+  "mean_conf": 0.9836,
+  "lines": [
+    {
+      "text": "ASHLEYGIBSON",
+      "score": 0.9992,
+      "box": [
+        116,
+        90,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "IA, USA|+1-464-527-9413|ashley.gibson@example.com",
+      "score": 0.984,
+      "box": [
+        115,
+        150,
+        659,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9845,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2020.06–2023.01",
+      "score": 0.9778,
+      "box": [
+        116,
+        290,
+        835,
+        313
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.979,
+      "box": [
+        126,
+        314,
+        569,
+        339
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9761,
+      "box": [
+        127,
+        340,
+        482,
+        363
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2017.11–2020.06",
+      "score": 0.9828,
+      "box": [
+        115,
+        381,
+        864,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9947,
+      "box": [
+        125,
+        406,
+        460,
+        431
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.977,
+      "box": [
+        126,
+        431,
+        411,
+        453
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9981,
+      "box": [
+        115,
+        493,
+        267,
+        520
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Summit University, 2017",
+      "score": 0.9786,
+      "box": [
+        114,
+        539,
+        689,
+        564
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.9786,
+      "box": [
+        132,
+        564,
+        567,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.977,
+      "box": [
+        135,
+        591,
+        625,
+        615
+      ]
+    }
+  ]
+}

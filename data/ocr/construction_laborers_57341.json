@@ -1,0 +1,163 @@
+{
+  "id": "construction_laborers_57341",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.917,
+  "mean_conf": 0.9849,
+  "lines": [
+    {
+      "text": "ZACHARYHARDING",
+      "score": 0.9992,
+      "box": [
+        115,
+        90,
+        444,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA|+1-270-689-5121 |zachary.harding@example.com",
+      "score": 0.9877,
+      "box": [
+        115,
+        150,
+        689,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9835,
+      "box": [
+        115,
+        242,
+        317,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2020.06–2023.01",
+      "score": 0.9804,
+      "box": [
+        114,
+        289,
+        713,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9721,
+      "box": [
+        127,
+        315,
+        462,
+        338
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9854,
+      "box": [
+        126,
+        339,
+        523,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2017.11–2020.6",
+      "score": 0.9866,
+      "box": [
+        115,
+        381,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Measured and cut advanced materials",
+      "score": 0.9693,
+      "box": [
+        126,
+        407,
+        496,
+        430
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9564,
+      "box": [
+        126,
+        429,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2012.04–2014.11",
+      "score": 0.9945,
+      "box": [
+        116,
+        472,
+        725,
+        495
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9808,
+      "box": [
+        127,
+        498,
+        510,
+        521
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9957,
+      "box": [
+        126,
+        521,
+        583,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9989,
+      "box": [
+        116,
+        587,
+        266,
+        611
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Clear Spring High School, 2012",
+      "score": 0.9906,
+      "box": [
+        116,
+        632,
+        891,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of fire safety in construction",
+      "score": 0.9922,
+      "box": [
+        133,
+        657,
+        609,
+        679
+      ]
+    }
+  ]
+}

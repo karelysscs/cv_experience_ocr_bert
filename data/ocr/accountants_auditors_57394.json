@@ -1,0 +1,203 @@
+{
+  "id": "accountants_auditors_57394",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.983,
+  "mean_conf": 0.9806,
+  "lines": [
+    {
+      "text": "JENNIFER LITTLE",
+      "score": 0.9748,
+      "box": [
+        116,
+        90,
+        406,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA|+1-363-596-8434 |jennifer.little@example.com",
+      "score": 0.9689,
+      "box": [
+        115,
+        150,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9801,
+      "box": [
+        114,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2020.01–2023.01",
+      "score": 0.9833,
+      "box": [
+        114,
+        289,
+        726,
+        314
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.985,
+      "box": [
+        127,
+        314,
+        502,
+        338
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9742,
+      "box": [
+        126,
+        339,
+        520,
+        363
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2017.01–2020.01",
+      "score": 0.9887,
+      "box": [
+        115,
+        381,
+        763,
+        406
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.978,
+      "box": [
+        126,
+        406,
+        477,
+        431
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9951,
+      "box": [
+        126,
+        431,
+        546,
+        455
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2014.01–2017.01",
+      "score": 0.9764,
+      "box": [
+        115,
+        472,
+        683,
+        496
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9799,
+      "box": [
+        125,
+        497,
+        374,
+        522
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9818,
+      "box": [
+        126,
+        521,
+        509,
+        546
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2008.05–2011.06",
+      "score": 0.9859,
+      "box": [
+        116,
+        565,
+        737,
+        588
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9789,
+      "box": [
+        126,
+        589,
+        413,
+        614
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9899,
+      "box": [
+        127,
+        614,
+        414,
+        636
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999,
+      "box": [
+        115,
+        678,
+        267,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Fairview University, 2002",
+      "score": 0.9686,
+      "box": [
+        114,
+        723,
+        630,
+        747
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9775,
+      "box": [
+        134,
+        749,
+        524,
+        772
+      ]
+    },
+    {
+      "text": "• Completed coursework in intangible asset accounting",
+      "score": 0.9649,
+      "box": [
+        134,
+        772,
+        640,
+        798
+      ]
+    }
+  ]
+}

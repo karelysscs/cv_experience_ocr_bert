@@ -1,0 +1,11 @@
+{
+ "download": 11.19,
+ "ocr": 60.95,
+ "ocr_quality": 0.09,
+ "preprocessing": 0.19,
+ "split": 0.04,
+ "baselines": 1.37,
+ "bert": 3.73,
+ "q3": 1.62,
+ "evaluation": 0.42
+}

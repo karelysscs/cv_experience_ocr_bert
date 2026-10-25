@@ -1,0 +1,123 @@
+{
+  "id": "software_developers_58663",
+  "model": "PP-OCRv5_server_rec",
+  "device": "gpu",
+  "image_size": [
+    1241,
+    1754
+  ],
+  "time_s": 0.813,
+  "mean_conf": 0.9775,
+  "lines": [
+    {
+      "text": "DAVID RODRIGUEZ",
+      "score": 0.9689,
+      "box": [
+        116,
+        90,
+        431,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA|+1-747-782-8048|david.rodriguez@example.com",
+      "score": 0.9858,
+      "box": [
+        115,
+        150,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.985,
+      "box": [
+        115,
+        242,
+        316,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2020.04–2022.04",
+      "score": 0.9764,
+      "box": [
+        115,
+        290,
+        637,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9764,
+      "box": [
+        126,
+        314,
+        409,
+        337
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9657,
+      "box": [
+        126,
+        339,
+        418,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9988,
+      "box": [
+        115,
+        403,
+        267,
+        430
+      ]
+    },
+    {
+      "text": "Master's, Evergreen University, 2016",
+      "score": 0.9775,
+      "box": [
+        115,
+        449,
+        458,
+        472
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2014",
+      "score": 0.9471,
+      "box": [
+        115,
+        474,
+        469,
+        497
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9914,
+      "box": [
+        132,
+        497,
+        599,
+        523
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9795,
+      "box": [
+        134,
+        523,
+        659,
+        548
+      ]
+    }
+  ]
+}

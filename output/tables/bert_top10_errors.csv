@@ -1,0 +1,179 @@
+id,occupation,y_true,y_pred,abs_err,text_ocr_clean,mean_conf,cer,years_ref,years_hit,n_tokens_approx,cause
+construction_laborers_26737,construction_laborers,16.618353204658774,18.870311737060547,2.251958532401773,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Construction Laborers, EverStrong Construction, 2018.12-2023.01
+- Reviewed structural integrity assessments
+- Directed project execution strategies
+Construction Laborers, CornerCraft Builders, 2014.10-2018.12
+- Directed training programs for crews
+- Designed site logistics frameworks
+Construction Laborers, BuildPoint Construction, 2008.12-2013.02
+- Installed drywall systems
+- Led small work crews
+Construction Laborers, StrongStone Builders, 2003.07-2007.09
+- Assisted with drywall installation
+- Secured site fencing
+EDUCATION
+High school graduate/GED, Construction Estimating, Silverton High School, 2002
+• Studied principles of weatherproofing basics",0.9832,0.0013071895424836,9,9,80,career_gap
+elementary_middle_school_teachers_01269,elementary_middle_school_teachers,16.314714147469452,18.42449378967285,2.1097796422033994,"[NAME]
+[LOCATION]|[PHONE]|[EMAIL]
+WORK HISTORY
+Elementary Middle School Teachers, Golden Steps School, 2018.12-2023.01
+- Directed cross-grade curriculum alignment
+- Directed instructional planning processes
+Elementary Middle School Teachers, Bright Futures School, 2014.11-2018.12
+- Implemented assessment policy frameworks
+- Established academic quality controls
+Elementary Middle School Teachers, Harmony Field Academy, 2008.05-2012.06
+- Prepared instructional guides
+- Organized instructional schedules
+Elementary Middle School Teachers, Learning Minds School, 2003.09-207.10
+- Distributed instructional handouts
+- Reviewed homework assignments
+EDUCATION
+Bachelor's, Learning Support Studies, Meadowland University, 202
+• Studied principles of instructional communication
+• Completed coursework in basic curriculum planning",0.985,0.0044843049327354,9,7,93,ocr_date
+accountants_auditors_60117,accountants_auditors,17.604570695712198,18.98918914794922,1.3846184522370208,"[NAME]
+[LOCATION]|[PHONE]|[EMAIL]
+WORK HISTORY
+Accountants Auditors, Reliable Accounts Co., 2018.09-2023.01
+- Established tax compliance frameworks
+- Directed enterprise accounting platforms
+Accountants Auditors, Balanced Path Financial, 2014.04-2018.09
+- Designed audit methodologies
+- Established financial data governance
+Accountants Auditors, Accurate Balance Advisors, 2008.03-2012.08
+- Managed monthly close processes
+- Analyzed financial trends
+Accountants Auditors, CoreCount Services, 2003.04-2007.09
+- Maintained chart of accounts
+- Processed journal corrections
+EDUCATION
+Bachelor's, Enterprise Management, Meadowfield University, 2002
+• Studied fundamentals of employee benefit accounting
+• Completed coursework in financial controls",0.9804,0.002466091245376,9,9,84,career_gap
+registered_nurses_01483,registered_nurses,3.183483197626299,4.352769374847412,1.169286177221113,"[NAME]
+[LOCATION]|[PHONE]|[EMAIL]
+WORK HISTORY
+Registered Nurses, TrueLife Nursing, 2020.08-2022.03
+- Directed care delivery improvements
+- Directed nursing process improvements
+Registered Nurses, Caring Nest Nursing, 2018.07-2020.02
+- Recorded patient weight and height
+- Assisted with patient mobility
+EDUCATION
+Bachelor's, Biological Sciences, Northview University, 2006
+• Studied fundamentals of patient care
+• Studied fundamentals of pediatric nursing",0.9813,0.0039215686274509,5,5,55,career_gap
+accountants_auditors_07696,accountants_auditors,17.168199341813168,18.314668655395508,1.1464693135823405,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Accountants Auditors, CoreCount Services, 2018.10-2023.01
+- Directed accounting training programs
+- Developed financial risk models
+Accountants Auditors, EverBalance Group, 2014.07-2018.10
+- Directed financial reporting processes
+- Established financial data governance
+Accountants Auditors, Precise Ledger Advisors, 2010.03-2014.07
+- Conducted risk assessments
+- Implemented accounting procedures
+Accountants Auditors, OpenPath Accounting, 2005.11-2010.03
+- Maintained supporting documentation
+- Prepared basic financial reports
+EDUCATION
+Master's, Accounting, Pinewood University, 2006
+Bachelor's, Taxation, Valley View University, 2004
+• Studied fundamentals of portfolio management
+• Studied principles of corporate finance",0.9803,0.0023952095808383,10,10,87,overlap
+construction_laborers_61472,construction_laborers,18.409439971692706,19.54884910583496,1.1394091341422552,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Construction Laborers, EverStrong Construction, 2018.06-2023.01
+- Developed project risk assessments
+- Designed site logistics frameworks
+Construction Laborers, NextStone Contractors, 2013.11-2018.06
+- Designed site logistics frameworks
+- Developed cost estimation models
+Construction Laborers, TrueBuild Services, 2009.04-2013.11
+- Installed retaining structures
+- Installed roofing materials
+Construction Laborers, PrimeBuild Co., 2004.08-2009.04
+- Installed temporary supports
+- Installed safety signage
+EDUCATION
+Bachelor's, Construction Coordination, Stoneview University, 2003
+• Studied principles of site safety protocols
+• Completed coursework in construction workflow coordination",0.9816,0.0025316455696202,9,9,82,overlap
+elementary_middle_school_teachers_07417,elementary_middle_school_teachers,17.141395016312124,18.25211334228516,1.1107183259730355,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Elementary Middle School Teachers, Learning Corner Academy, 2018.10-2023.01
+-Directed cross-grade curriculum alignment
+- Developed teacher training modules
+Elementary Middle School Teachers, Caring Minds School, 2014.07-2018.10
+- Designed instructional accountability systems
+- Developed district-aligned lesson frameworks
+Elementary Middle School Teachers, Open Path School, 2010.03-2014.07
+- Conducted curriculum reviews
+- Analyzed assessment trends
+Elementary Middle School Teachers, Sunny Futures School, 2005.11-2010.03
+- Reviewed homework assignments
+- Delivered structured lessons in reading and mathematics
+EDUCATION
+Master's, Teaching Foundations, Ridgeway University, 2005
+Bachelor's, Introductory Education, Rockland University, 23
+• Studied principles of student assessment
+• Studied fundamentals of instructional goal setting",0.9852,0.0041623309053069,10,9,102,overlap
+construction_laborers_36286,construction_laborers,18.60451404871408,19.68337631225586,1.0788622635417795,"[NAME]
+[LOCATION]|[PHONE]|[EMAIL]
+WORK HISTORY
+Construction Laborers, Unified Craft Builders, 2018.06-2023.01
+- Managed multi-phase projects
+- Implemented workflow optimization
+Construction Laborers, Stoneway Construction, 2013.10-2018.06
+- Designed site safety protocols
+- Led structural installation projects
+Construction Laborers, Unified Track Builders, 2009.02-2013.10
+- Led small work crews
+- Operated power tools independently
+Construction Laborers, Hardrock Builders, 2004.06-2009.02
+- Prepared tools and equipment for daily tasks
+- Applied basic sealants and adhesives
+EDUCATION
+High school graduate/GED, Construction Estimating, Hillcrest High School, 2002
+• Studied fundamentals of job site documentation",0.982,0.0012706480304955,9,9,85,overlap
+accountants_auditors_60547,accountants_auditors,17.173069733245597,18.226430892944336,1.0533611596987384,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Accountants Auditors, Integrity Count Services, 2018.10-2023.01
+- Directed accounting operations planning
+- Managed financial governance
+Accountants Auditors, ClearCount Group, 2014.07-2018.10
+- Designed tax strategies
+- Developed risk management frameworks
+Accountants Auditors, EverBalance Financial, 2010.03-2014.07
+- Prepared consolidation entries
+- Analyzed financial trends
+Accountants Auditors, AccuCount Financial, 2005.11-2010.03
+- Assisted with inventory counts
+- Updated general ledger records
+EDUCATION
+Bachelor's, Finance, Elmwood Ridge University, 206
+• Studied fundamentals of assurance services
+• Studied principles of fixed asset accounting",0.9809,0.0039318479685452,9,8,82,overlap
+elementary_middle_school_teachers_17785,elementary_middle_school_teachers,3.0084469552786217,4.00908899307251,1.000642037793888,"[NAME]
+[LOCATION]|[PHONE] |[EMAIL]
+WORK HISTORY
+Elementary Middle School Teachers, Little Valley School, 2019.10-2021.04
+- Led instructional design reviews
+- Designed assessment systems
+Elementary Middle School Teachers, Future Start Academy, 2017.04-2018.10
+- Updated student performance logs
+- Delivered structured lectures
+EDUCATION
+Bachelor's, Education and Development, Aspen Grove University, 2012
+• Studied principles of cooperative learning
+• Completed coursework in student evaluation basics",0.981,0.0036036036036036,5,5,61,career_gap
